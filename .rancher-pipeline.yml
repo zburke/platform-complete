@@ -29,10 +29,4 @@ timeout: 60
 branch:
   include:
   - master
-notification:
-  recipients:
-  - recipient: di_rancher_alerts
-    notifier: c-w89n4:n-rh9s4
-  condition:
-  - Success
-  - Failed
+notification: {}
