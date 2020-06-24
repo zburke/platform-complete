@@ -1,0 +1,36 @@
+kind: Service
+apiVersion: v1
+metadata:
+  name: stripes-service-${CICD_EXECUTION_SEQUENCE}
+spec:
+  selector:
+    app: stripes-${CICD_EXECUTION_SEQUENCE}
+  type: NodePort
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 3000
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: stripes-pipeline-${CICD_EXECUTION_SEQUENCE}
+  labels:
+    app: stripes-${CICD_EXECUTION_SEQUENCE}
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: stripes-${CICD_EXECUTION_SEQUENCE}
+  template:
+    metadata:
+      labels:
+        app: stripes-${CICD_EXECUTION_SEQUENCE}
+    spec:
+      imagePullSecrets:
+      - name: pipeline-docker-registry
+      containers:
+      - name: stripes-pipeline-${CICD_EXECUTION_SEQUENCE}
+        image: ${CICD_IMAGE}:stripes-pipeline-${CICD_EXECUTION_SEQUENCE}
+        ports:
+        - containerPort: 3000
