@@ -1,0 +1,38 @@
+stages:
+- name: Build and Push
+  steps:
+  - publishImageConfig:
+      dockerfilePath: ./folio/stripes-deploy/Dockerfile
+      buildContext: ./
+      tag: folio/stripes-pipeline:stripes-pipeline-${CICD_EXECUTION_SEQUENCE}
+      registry: pipeline-docker-registry
+    env:
+      PLUGIN_DEBUG: "true"
+      PLUGIN_INSECURE: "true"
+    when:
+      branch: {}
+      event: {}
+  when:
+    branch: {}
+    event: {}
+- name: Deploy
+  steps:
+  - applyYamlConfig:
+      path: ./stripes-deploy/stripes-deployment.yaml
+    when:
+      branch: {}
+      event: {}
+  when:
+    branch: {}
+    event: {}
+timeout: 60
+branch:
+  include:
+  - master
+notification:
+  recipients:
+  - recipient: di_rancher_alerts
+    notifier: c-w89n4:n-rh9s4
+  condition:
+  - Success
+  - Failed
