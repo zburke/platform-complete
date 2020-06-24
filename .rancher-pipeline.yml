@@ -28,5 +28,5 @@ stages:
 timeout: 60
 branch:
   include:
-  - master
+  - stripes-pipeline
 notification: {}
