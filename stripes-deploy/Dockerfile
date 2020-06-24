@@ -19,8 +19,8 @@ WORKDIR /usr/local/bin/folio/stripes
 COPY yarn.lock /usr/local/bin/folio/stripes/
 COPY package.json /usr/local/bin/folio/stripes/
 COPY stripes.config.js /usr/local/bin/folio/stripes/
-COPY /tenant-assets/logo.png /usr/local/bin/folio/stripes/tenant-assets/
-COPY /tenant-assets/favicon.png /usr/local/bin/folio/stripes/tenant-assets/
+COPY /tenant-assets/opentown-libraries-logo.png /usr/local/bin/folio/stripes/tenant-assets/
+COPY /tenant-assets/opentown-libraries-favicon.png /usr/local/bin/folio/stripes/tenant-assets/
 
 #Set ARG defaults for Stripes build
 ARG TENANT_ID=diku
