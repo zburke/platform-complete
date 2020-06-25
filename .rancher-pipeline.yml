@@ -9,7 +9,10 @@ stages:
     env:
       PLUGIN_DEBUG: "true"
       PLUGIN_INSECURE: "true"
-      PLUGIN_BUILD_ARGS: TENANT_ID=tamu,OKAPI_URL=http://okapi:9130
+      PLUGIN_BUILD_ARGS_FROM_ENV: TENANT_ID,OKAPI_URL
+    envFrom:
+      - sourceName: tenant-config
+        sourceKey: TENANT_ID,OKAPI_URL
     when:
       branch: {}
       event: {}
