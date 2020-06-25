@@ -6,15 +6,14 @@ stages:
       buildContext: ./
       tag: folio/stripes-pipeline:stripes-pipeline-${CICD_EXECUTION_SEQUENCE}
       registry: pipeline-docker-registry
+    envFrom:
+      - sourceName: tenant-config
+        sourceKey: TENANT_ID
+        sourceKey: OKAPI_URL
     env:
       PLUGIN_DEBUG: "true"
       PLUGIN_INSECURE: "true"
       PLUGIN_BUILD_ARGS_FROM_ENV: TENANT_ID,OKAPI_URL
-    envFrom:
-      - sourceName: tenant-config
-        sourceKey: TENANT_ID
-        sourceName: tenant-config
-        sourceKey: OKAPI_URL
     when:
       branch: {}
       event: {}
