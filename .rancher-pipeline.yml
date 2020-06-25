@@ -9,6 +9,7 @@ stages:
     env:
       PLUGIN_DEBUG: "true"
       PLUGIN_INSECURE: "true"
+      PLUGIN_BUILD_ARGS: TENANT_ID=tamu,OKAPI_URL=http://okapi:9130
     when:
       branch: {}
       event: {}
