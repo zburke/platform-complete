@@ -1,9 +1,6 @@
 stages:
 - name: Build and Push
   steps:
-  - runScriptConfig:
-      image: busybox
-      shellScript: echo ${TENANT_ID} && echo ${OKAPI_URL}
   - publishImageConfig:
       dockerfilePath: ./stripes-deploy/Dockerfile
       buildContext: ./
@@ -12,6 +9,7 @@ stages:
     envFrom:
       - sourceName: tenant-config
         sourceKey: TENANT_ID
+      - sourceName: tenant-config
         sourceKey: OKAPI_URL
     env:
       PLUGIN_DEBUG: "true"
