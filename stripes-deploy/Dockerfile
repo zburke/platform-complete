@@ -44,4 +44,4 @@ EXPOSE 3000
 #Copy in files at this build layer
 COPY --from=0 /usr/local/bin/folio/stripes/output /usr/share/nginx/html
 COPY --from=0 /usr/local/bin/folio/stripes/yarn.lock /usr/share/nginx/html/yarn.lock 
-COPY nginx.conf /etc/nginx/conf.d/default.conf
+COPY /stripes-deploy/nginx.conf /etc/nginx/conf.d/default.conf
