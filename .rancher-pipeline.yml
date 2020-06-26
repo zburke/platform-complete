@@ -16,7 +16,7 @@ stages:
     env:
       PLUGIN_DEBUG: "true"
       PLUGIN_INSECURE: "true"
-      PLUGIN_BUILD_ARGS_FROM_ENV: tenant, okapi
+      PLUGIN_BUILD_ARGS_FROM_ENV: [TENANT-CONFIG]
     when:
       branch: {}
       event: {}
