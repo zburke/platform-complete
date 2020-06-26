@@ -16,7 +16,7 @@ stages:
     env:
       PLUGIN_DEBUG: "true"
       PLUGIN_INSECURE: "true"
-      PLUGIN_BUILD_ARGS_FROM_ENV: TENANT, OKAPI
+      PLUGIN_BUILD_ARGS_FROM_ENV: TENANT_ID, OKAPI_URL
     when:
       branch: {}
       event: {}
