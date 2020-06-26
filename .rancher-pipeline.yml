@@ -9,10 +9,14 @@ stages:
     envFrom:
       - sourceName: tenant-config
         sourceKey: TENANT_ID
+        targetKey: tenant
+      - sourceName: tenant-config
+        sourceKey: OKAPI_URL
+        targetKey: okapi
     env:
       PLUGIN_DEBUG: "true"
       PLUGIN_INSECURE: "true"
-      PLUGIN_BUILD_ARGS_FROM_ENV: TENANT_ID
+      PLUGIN_BUILD_ARGS_FROM_ENV: tenant=TENANT_ID,okapi=OKAPI_URL
     when:
       branch: {}
       event: {}
