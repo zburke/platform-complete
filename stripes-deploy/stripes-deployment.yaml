@@ -19,8 +19,6 @@ metadata:
   namespace: stripes
   labels:
     app: stripes-${CICD_EXECUTION_SEQUENCE}
-    app.kubernetes.io/instance: stripes-test
-    app.kubernetes.io/name: stripes
 spec:
   replicas: 1
   selector:
@@ -30,6 +28,8 @@ spec:
     metadata:
       labels:
         app: stripes-${CICD_EXECUTION_SEQUENCE}
+        app.kubernetes.io/instance: stripes-test
+        app.kubernetes.io/name: stripes
     spec:
       imagePullSecrets:
       - name: pipeline-docker-registry
