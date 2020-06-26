@@ -19,6 +19,8 @@ metadata:
   namespace: stripes
   labels:
     app: stripes-${CICD_EXECUTION_SEQUENCE}
+    app.kubernetes.io/instance: stripes-test
+    app.kubernetes.io/name: stripes
 spec:
   replicas: 1
   selector:
