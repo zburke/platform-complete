@@ -14,7 +14,7 @@ stages:
       sourceKey: TENANT_ID
     - sourceName: tenant-config
       sourceKey: OKAPI_URL
-    cpuLimit: 2000m
+    cpuLimit: 1500m
     memoryLimit: 4Gi
     cpuRequest: 100m
     memoryRequest: 100Mi
