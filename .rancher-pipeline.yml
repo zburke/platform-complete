@@ -19,7 +19,7 @@ stages:
       cpuRequest: 100m
       cpuLimit: 2
       memoryRequest: 100Mi
-      memoryLimit: 2Gi
+      memoryLimit: 3Gi
 - name: Deploy
   steps:
   - applyAppConfig:
