@@ -9,15 +9,13 @@ stages:
       registry: docker.dev.folio.org
     env:
       PLUGIN_BUILD_ARGS_FROM_ENV: OKAPI_URL, TENANT_ID
-      PLUGIN_DEBUG: true
-      PLUGIN_INSECURE: true
     envFrom:
     - sourceName: tenant-config
       sourceKey: TENANT_ID
     - sourceName: tenant-config
       sourceKey: OKAPI_URL
     cpuLimit: 2000m
-    memoryLimit: 3Gi
+    memoryLimit: 4Gi
     cpuRequest: 100m
     memoryRequest: 100Mi
 - name: Deploy
