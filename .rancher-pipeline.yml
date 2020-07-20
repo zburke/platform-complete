@@ -22,16 +22,19 @@ stages:
   steps:
   - applyAppConfig:
       catalogTemplate: p-zz48v:unam-helmcharts-platform-complete
-      version: 0.1.6
+      version: 0.1.7
       answers:
         image.repository: docker.dev.folio.org/platform-complete
         image.tag: unam-latest
         ingress.enabled: true
         ingress.hosts[0].host: unam.ci.folio.org
         ingress.hosts[0].paths[0]: /
+        resources.limits.cpu: 700m
+        resources.limits.memory: 786Mi
+        postJob.enabled: false
       name: platform-complete
       targetNamespace: unam
-timeout: 30
+timeout: 60
 branch:
   include:
   - stripes-pipeline-unam
