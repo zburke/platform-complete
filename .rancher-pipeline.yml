@@ -14,24 +14,25 @@ stages:
             sourceKey: TENANT_ID
           - sourceName: tenant-config
             sourceKey: OKAPI_URL
-        cpuLimit: 1500m
-        memoryLimit: 8Gi
         cpuRequest: 100m
+        cpuLimit: 1500m
         memoryRequest: 100Mi
+        memoryLimit: 8Gi
   - name: Deploy
     steps:
       - applyAppConfig:
-          catalogTemplate: p-9mwdx:core-functional-helmcharts-mod-circulation
+          catalogTemplate: p-9mwdx:core-functional-helmcharts-platform-complete
           version: 0.1.7
           answers:
+            image.pullPolicy: Always
             image.repository: docker.dev.folio.org/platform-complete
             image.tag: core-functional-latest
-            ingress.enabled: true
+            ingress.enabled: "true"
             ingress.hosts[0].host: core-functional.ci.folio.org
             ingress.hosts[0].paths[0]: /
+            postJob.enabled: "false"
             resources.limits.cpu: 200m
             resources.limits.memory: 300Mi
-            postJob.enabled: false
           name: platform-complete
           targetNamespace: core-functional
 timeout: 60
