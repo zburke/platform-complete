@@ -25,7 +25,7 @@ stages:
           version: 0.1.7
           answers:
             image.repository: docker.dev.folio.org/platform-complete
-            image.tag: unam-latest
+            image.tag: core-functional-latest
             ingress.enabled: true
             ingress.hosts[0].host: core-functional.ci.folio.org
             ingress.hosts[0].paths[0]: /
