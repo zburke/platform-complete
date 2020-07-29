@@ -21,7 +21,7 @@ stages:
 - name: Deploy
   steps:
   - applyAppConfig:
-      catalogTemplate: p-zz48v:unam-helmcharts-platform-complete
+      catalogTemplate: p-bx76x:unam-helmcharts-platform-complete
       version: 0.1.7
       answers:
         image.repository: docker.dev.folio.org/platform-complete
