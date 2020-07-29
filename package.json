@@ -24,6 +24,7 @@
     "@folio/servicepoints": ">=1.1.0",
     "@folio/stripes": "^5.0.0",
     "@folio/users": ">=2.17.0",
+    "@folio/tenant-settings": ">=2.5.1",
     "moment": "~2.25.3",
     "react": "~16.13.1",
     "react-dom": "~16.13.1",

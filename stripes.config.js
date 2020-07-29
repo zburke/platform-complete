@@ -19,7 +19,8 @@ module.exports = {
         '@folio/plugin-find-user' : {},
         '@folio/requests' : {},
         '@folio/servicepoints' : {},
-        '@folio/users' : {}
+        '@folio/users' : {},
+        '@folio/tenant-settings': {}
     },
 
     branding: {
