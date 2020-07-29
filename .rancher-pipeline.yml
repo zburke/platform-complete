@@ -22,6 +22,7 @@ stages:
   steps:
   - applyAppConfig:
       catalogTemplate: p-zz48v:unam-helmcharts-platform-complete
+      version: 0.1.7
       answers:
         image.repository: docker.dev.folio.org/platform-complete
         image.tag: unam-latest
