@@ -4,7 +4,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_agreements-5.0.1000487",
+    "id": "folio_agreements-5.0.1000493",
     "action": "enable"
   },
   {
@@ -28,23 +28,23 @@
     "action": "enable"
   },
   {
-    "id": "folio_data-export-2.0.1000126",
+    "id": "folio_data-export-2.0.1000128",
     "action": "enable"
   },
   {
-    "id": "folio_data-import-3.0.1000558",
+    "id": "folio_data-import-3.0.1000560",
     "action": "enable"
   },
   {
-    "id": "folio_developer-3.1.1000132",
+    "id": "folio_developer-3.1.1000136",
     "action": "enable"
   },
   {
-    "id": "folio_eholdings-4.0.1000757",
+    "id": "folio_eholdings-4.0.1000762",
     "action": "enable"
   },
   {
-    "id": "folio_erm-comparisons-1.1.100031",
+    "id": "folio_erm-comparisons-1.1.100033",
     "action": "enable"
   },
   {
@@ -52,11 +52,11 @@
     "action": "enable"
   },
   {
-    "id": "folio_finance-2.1.2000345",
+    "id": "folio_finance-2.1.2000351",
     "action": "enable"
   },
   {
-    "id": "folio_inventory-5.0.1000978",
+    "id": "folio_inventory-5.0.1000979",
     "action": "enable"
   },
   {
@@ -84,7 +84,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_oai-pmh-1.2.100045",
+    "id": "folio_oai-pmh-1.2.100047",
     "action": "enable"
   },
   {
@@ -152,7 +152,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_requests-4.0.1000532",
+    "id": "folio_requests-4.0.1000534",
     "action": "enable"
   },
   {
@@ -168,11 +168,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_stripes-data-transfer-components-2.0.100089",
-    "action": "enable"
-  },
-  {
-    "id": "folio_stripes-smart-components-5.0.1000805",
+    "id": "folio_stripes-smart-components-5.0.1000808",
     "action": "enable"
   },
   {
@@ -180,11 +176,11 @@
     "action": "enable"
   },
   {
-    "id": "folio_tenant-settings-4.0.1000125",
+    "id": "folio_tenant-settings-4.0.1000126",
     "action": "enable"
   },
   {
-    "id": "folio_users-5.0.10001189",
+    "id": "folio_users-5.0.10001193",
     "action": "enable"
   },
   {
