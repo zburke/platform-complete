@@ -32,11 +32,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-source-record-storage-4.1.0-SNAPSHOT.182",
+    "id": "mod-source-record-storage-4.1.0-SNAPSHOT.184",
     "action": "enable"
   },
   {
-    "id": "mod-inventory-16.1.0-SNAPSHOT.272",
+    "id": "mod-inventory-16.1.0-SNAPSHOT.277",
     "action": "enable"
   },
   {
@@ -44,11 +44,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-finance-storage-5.1.0-SNAPSHOT.112",
+    "id": "mod-finance-storage-5.1.0-SNAPSHOT.113",
     "action": "enable"
   },
   {
-    "id": "mod-finance-3.1.0-SNAPSHOT.92",
+    "id": "mod-finance-3.1.0-SNAPSHOT.94",
     "action": "enable"
   },
   {
@@ -84,15 +84,15 @@
     "action": "enable"
   },
   {
-    "id": "mod-circulation-19.1.0-SNAPSHOT.624",
+    "id": "mod-circulation-19.1.0-SNAPSHOT.625",
     "action": "enable"
   },
   {
-    "id": "mod-orders-11.1.0-SNAPSHOT.339",
+    "id": "mod-orders-11.1.0-SNAPSHOT.342",
     "action": "enable"
   },
   {
-    "id": "mod-agreements-2.4.0-SNAPSHOT.281",
+    "id": "mod-agreements-2.4.0-SNAPSHOT.282",
     "action": "enable"
   },
   {
@@ -104,7 +104,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-data-export-2.2.0-SNAPSHOT.136",
+    "id": "mod-data-export-2.2.0-SNAPSHOT.139",
     "action": "enable"
   },
   {
@@ -112,7 +112,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-source-record-manager-2.4.0-SNAPSHOT.292",
+    "id": "mod-source-record-manager-2.4.0-SNAPSHOT.296",
     "action": "enable"
   },
   {
@@ -136,7 +136,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-invoice-4.1.0-SNAPSHOT.154",
+    "id": "mod-invoice-4.1.0-SNAPSHOT.155",
     "action": "enable"
   },
   {
@@ -152,7 +152,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-oai-pmh-3.1.0-SNAPSHOT.117",
+    "id": "mod-oai-pmh-3.1.0",
     "action": "enable"
   },
   {
@@ -172,7 +172,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-users-bl-6.1.0-SNAPSHOT.90",
+    "id": "mod-users-bl-6.1.0-SNAPSHOT.91",
     "action": "enable"
   },
   {
@@ -208,7 +208,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-user-import-3.3.0-SNAPSHOT.40",
+    "id": "mod-user-import-3.3.0-SNAPSHOT.41",
     "action": "enable"
   }
 ]
