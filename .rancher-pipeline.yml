@@ -1,0 +1,41 @@
+stages:
+  - name: Build and Push
+    steps:
+      - publishImageConfig:
+          dockerfilePath: ./docker/Dockerfile
+          buildContext: ./
+          tag: docker.dev.folio.org/platform-complete:gulfstream-latest
+          pushRemote: true
+          registry: docker.dev.folio.org
+        env:
+          PLUGIN_BUILD_ARGS_FROM_ENV: OKAPI_URL, TENANT_ID
+        envFrom:
+          - sourceName: project-config
+            sourceKey: TENANT_ID
+          - sourceName: project-config
+            sourceKey: OKAPI_URL
+        cpuRequest: 100m
+        cpuLimit: 1500m
+        memoryRequest: 10Gi
+        memoryLimit: 10Gi
+  - name: Deploy
+    steps:
+      - applyAppConfig:
+          catalogTemplate: p-d9vmc:gulfstream-helmcharts-platform-complete
+          version: 0.1.7
+          answers:
+            image.repository: docker.dev.folio.org/platform-complete
+            image.tag: gulfstream-latest
+            ingress.enabled: true
+            ingress.hosts[0].host: gulfstream.ci.folio.org
+            ingress.hosts[0].paths[0]: /
+            postJob.enabled: false
+            resources.limits.cpu: 700m
+            resources.limits.memory: 900Mi
+          name: platform-complete
+          targetNamespace: gulfstream
+branch:
+  include:
+    - gulfstream-rancher
+notification: {}
+timeout: 120
