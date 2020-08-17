@@ -12,7 +12,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-users-17.1.1-SNAPSHOT.140",
+    "id": "mod-users-17.1.1-SNAPSHOT.141",
     "action": "enable"
   },
   {
@@ -44,11 +44,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-finance-storage-5.1.0-SNAPSHOT.113",
+    "id": "mod-finance-storage-5.1.0-SNAPSHOT.114",
     "action": "enable"
   },
   {
-    "id": "mod-finance-3.1.0-SNAPSHOT.94",
+    "id": "mod-finance-3.1.0-SNAPSHOT.95",
     "action": "enable"
   },
   {
@@ -76,15 +76,15 @@
     "action": "enable"
   },
   {
-    "id": "mod-feesfines-15.9.0-SNAPSHOT.82",
+    "id": "mod-feesfines-15.9.0-SNAPSHOT.83",
     "action": "enable"
   },
   {
-    "id": "mod-patron-blocks-1.1.0-SNAPSHOT.27",
+    "id": "mod-patron-blocks-1.1.0-SNAPSHOT.28",
     "action": "enable"
   },
   {
-    "id": "mod-circulation-19.1.0-SNAPSHOT.625",
+    "id": "mod-circulation-19.1.0-SNAPSHOT.632",
     "action": "enable"
   },
   {
@@ -104,11 +104,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-data-export-2.2.0-SNAPSHOT.139",
+    "id": "mod-data-export-2.2.0-SNAPSHOT.141",
     "action": "enable"
   },
   {
-    "id": "mod-data-import-converter-storage-1.9.0-SNAPSHOT.113",
+    "id": "mod-data-import-converter-storage-1.9.0-SNAPSHOT.115",
     "action": "enable"
   },
   {
@@ -152,11 +152,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-oai-pmh-3.1.0",
+    "id": "mod-oai-pmh-3.2.0-SNAPSHOT.121",
     "action": "enable"
   },
   {
-    "id": "mod-quick-marc-1.1.0-SNAPSHOT.55",
+    "id": "mod-quick-marc-1.2.0-SNAPSHOT.56",
     "action": "enable"
   },
   {
@@ -172,7 +172,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-users-bl-6.1.0-SNAPSHOT.91",
+    "id": "mod-users-bl-6.1.0-SNAPSHOT.92",
     "action": "enable"
   },
   {
