@@ -15,14 +15,14 @@ stages:
     - sourceName: tenant-config
       sourceKey: OKAPI_URL
     cpuLimit: 1500m
-    memoryLimit: 8Gi
+    memoryLimit: 10Gi
     cpuRequest: 100m
-    memoryRequest: 100Mi
+    memoryRequest: 10Gi
 - name: Deploy
   steps:
   - applyAppConfig:
-      catalogTemplate: p-cggls:vega-helmcharts-platform-complete
-      version: 0.1.7
+      catalogTemplate: p-wntj9:vega-helmcharts-platform-complete
+      version: 0.1.8
       answers:
         image.repository: docker.dev.folio.org/platform-complete
         image.tag: vega-latest
@@ -30,12 +30,12 @@ stages:
         ingress.hosts[0].host: vega.ci.folio.org
         ingress.hosts[0].paths[0]: /
         resources.limits.cpu: 700m
-        resources.limits.memory: 786Mi
+        resources.limits.memory: 900Mi
         postJob.enabled: false
       name: platform-complete
       targetNamespace: vega
-timeout: 60
 branch:
   include:
   - vega-rancher
 notification: {}
+timeout: 800
