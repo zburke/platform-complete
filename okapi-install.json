@@ -28,7 +28,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-circulation-storage-12.1.0-SNAPSHOT.254",
+    "id": "mod-circulation-storage-12.1.0-SNAPSHOT.255",
     "action": "enable"
   },
   {
@@ -36,7 +36,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-inventory-16.1.0-SNAPSHOT.283",
+    "id": "mod-inventory-16.1.0-SNAPSHOT.285",
     "action": "enable"
   },
   {
@@ -48,7 +48,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-finance-3.1.0-SNAPSHOT.96",
+    "id": "mod-finance-3.1.0-SNAPSHOT.97",
     "action": "enable"
   },
   {
@@ -88,7 +88,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-circulation-19.1.0-SNAPSHOT.643",
+    "id": "mod-circulation-19.1.0-SNAPSHOT.647",
     "action": "enable"
   },
   {
@@ -108,7 +108,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-data-export-2.2.0-SNAPSHOT.146",
+    "id": "mod-data-export-2.2.0-SNAPSHOT.147",
     "action": "enable"
   },
   {
@@ -116,7 +116,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-source-record-manager-2.4.0-SNAPSHOT.301",
+    "id": "mod-source-record-manager-2.4.0-SNAPSHOT.302",
     "action": "enable"
   },
   {
@@ -132,7 +132,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-erm-usage-2.10.0-SNAPSHOT.109",
+    "id": "mod-erm-usage-2.10.0-SNAPSHOT.110",
     "action": "enable"
   },
   {
@@ -152,7 +152,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-oai-pmh-3.2.0-SNAPSHOT.124",
+    "id": "mod-oai-pmh-3.2.0-SNAPSHOT.125",
     "action": "enable"
   },
   {
