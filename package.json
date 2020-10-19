@@ -31,7 +31,7 @@
     "@folio/finance": ">=1.1.0",
     "@folio/inventory": ">=1.4.0",
     "@folio/invoice": ">=1.0.0",
-    "@folio/ldp": ">=1.1.0",
+    "@folio/ldp": "library-data-platform/ui-ldp",
     "@folio/licenses": ">=2.0.0",
     "@folio/local-kb-admin": ">=1.0.0",
     "@folio/marccat": ">=1.8.5",
