@@ -216,6 +216,10 @@
     "action": "enable"
   },
   {
+    "id" : "mod-ldp-0.0.1-SNAPSHOT.8",
+    "action" : "enable"
+  },
+  {
     "id": "mod-user-import-3.3.0-SNAPSHOT.48",
     "action": "enable"
   }

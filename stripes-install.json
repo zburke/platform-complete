@@ -218,5 +218,9 @@
   {
     "id": "edge-sip2-1.4.0-SNAPSHOT.47",
     "action": "enable"
+  },
+  {
+    "id" : "folio_ldp-1.1.10009",
+    "action" : "enable"
   }
 ]
