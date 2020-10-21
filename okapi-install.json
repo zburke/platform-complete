@@ -8,11 +8,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-inventory-storage-19.5.0-SNAPSHOT.486",
+    "id": "mod-inventory-storage-19.5.0-SNAPSHOT.487",
     "action": "enable"
   },
   {
-    "id": "mod-users-17.3.0-SNAPSHOT.152",
+    "id": "mod-users-17.3.0-SNAPSHOT.153",
     "action": "enable"
   },
   {
@@ -88,11 +88,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-circulation-19.3.0-SNAPSHOT.709",
+    "id": "mod-circulation-19.3.0-SNAPSHOT.712",
     "action": "enable"
   },
   {
-    "id": "mod-orders-11.2.0-SNAPSHOT.350",
+    "id": "mod-orders-11.2.0-SNAPSHOT.352",
     "action": "enable"
   },
   {
@@ -144,7 +144,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-invoice-4.2.0-SNAPSHOT.173",
+    "id": "mod-invoice-4.2.0-SNAPSHOT.174",
     "action": "enable"
   },
   {
@@ -168,7 +168,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-password-validator-1.8.1-SNAPSHOT.23",
+    "id": "mod-password-validator-1.8.1-SNAPSHOT.24",
     "action": "enable"
   },
   {
@@ -192,7 +192,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-patron-4.3.0-SNAPSHOT.57",
+    "id": "mod-patron-4.4.0-SNAPSHOT.59",
     "action": "enable"
   },
   {
@@ -208,11 +208,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-erm-usage-harvester-2.1.0-SNAPSHOT.84",
+    "id": "mod-erm-usage-harvester-2.1.0-SNAPSHOT.85",
     "action": "enable"
   },
   {
-    "id": "mod-graphql-1.2.1000244",
+    "id": "mod-graphql-1.3.1000247",
     "action": "enable"
   },
   {
