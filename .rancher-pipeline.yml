@@ -31,7 +31,7 @@ stages:
             resources.limits.memory: 500Mi
             resources.limits.cpu: 500m
             resources.requests.memory: 250Mi
-            resources.requests.cpu: 2500m
+            resources.requests.cpu: 250m
           name: platform-complete
           targetNamespace: cattle-prometheus-p-9mwdx
 timeout: 60
