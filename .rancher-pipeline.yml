@@ -21,7 +21,7 @@ stages:
 - name: Deploy
   steps:
   - applyAppConfig:
-      catalogTemplate: p-rlq5p:concorde-helmcharts-platform-complete
+      catalogTemplate: p-v4mss:concorde-helmcharts-platform-complete
       version: 0.1.12
       answers:
         image.repository: docker.dev.folio.org/platform-complete
