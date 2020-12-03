@@ -22,7 +22,7 @@ stages:
   steps:
   - applyAppConfig:
       catalogTemplate: p-v4mss:concorde-helmcharts-platform-complete
-      version: 0.1.12
+      version: 0.1.10
       answers:
         image.repository: docker.dev.folio.org/platform-complete
         image.tag: concorde-${CICD_EXECUTION_SEQUENCE}
