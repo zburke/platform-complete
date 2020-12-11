@@ -1,10 +1,10 @@
 [
   {
-    "id": "folio_acquisition-units-2.2.100079",
+    "id": "folio_acquisition-units-2.2.100080",
     "action": "enable"
   },
   {
-    "id": "folio_agreements-5.1.1000582",
+    "id": "folio_agreements-5.1.1000589",
     "action": "enable"
   },
   {
@@ -12,19 +12,19 @@
     "action": "enable"
   },
   {
-    "id": "folio_checkin-4.0.1000318",
+    "id": "folio_checkin-4.0.1000321",
     "action": "enable"
   },
   {
-    "id": "folio_checkout-5.0.1000483",
+    "id": "folio_checkout-5.0.1000484",
     "action": "enable"
   },
   {
-    "id": "folio_circulation-5.0.1000587",
+    "id": "folio_circulation-5.0.1000591",
     "action": "enable"
   },
   {
-    "id": "folio_circulation-log-1.0.100040",
+    "id": "folio_circulation-log-1.0.100041",
     "action": "enable"
   },
   {
@@ -32,11 +32,11 @@
     "action": "enable"
   },
   {
-    "id": "folio_data-export-3.0.2000200",
+    "id": "folio_data-export-3.0.2000202",
     "action": "enable"
   },
   {
-    "id": "folio_data-import-3.0.3000704",
+    "id": "folio_data-import-3.0.3000710",
     "action": "enable"
   },
   {
@@ -44,7 +44,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_eholdings-5.0.1000832",
+    "id": "folio_eholdings-5.0.1000834",
     "action": "enable"
   },
   {
@@ -52,19 +52,19 @@
     "action": "enable"
   },
   {
-    "id": "folio_erm-usage-4.0.1000241",
+    "id": "folio_erm-usage-4.0.1000242",
     "action": "enable"
   },
   {
-    "id": "folio_finance-2.2.1000398",
+    "id": "folio_finance-2.2.1000403",
     "action": "enable"
   },
   {
-    "id": "folio_inventory-5.0.10001084",
+    "id": "folio_inventory-5.0.10001094",
     "action": "enable"
   },
   {
-    "id": "folio_invoice-2.2.2000371",
+    "id": "folio_invoice-2.2.2000374",
     "action": "enable"
   },
   {
@@ -72,7 +72,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_licenses-5.1.1000345",
+    "id": "folio_licenses-5.1.1000348",
     "action": "enable"
   },
   {
@@ -80,7 +80,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_marccat-3.0.1000429",
+    "id": "folio_marccat-3.0.1000435",
     "action": "enable"
   },
   {
@@ -104,7 +104,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_plugin-create-inventory-records-1.0.100040",
+    "id": "folio_plugin-create-inventory-records-2.0.100043",
     "action": "enable"
   },
   {
@@ -136,7 +136,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_plugin-find-license-5.0.100079",
+    "id": "folio_plugin-find-license-5.1.100082",
     "action": "enable"
   },
   {
@@ -168,7 +168,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_requests-4.0.1000588",
+    "id": "folio_requests-4.0.1000593",
     "action": "enable"
   },
   {
@@ -176,15 +176,15 @@
     "action": "enable"
   },
   {
-    "id": "folio_servicepoints-4.0.100080",
+    "id": "folio_servicepoints-4.0.100082",
     "action": "enable"
   },
   {
-    "id": "folio_stripes-core-6.1.1000799",
+    "id": "folio_stripes-core-7.0.1000801",
     "action": "enable"
   },
   {
-    "id": "folio_stripes-smart-components-5.1.1000878",
+    "id": "folio_stripes-smart-components-6.0.1000883",
     "action": "enable"
   },
   {
@@ -192,11 +192,11 @@
     "action": "enable"
   },
   {
-    "id": "folio_tenant-settings-5.0.1000159",
+    "id": "folio_tenant-settings-5.0.1000160",
     "action": "enable"
   },
   {
-    "id": "folio_users-6.0.10001324",
+    "id": "folio_users-6.0.10001329",
     "action": "enable"
   },
   {
