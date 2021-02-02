@@ -21,7 +21,7 @@ stages:
 - name: Deploy
   steps:
   - applyAppConfig:
-      catalogTemplate: p-ngvqv:firebird-helmcharts-platform-complete
+      catalogTemplate: p-w9rxn:firebird-helmcharts-platform-complete
       version: 0.1.13
       answers:
         image.repository: docker.dev.folio.org/platform-complete
