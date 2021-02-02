@@ -1,42 +1,42 @@
 [
   {
-    "id": "mod-orders-storage-11.2.0-SNAPSHOT.205",
+    "id": "mod-orders-storage-11.2.0-SNAPSHOT.212",
     "action": "enable"
   },
   {
-    "id": "mod-configuration-5.6.0-SNAPSHOT.87",
+    "id": "mod-configuration-5.7.0-SNAPSHOT.90",
     "action": "enable"
   },
   {
-    "id": "mod-inventory-storage-19.5.0-SNAPSHOT.506",
+    "id": "mod-inventory-storage-19.5.0-SNAPSHOT.529",
     "action": "enable"
   },
   {
-    "id": "mod-users-17.3.0-SNAPSHOT.156",
+    "id": "mod-users-17.3.0-SNAPSHOT.158",
     "action": "enable"
   },
   {
-    "id": "mod-login-7.2.0-SNAPSHOT.89",
+    "id": "mod-login-7.3.0-SNAPSHOT.91",
     "action": "enable"
   },
   {
-    "id": "mod-permissions-5.13.0-SNAPSHOT.95",
+    "id": "mod-permissions-5.13.0-SNAPSHOT.98",
     "action": "enable"
   },
   {
-    "id": "mod-pubsub-1.4.0-SNAPSHOT.117",
+    "id": "mod-pubsub-1.4.0-SNAPSHOT.123",
     "action": "enable"
   },
   {
-    "id": "mod-circulation-storage-12.2.0-SNAPSHOT.270",
+    "id": "mod-circulation-storage-12.2.0-SNAPSHOT.275",
     "action": "enable"
   },
   {
-    "id": "mod-source-record-storage-4.2.0-SNAPSHOT.227",
+    "id": "mod-source-record-storage-4.2.0-SNAPSHOT.247",
     "action": "enable"
   },
   {
-    "id": "mod-inventory-16.2.0-SNAPSHOT.316",
+    "id": "mod-inventory-16.2.0-SNAPSHOT.329",
     "action": "enable"
   },
   {
@@ -44,11 +44,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-finance-storage-6.1.0-SNAPSHOT.148",
+    "id": "mod-finance-storage-6.1.0-SNAPSHOT.166",
     "action": "enable"
   },
   {
-    "id": "mod-finance-4.1.0-SNAPSHOT.117",
+    "id": "mod-finance-4.1.0-SNAPSHOT.132",
     "action": "enable"
   },
   {
@@ -56,7 +56,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-event-config-1.7.0-SNAPSHOT.43",
+    "id": "mod-event-config-1.7.0-SNAPSHOT.44",
     "action": "enable"
   },
   {
@@ -76,59 +76,59 @@
     "action": "enable"
   },
   {
-    "id": "mod-feesfines-15.10.0-SNAPSHOT.125",
+    "id": "mod-feesfines-15.10.0-SNAPSHOT.135",
     "action": "enable"
   },
   {
-    "id": "mod-patron-blocks-1.2.0-SNAPSHOT.43",
+    "id": "mod-patron-blocks-1.2.0-SNAPSHOT.44",
     "action": "enable"
   },
   {
-    "id": "mod-notes-2.10.3-SNAPSHOT.162",
+    "id": "mod-notes-2.10.3-SNAPSHOT.168",
     "action": "enable"
   },
   {
-    "id": "mod-circulation-19.3.0-SNAPSHOT.774",
+    "id": "mod-circulation-19.3.0-SNAPSHOT.799",
     "action": "enable"
   },
   {
-    "id": "mod-orders-11.2.0-SNAPSHOT.368",
+    "id": "mod-orders-11.2.0-SNAPSHOT.392",
     "action": "enable"
   },
   {
-    "id": "mod-agreements-3.1.0-SNAPSHOT.326",
+    "id": "mod-agreements-3.1.0-SNAPSHOT.330",
     "action": "enable"
   },
   {
-    "id": "mod-licenses-3.1.0-SNAPSHOT.154",
+    "id": "mod-licenses-3.1.0-SNAPSHOT.155",
     "action": "enable"
   },
   {
-    "id": "mod-audit-1.1.0-SNAPSHOT.74",
+    "id": "mod-audit-1.1.0-SNAPSHOT.76",
     "action": "enable"
   },
   {
-    "id": "mod-courses-1.1.2-SNAPSHOT.103",
+    "id": "mod-courses-1.1.3-SNAPSHOT.105",
     "action": "enable"
   },
   {
-    "id": "mod-data-export-3.1.0-SNAPSHOT.215",
+    "id": "mod-data-export-3.1.0-SNAPSHOT.228",
     "action": "enable"
   },
   {
-    "id": "mod-data-import-converter-storage-1.10.0-SNAPSHOT.135",
+    "id": "mod-data-import-converter-storage-1.10.0-SNAPSHOT.140",
     "action": "enable"
   },
   {
-    "id": "mod-source-record-manager-2.5.0-SNAPSHOT.336",
+    "id": "mod-source-record-manager-2.5.0-SNAPSHOT.348",
     "action": "enable"
   },
   {
-    "id": "mod-data-import-1.12.0-SNAPSHOT.161",
+    "id": "mod-data-import-1.12.0-SNAPSHOT.167",
     "action": "enable"
   },
   {
-    "id": "mod-kb-ebsco-java-3.6.4-SNAPSHOT.263",
+    "id": "mod-kb-ebsco-java-3.6.6-SNAPSHOT.274",
     "action": "enable"
   },
   {
@@ -136,15 +136,15 @@
     "action": "enable"
   },
   {
-    "id": "mod-erm-usage-3.1.0-SNAPSHOT.128",
+    "id": "mod-erm-usage-4.0.0-SNAPSHOT.132",
     "action": "enable"
   },
   {
-    "id": "mod-invoice-storage-4.2.0-SNAPSHOT.83",
+    "id": "mod-invoice-storage-4.2.0-SNAPSHOT.84",
     "action": "enable"
   },
   {
-    "id": "mod-invoice-4.2.0-SNAPSHOT.185",
+    "id": "mod-invoice-4.2.0-SNAPSHOT.192",
     "action": "enable"
   },
   {
@@ -156,15 +156,15 @@
     "action": "enable"
   },
   {
-    "id": "mod-marccat-2.3.0-SNAPSHOT.404",
+    "id": "mod-oai-pmh-3.3.0",
     "action": "enable"
   },
   {
-    "id": "mod-oai-pmh-3.3.0-SNAPSHOT.142",
+    "id": "mod-quick-marc-2.0.0-SNAPSHOT.73",
     "action": "enable"
   },
   {
-    "id": "mod-quick-marc-1.3.0-SNAPSHOT.69",
+    "id": "mod-remote-storage-1.1.0-SNAPSHOT.54",
     "action": "enable"
   },
   {
@@ -172,11 +172,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-password-validator-1.8.3-SNAPSHOT.26",
+    "id": "mod-password-validator-1.9.0-SNAPSHOT.32",
     "action": "enable"
   },
   {
-    "id": "mod-authtoken-2.7.0-SNAPSHOT.79",
+    "id": "mod-authtoken-2.7.0-SNAPSHOT.81",
     "action": "enable"
   },
   {
@@ -192,11 +192,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-gobi-2.0.0-SNAPSHOT.125",
+    "id": "mod-gobi-2.0.0-SNAPSHOT.127",
     "action": "enable"
   },
   {
-    "id": "mod-patron-4.4.0-SNAPSHOT.60",
+    "id": "mod-patron-4.4.0-SNAPSHOT.62",
     "action": "enable"
   },
   {
@@ -204,7 +204,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-codex-inventory-1.9.0-SNAPSHOT.82",
+    "id": "mod-codex-inventory-1.9.0-SNAPSHOT.83",
     "action": "enable"
   },
   {
@@ -212,15 +212,19 @@
     "action": "enable"
   },
   {
-    "id": "mod-erm-usage-harvester-3.0.0-SNAPSHOT.88",
+    "id": "mod-copycat-1.0.0-SNAPSHOT.32",
     "action": "enable"
   },
   {
-    "id": "mod-graphql-1.3.1000258",
+    "id": "mod-erm-usage-harvester-3.0.0-SNAPSHOT.92",
     "action": "enable"
   },
   {
-    "id": "mod-user-import-3.3.0-SNAPSHOT.48",
+    "id": "mod-graphql-1.4.1000261",
+    "action": "enable"
+  },
+  {
+    "id": "mod-user-import-3.5.0-SNAPSHOT.55",
     "action": "enable"
   }
 ]
