@@ -26,10 +26,10 @@ stages:
       answers:
         image.repository: docker.dev.folio.org/platform-complete
         image.tag: firebird-latest
-        ingress.enabled: "true"
+        ingress.enabled: true
         ingress.hosts[0].host: firebird.ci.folio.org
         ingress.hosts[0].paths[0]: /
-        postJob.enabled: "false"
+        postJob.enabled: false
         resources.limits.cpu: 700m
         resources.limits.memory: 786Mi
       name: platform-complete
