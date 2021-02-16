@@ -1176,8 +1176,8 @@
     webpack "^4.41.2"
 
 "@folio/export-manager@>=1.0.0":
-  version "1.0.10005"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/export-manager/-/export-manager-1.0.10005.tgz#4137f4df7c21cc789d1a98870332f342096a8c4d"
+  version "1.0.10007"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/export-manager/-/export-manager-1.0.10007.tgz#d48669bdc275fc32122a10b15130676fead510ba"
   dependencies:
     "@folio/stripes-acq-components" "^2.1.0"
     prop-types "^15.5.10"
@@ -1203,9 +1203,9 @@
     react-final-form-listeners "^1.0.2"
     redux-form "^8.3.0"
 
-"@folio/inventory@>=1.4.0":
-  version "5.0.10001157"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/inventory/-/inventory-5.0.10001157.tgz#11bfe1c63411152484745e2b128f28f7e517ba4b"
+"@folio/inventory@git://github.com/folio-org/ui-inventory.git#UIIN-1290":
+  version "5.0.1"
+  resolved "git://github.com/folio-org/ui-inventory.git#d59bb2a986fe1fee9497c38be41bf8a1a8fb9a79"
   dependencies:
     "@folio/react-intl-safe-html" "^2.0.0"
     "@testing-library/dom" "^7.29.4"
@@ -1362,8 +1362,8 @@
     "@folio/plugin-find-interface" "*"
 
 "@folio/plugin-bursar-export@>=1.0.0", "@folio/plugin-bursar-export@^1.0.0":
-  version "1.0.10005"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-bursar-export/-/plugin-bursar-export-1.0.10005.tgz#b0378dc0fe3c74bd7d0aa20d53299123865f93a2"
+  version "1.0.10007"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-bursar-export/-/plugin-bursar-export-1.0.10007.tgz#e4b36484fac2d3a7348897b282444dd0c27043ff"
   dependencies:
     "@folio/stripes-acq-components" "^2.1.0"
     final-form "^4.18.2"
@@ -1676,8 +1676,8 @@
     yargs "^13.1.0"
 
 "@folio/stripes-components@~9.0.0":
-  version "9.0.10001265"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-components/-/stripes-components-9.0.10001265.tgz#bc39fdabf19cbb8ee98b4882c186d5ecfd8e2aa7"
+  version "9.0.10001266"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-components/-/stripes-components-9.0.10001266.tgz#df34ca933d2b2cfd4971a9f92c104a6cd6cdc3d5"
   dependencies:
     "@folio/stripes-react-hotkeys" "^3.0.5"
     classnames "^2.2.5"
@@ -1718,8 +1718,8 @@
     uuid "^3.0.1"
 
 "@folio/stripes-core@~7.0.0":
-  version "7.0.1000843"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-core/-/stripes-core-7.0.1000843.tgz#fee30c1f16f857949bd313b9f9da8a6880058b43"
+  version "7.0.1000846"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-core/-/stripes-core-7.0.1000846.tgz#6d34b1057e0184b4eaf35484d53f6e23587648b5"
   dependencies:
     "@apollo/client" "^3.2.1"
     "@folio/stripes-components" "~9.0.0"
@@ -1820,6 +1820,29 @@
     keyboardjs "~2.5.1"
     lodash "^4.17.15"
     prop-types "^15.7.2"
+
+"@folio/stripes-smart-components@git://github.com/folio-org/stripes-smart-components.git#STMACOM-483":
+  version "6.0.0"
+  resolved "git://github.com/folio-org/stripes-smart-components.git#3c18665319e8297d7f0782c0602ae6093a4d6743"
+  dependencies:
+    "@folio/react-intl-safe-html" "^3.0.0"
+    "@rehooks/local-storage" "^2.3.0"
+    classnames "^2.2.6"
+    final-form "^4.18.2"
+    final-form-arrays "^3.0.2"
+    lodash "^4.17.4"
+    moment-timezone "^0.5.17"
+    prop-types "^15.5.10"
+    prop-types-extra "^1.1.0"
+    query-string "^5.0.0"
+    react-beautiful-dnd "^11.0.5"
+    react-copy-to-clipboard "^5.0.1"
+    react-final-form "^6.3.0"
+    react-final-form-arrays "^3.1.1"
+    react-router-prop-types "^1.0.4"
+    react-transition-group "^2.4.0"
+    react-virtualized-auto-sizer "^1.0.2"
+    redux-form "^8.3.0"
 
 "@folio/stripes-smart-components@~6.0.0":
   version "6.0.1000912"
@@ -2669,8 +2692,8 @@
     "@octokit/openapi-types" "^4.0.3"
 
 "@popperjs/core@^2.0.0":
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/@popperjs/core/-/core-2.6.0.tgz#f022195afdfc942e088ee2101285a1d31c7d727f"
+  version "2.7.0"
+  resolved "https://registry.yarnpkg.com/@popperjs/core/-/core-2.7.0.tgz#5f7760965170f7f1e2910d2498c5be88b47a2a8c"
 
 "@rehooks/local-storage@^2.3.0", "@rehooks/local-storage@^2.4.0":
   version "2.4.0"
@@ -5471,8 +5494,8 @@ electron-download@^3.0.1:
     sumchecker "^1.2.0"
 
 electron-to-chromium@^1.3.649:
-  version "1.3.665"
-  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.665.tgz#6d0937376f6a919c0f289202c4be77790a6175e5"
+  version "1.3.666"
+  resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.3.666.tgz#59f3ce1e45b860a0ebe439b72664354efbb8bc62"
 
 electron@^2.0.18:
   version "2.0.18"
@@ -13202,8 +13225,8 @@ type@^1.0.1:
   resolved "https://registry.yarnpkg.com/type/-/type-1.2.0.tgz#848dd7698dafa3e54a6c479e759c4bc3f18847a0"
 
 type@^2.0.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/type/-/type-2.2.0.tgz#3edd448793f517d8b9dd108b486a043f5befd91f"
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/type/-/type-2.3.0.tgz#ada7c045f07ead08abf9e2edd29be1a0c0661132"
 
 typedarray-to-buffer@^3.1.5:
   version "3.1.5"
