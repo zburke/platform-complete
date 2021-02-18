@@ -21,8 +21,8 @@ stages:
 - name: Deploy
   steps:
   - applyAppConfig:
-      catalogTemplate: p-wntj9:vega-helmcharts-platform-complete
-      version: 0.1.8
+      catalogTemplate: p-jqjbc:vega-helmcharts-platform-complete
+      version: 0.1.32
       answers:
         image.repository: docker.dev.folio.org/platform-complete
         image.tag: vega-latest
@@ -33,6 +33,7 @@ stages:
         resources.limits.memory: 900Mi
         postJob.enabled: false
       name: platform-complete
+      targetNamespace: vega
       targetNamespace: vega
 branch:
   include:
