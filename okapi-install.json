@@ -8,11 +8,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-inventory-storage-19.5.0-SNAPSHOT.534",
+    "id": "mod-inventory-storage-19.5.0-SNAPSHOT.540",
     "action": "enable"
   },
   {
-    "id": "mod-users-17.3.0-SNAPSHOT.158",
+    "id": "mod-users-17.3.0-SNAPSHOT.159",
     "action": "enable"
   },
   {
@@ -24,31 +24,31 @@
     "action": "enable"
   },
   {
-    "id": "mod-pubsub-1.4.0-SNAPSHOT.126",
+    "id": "mod-pubsub-2.1.0-SNAPSHOT.133",
     "action": "enable"
   },
   {
-    "id": "mod-circulation-storage-12.2.0-SNAPSHOT.275",
+    "id": "mod-circulation-storage-12.2.0-SNAPSHOT.276",
     "action": "enable"
   },
   {
-    "id": "mod-source-record-storage-4.2.0-SNAPSHOT.252",
+    "id": "mod-source-record-storage-4.2.0-SNAPSHOT.258",
     "action": "enable"
   },
   {
-    "id": "mod-inventory-16.2.0-SNAPSHOT.336",
+    "id": "mod-inventory-16.2.0-SNAPSHOT.342",
     "action": "enable"
   },
   {
-    "id": "mod-organizations-storage-3.3.0-SNAPSHOT.58",
+    "id": "mod-organizations-storage-3.3.0-SNAPSHOT.59",
     "action": "enable"
   },
   {
-    "id": "mod-finance-storage-6.1.0-SNAPSHOT.172",
+    "id": "mod-finance-storage-6.1.0-SNAPSHOT.173",
     "action": "enable"
   },
   {
-    "id": "mod-finance-4.1.0-SNAPSHOT.134",
+    "id": "mod-finance-4.1.0-SNAPSHOT.135",
     "action": "enable"
   },
   {
@@ -72,11 +72,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-notify-2.8.0-SNAPSHOT.101",
+    "id": "mod-notify-2.8.0-SNAPSHOT.102",
     "action": "enable"
   },
   {
-    "id": "mod-feesfines-15.10.0-SNAPSHOT.137",
+    "id": "mod-feesfines-15.10.0-SNAPSHOT.139",
     "action": "enable"
   },
   {
@@ -88,19 +88,19 @@
     "action": "enable"
   },
   {
-    "id": "mod-circulation-19.3.0-SNAPSHOT.802",
+    "id": "mod-circulation-19.3.0-SNAPSHOT.807",
     "action": "enable"
   },
   {
-    "id": "mod-tags-0.7.3-SNAPSHOT.54",
+    "id": "mod-tags-0.7.3-SNAPSHOT.55",
     "action": "enable"
   },
   {
-    "id": "mod-orders-11.2.0-SNAPSHOT.397",
+    "id": "mod-orders-11.2.0-SNAPSHOT.398",
     "action": "enable"
   },
   {
-    "id": "mod-agreements-4.0.0-SNAPSHOT.331",
+    "id": "mod-agreements-4.0.0-SNAPSHOT.332",
     "action": "enable"
   },
   {
@@ -120,15 +120,15 @@
     "action": "enable"
   },
   {
-    "id": "mod-data-import-converter-storage-1.10.0-SNAPSHOT.143",
+    "id": "mod-data-import-converter-storage-1.10.0-SNAPSHOT.145",
     "action": "enable"
   },
   {
-    "id": "mod-source-record-manager-2.5.0-SNAPSHOT.350",
+    "id": "mod-source-record-manager-2.5.0-SNAPSHOT.359",
     "action": "enable"
   },
   {
-    "id": "mod-data-import-1.12.0-SNAPSHOT.168",
+    "id": "mod-data-import-1.12.0-SNAPSHOT.174",
     "action": "enable"
   },
   {
@@ -140,7 +140,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-invoice-storage-4.2.0-SNAPSHOT.85",
+    "id": "mod-invoice-storage-4.2.0-SNAPSHOT.87",
     "action": "enable"
   },
   {
@@ -148,27 +148,31 @@
     "action": "enable"
   },
   {
+    "id": "mod-search-1.0.0-SNAPSHOT.27",
+    "action": "enable"
+  },
+  {
     "id": "mod-organizations-1.2.0-SNAPSHOT.20",
     "action": "enable"
   },
   {
-    "id": "mod-ldp-0.0.1-SNAPSHOT.23",
+    "id": "mod-ldp-0.0.1-SNAPSHOT.26",
     "action": "enable"
   },
   {
-    "id": "mod-oai-pmh-3.3.0",
+    "id": "mod-oai-pmh-3.3.1-SNAPSHOT.173",
     "action": "enable"
   },
   {
-    "id": "mod-quick-marc-2.0.0-SNAPSHOT.78",
+    "id": "mod-quick-marc-2.0.0-SNAPSHOT.79",
     "action": "enable"
   },
   {
-    "id": "mod-remote-storage-1.1.0-SNAPSHOT.59",
+    "id": "mod-remote-storage-1.1.0-SNAPSHOT.61",
     "action": "enable"
   },
   {
-    "id": "mod-codex-mux-2.9.3-SNAPSHOT.98",
+    "id": "mod-codex-mux-2.9.3-SNAPSHOT.99",
     "action": "enable"
   },
   {
@@ -180,7 +184,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-users-bl-6.2.0-SNAPSHOT.96",
+    "id": "mod-users-bl-6.2.0-SNAPSHOT.98",
     "action": "enable"
   },
   {
@@ -192,15 +196,15 @@
     "action": "enable"
   },
   {
-    "id": "mod-gobi-2.0.0-SNAPSHOT.130",
+    "id": "mod-gobi-2.0.0-SNAPSHOT.131",
     "action": "enable"
   },
   {
-    "id": "mod-patron-4.4.0-SNAPSHOT.62",
+    "id": "mod-patron-4.4.0-SNAPSHOT.63",
     "action": "enable"
   },
   {
-    "id": "mod-rtac-2.1.0-SNAPSHOT.56",
+    "id": "mod-rtac-2.1.0-SNAPSHOT.57",
     "action": "enable"
   },
   {
@@ -216,15 +220,15 @@
     "action": "enable"
   },
   {
-    "id": "mod-copycat-1.0.0-SNAPSHOT.35",
+    "id": "mod-copycat-1.0.0-SNAPSHOT.37",
     "action": "enable"
   },
   {
-    "id": "mod-erm-usage-harvester-3.0.0-SNAPSHOT.92",
+    "id": "mod-erm-usage-harvester-3.0.0-SNAPSHOT.94",
     "action": "enable"
   },
   {
-    "id": "mod-graphql-1.4.1000261",
+    "id": "mod-graphql-1.6.1000263",
     "action": "enable"
   },
   {
