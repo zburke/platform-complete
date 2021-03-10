@@ -14,10 +14,6 @@ stages:
       sourceKey: TENANT_ID
     - sourceName: tenant-config
       sourceKey: OKAPI_URL
-    cpuRequest: 300m
-    cpuLimit: 1500m
-    memoryRequest: 10Gi
-    memoryLimit: 10Gi
 - name: Deploy
   steps:
   - applyAppConfig:
