@@ -17,6 +17,7 @@ module.exports = {
         '@folio/circulation' : {},
         '@folio/inventory' : {},
         '@folio/plugin-find-user' : {},
+        '@folio/plugin-find-instance' : {},
         '@folio/requests' : {},
         '@folio/servicepoints' : {},
         '@folio/users' : {},
