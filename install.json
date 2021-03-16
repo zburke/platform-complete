@@ -358,9 +358,5 @@
 }, {
   "id" : "mod-user-import-3.5.0-SNAPSHOT.56",
   "action" : "enable"
-},
-  {
-    "id": "folio_inventory-es-5.0.100022",
-    "action": "enable"
-  }
+}
 ]

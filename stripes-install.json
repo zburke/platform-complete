@@ -238,9 +238,5 @@
   {
     "id": "edge-sip2-2.0.1-SNAPSHOT.53",
     "action": "enable"
-  },
-  {
-    "id": "folio_inventory-es-5.0.100022",
-    "action": "enable"
   }
 ]
