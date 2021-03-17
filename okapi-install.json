@@ -8,7 +8,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-inventory-storage-20.1.0-SNAPSHOT.552",
+    "id": "mod-inventory-storage-20.1.0-SNAPSHOT.554",
     "action": "enable"
   },
   {
@@ -28,7 +28,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-circulation-storage-12.3.0-SNAPSHOT.278",
+    "id": "mod-circulation-storage-12.3.0-SNAPSHOT.279",
     "action": "enable"
   },
   {
@@ -48,7 +48,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-finance-4.1.0-SNAPSHOT.138",
+    "id": "mod-finance-4.1.0-SNAPSHOT.139",
     "action": "enable"
   },
   {
@@ -88,7 +88,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-circulation-20.1.0-SNAPSHOT.819",
+    "id": "mod-circulation-20.1.0-SNAPSHOT.820",
     "action": "enable"
   },
   {
@@ -120,11 +120,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-data-import-converter-storage-1.10.0-SNAPSHOT.150",
+    "id": "mod-data-import-converter-storage-1.10.0",
     "action": "enable"
   },
   {
-    "id": "mod-source-record-manager-2.5.0-SNAPSHOT.369",
+    "id": "mod-source-record-manager-2.5.0-SNAPSHOT.370",
     "action": "enable"
   },
   {
@@ -136,7 +136,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-erm-usage-4.0.0-SNAPSHOT.133",
+    "id": "mod-erm-usage-4.1.0-SNAPSHOT.134",
     "action": "enable"
   },
   {
@@ -148,7 +148,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-search-1.0.0-SNAPSHOT.41",
+    "id": "mod-search-1.0.0-SNAPSHOT.42",
     "action": "enable"
   },
   {
@@ -160,15 +160,15 @@
     "action": "enable"
   },
   {
-    "id": "mod-oai-pmh-3.3.1-SNAPSHOT.176",
+    "id": "mod-oai-pmh-3.3.1-SNAPSHOT.177",
     "action": "enable"
   },
   {
-    "id": "mod-quick-marc-2.0.1",
+    "id": "mod-quick-marc-2.0.2-SNAPSHOT.89",
     "action": "enable"
   },
   {
-    "id": "mod-remote-storage-1.1.0-SNAPSHOT.74",
+    "id": "mod-remote-storage-1.1.0-SNAPSHOT.77",
     "action": "enable"
   },
   {
@@ -208,7 +208,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-rtac-2.1.0-SNAPSHOT.57",
+    "id": "mod-rtac-2.2.0-SNAPSHOT.58",
     "action": "enable"
   },
   {
@@ -216,7 +216,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-codex-inventory-1.9.0-SNAPSHOT.84",
+    "id": "mod-codex-inventory-1.10.0-SNAPSHOT.85",
     "action": "enable"
   },
   {
@@ -224,11 +224,15 @@
     "action": "enable"
   },
   {
+    "id": "mod-data-export-worker-1.0.1-SNAPSHOT.53",
+    "action": "enable"
+  },
+  {
     "id": "mod-ebsconet-1.0.0-SNAPSHOT.16",
     "action": "enable"
   },
   {
-    "id": "mod-erm-usage-harvester-3.0.0-SNAPSHOT.96",
+    "id": "mod-erm-usage-harvester-3.1.0-SNAPSHOT.97",
     "action": "enable"
   },
   {

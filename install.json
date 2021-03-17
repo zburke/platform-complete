@@ -5,7 +5,7 @@
   "id" : "mod-configuration-5.7.0-SNAPSHOT.92",
   "action" : "enable"
 }, {
-  "id" : "mod-inventory-storage-20.1.0-SNAPSHOT.552",
+  "id" : "mod-inventory-storage-20.1.0-SNAPSHOT.554",
   "action" : "enable"
 }, {
   "id" : "mod-users-17.4.0-SNAPSHOT.160",
@@ -20,7 +20,7 @@
   "id" : "mod-pubsub-2.1.0-SNAPSHOT.135",
   "action" : "enable"
 }, {
-  "id" : "mod-circulation-storage-12.3.0-SNAPSHOT.278",
+  "id" : "mod-circulation-storage-12.3.0-SNAPSHOT.279",
   "action" : "enable"
 }, {
   "id" : "mod-source-record-storage-5.1.0-SNAPSHOT.269",
@@ -35,7 +35,7 @@
   "id" : "mod-finance-storage-7.1.0-SNAPSHOT.175",
   "action" : "enable"
 }, {
-  "id" : "mod-finance-4.1.0-SNAPSHOT.138",
+  "id" : "mod-finance-4.1.0-SNAPSHOT.139",
   "action" : "enable"
 }, {
   "id" : "mod-calendar-1.12.0-SNAPSHOT.119",
@@ -65,7 +65,7 @@
   "id" : "mod-notes-2.11.1-SNAPSHOT.173",
   "action" : "enable"
 }, {
-  "id" : "mod-circulation-20.1.0-SNAPSHOT.819",
+  "id" : "mod-circulation-20.1.0-SNAPSHOT.820",
   "action" : "enable"
 }, {
   "id" : "mod-tags-0.8.1-SNAPSHOT.58",
@@ -74,7 +74,7 @@
   "id" : "mod-orders-11.2.0-SNAPSHOT.403",
   "action" : "enable"
 }, {
-  "id" : "folio_acquisition-units-2.2.100095",
+  "id" : "folio_acquisition-units-2.3.100096",
   "action" : "enable"
 }, {
   "id" : "mod-agreements-4.1.0-SNAPSHOT.336",
@@ -89,13 +89,13 @@
   "id" : "folio_calendar-6.0.1000106",
   "action" : "enable"
 }, {
-  "id" : "folio_checkin-5.0.1000351",
+  "id" : "folio_checkin-5.0.1000352",
   "action" : "enable"
 }, {
-  "id" : "folio_checkout-5.0.1000517",
+  "id" : "folio_checkout-6.0.1000520",
   "action" : "enable"
 }, {
-  "id" : "folio_circulation-5.0.1000627",
+  "id" : "folio_circulation-5.0.1000630",
   "action" : "enable"
 }, {
   "id" : "mod-audit-2.1.0-SNAPSHOT.80",
@@ -113,13 +113,13 @@
   "id" : "mod-data-export-4.1.0-SNAPSHOT.234",
   "action" : "enable"
 }, {
-  "id" : "folio_data-export-4.0.1000231",
+  "id" : "folio_data-export-4.0.1000232",
   "action" : "enable"
 }, {
-  "id" : "mod-data-import-converter-storage-1.10.0-SNAPSHOT.150",
+  "id" : "mod-data-import-converter-storage-1.10.0",
   "action" : "enable"
 }, {
-  "id" : "mod-source-record-manager-2.5.0-SNAPSHOT.369",
+  "id" : "mod-source-record-manager-2.5.0-SNAPSHOT.370",
   "action" : "enable"
 }, {
   "id" : "mod-data-import-1.12.0-SNAPSHOT.176",
@@ -128,19 +128,19 @@
   "id" : "folio_data-import-3.0.3000787",
   "action" : "enable"
 }, {
-  "id" : "folio_developer-5.0.1000190",
+  "id" : "folio_developer-5.0.1000191",
   "action" : "enable"
 }, {
   "id" : "mod-kb-ebsco-java-3.7.1-SNAPSHOT.278",
   "action" : "enable"
 }, {
-  "id" : "folio_eholdings-6.0.1000885",
+  "id" : "folio_eholdings-6.0.1000888",
   "action" : "enable"
 }, {
   "id" : "folio_erm-comparisons-2.0.100076",
   "action" : "enable"
 }, {
-  "id" : "mod-erm-usage-4.0.0-SNAPSHOT.133",
+  "id" : "mod-erm-usage-4.1.0-SNAPSHOT.134",
   "action" : "enable"
 }, {
   "id" : "folio_erm-usage-4.0.1000283",
@@ -155,13 +155,13 @@
   "id" : "mod-invoice-4.2.0-SNAPSHOT.204",
   "action" : "enable"
 }, {
-  "id" : "folio_finance-2.2.1000464",
+  "id" : "folio_finance-2.2.1000465",
   "action" : "enable"
 }, {
-  "id" : "mod-search-1.0.0-SNAPSHOT.41",
+  "id" : "mod-search-1.0.0-SNAPSHOT.42",
   "action" : "enable"
 }, {
-  "id" : "folio_inventory-es-5.0.100022",
+  "id" : "folio_inventory-es-5.0.100023",
   "action" : "enable"
 }, {
   "id" : "folio_inventory-5.0.10001198",
@@ -170,7 +170,7 @@
   "id" : "mod-organizations-1.3.0-SNAPSHOT.23",
   "action" : "enable"
 }, {
-  "id" : "folio_invoice-2.2.4000417",
+  "id" : "folio_invoice-2.2.4000420",
   "action" : "enable"
 }, {
   "id" : "mod-ldp-0.0.1-SNAPSHOT.26",
@@ -191,13 +191,13 @@
   "id" : "folio_notes-5.0.100089",
   "action" : "enable"
 }, {
-  "id" : "mod-oai-pmh-3.3.1-SNAPSHOT.176",
+  "id" : "mod-oai-pmh-3.3.1-SNAPSHOT.177",
   "action" : "enable"
 }, {
   "id" : "folio_oai-pmh-2.0.100099",
   "action" : "enable"
 }, {
-  "id" : "folio_orders-2.2.6000989",
+  "id" : "folio_orders-2.2.6000992",
   "action" : "enable"
 }, {
   "id" : "folio_organizations-2.3.1000348",
@@ -224,7 +224,7 @@
   "id" : "folio_plugin-find-import-profile-3.0.100073",
   "action" : "enable"
 }, {
-  "id" : "folio_plugin-find-instance-5.0.100069",
+  "id" : "folio_plugin-find-instance-5.0.100070",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-interface-2.3.100074",
@@ -245,7 +245,7 @@
   "id" : "folio_plugin-find-user-5.0.1000142",
   "action" : "enable"
 }, {
-  "id" : "mod-quick-marc-2.0.1",
+  "id" : "mod-quick-marc-2.0.2-SNAPSHOT.89",
   "action" : "enable"
 }, {
   "id" : "folio_quick-marc-3.0.1000132",
@@ -254,13 +254,13 @@
   "id" : "folio_receiving-1.3.1000216",
   "action" : "enable"
 }, {
-  "id" : "mod-remote-storage-1.1.0-SNAPSHOT.74",
+  "id" : "mod-remote-storage-1.1.0-SNAPSHOT.77",
   "action" : "enable"
 }, {
   "id" : "folio_remote-storage-1.0.100032",
   "action" : "enable"
 }, {
-  "id" : "folio_requests-5.0.1000628",
+  "id" : "folio_requests-5.0.1000629",
   "action" : "enable"
 }, {
   "id" : "mod-codex-mux-2.10.1-SNAPSHOT.101",
@@ -281,7 +281,7 @@
   "id" : "mod-users-bl-6.3.0-SNAPSHOT.100",
   "action" : "enable"
 }, {
-  "id" : "folio_stripes-core-7.0.1000857",
+  "id" : "folio_stripes-core-7.0.1000858",
   "action" : "enable"
 }, {
   "id" : "folio_stripes-smart-components-6.0.1000935",
@@ -296,7 +296,7 @@
   "id" : "folio_tenant-settings-6.0.1000199",
   "action" : "enable"
 }, {
-  "id" : "folio_users-6.0.10001403",
+  "id" : "folio_users-6.0.10001404",
   "action" : "enable"
 }, {
   "id" : "mod-copycat-1.0.0-SNAPSHOT.46",
@@ -329,10 +329,10 @@
   "id" : "edge-patron-4.3.1-SNAPSHOT.57",
   "action" : "enable"
 }, {
-  "id" : "mod-rtac-2.1.0-SNAPSHOT.57",
+  "id" : "mod-rtac-2.2.0-SNAPSHOT.58",
   "action" : "enable"
 }, {
-  "id" : "edge-rtac-2.2.0-SNAPSHOT.67",
+  "id" : "edge-rtac-2.3.0-SNAPSHOT.68",
   "action" : "enable"
 }, {
   "id" : "edge-sip2-2.0.1-SNAPSHOT.53",
@@ -341,16 +341,19 @@
   "id" : "mod-bursar-export-1.0.1-SNAPSHOT.7",
   "action" : "enable"
 }, {
-  "id" : "mod-codex-inventory-1.9.0-SNAPSHOT.84",
+  "id" : "mod-codex-inventory-1.10.0-SNAPSHOT.85",
   "action" : "enable"
 }, {
   "id" : "mod-codex-ekb-1.8.1-SNAPSHOT.112",
   "action" : "enable"
 }, {
+  "id" : "mod-data-export-worker-1.0.1-SNAPSHOT.53",
+  "action" : "enable"
+}, {
   "id" : "mod-ebsconet-1.0.0-SNAPSHOT.16",
   "action" : "enable"
 }, {
-  "id" : "mod-erm-usage-harvester-3.0.0-SNAPSHOT.96",
+  "id" : "mod-erm-usage-harvester-3.1.0-SNAPSHOT.97",
   "action" : "enable"
 }, {
   "id" : "mod-graphql-1.6.1000264",

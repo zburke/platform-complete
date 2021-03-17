@@ -1,6 +1,6 @@
 [
   {
-    "id": "folio_acquisition-units-2.2.100095",
+    "id": "folio_acquisition-units-2.3.100096",
     "action": "enable"
   },
   {
@@ -12,15 +12,15 @@
     "action": "enable"
   },
   {
-    "id": "folio_checkin-5.0.1000351",
+    "id": "folio_checkin-5.0.1000352",
     "action": "enable"
   },
   {
-    "id": "folio_checkout-5.0.1000517",
+    "id": "folio_checkout-6.0.1000520",
     "action": "enable"
   },
   {
-    "id": "folio_circulation-5.0.1000627",
+    "id": "folio_circulation-5.0.1000630",
     "action": "enable"
   },
   {
@@ -32,7 +32,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_data-export-4.0.1000231",
+    "id": "folio_data-export-4.0.1000232",
     "action": "enable"
   },
   {
@@ -40,11 +40,11 @@
     "action": "enable"
   },
   {
-    "id": "folio_developer-5.0.1000190",
+    "id": "folio_developer-5.0.1000191",
     "action": "enable"
   },
   {
-    "id": "folio_eholdings-6.0.1000885",
+    "id": "folio_eholdings-6.0.1000888",
     "action": "enable"
   },
   {
@@ -60,11 +60,11 @@
     "action": "enable"
   },
   {
-    "id": "folio_finance-2.2.1000464",
+    "id": "folio_finance-2.2.1000465",
     "action": "enable"
   },
   {
-    "id": "folio_inventory-es-5.0.100022",
+    "id": "folio_inventory-es-5.0.100023",
     "action": "enable"
   },
   {
@@ -72,7 +72,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_invoice-2.2.4000417",
+    "id": "folio_invoice-2.2.4000420",
     "action": "enable"
   },
   {
@@ -100,7 +100,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_orders-2.2.6000989",
+    "id": "folio_orders-2.2.6000992",
     "action": "enable"
   },
   {
@@ -136,7 +136,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_plugin-find-instance-5.0.100069",
+    "id": "folio_plugin-find-instance-5.0.100070",
     "action": "enable"
   },
   {
@@ -176,7 +176,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_requests-5.0.1000628",
+    "id": "folio_requests-5.0.1000629",
     "action": "enable"
   },
   {
@@ -188,7 +188,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_stripes-core-7.0.1000857",
+    "id": "folio_stripes-core-7.0.1000858",
     "action": "enable"
   },
   {
@@ -204,7 +204,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_users-6.0.10001403",
+    "id": "folio_users-6.0.10001404",
     "action": "enable"
   },
   {
@@ -232,7 +232,7 @@
     "action": "enable"
   },
   {
-    "id": "edge-rtac-2.2.0-SNAPSHOT.67",
+    "id": "edge-rtac-2.3.0-SNAPSHOT.68",
     "action": "enable"
   },
   {
