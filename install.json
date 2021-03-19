@@ -164,7 +164,7 @@
   "id" : "mod-search-1.1.0-SNAPSHOT.45",
   "action" : "enable"
 }, {
-  "id" : "folio_inventory-es-5.0.100026",
+  "id" : "folio_inventory-es-5.0.100027",
   "action" : "enable"
 }, {
   "id" : "folio_inventory-6.0.10001203",
@@ -248,7 +248,7 @@
   "id" : "folio_plugin-find-user-5.0.1000142",
   "action" : "enable"
 }, {
-  "id" : "mod-quick-marc-2.0.2-SNAPSHOT.89",
+  "id" : "mod-quick-marc-2.0.2-SNAPSHOT.90",
   "action" : "enable"
 }, {
   "id" : "folio_quick-marc-3.0.1000133",
