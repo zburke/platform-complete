@@ -24,7 +24,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-pubsub-2.1.0-SNAPSHOT.135",
+    "id": "mod-pubsub-2.1.0-SNAPSHOT.137",
     "action": "enable"
   },
   {
@@ -48,7 +48,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-finance-4.1.0-SNAPSHOT.139",
+    "id": "mod-finance-4.2.0-SNAPSHOT.140",
     "action": "enable"
   },
   {
@@ -88,7 +88,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-circulation-20.1.0-SNAPSHOT.820",
+    "id": "mod-circulation-20.1.0-SNAPSHOT.821",
     "action": "enable"
   },
   {
@@ -96,7 +96,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-orders-11.2.0-SNAPSHOT.403",
+    "id": "mod-orders-12.1.0-SNAPSHOT.404",
     "action": "enable"
   },
   {
@@ -120,15 +120,15 @@
     "action": "enable"
   },
   {
-    "id": "mod-data-import-converter-storage-1.10.0",
+    "id": "mod-data-import-converter-storage-1.11.0-SNAPSHOT.152",
     "action": "enable"
   },
   {
-    "id": "mod-source-record-manager-2.5.0-SNAPSHOT.370",
+    "id": "mod-source-record-manager-3.1.0-SNAPSHOT.371",
     "action": "enable"
   },
   {
-    "id": "mod-data-import-1.12.0-SNAPSHOT.176",
+    "id": "mod-data-import-2.1.0-SNAPSHOT.178",
     "action": "enable"
   },
   {
@@ -140,15 +140,19 @@
     "action": "enable"
   },
   {
+    "id": "mod-data-export-spring-1.0.2-SNAPSHOT.72",
+    "action": "enable"
+  },
+  {
     "id": "mod-invoice-storage-5.1.0-SNAPSHOT.92",
     "action": "enable"
   },
   {
-    "id": "mod-invoice-4.2.0-SNAPSHOT.204",
+    "id": "mod-invoice-5.1.0-SNAPSHOT.206",
     "action": "enable"
   },
   {
-    "id": "mod-search-1.0.0-SNAPSHOT.42",
+    "id": "mod-search-1.1.0-SNAPSHOT.45",
     "action": "enable"
   },
   {
@@ -160,7 +164,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-oai-pmh-3.3.1-SNAPSHOT.177",
+    "id": "mod-oai-pmh-3.4.1-SNAPSHOT.178",
     "action": "enable"
   },
   {
@@ -168,7 +172,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-remote-storage-1.1.0-SNAPSHOT.77",
+    "id": "mod-remote-storage-1.1.0-SNAPSHOT.78",
     "action": "enable"
   },
   {
@@ -196,11 +200,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-ncip-1.6.6-SNAPSHOT.33",
+    "id": "mod-ncip-1.7.1-SNAPSHOT.34",
     "action": "enable"
   },
   {
-    "id": "mod-gobi-2.0.0-SNAPSHOT.133",
+    "id": "mod-gobi-2.0.0.134",
     "action": "enable"
   },
   {
@@ -224,7 +228,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-data-export-worker-1.0.1-SNAPSHOT.53",
+    "id": "mod-data-export-worker-1.0.2-SNAPSHOT.63",
     "action": "enable"
   },
   {
