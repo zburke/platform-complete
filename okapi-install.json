@@ -8,7 +8,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-inventory-storage-20.1.0-SNAPSHOT.556",
+    "id": "mod-inventory-storage-20.2.0-SNAPSHOT.558",
     "action": "enable"
   },
   {
@@ -36,7 +36,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-inventory-16.3.0-SNAPSHOT.352",
+    "id": "mod-inventory-16.4.0-SNAPSHOT.354",
     "action": "enable"
   },
   {
@@ -88,7 +88,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-circulation-20.1.0-SNAPSHOT.824",
+    "id": "mod-circulation-20.1.0-SNAPSHOT.825",
     "action": "enable"
   },
   {
@@ -124,7 +124,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-source-record-manager-3.1.0-SNAPSHOT.375",
+    "id": "mod-source-record-manager-3.1.0-SNAPSHOT.377",
     "action": "enable"
   },
   {
@@ -140,7 +140,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-data-export-spring-1.0.2-SNAPSHOT.78",
+    "id": "mod-data-export-spring-1.0.2-SNAPSHOT.79",
     "action": "enable"
   },
   {
@@ -152,7 +152,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-search-1.1.0-SNAPSHOT.51",
+    "id": "mod-search-1.1.0-SNAPSHOT.52",
     "action": "enable"
   },
   {
@@ -228,7 +228,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-data-export-worker-1.0.2-SNAPSHOT.66",
+    "id": "mod-data-export-worker-1.0.2-SNAPSHOT.67",
     "action": "enable"
   },
   {
