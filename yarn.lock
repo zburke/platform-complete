@@ -1121,9 +1121,9 @@
     style-loader "^0.21.0"
 
 "@folio/checkin@>=1.3.0":
-  version "5.0.1000354"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/checkin/-/checkin-5.0.1000354.tgz#55e023e7405a464cf57ea38f8dd54c79b39e4ead"
-  integrity sha512-KFwiCI/8vr2ZI2G0rx5jixGnQm1iPCctI5llzcjWMBxd5CdIkWPdlqX+kqT13ZdtzGffWMtKL6lnI6UHrvPm+Q==
+  version "5.0.1000355"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/checkin/-/checkin-5.0.1000355.tgz#b9a2553ce9ed23e6d88754f7de8f6df51e41f55d"
+  integrity sha512-MnnjeKW8qbHYr6L2Z19qr/7AoSp0pDZ3hvQFdHg6ysbn9FlVu92WS1f15KaUEni2ZO3Ay0KrVVgFS6ZGj3n3pQ==
   dependencies:
     "@folio/react-intl-safe-html" "^2.0.0"
     dateformat "^2.0.0"
@@ -1139,9 +1139,9 @@
     react-to-print "^2.3.2"
 
 "@folio/checkout@>=1.3.0":
-  version "6.0.1000524"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/checkout/-/checkout-6.0.1000524.tgz#42ae3706a526b7149c09a61bd3b5953b9b6903f0"
-  integrity sha512-VZLUAHFZmdeTVQPnXFrV+osqkdTMgdwMZRV97eWgrktYjbhs9XZ70DjKg4G3iOxqDPHIYfLvOvkVVVmiMwsPkg==
+  version "6.0.1000525"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/checkout/-/checkout-6.0.1000525.tgz#911f9c5373d99d1d40e2101ce1bda4520fdd4ad2"
+  integrity sha512-kIv97f2oW6LCB/hYI93c1uF94EuE6QH3WsQhvsukemp9ZQAfxG9YJoEXivDaiilWS8kgfWlfzeZriSy0Ol7SYg==
   dependencies:
     "@folio/react-intl-safe-html" "^3.0.0"
     final-form "^4.19.1"
@@ -1276,9 +1276,9 @@
     redux-observable "^0.15.0"
 
 "@folio/erm-comparisons@>=1.0.0":
-  version "2.1.100081"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/erm-comparisons/-/erm-comparisons-2.1.100081.tgz#824edf999155b3c72b7b873ba076848195118f08"
-  integrity sha512-JSSV/L1bXRO2KZE6oEdoVZl4c4h62Q10tRROIJwvKWXgni5/Gtuqbrt5NliIDMwXNbzBfAEjKS8Ijf9of6cvtw==
+  version "2.1.100082"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/erm-comparisons/-/erm-comparisons-2.1.100082.tgz#0e4a8827157d8cac004345a622b8ca46c8dac638"
+  integrity sha512-ZFOADe4c5LzFVxRCOXUb8M+zzBoX3JD5hkqYo+QE8wWPLNof0TyLRnpZqgRluuZFx+J5c5yieFQ7SzRTmd5W5Q==
   dependencies:
     "@folio/react-intl-safe-html" "^2.0.0"
     "@folio/stripes-erm-components" "^5.0.0"
@@ -1355,9 +1355,9 @@
     redux-form "^8.3.0"
 
 "@folio/inventory-es@>=5.0.1":
-  version "6.0.100031"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/inventory-es/-/inventory-es-6.0.100031.tgz#2614e5a594402381356002996931792b8112e4ea"
-  integrity sha512-cD3/3lfiTLfnw1eUrM8Nbpj2bwsFirm20LKtB9uyS/V69VnbwIx04mkPSD0URx8XMIMq/kbC7WdygOUGWibVSw==
+  version "6.0.100033"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/inventory-es/-/inventory-es-6.0.100033.tgz#eac159873b9be422647e0d449e01b659c9cdb8d3"
+  integrity sha512-ZEQAsT8YX6w1dOWxOBneB1t9/qY3xxQ7Xq/pi+Ux6r0f2AmZqBmu+cgrfrR1VLZT5GgmSHnuMVv9twbEg742Jg==
   dependencies:
     "@folio/react-intl-safe-html" "^2.0.0"
     classnames "^2.2.6"
@@ -1382,12 +1382,13 @@
     "@folio/quick-marc" "^2.0.0"
 
 "@folio/inventory@>=1.4.0":
-  version "6.0.10001204"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/inventory/-/inventory-6.0.10001204.tgz#b86d47f61395c55a8738d761f6220c166bf71513"
-  integrity sha512-O2bZrvsKnen6OClMGnKYua2b1NlfMaXnWUU0znpl195hMBwwi7P/2or3nSOXNpjkb0ReLgK4w/JSmVq0AzeLpQ==
+  version "6.0.10001205"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/inventory/-/inventory-6.0.10001205.tgz#f11974f1028dafb50e75e52f39c3316b54b51475"
+  integrity sha512-LUchRSaeg8lysyg/mzUL3u82iSuNMfJNBzjNSJz0fshs4gqGt/vpPRakdL+ssh+K0jgdKZaAiiwEd5wyrLjJhA==
   dependencies:
     "@folio/react-intl-safe-html" "^3.0.0"
     "@testing-library/dom" "^7.29.4"
+    "@testing-library/react-hooks" "^5.1.0"
     file-saver "^2.0.0"
     final-form "^4.18.2"
     final-form-arrays "^3.0.1"
@@ -1466,9 +1467,9 @@
     react-router-prop-types "^1.0.4"
 
 "@folio/local-kb-admin@>=1.0.0":
-  version "4.1.1000165"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/local-kb-admin/-/local-kb-admin-4.1.1000165.tgz#64ee7e55ba6c30a845ba4d532095b5c069470262"
-  integrity sha512-uTu8gNUbjCO/RdhZJrQySHCv8a7UVqJ2yXMydwRrViS4rR3Jb4fgH+X0O5KPcFNr5FXEpBGE/u7yIJ1V3HjxDA==
+  version "4.1.1000166"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/local-kb-admin/-/local-kb-admin-4.1.1000166.tgz#1240ec23ba7558fdc086123d5a09d03c8b411abb"
+  integrity sha512-PI0RxZTBAA9vPuONw/f7ioyVCDkz3SOUNQbi49OMgEw0/zwZpFo+t+mYJ90QEGjrPV0PAnf6q4EahbNWlPp4ew==
   dependencies:
     "@folio/react-intl-safe-html" "^2.0.0"
     "@folio/stripes-erm-components" "^5.0.0"
@@ -1962,9 +1963,9 @@
     uuid "^3.0.1"
 
 "@folio/stripes-core@~7.0.0":
-  version "7.0.1000862"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-core/-/stripes-core-7.0.1000862.tgz#4f909b3acbeb3b6d132696777854a35619979d7a"
-  integrity sha512-/S7A8CaiYsP53bgCp7WCFe2FfjksyJ6IXdxZXcpalnOp6DFJFEtMsi98Zj3KAoy3AJrNajW1W8oUsTYVUmcLQQ==
+  version "7.0.1000863"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-core/-/stripes-core-7.0.1000863.tgz#4ea8a1f37da6d7f21fc4162402dfe15b5e26805b"
+  integrity sha512-tAmCjuFFo6HiSnPJjzNspP6/EvIlGs9Mb7nKHusl0b1ECKyzDkd9a9s7VUKKBz/gcYHiYKPU1BUCKc0iNZLkEQ==
   dependencies:
     "@apollo/client" "^3.2.1"
     "@folio/stripes-components" "~9.0.0"
@@ -2020,9 +2021,9 @@
     react-router-prop-types "^1.0.4"
 
 "@folio/stripes-erm-components@^5.0.0":
-  version "5.1.1000330"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-erm-components/-/stripes-erm-components-5.1.1000330.tgz#301d7558974b0e60ece0dec5e912b80235cfe34e"
-  integrity sha512-Mq00Jj7YlXNy2YcoSggqkwq82heQC8/vEp9GeFzi5Y8QwSIdXrxrrRxyENBtQJxW3tiEU2XyEMHydsSTNf1nqA==
+  version "5.1.1000332"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-erm-components/-/stripes-erm-components-5.1.1000332.tgz#05b88fe5eef6ba02c90706788f2274854acb8c94"
+  integrity sha512-H6GAVoYyri0d9rin1tkFb9Vuep7b7d36u3wyHvJA4QMfP59Sn+Pd3861HpCYy0Bzlr0yKxroFTVkS/5zwEOeRw==
   dependencies:
     "@folio/react-intl-safe-html" "^2.0.0"
     final-form "^4.18.4"
@@ -2849,9 +2850,9 @@
   integrity sha512-+iTbntw2IZPb/anVDbypzfQa+ay64MW0Zo8aJ8gZPWMMK6/OubMVb6lUPMagqjOPnmtauXnFCACVl3O7ogjeqQ==
 
 "@testing-library/dom@^7.29.4", "@testing-library/dom@^7.29.6":
-  version "7.30.0"
-  resolved "https://repository.folio.org/repository/npm-ci-all/@testing-library/dom/-/dom-7.30.0.tgz#53697851f7708a1448cc30b74a2ea056dd709cd6"
-  integrity sha512-v4GzWtltaiDE0yRikLlcLAfEiiK8+ptu6OuuIebm9GdC2XlZTNDPGEfM2UkEtnH7hr9TRq2sivT5EA9P1Oy7bw==
+  version "7.30.1"
+  resolved "https://repository.folio.org/repository/npm-ci-all/@testing-library/dom/-/dom-7.30.1.tgz#07b6f3ccd7f1f1e34ab0406932073e2971817f3d"
+  integrity sha512-RQUvqqq2lxTCOffhSNxpX/9fCoR+nwuQPmG5uhuuEH5KBAzNf2bK3OzBoWjm5zKM78SLjnGRAKt8hRjQA4E46A==
   dependencies:
     "@babel/code-frame" "^7.10.4"
     "@babel/runtime" "^7.12.5"
@@ -2861,6 +2862,18 @@
     dom-accessibility-api "^0.5.4"
     lz-string "^1.4.4"
     pretty-format "^26.6.2"
+
+"@testing-library/react-hooks@^5.1.0":
+  version "5.1.0"
+  resolved "https://repository.folio.org/repository/npm-ci-all/@testing-library/react-hooks/-/react-hooks-5.1.0.tgz#6014b7536d0e9427a1e73ce1d073c49a6af5fb3b"
+  integrity sha512-ChRyyA14e0CeVkWGp24v8q/IiWUqH+B8daRx4lGZme4dsudmMNWz+Qo2Q2NzbD2O5rAVXh2hSbS/KTKeqHYhkw==
+  dependencies:
+    "@babel/runtime" "^7.12.5"
+    "@types/react" ">=16.9.0"
+    "@types/react-dom" ">=16.9.0"
+    "@types/react-test-renderer" ">=16.9.0"
+    filter-console "^0.1.1"
+    react-error-boundary "^3.1.0"
 
 "@testing-library/user-event@^12.8.0":
   version "12.8.3"
@@ -2947,9 +2960,9 @@
   integrity sha512-1z8k4wzFnNjVK/tlxvrWuK5WMt6mydWWP7+zvH5eFep4oj+UkrfiJTRtjCeBXNpwaA/FYqqtb4/QS4ianFpIRA==
 
 "@types/node@*", "@types/node@>= 8":
-  version "14.14.35"
-  resolved "https://repository.folio.org/repository/npm-ci-all/@types/node/-/node-14.14.35.tgz#42c953a4e2b18ab931f72477e7012172f4ffa313"
-  integrity sha512-Lt+wj8NVPx0zUmUwumiVXapmaLUcAk3yPuHCFVXras9k5VT9TdhJqKqGVUQCD60OTMCl0qxJ57OiTL0Mic3Iag==
+  version "14.14.36"
+  resolved "https://repository.folio.org/repository/npm-ci-all/@types/node/-/node-14.14.36.tgz#5637905dbb15c30a33a3c65b9ef7c20e3c85ebad"
+  integrity sha512-kjivUwDJfIjngzbhooRnOLhGYz6oRFi+L+EpMjxroDYXwDw9lHrJJ43E+dJ6KAd3V3WxWAJ/qZE9XKYHhjPOFQ==
 
 "@types/prop-types@*", "@types/prop-types@^15.7.3":
   version "15.7.3"
@@ -2968,6 +2981,13 @@
   dependencies:
     parchment "^1.1.2"
 
+"@types/react-dom@>=16.9.0":
+  version "17.0.3"
+  resolved "https://repository.folio.org/repository/npm-ci-all/@types/react-dom/-/react-dom-17.0.3.tgz#7fdf37b8af9d6d40127137865bb3fff8871d7ee1"
+  integrity sha512-4NnJbCeWE+8YBzupn/YrJxZ8VnjcJq5iR1laqQ1vkpQgBiA7bwk0Rp24fxsdNinzJY2U+HHS4dJJDPdoMjdJ7w==
+  dependencies:
+    "@types/react" "*"
+
 "@types/react-redux@^7.1.16":
   version "7.1.16"
   resolved "https://repository.folio.org/repository/npm-ci-all/@types/react-redux/-/react-redux-7.1.16.tgz#0fbd04c2500c12105494c83d4a3e45c084e3cb21"
@@ -2978,7 +2998,14 @@
     hoist-non-react-statics "^3.3.0"
     redux "^4.0.0"
 
-"@types/react@*", "@types/react@>=16.9.11":
+"@types/react-test-renderer@>=16.9.0":
+  version "17.0.1"
+  resolved "https://repository.folio.org/repository/npm-ci-all/@types/react-test-renderer/-/react-test-renderer-17.0.1.tgz#3120f7d1c157fba9df0118dae20cb0297ee0e06b"
+  integrity sha512-3Fi2O6Zzq/f3QR9dRnlnHso9bMl7weKCviFmfF6B4LS1Uat6Hkm15k0ZAQuDz+UBq6B3+g+NM6IT2nr5QgPzCw==
+  dependencies:
+    "@types/react" "*"
+
+"@types/react@*", "@types/react@>=16.9.0", "@types/react@>=16.9.11":
   version "17.0.3"
   resolved "https://repository.folio.org/repository/npm-ci-all/@types/react/-/react-17.0.3.tgz#ba6e215368501ac3826951eef2904574c262cc79"
   integrity sha512-wYOUxIgs2HZZ0ACNiIayItyluADNbONl7kt8lkLjVK8IitMH5QMyAh75Fwhmo37r1m7L2JaFj03sIfxBVDvRAg==
@@ -2997,10 +3024,10 @@
   resolved "https://repository.folio.org/repository/npm-ci-all/@types/source-list-map/-/source-list-map-0.1.2.tgz#0078836063ffaf17412349bba364087e0ac02ec9"
   integrity sha512-K5K+yml8LTo9bWJI/rECfIPrGgxdpeNbj+d53lwN4QjW1MCwlkhUms+gtdzigTeUyBr09+u8BwOIY3MXvHdcsA==
 
-"@types/tapable@*", "@types/tapable@^1.0.5":
-  version "1.0.6"
-  resolved "https://repository.folio.org/repository/npm-ci-all/@types/tapable/-/tapable-1.0.6.tgz#a9ca4b70a18b270ccb2bc0aaafefd1d486b7ea74"
-  integrity sha512-W+bw9ds02rAQaMvaLYxAbJ6cvguW/iJXNT6lTssS1ps6QdrMKttqEAMEG/b5CR8TZl3/L7/lH0ZV5nNR1LXikA==
+"@types/tapable@^1", "@types/tapable@^1.0.5":
+  version "1.0.7"
+  resolved "https://repository.folio.org/repository/npm-ci-all/@types/tapable/-/tapable-1.0.7.tgz#545158342f949e8fd3bfd813224971ecddc3fac4"
+  integrity sha512-0VBprVqfgFD7Ehb2vd8Lh9TG3jP98gvr8rgehQqzztZNI7o8zS8Ad4jyZneKELphpuE212D8J70LnSNQSyO6bQ==
 
 "@types/uglify-js@*":
   version "3.13.0"
@@ -3024,13 +3051,13 @@
     source-map "^0.7.3"
 
 "@types/webpack@^4.41.8":
-  version "4.41.26"
-  resolved "https://repository.folio.org/repository/npm-ci-all/@types/webpack/-/webpack-4.41.26.tgz#27a30d7d531e16489f9c7607c747be6bc1a459ef"
-  integrity sha512-7ZyTfxjCRwexh+EJFwRUM+CDB2XvgHl4vfuqf1ZKrgGvcS5BrNvPQqJh3tsZ0P6h6Aa1qClVHaJZszLPzpqHeA==
+  version "4.41.27"
+  resolved "https://repository.folio.org/repository/npm-ci-all/@types/webpack/-/webpack-4.41.27.tgz#f47da488c8037e7f1b2dbf2714fbbacb61ec0ffc"
+  integrity sha512-wK/oi5gcHi72VMTbOaQ70VcDxSQ1uX8S2tukBK9ARuGXrYM/+u4ou73roc7trXDNmCxCoerE8zruQqX/wuHszA==
   dependencies:
     "@types/anymatch" "*"
     "@types/node" "*"
-    "@types/tapable" "*"
+    "@types/tapable" "^1"
     "@types/uglify-js" "*"
     "@types/webpack-sources" "*"
     source-map "^0.6.0"
@@ -5813,9 +5840,9 @@ ejs@^2.2.4, ejs@^2.6.1:
   integrity sha512-7vmuyh5+kuUyJKePhQfRQBhXV5Ce+RnaeeQArKu1EAMpL3WbgMt5WG6uQZpEVvYSSsxMXRKOewtDk9RaTKXRlA==
 
 electron-to-chromium@^1.3.649:
-  version "1.3.699"
-  resolved "https://repository.folio.org/repository/npm-ci-all/electron-to-chromium/-/electron-to-chromium-1.3.699.tgz#854eea9db8bc8109c409a4807bfdb200dd75a2c7"
-  integrity sha512-fjt43CPXdPYwD9ybmKbNeLwZBmCVdLY2J5fGZub7/eMPuiqQznOGNXv/wurnpXIlE7ScHnvG9Zi+H4/i6uMKmw==
+  version "1.3.700"
+  resolved "https://repository.folio.org/repository/npm-ci-all/electron-to-chromium/-/electron-to-chromium-1.3.700.tgz#a6999a954c698dc7da5e84c369d65432dbe895be"
+  integrity sha512-wQtaxVZzpOeCjW1CGuC5W3bYjE2jglvk076LcTautBOB9UtHztty7wNzjVsndiMcSsdUsdMy5w76w5J1U7OPTQ==
 
 element-is-visible@^1.0.0:
   version "1.0.0"
@@ -6726,6 +6753,11 @@ fill-range@^7.0.1:
   dependencies:
     to-regex-range "^5.0.1"
 
+filter-console@^0.1.1:
+  version "0.1.1"
+  resolved "https://repository.folio.org/repository/npm-ci-all/filter-console/-/filter-console-0.1.1.tgz#6242be28982bba7415bcc6db74a79f4a294fa67c"
+  integrity sha512-zrXoV1Uaz52DqPs+qEwNJWJFAWZpYJ47UNmpN9q4j+/EYsz85uV0DC9k8tRND5kYmoVzL0W+Y75q4Rg8sRJCdg==
+
 filter-obj@^1.1.0:
   version "1.1.0"
   resolved "https://repository.folio.org/repository/npm-ci-all/filter-obj/-/filter-obj-1.1.0.tgz#9b311112bc6c6127a16e016c6c5d7f19e0805c5b"
@@ -7327,7 +7359,7 @@ has-ansi@^2.0.0:
   dependencies:
     ansi-regex "^2.0.0"
 
-has-bigints@^1.0.0:
+has-bigints@^1.0.1:
   version "1.0.1"
   resolved "https://repository.folio.org/repository/npm-ci-all/has-bigints/-/has-bigints-1.0.1.tgz#64fe6acb020673e3b78db035a5af69aa9d07b113"
   integrity sha512-LSBS2LjbNBTf6287JEbEzvJgftkF5qFkmCo9hDRpAzKhUOlJ+hx8dd4USs00SgsUNwc4617J9ki5YtEClM2ffA==
@@ -7359,7 +7391,7 @@ has-flag@^4.0.0:
   resolved "https://repository.folio.org/repository/npm-ci-all/has-flag/-/has-flag-4.0.0.tgz#944771fd9c81c81265c4d6941860da06bb59479b"
   integrity sha512-EykJT/Q1KjTWctppgIAgfSO0tKVuZUjhgMr17kqTumMl6Afv3EISleU7qZUzoXDFTAHTDC4NOoG/ZxU3EvlMPQ==
 
-has-symbols@^1.0.0, has-symbols@^1.0.1, has-symbols@^1.0.2:
+has-symbols@^1.0.1, has-symbols@^1.0.2:
   version "1.0.2"
   resolved "https://repository.folio.org/repository/npm-ci-all/has-symbols/-/has-symbols-1.0.2.tgz#165d3070c00309752a1236a479331e3ac56f1423"
   integrity sha512-chXa79rL/UC2KlX17jo3vRGz0azaWEx5tGqZg5pO3NUyEJVB17dMruQlzCCOfUvElghKcm5194+BCRvi2Rv/Gw==
@@ -11559,6 +11591,13 @@ react-dropzone@^9.0.0:
     prop-types "^15.6.2"
     prop-types-extra "^1.1.0"
 
+react-error-boundary@^3.1.0:
+  version "3.1.1"
+  resolved "https://repository.folio.org/repository/npm-ci-all/react-error-boundary/-/react-error-boundary-3.1.1.tgz#932c5ca5cbab8ec4fe37fd7b415aa5c3a47597e7"
+  integrity sha512-W3xCd9zXnanqrTUeViceufD3mIW8Ut29BUD+S2f0eO2XCOU8b6UrJfY46RDGe5lxCJzfe4j0yvIfh0RbTZhKJw==
+  dependencies:
+    "@babel/runtime" "^7.12.5"
+
 react-fast-compare@^3.2.0:
   version "3.2.0"
   resolved "https://repository.folio.org/repository/npm-ci-all/react-fast-compare/-/react-fast-compare-3.2.0.tgz#641a9da81b6a6320f270e89724fb45a0b39e43bb"
@@ -13661,14 +13700,14 @@ ultron@~1.1.0:
   integrity sha512-UIEXBNeYmKptWH6z8ZnqTeS8fV74zG0/eRU9VGkpzz+LIJNs8W/zM/L+7ctCkRrgbNnnR0xxw4bKOr0cW0N0Og==
 
 unbox-primitive@^1.0.0:
-  version "1.0.0"
-  resolved "https://repository.folio.org/repository/npm-ci-all/unbox-primitive/-/unbox-primitive-1.0.0.tgz#eeacbc4affa28e9b3d36b5eaeccc50b3251b1d3f"
-  integrity sha512-P/51NX+JXyxK/aigg1/ZgyccdAxm5K1+n8+tvqSntjOivPt19gvm1VC49RWYetsiub8WViUchdxl/KWHHB0kzA==
+  version "1.0.1"
+  resolved "https://repository.folio.org/repository/npm-ci-all/unbox-primitive/-/unbox-primitive-1.0.1.tgz#085e215625ec3162574dc8859abee78a59b14471"
+  integrity sha512-tZU/3NqK3dA5gpE1KtyiJUrEB0lxnGkMFHptJ7q6ewdZ8s12QrODwNbhIJStmJkd1QDXa1NRA8aF2A1zk/Ypyw==
   dependencies:
     function-bind "^1.1.1"
-    has-bigints "^1.0.0"
-    has-symbols "^1.0.0"
-    which-boxed-primitive "^1.0.1"
+    has-bigints "^1.0.1"
+    has-symbols "^1.0.2"
+    which-boxed-primitive "^1.0.2"
 
 uncontrollable@^7.0.0:
   version "7.2.1"
@@ -14161,7 +14200,7 @@ whatwg-fetch@>=0.10.0:
   resolved "https://repository.folio.org/repository/npm-ci-all/whatwg-fetch/-/whatwg-fetch-3.6.2.tgz#dced24f37f2624ed0281725d51d0e2e3fe677f8c"
   integrity sha512-bJlen0FcuU/0EMLrdbJ7zOnW6ITZLrZMIarMUVmdKtsGvZna8vxKYaexICWPfZ8qwf9fzNq+UEIZrnSaApt6RA==
 
-which-boxed-primitive@^1.0.1:
+which-boxed-primitive@^1.0.2:
   version "1.0.2"
   resolved "https://repository.folio.org/repository/npm-ci-all/which-boxed-primitive/-/which-boxed-primitive-1.0.2.tgz#13757bc89b209b049fe5d86430e21cf40a89a8e6"
   integrity sha512-bwZdv0AKLpplFY2KZRX6TvyuN7ojjr7lwkg6ml0roIy9YeuSr7JS372qlNW18UQYzgYK9ziGcerWqZOmEn9VNg==
