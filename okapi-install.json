@@ -20,7 +20,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-permissions-5.14.0-SNAPSHOT.108",
+    "id": "mod-permissions-5.14.0-SNAPSHOT.109",
     "action": "enable"
   },
   {
@@ -152,7 +152,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-search-1.1.0-SNAPSHOT.52",
+    "id": "mod-search-1.1.0-SNAPSHOT.53",
     "action": "enable"
   },
   {
@@ -168,11 +168,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-quick-marc-2.0.3-SNAPSHOT.92",
+    "id": "mod-quick-marc-2.0.3-SNAPSHOT.93",
     "action": "enable"
   },
   {
-    "id": "mod-remote-storage-1.1.0-SNAPSHOT.79",
+    "id": "mod-remote-storage-1.1.0-SNAPSHOT.80",
     "action": "enable"
   },
   {
@@ -180,7 +180,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-password-validator-2.0.1-SNAPSHOT.36",
+    "id": "mod-password-validator-2.0.2-SNAPSHOT.37",
     "action": "enable"
   },
   {
