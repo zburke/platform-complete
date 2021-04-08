@@ -1,6 +1,6 @@
 [
   {
-    "id": "mod-orders-storage-12.1.0-SNAPSHOT.216",
+    "id": "mod-orders-storage-12.1.0-SNAPSHOT.217",
     "action": "enable"
   },
   {
@@ -8,7 +8,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-inventory-storage-20.2.0-SNAPSHOT.560",
+    "id": "mod-inventory-storage-20.2.0-SNAPSHOT.561",
     "action": "enable"
   },
   {
@@ -24,7 +24,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-pubsub-2.1.0-SNAPSHOT.144",
+    "id": "mod-pubsub-2.1.0-SNAPSHOT.146",
     "action": "enable"
   },
   {
@@ -36,7 +36,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-inventory-16.4.0-SNAPSHOT.355",
+    "id": "mod-inventory-16.4.0-SNAPSHOT.357",
     "action": "enable"
   },
   {
@@ -44,7 +44,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-finance-storage-7.1.0-SNAPSHOT.177",
+    "id": "mod-finance-storage-7.1.0-SNAPSHOT.178",
     "action": "enable"
   },
   {
@@ -108,7 +108,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-audit-2.1.0-SNAPSHOT.85",
+    "id": "mod-audit-2.1.0-SNAPSHOT.87",
     "action": "enable"
   },
   {
@@ -124,11 +124,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-source-record-manager-3.1.0-SNAPSHOT.382",
+    "id": "mod-source-record-manager-3.1.0-SNAPSHOT.387",
     "action": "enable"
   },
   {
-    "id": "mod-data-import-2.1.0-SNAPSHOT.179",
+    "id": "mod-data-import-2.1.0-SNAPSHOT.180",
     "action": "enable"
   },
   {
@@ -144,11 +144,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-invoice-storage-5.1.0-SNAPSHOT.94",
+    "id": "mod-invoice-storage-5.1.0-SNAPSHOT.95",
     "action": "enable"
   },
   {
-    "id": "mod-invoice-5.1.0-SNAPSHOT.208",
+    "id": "mod-invoice-5.1.0-SNAPSHOT.211",
     "action": "enable"
   },
   {
@@ -160,11 +160,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-oai-pmh-3.4.1-SNAPSHOT.182",
+    "id": "mod-oai-pmh-3.4.1-SNAPSHOT.183",
     "action": "enable"
   },
   {
-    "id": "mod-quick-marc-2.0.4-SNAPSHOT.94",
+    "id": "mod-quick-marc-2.0.4-SNAPSHOT.96",
     "action": "enable"
   },
   {
@@ -192,7 +192,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-copycat-1.1.0-SNAPSHOT.50",
+    "id": "mod-copycat-1.1.0-SNAPSHOT.51",
     "action": "enable"
   },
   {
@@ -204,7 +204,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-patron-4.5.0-SNAPSHOT.64",
+    "id": "mod-patron-4.5.0-SNAPSHOT.65",
     "action": "enable"
   },
   {
@@ -224,7 +224,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-data-export-worker-1.0.2-SNAPSHOT.74",
+    "id": "mod-data-export-worker-1.0.2-SNAPSHOT.76",
     "action": "enable"
   },
   {
