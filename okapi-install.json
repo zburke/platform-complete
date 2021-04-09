@@ -32,7 +32,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-source-record-storage-5.1.0-SNAPSHOT.275",
+    "id": "mod-source-record-storage-5.1.0-SNAPSHOT.276",
     "action": "enable"
   },
   {
@@ -140,7 +140,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-data-export-spring-1.0.2-SNAPSHOT.81",
+    "id": "mod-data-export-spring-1.0.2-SNAPSHOT.85",
     "action": "enable"
   },
   {
@@ -148,7 +148,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-invoice-5.1.0-SNAPSHOT.211",
+    "id": "mod-invoice-5.1.0-SNAPSHOT.212",
     "action": "enable"
   },
   {
@@ -160,7 +160,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-oai-pmh-3.4.1-SNAPSHOT.183",
+    "id": "mod-oai-pmh-3.4.1",
     "action": "enable"
   },
   {
@@ -224,7 +224,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-data-export-worker-1.0.2-SNAPSHOT.76",
+    "id": "mod-data-export-worker-1.0.2-SNAPSHOT.78",
     "action": "enable"
   },
   {
@@ -232,7 +232,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-erm-usage-harvester-3.1.0-SNAPSHOT.97",
+    "id": "mod-erm-usage-harvester-3.1.0-SNAPSHOT.98",
     "action": "enable"
   },
   {
