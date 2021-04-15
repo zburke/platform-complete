@@ -1,6 +1,10 @@
 [
   {
-    "id": "mod-orders-storage-12.1.0-SNAPSHOT.217",
+    "id": "mod-finance-storage-7.1.0-SNAPSHOT.178",
+    "action": "enable"
+  },
+  {
+    "id": "mod-orders-storage-12.1.0-SNAPSHOT.218",
     "action": "enable"
   },
   {
@@ -8,7 +12,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-inventory-storage-20.2.0-SNAPSHOT.561",
+    "id": "mod-inventory-storage-20.2.0-SNAPSHOT.562",
     "action": "enable"
   },
   {
@@ -24,27 +28,23 @@
     "action": "enable"
   },
   {
-    "id": "mod-pubsub-2.1.0-SNAPSHOT.146",
+    "id": "mod-pubsub-2.1.0-SNAPSHOT.147",
     "action": "enable"
   },
   {
-    "id": "mod-circulation-storage-12.3.0-SNAPSHOT.281",
+    "id": "mod-circulation-storage-12.3.0-SNAPSHOT.282",
     "action": "enable"
   },
   {
-    "id": "mod-source-record-storage-5.1.0-SNAPSHOT.276",
+    "id": "mod-source-record-storage-5.1.0-SNAPSHOT.278",
     "action": "enable"
   },
   {
-    "id": "mod-inventory-16.4.0-SNAPSHOT.358",
+    "id": "mod-inventory-16.4.0-SNAPSHOT.359",
     "action": "enable"
   },
   {
     "id": "mod-organizations-storage-4.1.0-SNAPSHOT.62",
-    "action": "enable"
-  },
-  {
-    "id": "mod-finance-storage-7.1.0-SNAPSHOT.178",
     "action": "enable"
   },
   {
@@ -76,7 +76,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-feesfines-16.1.0-SNAPSHOT.142",
+    "id": "mod-feesfines-16.1.0-SNAPSHOT.143",
     "action": "enable"
   },
   {
@@ -108,7 +108,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-audit-2.1.0-SNAPSHOT.87",
+    "id": "mod-audit-2.1.0-SNAPSHOT.88",
     "action": "enable"
   },
   {
@@ -116,15 +116,15 @@
     "action": "enable"
   },
   {
-    "id": "mod-data-export-4.1.0-SNAPSHOT.237",
+    "id": "mod-data-export-4.1.0-SNAPSHOT.238",
     "action": "enable"
   },
   {
-    "id": "mod-data-import-converter-storage-1.11.0-SNAPSHOT.153",
+    "id": "mod-data-import-converter-storage-1.11.0-SNAPSHOT.155",
     "action": "enable"
   },
   {
-    "id": "mod-source-record-manager-3.1.0-SNAPSHOT.387",
+    "id": "mod-source-record-manager-3.1.0-SNAPSHOT.390",
     "action": "enable"
   },
   {
@@ -140,7 +140,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-data-export-spring-1.0.2-SNAPSHOT.86",
+    "id": "mod-data-export-spring-1.0.3-SNAPSHOT.87",
     "action": "enable"
   },
   {
@@ -148,7 +148,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-invoice-5.1.0-SNAPSHOT.212",
+    "id": "mod-invoice-5.1.0-SNAPSHOT.213",
     "action": "enable"
   },
   {
@@ -160,11 +160,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-oai-pmh-3.4.1",
+    "id": "mod-oai-pmh-3.4.3-SNAPSHOT.187",
     "action": "enable"
   },
   {
-    "id": "mod-quick-marc-2.0.4-SNAPSHOT.96",
+    "id": "mod-quick-marc-2.0.4-SNAPSHOT.98",
     "action": "enable"
   },
   {
@@ -192,7 +192,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-copycat-1.1.0-SNAPSHOT.51",
+    "id": "mod-copycat-1.1.0-SNAPSHOT.52",
     "action": "enable"
   },
   {
@@ -224,11 +224,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-data-export-worker-1.0.2-SNAPSHOT.79",
+    "id": "mod-data-export-worker-1.0.3-SNAPSHOT.80",
     "action": "enable"
   },
   {
-    "id": "mod-ebsconet-1.0.0-SNAPSHOT.17",
+    "id": "mod-ebsconet-1.0.0-SNAPSHOT.19",
     "action": "enable"
   },
   {
