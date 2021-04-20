@@ -4,7 +4,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-orders-storage-12.1.0-SNAPSHOT.218",
+    "id": "mod-orders-storage-12.1.0-SNAPSHOT.220",
     "action": "enable"
   },
   {
@@ -36,11 +36,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-source-record-storage-5.1.0-SNAPSHOT.278",
+    "id": "mod-source-record-storage-5.1.0-SNAPSHOT.279",
     "action": "enable"
   },
   {
-    "id": "mod-inventory-16.4.0-SNAPSHOT.359",
+    "id": "mod-inventory-16.4.0-SNAPSHOT.360",
     "action": "enable"
   },
   {
@@ -76,7 +76,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-feesfines-16.1.0-SNAPSHOT.143",
+    "id": "mod-feesfines-16.1.0-SNAPSHOT.144",
     "action": "enable"
   },
   {
@@ -88,7 +88,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-circulation-20.2.0-SNAPSHOT.829",
+    "id": "mod-circulation-21.0.0-SNAPSHOT.836",
     "action": "enable"
   },
   {
@@ -96,7 +96,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-orders-12.1.0-SNAPSHOT.406",
+    "id": "mod-orders-12.1.0-SNAPSHOT.408",
     "action": "enable"
   },
   {
@@ -108,7 +108,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-audit-2.1.0-SNAPSHOT.88",
+    "id": "mod-audit-2.1.0-SNAPSHOT.89",
     "action": "enable"
   },
   {
@@ -132,7 +132,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-kb-ebsco-java-3.7.1-SNAPSHOT.280",
+    "id": "mod-kb-ebsco-java-3.7.1-SNAPSHOT.281",
     "action": "enable"
   },
   {
@@ -140,7 +140,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-data-export-spring-1.0.3-SNAPSHOT.87",
+    "id": "mod-data-export-spring-1.0.4-SNAPSHOT.89",
     "action": "enable"
   },
   {
@@ -148,7 +148,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-invoice-5.1.0-SNAPSHOT.213",
+    "id": "mod-invoice-5.1.0-SNAPSHOT.214",
     "action": "enable"
   },
   {
@@ -160,15 +160,15 @@
     "action": "enable"
   },
   {
-    "id": "mod-oai-pmh-3.4.3-SNAPSHOT.187",
+    "id": "mod-oai-pmh-3.4.3-SNAPSHOT.189",
     "action": "enable"
   },
   {
-    "id": "mod-quick-marc-2.0.4-SNAPSHOT.98",
+    "id": "mod-quick-marc-2.0.4-SNAPSHOT.99",
     "action": "enable"
   },
   {
-    "id": "mod-remote-storage-1.1.0-SNAPSHOT.82",
+    "id": "mod-remote-storage-1.1.0-SNAPSHOT.89",
     "action": "enable"
   },
   {
@@ -196,7 +196,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-ncip-1.7.1-SNAPSHOT.34",
+    "id": "mod-ncip-1.7.2-SNAPSHOT.36",
     "action": "enable"
   },
   {
@@ -212,10 +212,6 @@
     "action": "enable"
   },
   {
-    "id": "mod-bursar-export-1.0.1-SNAPSHOT.7",
-    "action": "enable"
-  },
-  {
     "id": "mod-codex-inventory-1.10.0-SNAPSHOT.85",
     "action": "enable"
   },
@@ -224,7 +220,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-data-export-worker-1.0.3-SNAPSHOT.80",
+    "id": "mod-data-export-worker-1.0.4-SNAPSHOT.82",
     "action": "enable"
   },
   {
@@ -232,7 +228,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-erm-usage-harvester-3.1.0-SNAPSHOT.98",
+    "id": "mod-erm-usage-harvester-3.1.0-SNAPSHOT.103",
     "action": "enable"
   },
   {
