@@ -4,7 +4,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_agreements-6.1.1000682",
+    "id": "folio_agreements-6.1.1000683",
     "action": "enable"
   },
   {
@@ -16,7 +16,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_checkout-6.0.1000532",
+    "id": "folio_checkout-6.0.1000533",
     "action": "enable"
   },
   {
@@ -24,7 +24,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_circulation-log-1.1.100076",
+    "id": "folio_circulation-log-1.1.100077",
     "action": "enable"
   },
   {
@@ -36,7 +36,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_data-import-4.0.2000826",
+    "id": "folio_data-import-4.0.3000827",
     "action": "enable"
   },
   {
@@ -44,7 +44,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_eholdings-6.0.1000918",
+    "id": "folio_eholdings-6.0.1000920",
     "action": "enable"
   },
   {
@@ -52,7 +52,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_erm-usage-5.0.1000299",
+    "id": "folio_erm-usage-5.0.1000300",
     "action": "enable"
   },
   {
@@ -64,11 +64,11 @@
     "action": "enable"
   },
   {
-    "id": "folio_inventory-7.0.10001221",
+    "id": "folio_inventory-7.0.10001222",
     "action": "enable"
   },
   {
-    "id": "folio_invoice-2.3.1000443",
+    "id": "folio_invoice-2.3.1000444",
     "action": "enable"
   },
   {
@@ -88,7 +88,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_notes-5.0.100092",
+    "id": "folio_notes-5.0.100093",
     "action": "enable"
   },
   {
@@ -96,7 +96,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_orders-2.3.10001011",
+    "id": "folio_orders-2.3.10001012",
     "action": "enable"
   },
   {
@@ -148,7 +148,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_plugin-find-package-title-3.0.100044",
+    "id": "folio_plugin-find-package-title-3.0.100045",
     "action": "enable"
   },
   {
@@ -160,7 +160,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_quick-marc-3.0.1000145",
+    "id": "folio_quick-marc-3.0.1000147",
     "action": "enable"
   },
   {
@@ -188,7 +188,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_stripes-smart-components-6.0.1000950",
+    "id": "folio_stripes-smart-components-6.0.1000951",
     "action": "enable"
   },
   {
