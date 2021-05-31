@@ -1440,9 +1440,9 @@
     "@folio/plugin-find-instance" "^4.0.0"
     "@folio/quick-marc" "^2.0.0"
 
-"@folio/inventory@git://github.com/folio-org/ui-inventory.git#UIIN-574":
+"@folio/inventory@git://github.com/folio-org/ui-inventory.git#feature/UXPROD-1925":
   version "7.0.0"
-  resolved "git://github.com/folio-org/ui-inventory.git#657551abd70250b8707881079f2e11f7e34fb6d5"
+  resolved "git://github.com/folio-org/ui-inventory.git#7ce7b0066b6b1085b79f615ad55ade05a9f5e5e4"
   dependencies:
     "@folio/react-intl-safe-html" "^3.0.0"
     "@testing-library/dom" "^7.29.4"
@@ -1578,10 +1578,9 @@
     react-hot-loader "^4.12.21"
     react-router-prop-types "^1.0.4"
 
-"@folio/orders@>=1.1.0":
+"@folio/orders@git://github.com/folio-org/ui-orders.git#feature/UXPROD-1925":
   version "2.3.10001044"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/orders/-/orders-2.3.10001044.tgz#4555434ce904a85bb648f74ae51cf0f5011b1118"
-  integrity sha512-/8D+htZ+aSXjkNNs+RFciAhu/o5dX+GJRR4+7Ug4exiLeXqqX4wkquXq1sa7G7WAEyDyXWoEu3uPOyodlndclQ==
+  resolved "git://github.com/folio-org/ui-orders.git#d27df229b780072ee18a80f4ceace01b71a8e798"
   dependencies:
     "@folio/plugin-find-po-line" "^2.3.0"
     "@folio/stripes-acq-components" "~2.3.0"
