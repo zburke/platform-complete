@@ -1581,7 +1581,7 @@
 
 "@folio/orders@git://github.com/folio-org/ui-orders.git#feature/UXPROD-1925":
   version "2.3.1"
-  resolved "git://github.com/folio-org/ui-orders.git#5e606a416d026f9e33b80e431547151376062d2d"
+  resolved "git://github.com/folio-org/ui-orders.git#84fc2561f995bc071d333a19a32aa84b2083fd7f"
   dependencies:
     "@folio/plugin-find-po-line" "^2.3.0"
     "@folio/stripes-acq-components" "~2.3.0"
