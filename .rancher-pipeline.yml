@@ -22,7 +22,7 @@ stages:
   steps:
   - applyAppConfig:
       catalogTemplate: p-jqjbc:vega-helmcharts-platform-complete
-      version: 0.1.8
+      version: 0.1.13
       answers:
         image.repository: docker.dev.folio.org/platform-complete
         image.tag: vega-latest
