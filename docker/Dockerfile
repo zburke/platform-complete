@@ -14,7 +14,7 @@ RUN yarn config set python /usr/bin/python2
 RUN yarn config set @folio:registry https://repository.folio.org/repository/npm-folioci/
 RUN yarn install
 RUN yarn build-module-descriptors
-RUN yarn build output --okapi $OKAPI_URL --tenant $TENANT_ID
+RUN yarn build output --no-minify --okapi $OKAPI_URL --tenant $TENANT_ID
 
 # nginx stage
 FROM nginx:stable-alpine
