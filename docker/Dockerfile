@@ -12,7 +12,7 @@ RUN apk add --no-cache alpine-sdk python2
 RUN yarn config set python /usr/bin/python2
 
 RUN yarn config set @folio:registry https://repository.folio.org/repository/npm-folioci/
-RUN yarn install
+RUN yarn install && yarn list --pattern @folio
 RUN yarn build-module-descriptors
 RUN yarn build output --sourcemap --no-minify --okapi $OKAPI_URL --tenant $TENANT_ID
 
