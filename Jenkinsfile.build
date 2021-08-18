@@ -85,7 +85,7 @@ pipeline {
     stage('Build FOLIO instance') {
       steps {
         checkout([$class: 'GitSCM',
-                  branches: [[name: '*/master']],
+                  branches: [[name: 'refs/heads/FOLIO-3264']],
                   doGenerateSubmoduleConfigurations: false,
                   extensions: [[$class: 'SubmoduleOption',
                   disableSubmodules: false,
