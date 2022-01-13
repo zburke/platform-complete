@@ -92,6 +92,7 @@
   },
   "resolutions": {
     "@folio/stripes-cli": "^2.4.0",
+    "@folio/stripes-connect": "folio-org/stripes-connect#STCON-132",
     "@rehooks/local-storage": "2.4.0",
     "colors": "1.4.0",
     "final-form": "^4.20.4",
