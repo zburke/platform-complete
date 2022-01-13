@@ -92,6 +92,8 @@
   },
   "resolutions": {
     "@folio/stripes-cli": "^2.4.0",
+    "@folio/stripes-core": "folio-org/stripes-core#lazy-loading-modules",
+    "@folio/stripes-webpack": "folio-org/stripes-webpack#lazy-loading-ui-modules",
     "@rehooks/local-storage": "2.4.0",
     "colors": "1.4.0",
     "final-form": "^4.20.4",
