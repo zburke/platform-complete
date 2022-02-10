@@ -12,6 +12,7 @@ module.exports = {
   },
 
   modules: {
+/*
     '@folio/acquisition-units': {},
     '@folio/agreements' : {},
     '@folio/bulk-edit': {},
@@ -24,8 +25,10 @@ module.exports = {
     '@folio/data-import' : {},
     '@folio/data-export' : {},
     '@folio/dashboard' : {},
+  */
     '@folio/developer' : {},
-    '@folio/eholdings' : {},
+/*    
+'@folio/eholdings' : {},
     '@folio/erm-comparisons': {},
     '@folio/erm-usage' : {},
     '@folio/export-manager': {},
@@ -69,8 +72,27 @@ module.exports = {
     '@folio/stripes-erm-components' : {},
     '@folio/tags' : {},
     '@folio/tenant-settings' : {},
-    '@folio/users' : {}
+    '@folio/users' : {},
+*/
+    '@folio/bugsnag-logger' : {}, 
+    '@folio/rollbar-logger' : {}, 
+    '@folio/sentry-logger' : {}
   },
+
+  errorLogging: {
+    bugsnag: {
+      apiKey: '9f1825f7f7894723880e53bc20863450',
+    },  
+    rollbar: {
+      accessToken: '271c4c9a75724be98153f915cb8f43f4',
+      captureUncaught: true,
+      captureUnhandledRejections: true,
+    },  
+    sentry: {
+      dsn: 'https://02be29d184384b649d5f0469bb09cbbc@o434246.ingest.sentry.io/5390991',
+//      onunhandledrejection: false,
+    },  
+  }, 
 
   branding: {
     logo: {
