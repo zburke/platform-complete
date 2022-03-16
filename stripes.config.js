@@ -26,7 +26,7 @@ module.exports = {
     '@folio/data-export' : {},
     '@folio/dashboard' : {},
   */
-    '@folio/developer' : {},
+    '@folio/users' : {},
 /*    
 '@folio/eholdings' : {},
     '@folio/erm-comparisons': {},
