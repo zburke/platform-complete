@@ -13,7 +13,7 @@
     "test-regression": "stripes test nightmare stripes.config.js --run WD/platform-core/checkout/users/inventory/requests/circulation/tenant-settings"
   },
   "dependencies": {
-    "@folio/developer": "folio-org/ui-developer#boom",
+    "@folio/users": "folio-org/ui-users#version-mismatch",
     "@folio/stripes": "^7.0.0",
     "moment": "~2.29.0",
     "react": "~17.0.2",
@@ -26,12 +26,7 @@
     "react-titled": "^1.0.1",
     "redux": "^4.0.5",
     "rxjs": "^6.6.7",
-    "swr": "^0.4.2",
-
-    "@folio/bugsnag-logger": "zburke/ui-bugsnag-logger",
-    "@folio/rollbar-logger": "zburke/ui-rollbar-logger",
-    "@folio/sentry-logger": "zburke/ui-sentry-logger"
-
+    "swr": "^0.4.2"
   },
   "devDependencies": {
     "@folio/stripes-cli": "^2.0.0",
