@@ -3,7 +3,7 @@
 // const { merge } = require('lodash');
 
 module.exports = {
-  okapi: { 'url':'http://localhost:9130', 'tenant':'diku' },
+  okapi: { 'url':'https://folio-snapshot-okapi.dev.folio.org', 'tenant':'diku' },
   config: {
     logCategories: 'core,path,action,xhr',
     logPrefix: '--',
