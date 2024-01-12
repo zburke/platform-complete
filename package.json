@@ -105,7 +105,7 @@
     "lodash": "^4.17.5"
   },
   "resolutions": {
-    "@folio/stripes-componets": "https://github.com/folio-org/stripes-components#dayjs-refresh",
+    "@folio/stripes-components": "https://github.com/folio-org/stripes-components#dayjs-refresh",
     "@folio/stripes-core": "https://github.com/folio-org/stripes-core#STCOR-771",
     "@folio/stripes-smart-components": "http://github.com/folio-org/stripes-smart-components#STSMACOM-724",
     
