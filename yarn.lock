@@ -1697,9 +1697,9 @@
     react-router-prop-types "^1.0.4"
 
 "@folio/lists@>=1.2.0":
-  version "4.0.109900000000789"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/lists/-/lists-4.0.109900000000789.tgz#b7fdd26fa53004c78c6c1e54818a6ee945fdde85"
-  integrity sha512-invDw4u5nxNvH56JUTKbjTiqa3kB45aeoqJMb3MqQJrwjH6WDPyjKRRcbSPG4G997l1tMm4oTo7mZVh4eCFjFQ==
+  version "4.0.109900000000793"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/lists/-/lists-4.0.109900000000793.tgz#5a086c31e899bf98518f5cc4077acd469308c023"
+  integrity sha512-XxLuYcyVVDUmQLMhRHhuSFzynSlY/CpjXjvaG5FUPGprVVDsGxWmgPB18+8C7OUndhAl2iEVijIbKoCNf3l0VQ==
   dependencies:
     "@folio/plugin-query-builder" "^2.0.0"
     "@folio/stripes-acq-components" "~7.0.0"
@@ -2037,15 +2037,17 @@
     prop-types "^15.6.0"
 
 "@folio/plugin-query-builder@>=1.0.0", "@folio/plugin-query-builder@^2.0.0":
-  version "2.0.109900000000552"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-query-builder/-/plugin-query-builder-2.0.109900000000552.tgz#7ec61df951ba7e1056a321518a4ef483f337d56b"
-  integrity sha512-tcYEyjxl7UsOmkXxl8KvmJ4GVwGjDgw4lsbRV47vHdRMrLtdeKaqBXlt0f0bVPzr3GLnSpncYZDkV6vQPGA0SQ==
+  version "2.0.109900000000565"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-query-builder/-/plugin-query-builder-2.0.109900000000565.tgz#8daa5907bc4048436360e93a523289f63b4aa266"
+  integrity sha512-SaSx5XCpSfjgLJH2heGOs7PwzeTYh5Wg1tNV5e8RwHYsap5AlutXZrBZaqCzOqF6elF8nX1VojWcVppnXQGOdg==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     ky "^0.33.2"
     lodash "^4.17.5"
     prop-types "^15.5.10"
     react-query "^3.6.0"
+  optionalDependencies:
+    "@folio/plugin-find-organization" "^6.0.0"
 
 "@folio/quick-marc@>=1.0.0", "@folio/quick-marc@^10.0.0":
   version "10.0.109900000000231"
@@ -2672,9 +2674,9 @@
     redux-form "^8.0.0"
 
 "@folio/users@>=2.17.0":
-  version "13.0.109900000000280"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.109900000000280.tgz#e9febd48d245636fe6a13d4741c8df06f6d54308"
-  integrity sha512-k8k8jz9Jf/27FFayura1gSGE/Dnu0ZHvOJ0z1FznQtchHidyh0JYceydxJbb81EWyghGcylZiHIizuVUYqjqvw==
+  version "13.0.109900000000297"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.109900000000297.tgz#8849d2081a79c0b4c46e9eb0c73f424fec00576d"
+  integrity sha512-KwmlJ2JM0Fk/F2/3Oc1QnDGYhNiH+VYJRi5uBNGUdK7A/o1g9Ir+jELSlID4r5P+IG/BrSq8CXeLGalol9RFBw==
   dependencies:
     compressorjs "^1.2.1"
     dompurify "^3.2.0"
@@ -2695,6 +2697,7 @@
     react-final-form-listeners "^1.0.3"
     react-router-prop-types "^1.0.4"
     react-to-print "^3.0.1"
+    react-webcam "^7.2.0"
     uuid "^9.0.0"
   optionalDependencies:
     "@folio/plugin-find-user" "^8.0.0"
@@ -8851,6 +8854,11 @@ react-virtualized-auto-sizer@^1.0.2, react-virtualized-auto-sizer@^1.0.6:
   version "1.0.26"
   resolved "https://repository.folio.org/repository/npm-ci-all/react-virtualized-auto-sizer/-/react-virtualized-auto-sizer-1.0.26.tgz#e9470ef6a778dc4f1d5fd76305fa2d8b610c357a"
   integrity sha512-CblNyiNVw2o+hsa5/49NH2ogGxZ+t+3aweRvNSq7TVjDIlwk7ir4lencEg5HxHeSzwNarSkNkiu0qJSOXtxm5A==
+
+react-webcam@^7.2.0:
+  version "7.2.0"
+  resolved "https://repository.folio.org/repository/npm-ci-all/react-webcam/-/react-webcam-7.2.0.tgz#64141c4c7bdd3e956620500187fa3fcc77e1fd49"
+  integrity sha512-xkrzYPqa1ag2DP+2Q/kLKBmCIfEx49bVdgCCCcZf88oF+0NPEbkwYk3/s/C7Zy0mhM8k+hpdNkBLzxg8H0aWcg==
 
 react-window@^1.8.5:
   version "1.8.11"
