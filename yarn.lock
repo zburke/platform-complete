@@ -2341,9 +2341,9 @@
     uuid "^9.0.0"
 
 "@folio/stripes-core@^11.0.0":
-  version "11.1.109900000000795"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-core/-/stripes-core-11.1.109900000000795.tgz#c79f235d4838f6f08159a1bad39ff68ab2522355"
-  integrity sha512-UhC4memShdMEVDjQoCsdXzbbCmnYAZ33V/XDikBCHbhGeVCFxvYzpcRYQvAXeBdITlDnaQfF5cy7e5btonn2gw==
+  version "11.1.109900000000806"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-core/-/stripes-core-11.1.109900000000806.tgz#916e85a2810c2833d457e00bc47c419a19e6bdf2"
+  integrity sha512-hS+dNb1XeIIYy9ec8AA5oj6YWx8kfMw+tBwFZXk4fR7glRPw37U+fd8p4PHxjsix60nVdhMCRrmdDZlkDbf3Qg==
   dependencies:
     "@apollo/client" "^3.2.1"
     classnames "^2.2.5"
@@ -5143,9 +5143,9 @@ effection@^1.0.0:
   integrity sha512-ITAAnuI7sJqKhjvYlnm66NHaW7zrXzqgsGsjVaaqFHYDWPN8WylVj46xASfkrtwq5wmklbzy6tvRYaj2C4rDHw==
 
 electron-to-chromium@^1.5.73:
-  version "1.5.132"
-  resolved "https://repository.folio.org/repository/npm-ci-all/electron-to-chromium/-/electron-to-chromium-1.5.132.tgz#081b8086d7cecc58732f7cc1f1c19306c5510c5f"
-  integrity sha512-QgX9EBvWGmvSRa74zqfnG7+Eno0Ak0vftBll0Pt2/z5b3bEGYL6OUXLgKPtvx73dn3dvwrlyVkjPKRRlhLYTEg==
+  version "1.5.133"
+  resolved "https://repository.folio.org/repository/npm-ci-all/electron-to-chromium/-/electron-to-chromium-1.5.133.tgz#1e0aba775a9ae51a42d70a2c5e562fab515105f4"
+  integrity sha512-mrR+g6Y1at0GKDlPlMMwLAkI6c47q3d7U/vKS3rGTa3V4xStu18oT4UCPg5ErcAhUqk7swSjXSPUGstOYd2qBw==
 
 element-is-visible@^1.0.0:
   version "1.0.0"
