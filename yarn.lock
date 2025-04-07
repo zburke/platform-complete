@@ -1286,9 +1286,9 @@
     zustand "^4.1.5"
 
 "@folio/bulk-edit@>=1.0.0":
-  version "5.0.109900000000178"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/bulk-edit/-/bulk-edit-5.0.109900000000178.tgz#e80137fd102331ed0a7738b5f23be584fd5fa489"
-  integrity sha512-8MJA7/GlNzPvPtxXmUNqTJWTrJs3CaT0vpV7N1aqRk+deId6DEW24xj2N4eOOUjFHlBSZSY/YBvbM3pz4bYYJg==
+  version "5.0.109900000000182"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/bulk-edit/-/bulk-edit-5.0.109900000000182.tgz#72285df8d8ed0857e1b5263d781dfac4f94efeee"
+  integrity sha512-y3STC/W3mRgWveYfQUcta10A18fpQA8yYUZXmj80O7vCAoYDYYMJ3f/+z6g6wG1Z7ltOk1tI8wknw4URUvMILQ==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     file-saver "^2.0.5"
@@ -2302,9 +2302,9 @@
     yargs "^17.3.1"
 
 "@folio/stripes-components@^13.0.0":
-  version "13.1.109900000000919"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-components/-/stripes-components-13.1.109900000000919.tgz#ff1c690df324a520e8b548713c1a9ad9204709e7"
-  integrity sha512-W1IMFcS/r/QgoPzA1S87HcuzAhYGr/XdsyvyaMeWbF0uiJLJKXyv85pV33K3Z9GdDw2h69w2MJ3rWL0DW2nvew==
+  version "13.1.109900000000927"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-components/-/stripes-components-13.1.109900000000927.tgz#a5deed2a11eb52194dbc47746f1f986404a41744"
+  integrity sha512-MoJzGrg4OSSOry4yBZxLOtPv5DQgmNQAbBGvxhrjHtkoufpVxi/QTdG0lz6VZpax/shV7nt3TPr98dKEk1EuZw==
   dependencies:
     "@folio/stripes-react-hotkeys" "^3.2.1"
     classnames "^2.2.5"
