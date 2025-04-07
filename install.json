@@ -68,7 +68,7 @@
   "id" : "folio_plugin-find-interface-6.0.10990000000022",
   "action" : "enable"
 }, {
-  "id" : "mod-service-interaction-4.3.0-SNAPSHOT.137",
+  "id" : "mod-service-interaction-4.3.0-SNAPSHOT.138",
   "action" : "enable"
 }, {
   "id" : "folio_dashboard-7.1.109900000000147",
@@ -170,7 +170,7 @@
   "id" : "folio_serials-management-2.1.109900000000726",
   "action" : "enable"
 }, {
-  "id" : "mod-agreements-7.3.0-SNAPSHOT.761",
+  "id" : "mod-agreements-7.3.0-SNAPSHOT.762",
   "action" : "enable"
 }, {
   "id" : "folio_eholdings-11.1.109900000000177",
@@ -452,7 +452,7 @@
   "id" : "edge-fqm-4.1.0-SNAPSHOT.47",
   "action" : "enable"
 }, {
-  "id" : "mod-bulk-operations-2.3.0-SNAPSHOT.401",
+  "id" : "mod-bulk-operations-2.3.0-SNAPSHOT.402",
   "action" : "enable"
 }, {
   "id" : "folio_bulk-edit-5.0.109900000000178",
