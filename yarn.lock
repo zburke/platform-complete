@@ -1520,9 +1520,9 @@
     react-final-form-arrays "^3.1.1"
 
 "@folio/erm-usage@>=1.0.3":
-  version "12.0.109900000000352"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/erm-usage/-/erm-usage-12.0.109900000000352.tgz#cf2060963fe29b67add009817d3b9861f3142ca0"
-  integrity sha512-N8VeXm09u+0D80kTMII5/G6av/vHMD+8XP64maaxfI8yl7oFmn6NqMXkrJfcs2Na2TZ3hCXMS3Clj6EfgrViHw==
+  version "12.0.109900000000362"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/erm-usage/-/erm-usage-12.0.109900000000362.tgz#55c1aaeb7e082a5d61c3db10d763c2c9da4b2417"
+  integrity sha512-7ymm9E697Jutfk6Uj1iI169uGT+naNl+4YHxjbfdcYlg2UU/UdgHYxCgtLLtG5N27gnisOV0E8d8gIYl6lGHPg==
   dependencies:
     compose-function "^3.0.3"
     file-saver "^2.0.0"
@@ -10430,9 +10430,9 @@ webpack-virtual-modules@^0.4.3:
   integrity sha512-5tyDlKLqPfMqjT3Q9TAqf2YqjwmnUleZwzJi1A5qXnlBCdj2AtOJ6wAWdglTIDOPgOiOrXeBeFcsQ8+aGQ6QbA==
 
 webpack@^5.80.0:
-  version "5.99.1"
-  resolved "https://repository.folio.org/repository/npm-ci-all/webpack/-/webpack-5.99.1.tgz#8847e847678bcc3d1fc93a30741bbd78bccc028c"
-  integrity sha512-o9gY7ibHPFxLjF6NtvQ6+5CGknsPTRllsL6SEnqR2Zhjk02hiIioJYLS7dvrWaykrRbbmhvDeKp36mKHNbKYiw==
+  version "5.99.2"
+  resolved "https://repository.folio.org/repository/npm-ci-all/webpack/-/webpack-5.99.2.tgz#94e381594270d8d7dbbeb2473b1ea562c325e1fc"
+  integrity sha512-1LYyB3DIKS4k2JlBHKp+b63b1jp9Nn86wypihsZOeKove7kpRCAVqN8pIle0wbs6a0p4kxkMt01lbb6Y93CpRw==
   dependencies:
     "@types/eslint-scope" "^3.7.7"
     "@types/estree" "^1.0.6"
