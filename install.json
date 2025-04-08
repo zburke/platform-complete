@@ -164,7 +164,7 @@
   "id" : "mod-kb-ebsco-java-6.1.0-SNAPSHOT.462",
   "action" : "enable"
 }, {
-  "id" : "mod-serials-management-2.1.0-SNAPSHOT.152",
+  "id" : "mod-serials-management-2.1.0-SNAPSHOT.153",
   "action" : "enable"
 }, {
   "id" : "folio_serials-management-2.1.109900000000726",
@@ -329,7 +329,7 @@
   "id" : "folio_circulation-11.1.10990000000088",
   "action" : "enable"
 }, {
-  "id" : "folio_inventory-14.0.109900000000570",
+  "id" : "folio_inventory-14.0.109900000000573",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-create-inventory-records-7.0.10990000000035",
