@@ -2302,9 +2302,9 @@
     yargs "^17.3.1"
 
 "@folio/stripes-components@^13.0.0":
-  version "13.1.109900000000927"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-components/-/stripes-components-13.1.109900000000927.tgz#a5deed2a11eb52194dbc47746f1f986404a41744"
-  integrity sha512-MoJzGrg4OSSOry4yBZxLOtPv5DQgmNQAbBGvxhrjHtkoufpVxi/QTdG0lz6VZpax/shV7nt3TPr98dKEk1EuZw==
+  version "13.1.109900000000933"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-components/-/stripes-components-13.1.109900000000933.tgz#f8ea4af9aee7ed673954d93f3c53ac0b3d304c2a"
+  integrity sha512-9jKuThN9ZWCDx0Agy0QUjy3TQcCz5aLMYoKfod9nil9fYFatMfnW1KmcpofashXD38Lm05TyKhFPEd249VcvmA==
   dependencies:
     "@folio/stripes-react-hotkeys" "^3.2.1"
     classnames "^2.2.5"
@@ -10422,9 +10422,9 @@ webpack-virtual-modules@^0.4.3:
   integrity sha512-5tyDlKLqPfMqjT3Q9TAqf2YqjwmnUleZwzJi1A5qXnlBCdj2AtOJ6wAWdglTIDOPgOiOrXeBeFcsQ8+aGQ6QbA==
 
 webpack@^5.80.0:
-  version "5.99.3"
-  resolved "https://repository.folio.org/repository/npm-ci-all/webpack/-/webpack-5.99.3.tgz#b22c8e824c700c5470c4a9027a7cf9a4242807c6"
-  integrity sha512-Sb8csGqLL9kY7nqHyJq9Yw1sx+/mpBLXuqM6edfjFOpODiFjzkLUKF08s5WxDxWg9akMklrbTsVsoj7jBULhfw==
+  version "5.99.4"
+  resolved "https://repository.folio.org/repository/npm-ci-all/webpack/-/webpack-5.99.4.tgz#2fc93f3c2190db167cf4bd5ad5265efdd4576f24"
+  integrity sha512-TkHfuepzYbQ02GMRzZABrkguDyG6p5gaw4qxFb/cuE+XjN21lecJsNATdphBMXawFxIZxUvDHJfrs8BEfyZFzg==
   dependencies:
     "@types/eslint-scope" "^3.7.7"
     "@types/estree" "^1.0.6"
