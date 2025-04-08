@@ -88,7 +88,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_inventory-14.0.109900000000566",
+    "id": "folio_inventory-14.0.109900000000570",
     "action": "enable"
   },
   {
@@ -112,7 +112,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_marc-authorities-7.1.109900000000612",
+    "id": "folio_marc-authorities-7.1.109900000000633",
     "action": "enable"
   },
   {
@@ -132,7 +132,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_orders-8.0.109900000000121",
+    "id": "folio_orders-8.0.109900000000126",
     "action": "enable"
   },
   {

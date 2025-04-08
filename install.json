@@ -290,7 +290,7 @@
   "id" : "folio_circulation-log-6.0.10990000000035",
   "action" : "enable"
 }, {
-  "id" : "folio_marc-authorities-7.1.109900000000612",
+  "id" : "folio_marc-authorities-7.1.109900000000633",
   "action" : "enable"
 }, {
   "id" : "folio_stripes-marc-components-2.0.109900000000130",
@@ -329,7 +329,7 @@
   "id" : "folio_circulation-11.1.10990000000088",
   "action" : "enable"
 }, {
-  "id" : "folio_inventory-14.0.109900000000566",
+  "id" : "folio_inventory-14.0.109900000000570",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-create-inventory-records-7.0.10990000000035",
@@ -440,7 +440,7 @@
   "id" : "folio_invoice-7.0.209900000000131",
   "action" : "enable"
 }, {
-  "id" : "folio_orders-8.0.109900000000121",
+  "id" : "folio_orders-8.0.109900000000126",
   "action" : "enable"
 }, {
   "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.595",
