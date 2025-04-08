@@ -2517,9 +2517,9 @@
     uuid "^9.0.0"
 
 "@folio/stripes-template-editor@^3.0.0", "@folio/stripes-template-editor@^3.2.0":
-  version "3.5.10990000000086"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-template-editor/-/stripes-template-editor-3.5.10990000000086.tgz#ca729562aef92ab0745c04c824a0e86e1f0677ef"
-  integrity sha512-KFotgpr/m94TyxiHSDvoSz3NCR6NzI62gkRRVJ7cdkxOlIuSd/xUpE3xn0o/eDaQr2YtcV9OSHxcPwLYOgGYZw==
+  version "3.6.10990000000095"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-template-editor/-/stripes-template-editor-3.6.10990000000095.tgz#1e2f00f99622d73d326cc8be2151ec8e5e496691"
+  integrity sha512-JFqhPYraED0F6Z0IHB3aNTHciElsTgBTk6oUpGDMkebrw1xwEaBGpfPQFJawnbn7jCF9P/LpbbH76CjlOTzU0Q==
   dependencies:
     dompurify "^3.1.3"
     html-to-react "^1.3.3"
