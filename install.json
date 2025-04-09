@@ -191,7 +191,7 @@
   "id" : "mod-configuration-5.13.0-SNAPSHOT.139",
   "action" : "enable"
 }, {
-  "id" : "folio_agreements-12.1.109900000000588",
+  "id" : "folio_agreements-12.1.109900000000592",
   "action" : "enable"
 }, {
   "id" : "folio_tenant-settings-10.0.10990000000037",
@@ -266,7 +266,7 @@
   "id" : "folio_stripes-authority-components-6.1.10990000000081",
   "action" : "enable"
 }, {
-  "id" : "mod-inventory-21.2.0-SNAPSHOT.856",
+  "id" : "mod-inventory-21.2.0-SNAPSHOT.857",
   "action" : "enable"
 }, {
   "id" : "mod-quick-marc-7.1.0-SNAPSHOT.321",
@@ -293,7 +293,7 @@
   "id" : "folio_marc-authorities-7.1.109900000000633",
   "action" : "enable"
 }, {
-  "id" : "folio_stripes-marc-components-2.0.109900000000130",
+  "id" : "folio_stripes-marc-components-2.0.109900000000135",
   "action" : "enable"
 }, {
   "id" : "mod-data-import-3.4.0-SNAPSHOT.327",
@@ -329,7 +329,7 @@
   "id" : "folio_circulation-11.1.10990000000088",
   "action" : "enable"
 }, {
-  "id" : "folio_inventory-14.0.109900000000573",
+  "id" : "folio_inventory-14.0.109900000000581",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-create-inventory-records-7.0.10990000000035",
