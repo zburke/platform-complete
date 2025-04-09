@@ -1813,9 +1813,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/organizations@>=1.0.0":
-  version "6.0.10990000000077"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/organizations/-/organizations-6.0.10990000000077.tgz#ff12a7383f19fb088fa2f531beb0d259daee4001"
-  integrity sha512-ysT/9hTcuOtJj0ieDlhSv52RMtkMi/3IrwfEHZAip65v0bYyt6xg8x3d7kNE5Dt/7qrh4lsRwwpuy5kTDXKsYw==
+  version "7.0.10990000000080"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/organizations/-/organizations-7.0.10990000000080.tgz#d34fd2f118737b2edd88ac53092d8880aa8a9872"
+  integrity sha512-7ITV2mT7qCW4pJpxsEWjWvqG9ChxADtifr66JfZjHQefVUL9G4a55NodfuFTl+WIDNmdWxcgPas2DMD5HNYFPA==
   dependencies:
     "@folio/plugin-find-organization" "^6.0.0"
     "@folio/stripes-acq-components" "~7.0.2"
