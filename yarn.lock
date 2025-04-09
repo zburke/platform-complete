@@ -1955,9 +1955,9 @@
     redux-form "^8.3.7"
 
 "@folio/plugin-find-instance@>=1.1.0", "@folio/plugin-find-instance@^9.0.0":
-  version "9.0.10990000000037"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-find-instance/-/plugin-find-instance-9.0.10990000000037.tgz#28e36d38b2db6141210f96e13619f0f41b8a3133"
-  integrity sha512-oFAKnr55UzSKoVWjzjL0wCZDa0rJAx8/ZpIwDjzymbx8LecbfVjOD51vMkNeYL9FCGUyl8CSEn3fd41M2eOW1Q==
+  version "9.1.10990000000042"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-find-instance/-/plugin-find-instance-9.1.10990000000042.tgz#bd411d799543dfc4308af3c0848ee659991a3d6b"
+  integrity sha512-cT6m/xti59imGYwd+ivqMFEE6+JFX0sMsO2bIkhoMwrypZg4mmJEdcOA713toK1Ei/vzciSZo6ht516QjHeg3w==
   dependencies:
     classnames "^2.2.6"
     history "^4.10.0"

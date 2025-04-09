@@ -47,7 +47,7 @@
   "id" : "folio_ldp-3.0.20990000000077",
   "action" : "enable"
 }, {
-  "id" : "mod-erm-usage-5.2.0-SNAPSHOT.215",
+  "id" : "mod-erm-usage-5.2.0-SNAPSHOT.216",
   "action" : "enable"
 }, {
   "id" : "mod-tags-2.5.0-SNAPSHOT.115",
@@ -92,7 +92,7 @@
   "id" : "mod-source-record-storage-5.11.0-SNAPSHOT.673",
   "action" : "enable"
 }, {
-  "id" : "mod-users-19.5.1-SNAPSHOT.345",
+  "id" : "mod-users-19.6.0-SNAPSHOT.347",
   "action" : "enable"
 }, {
   "id" : "mod-authtoken-2.17.0-SNAPSHOT.165",
@@ -260,7 +260,7 @@
   "id" : "mod-search-5.1.0-SNAPSHOT.691",
   "action" : "enable"
 }, {
-  "id" : "folio_plugin-find-instance-9.0.10990000000037",
+  "id" : "folio_plugin-find-instance-9.1.10990000000042",
   "action" : "enable"
 }, {
   "id" : "folio_stripes-authority-components-6.1.10990000000081",
