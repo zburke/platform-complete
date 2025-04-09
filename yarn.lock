@@ -2488,9 +2488,9 @@
     prop-types "^15.7.2"
 
 "@folio/stripes-smart-components@^10.0.0":
-  version "10.1.109900000000317"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-smart-components/-/stripes-smart-components-10.1.109900000000317.tgz#ca165cbf98e50a1b88491834848ad688fa71c880"
-  integrity sha512-uaKQiZyS3j2GvGs0po4HPGz2WjVjQZ3IrIPCO7Ibw9OMrhw7SG6ll6zrwF2QQzeYCyvSiYNd5ngEi33XmJGunA==
+  version "10.1.109900000000346"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-smart-components/-/stripes-smart-components-10.1.109900000000346.tgz#d94c6c2d187891e8d16ca1c20647edba294afdec"
+  integrity sha512-2nokyZ2mSU0Y8CpxSRPd3nQto5R8UFzfFa3tpnLTRxtMv8NEfa5+S7gNyGossfdbyM0MfGp0OGROTsgzrKVkzw==
   dependencies:
     "@rehooks/local-storage" "2.4.4"
     classnames "^2.2.6"
@@ -6316,9 +6316,9 @@ http-errors@2.0.0:
     toidentifier "1.0.1"
 
 http-proxy-middleware@^3.0.0:
-  version "3.0.3"
-  resolved "https://repository.folio.org/repository/npm-ci-all/http-proxy-middleware/-/http-proxy-middleware-3.0.3.tgz#dc1313c75bd00d81e103823802551ee30130ebd1"
-  integrity sha512-usY0HG5nyDUwtqpiZdETNbmKtw3QQ1jwYFZ9wi5iHzX2BcILwQKtYDJPo7XHTsu5Z0B2Hj3W9NNnbd+AjFWjqg==
+  version "3.0.4"
+  resolved "https://repository.folio.org/repository/npm-ci-all/http-proxy-middleware/-/http-proxy-middleware-3.0.4.tgz#f755c799b8cf31a9e3e0ba12952919efae58fe5d"
+  integrity sha512-LRX3BKgdEyHjLMz608kicoz5E6zGdkSpDwLYVBsJlDpQ3wcqh/Wdsopf2KrysXnNeM7jJJk4KXCV14u8SCLZzQ==
   dependencies:
     "@types/http-proxy" "^1.17.15"
     debug "^4.3.6"
