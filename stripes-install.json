@@ -92,7 +92,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_invoice-7.0.209900000000131",
+    "id": "folio_invoice-7.0.309900000000134",
     "action": "enable"
   },
   {
@@ -132,7 +132,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_orders-8.0.109900000000126",
+    "id": "folio_orders-8.0.209900000000135",
     "action": "enable"
   },
   {
@@ -212,7 +212,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_quick-marc-10.0.109900000000234",
+    "id": "folio_quick-marc-10.0.109900000000239",
     "action": "enable"
   },
   {
@@ -228,7 +228,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_requests-13.0.109900000000144",
+    "id": "folio_requests-13.0.109900000000149",
     "action": "enable"
   },
   {
@@ -256,7 +256,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_stripes-inventory-components-2.0.109000000636",
+    "id": "folio_stripes-inventory-components-2.0.109000000641",
     "action": "enable"
   },
   {
