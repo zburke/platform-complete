@@ -242,7 +242,7 @@
   "id" : "mod-finance-storage-8.9.0-SNAPSHOT.406",
   "action" : "enable"
 }, {
-  "id" : "mod-finance-5.2.0-SNAPSHOT.287",
+  "id" : "mod-finance-5.2.0-SNAPSHOT.288",
   "action" : "enable"
 }, {
   "id" : "mod-source-record-manager-3.11.0-SNAPSHOT.1015",
@@ -431,7 +431,7 @@
   "id" : "edge-rtac-2.10.0-SNAPSHOT.108",
   "action" : "enable"
 }, {
-  "id" : "mod-invoice-6.1.0-SNAPSHOT.465",
+  "id" : "mod-invoice-6.1.0-SNAPSHOT.466",
   "action" : "enable"
 }, {
   "id" : "folio_finance-9.0.109900000000240",
@@ -440,7 +440,7 @@
   "id" : "folio_invoice-7.0.309900000000134",
   "action" : "enable"
 }, {
-  "id" : "folio_orders-8.0.209900000000135",
+  "id" : "folio_orders-8.0.309900000000151",
   "action" : "enable"
 }, {
   "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.595",
