@@ -1549,9 +1549,9 @@
     react-router-prop-types "^1.0.4"
 
 "@folio/finance@>=1.1.0":
-  version "9.0.109900000000240"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/finance/-/finance-9.0.109900000000240.tgz#50a5579489734f248b63f573b3221b64cf366cd6"
-  integrity sha512-uQqW1MzM/cTWMmj7oQsdj3vovRKXhasHObLW6O1+nLZ4pGTA6HRl/IdGCnk73MjClzd20A0xIfbfbSAdT0HAdQ==
+  version "9.0.109900000000243"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/finance/-/finance-9.0.109900000000243.tgz#276cc2b2fbd72a73a24df06d02f911701d465e75"
+  integrity sha512-eeSVi/la8iqHNTmXwDFmYIattzEBSErJK1eqWBTY2G27xnSSJkWW1TIrhS3Y/AVYmPlh/tbZaAqG244iT1/eHw==
   dependencies:
     "@folio/stripes-acq-components" "~7.0.0"
     "@folio/stripes-data-transfer-components" "~7.0.0"
@@ -6316,9 +6316,9 @@ http-errors@2.0.0:
     toidentifier "1.0.1"
 
 http-proxy-middleware@^3.0.0:
-  version "3.0.4"
-  resolved "https://repository.folio.org/repository/npm-ci-all/http-proxy-middleware/-/http-proxy-middleware-3.0.4.tgz#f755c799b8cf31a9e3e0ba12952919efae58fe5d"
-  integrity sha512-LRX3BKgdEyHjLMz608kicoz5E6zGdkSpDwLYVBsJlDpQ3wcqh/Wdsopf2KrysXnNeM7jJJk4KXCV14u8SCLZzQ==
+  version "3.0.5"
+  resolved "https://repository.folio.org/repository/npm-ci-all/http-proxy-middleware/-/http-proxy-middleware-3.0.5.tgz#9dcde663edc44079bc5a9c63e03fe5e5d6037fab"
+  integrity sha512-GLZZm1X38BPY4lkXA01jhwxvDoOkkXqjgVyUzVxiEK4iuRu03PZoYHhHRwxnfhQMDuaxi3vVri0YgSro/1oWqg==
   dependencies:
     "@types/http-proxy" "^1.17.15"
     debug "^4.3.6"

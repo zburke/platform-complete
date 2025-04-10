@@ -377,7 +377,7 @@
   "id" : "folio_inn-reach-6.0.10990000000036",
   "action" : "enable"
 }, {
-  "id" : "mod-orders-13.1.0-SNAPSHOT.1009",
+  "id" : "mod-orders-13.1.0-SNAPSHOT.1010",
   "action" : "enable"
 }, {
   "id" : "folio_acquisition-units-6.0.10990000000021",
@@ -431,10 +431,10 @@
   "id" : "edge-rtac-2.10.0-SNAPSHOT.108",
   "action" : "enable"
 }, {
-  "id" : "mod-invoice-6.1.0-SNAPSHOT.466",
+  "id" : "mod-invoice-6.1.0-SNAPSHOT.467",
   "action" : "enable"
 }, {
-  "id" : "folio_finance-9.0.109900000000240",
+  "id" : "folio_finance-9.0.109900000000243",
   "action" : "enable"
 }, {
   "id" : "folio_invoice-7.0.309900000000134",
