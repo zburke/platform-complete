@@ -1697,9 +1697,9 @@
     react-router-prop-types "^1.0.4"
 
 "@folio/lists@>=1.2.0":
-  version "4.0.109900000000804"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/lists/-/lists-4.0.109900000000804.tgz#a4405b5b2c288263d0a60f0300283856f4096332"
-  integrity sha512-svGReAQc5fG0HpE8M+ChwDn6K/BRXTR+ZGVgjcd8US25ZMY47+msgKQ8TjTlGfuLSR/eAOXJaSOvccJvIRhKSA==
+  version "4.0.209900000000809"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/lists/-/lists-4.0.209900000000809.tgz#8098f4ba20586e8f8038aec233c506637d5375db"
+  integrity sha512-upIuzxqLyp72Yid1z923llbsd7ytzbsFYytF+fhoibIZNrn/JFidojDh16IDAQMTJMnPgPXr24xN5zMdA/iR8A==
   dependencies:
     "@folio/plugin-query-builder" "^2.0.0"
     "@folio/stripes-acq-components" "~7.0.0"
@@ -2037,9 +2037,9 @@
     prop-types "^15.6.0"
 
 "@folio/plugin-query-builder@>=1.0.0", "@folio/plugin-query-builder@^2.0.0":
-  version "2.0.109900000000568"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-query-builder/-/plugin-query-builder-2.0.109900000000568.tgz#1fc131daa30e6acbc1f38975c0be4d3a390adba4"
-  integrity sha512-1hey8U96G+B95Ted42IgaJd1GsJccvdZIvOklhK5B0D1/4TJG6fj1AKkCzI7/Lf986pEv4IlDx7HaG6GQcH7Kw==
+  version "2.0.209900000000575"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-query-builder/-/plugin-query-builder-2.0.209900000000575.tgz#1f1b785839a50258b07c56cb9d7b2c6510bfe963"
+  integrity sha512-o/FO+zOiTxwvc/Pc+OOTnCqpeCDbg62AHFZA3EQJug5WtcAc36UkX4glOgWKy/C8pDGk77CpTnpO2L/pun7pMw==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     ky "^0.33.2"
