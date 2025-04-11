@@ -36,7 +36,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-service-interaction-4.3.0-SNAPSHOT.138",
+    "id": "mod-service-interaction-4.3.0-SNAPSHOT.140",
     "action": "enable"
   },
   {
@@ -48,7 +48,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-licenses-6.3.0-SNAPSHOT.282",
+    "id": "mod-licenses-6.3.0-SNAPSHOT.283",
     "action": "enable"
   },
   {
@@ -84,7 +84,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-inventory-storage-29.1.0-SNAPSHOT.1129",
+    "id": "mod-inventory-storage-29.1.0-SNAPSHOT.1130",
     "action": "enable"
   },
   {
@@ -112,7 +112,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-serials-management-2.1.0-SNAPSHOT.153",
+    "id": "mod-serials-management-2.1.0-SNAPSHOT.155",
     "action": "enable"
   },
   {
@@ -184,7 +184,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-inventory-21.2.0-SNAPSHOT.857",
+    "id": "mod-inventory-21.2.0-SNAPSHOT.858",
     "action": "enable"
   },
   {

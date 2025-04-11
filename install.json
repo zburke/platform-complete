@@ -59,7 +59,7 @@
   "id" : "mod-invoice-storage-6.1.0-SNAPSHOT.171",
   "action" : "enable"
 }, {
-  "id" : "mod-service-interaction-4.3.0-SNAPSHOT.138",
+  "id" : "mod-service-interaction-4.3.0-SNAPSHOT.140",
   "action" : "enable"
 }, {
   "id" : "folio_dashboard-7.1.109900000000147",
@@ -80,7 +80,7 @@
   "id" : "folio_plugin-find-interface-6.0.10990000000022",
   "action" : "enable"
 }, {
-  "id" : "mod-licenses-6.3.0-SNAPSHOT.282",
+  "id" : "mod-licenses-6.3.0-SNAPSHOT.283",
   "action" : "enable"
 }, {
   "id" : "folio_licenses-12.1.109900000000148",
@@ -122,7 +122,7 @@
   "id" : "mod-pubsub-2.17.0-SNAPSHOT.260",
   "action" : "enable"
 }, {
-  "id" : "mod-inventory-storage-29.1.0-SNAPSHOT.1129",
+  "id" : "mod-inventory-storage-29.1.0-SNAPSHOT.1130",
   "action" : "enable"
 }, {
   "id" : "folio_calendar-12.0.109900000000127",
@@ -164,7 +164,7 @@
   "id" : "mod-kb-ebsco-java-6.1.0-SNAPSHOT.462",
   "action" : "enable"
 }, {
-  "id" : "mod-serials-management-2.1.0-SNAPSHOT.153",
+  "id" : "mod-serials-management-2.1.0-SNAPSHOT.155",
   "action" : "enable"
 }, {
   "id" : "folio_serials-management-2.1.109900000000733",
@@ -266,7 +266,7 @@
   "id" : "folio_stripes-authority-components-6.1.10990000000086",
   "action" : "enable"
 }, {
-  "id" : "mod-inventory-21.2.0-SNAPSHOT.857",
+  "id" : "mod-inventory-21.2.0-SNAPSHOT.858",
   "action" : "enable"
 }, {
   "id" : "mod-quick-marc-7.1.0-SNAPSHOT.321",
@@ -434,7 +434,7 @@
   "id" : "mod-invoice-6.1.0-SNAPSHOT.467",
   "action" : "enable"
 }, {
-  "id" : "folio_finance-9.0.109900000000246",
+  "id" : "folio_finance-9.0.109900000000249",
   "action" : "enable"
 }, {
   "id" : "folio_invoice-7.0.309900000000134",
