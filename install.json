@@ -59,7 +59,7 @@
   "id" : "mod-invoice-storage-6.1.0-SNAPSHOT.171",
   "action" : "enable"
 }, {
-  "id" : "mod-service-interaction-4.3.0-SNAPSHOT.140",
+  "id" : "mod-service-interaction-4.3.0-SNAPSHOT.141",
   "action" : "enable"
 }, {
   "id" : "folio_dashboard-7.1.109900000000147",
@@ -80,7 +80,7 @@
   "id" : "folio_plugin-find-interface-6.0.10990000000022",
   "action" : "enable"
 }, {
-  "id" : "mod-licenses-6.3.0-SNAPSHOT.283",
+  "id" : "mod-licenses-6.3.0-SNAPSHOT.284",
   "action" : "enable"
 }, {
   "id" : "folio_licenses-12.1.109900000000148",
@@ -218,7 +218,7 @@
   "id" : "folio_users-13.0.109900000000297",
   "action" : "enable"
 }, {
-  "id" : "mod-circulation-storage-17.5.0-SNAPSHOT.436",
+  "id" : "mod-circulation-storage-17.5.0-SNAPSHOT.437",
   "action" : "enable"
 }, {
   "id" : "mod-user-import-3.11.0-SNAPSHOT.108",
