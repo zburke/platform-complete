@@ -167,7 +167,7 @@
   "id" : "mod-serials-management-2.1.0-SNAPSHOT.155",
   "action" : "enable"
 }, {
-  "id" : "folio_serials-management-2.1.109900000000736",
+  "id" : "folio_serials-management-2.1.109900000000739",
   "action" : "enable"
 }, {
   "id" : "mod-agreements-7.3.0-SNAPSHOT.762",
@@ -266,7 +266,7 @@
   "id" : "folio_stripes-authority-components-6.1.10990000000086",
   "action" : "enable"
 }, {
-  "id" : "mod-inventory-21.2.0-SNAPSHOT.858",
+  "id" : "mod-inventory-21.2.0-SNAPSHOT.860",
   "action" : "enable"
 }, {
   "id" : "mod-quick-marc-7.1.0-SNAPSHOT.321",
