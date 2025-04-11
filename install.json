@@ -80,7 +80,7 @@
   "id" : "folio_plugin-find-interface-6.0.10990000000022",
   "action" : "enable"
 }, {
-  "id" : "mod-licenses-6.3.0-SNAPSHOT.281",
+  "id" : "mod-licenses-6.3.0-SNAPSHOT.282",
   "action" : "enable"
 }, {
   "id" : "folio_licenses-12.1.109900000000148",
@@ -323,7 +323,7 @@
   "id" : "folio_checkin-12.0.10990000000084",
   "action" : "enable"
 }, {
-  "id" : "folio_checkout-12.0.10990000000083",
+  "id" : "folio_checkout-12.0.10990000000090",
   "action" : "enable"
 }, {
   "id" : "folio_circulation-11.1.10990000000088",
