@@ -326,7 +326,7 @@
   "id" : "folio_checkout-12.0.10990000000090",
   "action" : "enable"
 }, {
-  "id" : "folio_circulation-11.1.10990000000088",
+  "id" : "folio_circulation-11.1.10990000000093",
   "action" : "enable"
 }, {
   "id" : "folio_inventory-14.0.109900000000581",
