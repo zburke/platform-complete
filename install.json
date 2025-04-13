@@ -194,7 +194,7 @@
   "id" : "folio_agreements-12.1.109900000000592",
   "action" : "enable"
 }, {
-  "id" : "folio_tenant-settings-10.0.10990000000037",
+  "id" : "folio_tenant-settings-10.0.10990000000042",
   "action" : "enable"
 }, {
   "id" : "mod-login-saml-2.10.0-SNAPSHOT.167",
