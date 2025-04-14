@@ -2080,9 +2080,9 @@
     uuid "^9.0.0"
 
 "@folio/receiving@>=1.0.0":
-  version "7.0.10990000000096"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/receiving/-/receiving-7.0.10990000000096.tgz#41a545bad7fa30c793023d79655e50f4b34e1312"
-  integrity sha512-TPSpNEkvjWX1UTsUei6Vsp5Atiq8JeK4E3wMIh6zsygTjza3nI3y1JiJrVrYkWUIuovAwloI3JhJ/qDu8rRIBw==
+  version "7.0.109900000000101"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/receiving/-/receiving-7.0.109900000000101.tgz#b5c0988f85f28aa143af7ea8678eb02cf9e8e90b"
+  integrity sha512-A7gX6tKXGWPCo3PJo4NVpOKAnSyKqiSnk9VT0sriMEO5n+sfrPlLezWmsWBAmtivzClHHS1lq48Y5heCCGgCjg==
   dependencies:
     "@folio/stripes-acq-components" "~7.0.0"
     final-form "^4.18.2"
