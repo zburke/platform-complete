@@ -2,6 +2,9 @@
   "id" : "folio_handler-stripes-registry-3.1.10990000000058",
   "action" : "enable"
 }, {
+  "id" : "folio_mosaic-settings-1.0.10990000000011",
+  "action" : "enable"
+}, {
   "id" : "folio_myprofile-10.0.10990000000056",
   "action" : "enable"
 }, {
@@ -102,9 +105,6 @@
   "action" : "enable"
 }, {
   "id" : "mod-login-7.13.0-SNAPSHOT.163",
-  "action" : "enable"
-}, {
-  "id" : "mod-mosaic-1.0.0-SNAPSHOT.2",
   "action" : "enable"
 }, {
   "id" : "edge-inn-reach-3.6.0-SNAPSHOT.67",
@@ -296,9 +296,6 @@
   "id" : "folio_marc-authorities-7.1.109900000000654",
   "action" : "enable"
 }, {
-  "id" : "folio_mosaic-settings-1.0.10990000000011",
-  "action" : "enable"
-}, {
   "id" : "folio_stripes-marc-components-2.0.109900000000135",
   "action" : "enable"
 }, {
@@ -395,7 +392,7 @@
   "id" : "folio_plugin-find-po-line-6.0.10990000000032",
   "action" : "enable"
 }, {
-  "id" : "folio_receiving-7.0.109900000000101",
+  "id" : "folio_receiving-7.0.209900000000104",
   "action" : "enable"
 }, {
   "id" : "mod-data-export-worker-3.5.0-SNAPSHOT.603",

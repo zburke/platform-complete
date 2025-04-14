@@ -1735,6 +1735,13 @@
   optionalDependencies:
     "@folio/quick-marc" "^10.0.0"
 
+"@folio/mosaic-settings@>=1.0.0":
+  version "1.0.10990000000011"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/mosaic-settings/-/mosaic-settings-1.0.10990000000011.tgz#2b08ef48bac02e4bf97223e1723b67f4b3774f7e"
+  integrity sha512-I/XvpqhO6ApVh9xS/URaM0tceTOC7JptyfLtwFlfve73Wk/UuorWZJfuhUafrSBfWYJRYos3MWKoOOlOSy1ZKg==
+  dependencies:
+    "@folio/stripes-acq-components" "^7.0.0"
+
 "@folio/myprofile@>=1.1.0":
   version "10.0.10990000000056"
   resolved "https://repository.folio.org/repository/npm-folioci/@folio/myprofile/-/myprofile-10.0.10990000000056.tgz#7384d93f5076ca46ab816dc9bc8ef84b9460ffc9"
@@ -2080,9 +2087,9 @@
     uuid "^9.0.0"
 
 "@folio/receiving@>=1.0.0":
-  version "7.0.109900000000101"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/receiving/-/receiving-7.0.109900000000101.tgz#b5c0988f85f28aa143af7ea8678eb02cf9e8e90b"
-  integrity sha512-A7gX6tKXGWPCo3PJo4NVpOKAnSyKqiSnk9VT0sriMEO5n+sfrPlLezWmsWBAmtivzClHHS1lq48Y5heCCGgCjg==
+  version "7.0.209900000000104"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/receiving/-/receiving-7.0.209900000000104.tgz#a297b11175baae2afc2959a10a1aa0ab5b6fb9e1"
+  integrity sha512-c3hcvGfutO838IRNWyWwTV0Fhw0VyCpDB802C9/f5CwymN7lnHxNFtkgMASmNcsQvE5rs5o7ESZaLAvZqRBAIA==
   dependencies:
     "@folio/stripes-acq-components" "~7.0.0"
     final-form "^4.18.2"
