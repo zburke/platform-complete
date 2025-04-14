@@ -144,7 +144,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-orders-storage-14.0.0-SNAPSHOT.420",
+    "id": "mod-orders-storage-14.0.0-SNAPSHOT.421",
     "action": "enable"
   },
   {
@@ -240,7 +240,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-patron-6.4.0-SNAPSHOT.163",
+    "id": "mod-patron-6.4.0-SNAPSHOT.164",
     "action": "enable"
   },
   {
@@ -280,6 +280,10 @@
     "action": "enable"
   },
   {
+    "id": "mod-mosaic-1.0.0-SNAPSHOT.4",
+    "action": "enable"
+  },
+  {
     "id": "mod-rtac-3.9.0-SNAPSHOT.107",
     "action": "enable"
   },
@@ -288,7 +292,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-fqm-manager-4.1.0-SNAPSHOT.599",
+    "id": "mod-fqm-manager-4.1.0-SNAPSHOT.600",
     "action": "enable"
   },
   {

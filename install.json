@@ -227,7 +227,7 @@
   "id" : "mod-user-import-3.11.0-SNAPSHOT.108",
   "action" : "enable"
 }, {
-  "id" : "mod-orders-storage-14.0.0-SNAPSHOT.420",
+  "id" : "mod-orders-storage-14.0.0-SNAPSHOT.421",
   "action" : "enable"
 }, {
   "id" : "mod-organizations-2.2.0-SNAPSHOT.69",
@@ -359,7 +359,7 @@
   "id" : "edge-ncip-1.10.3-SNAPSHOT.36",
   "action" : "enable"
 }, {
-  "id" : "mod-patron-6.4.0-SNAPSHOT.163",
+  "id" : "mod-patron-6.4.0-SNAPSHOT.164",
   "action" : "enable"
 }, {
   "id" : "edge-patron-5.4.0-SNAPSHOT.141",
@@ -428,6 +428,9 @@
   "id" : "edge-orders-3.3.0-SNAPSHOT.81",
   "action" : "enable"
 }, {
+  "id" : "mod-mosaic-1.0.0-SNAPSHOT.4",
+  "action" : "enable"
+}, {
   "id" : "mod-rtac-3.9.0-SNAPSHOT.107",
   "action" : "enable"
 }, {
@@ -446,7 +449,7 @@
   "id" : "folio_orders-8.0.309900000000151",
   "action" : "enable"
 }, {
-  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.599",
+  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.600",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-query-builder-2.0.209900000000598",
