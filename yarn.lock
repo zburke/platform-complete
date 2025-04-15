@@ -1286,9 +1286,9 @@
     zustand "^4.1.5"
 
 "@folio/bulk-edit@>=1.0.0":
-  version "5.0.109900000000182"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/bulk-edit/-/bulk-edit-5.0.109900000000182.tgz#72285df8d8ed0857e1b5263d781dfac4f94efeee"
-  integrity sha512-y3STC/W3mRgWveYfQUcta10A18fpQA8yYUZXmj80O7vCAoYDYYMJ3f/+z6g6wG1Z7ltOk1tI8wknw4URUvMILQ==
+  version "5.0.109900000000195"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/bulk-edit/-/bulk-edit-5.0.109900000000195.tgz#da3d2817876a4dfc7ce8f744d5c9b8be6958acdb"
+  integrity sha512-EmKWBdsNfqMH3DrRgVXilZpA0HWDBdkEIxYzhPTl53Pg4GcqCuvVRDHg/qvczsx5S6Qj5TlwaD8u8MBbbvadtQ==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     file-saver "^2.0.5"
@@ -1697,9 +1697,9 @@
     react-router-prop-types "^1.0.4"
 
 "@folio/lists@>=1.2.0":
-  version "4.0.209900000000809"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/lists/-/lists-4.0.209900000000809.tgz#8098f4ba20586e8f8038aec233c506637d5375db"
-  integrity sha512-upIuzxqLyp72Yid1z923llbsd7ytzbsFYytF+fhoibIZNrn/JFidojDh16IDAQMTJMnPgPXr24xN5zMdA/iR8A==
+  version "4.0.209900000000814"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/lists/-/lists-4.0.209900000000814.tgz#cc36b3c3d34c4b4649413dfde44d6d657e55e80a"
+  integrity sha512-3B/uf26SwwFgzsJb+aXkmBUuLPHzO2sal2sw6PxIdWh51EsiOoa56POPJffpgLvoBjyFlwB83qna13blERzxng==
   dependencies:
     "@folio/plugin-query-builder" "^2.0.0"
     "@folio/stripes-acq-components" "~7.0.0"
@@ -2044,9 +2044,9 @@
     prop-types "^15.6.0"
 
 "@folio/plugin-query-builder@>=1.0.0", "@folio/plugin-query-builder@^2.0.0":
-  version "2.0.209900000000604"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-query-builder/-/plugin-query-builder-2.0.209900000000604.tgz#5d34bce7e29f44929669f4037a7979c8175f2931"
-  integrity sha512-TzUWeKOBVF1qHuXe3XLvJW8dwdVwnN2p7Re0hR+v7HbJi9TI/JgS+q+P6bKaODq76tnHJDC4YEx4/zI9vodxVg==
+  version "2.0.209900000000608"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-query-builder/-/plugin-query-builder-2.0.209900000000608.tgz#989a1c439654ed2f5bdca08ca0305cc6c098d145"
+  integrity sha512-5a5ofUK8lfYC8sNtv9Pdz3qFV003+I1qkiHYYvgl5+eN8mCilxmApoDBPBG5DJFslezViCkrF9YSvAhYT1KqOg==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     ky "^0.33.2"
@@ -4247,9 +4247,9 @@ chart.js@^2.9.3:
     moment "^2.10.2"
 
 chart.js@^4.4.0:
-  version "4.4.8"
-  resolved "https://repository.folio.org/repository/npm-ci-all/chart.js/-/chart.js-4.4.8.tgz#54645b638e9d585099bc16b892947b5e6cd2a552"
-  integrity sha512-IkGZlVpXP+83QpMm4uxEiGqSI7jFizwVtF3+n5Pc3k7sMO+tkd0qxh2OzLhenM0K80xtmAONWGBn082EiBQSDA==
+  version "4.4.9"
+  resolved "https://repository.folio.org/repository/npm-ci-all/chart.js/-/chart.js-4.4.9.tgz#602e2fc2462f0f7bb7b255eaa1b51f56a43a1362"
+  integrity sha512-EyZ9wWKgpAU0fLJ43YAEIF8sr5F2W3LqbS40ZJyHIner2lY14ufqv2VMp69MAiZ2rpwxEUxEhIH/0U3xyRynxg==
   dependencies:
     "@kurkle/color" "^0.3.0"
 
