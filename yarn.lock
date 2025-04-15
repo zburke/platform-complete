@@ -1725,9 +1725,9 @@
     react-final-form-arrays "^3.1.1"
 
 "@folio/marc-authorities@>=1.0.0":
-  version "7.1.109900000000654"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/marc-authorities/-/marc-authorities-7.1.109900000000654.tgz#d9ff5dff7796bef107cc76572f264aa4a4517a98"
-  integrity sha512-ghURbb3h+y3bPvR6z3jxUP02fqjf06KMuj5S+Div8zwA9GtyJWNr6Hn6ZKynqF2U+RyspRLyZfctGg2C5h+C9w==
+  version "7.1.109900000000676"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/marc-authorities/-/marc-authorities-7.1.109900000000676.tgz#f40a09fe6a8d796505948d20607964bcb272fa8c"
+  integrity sha512-q74Gy/5ux2VKOpI+eZD+n+lFeGuUhr12DTh9W81oyvnqr34ajii01uaEZRaOFIBO1ylTMieGRNdxOCAo9TQP7Q==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     "@rehooks/local-storage" "^2.4.4"
@@ -2456,9 +2456,9 @@
     redux-form "^8.3.0"
 
 "@folio/stripes-inventory-components@>=1.0.0":
-  version "2.0.109000000641"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-inventory-components/-/stripes-inventory-components-2.0.109000000641.tgz#fe734460ec96562c637f984eaeee25cf8da0faa5"
-  integrity sha512-NRU0X/Xoz592F4+TJWZfm+8sK8OPtTegOTUNBOP+FlvUz1hScL3FTbnkBVCRORnwgUASu9tcZhZSE0kWQAGUFQ==
+  version "2.0.209000000646"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-inventory-components/-/stripes-inventory-components-2.0.209000000646.tgz#88414155fffff1cbbc02e8b4fedf34ab3e512b60"
+  integrity sha512-lEEip7iZrDg1xHdDs//ozI/rUFWzjORLRLN1uJX5XtSQfRu8Bhhfu4D8saK54kz2ulTF5J2NqSLnkHOpOCHVJQ==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     history "^4.10.0"
@@ -2473,9 +2473,9 @@
   integrity sha512-MDJaynBk+5c+Cu5EPnAbQBb+ja8zphSeOSTqAsaY3Ghh4YewYgNW4U243jdeaO85wYqMVK3R7Tqq2kJvRNS4xA==
 
 "@folio/stripes-marc-components@>=1.0.0":
-  version "2.0.109900000000135"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-marc-components/-/stripes-marc-components-2.0.109900000000135.tgz#4ec9ff070d767e269688a8eae95b5e9a022009cd"
-  integrity sha512-9iw7u0EM3ExKi6DmIRB7lbsObBX2seBTwmbW5Fd3nbygjzPO/qevQh+0CY4xAXw1t6ykPyJor8RWaj28ThNKOQ==
+  version "2.0.109900000000140"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-marc-components/-/stripes-marc-components-2.0.109900000000140.tgz#38d17d2afbbfda6d670f4024627badd453e6f719"
+  integrity sha512-2YV9nBFTwwmSUykNgg3t1g5Zz2AuOPPwEcKke9nqCqM8sIgFe17heuwxdoOH3lGHsmjBgKjQsn9vWKZfUjRMnQ==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     classnames "^2.3.2"
