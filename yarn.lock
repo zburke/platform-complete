@@ -2044,9 +2044,9 @@
     prop-types "^15.6.0"
 
 "@folio/plugin-query-builder@>=1.0.0", "@folio/plugin-query-builder@^2.0.0":
-  version "2.0.209900000000608"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-query-builder/-/plugin-query-builder-2.0.209900000000608.tgz#989a1c439654ed2f5bdca08ca0305cc6c098d145"
-  integrity sha512-5a5ofUK8lfYC8sNtv9Pdz3qFV003+I1qkiHYYvgl5+eN8mCilxmApoDBPBG5DJFslezViCkrF9YSvAhYT1KqOg==
+  version "2.0.209900000000611"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-query-builder/-/plugin-query-builder-2.0.209900000000611.tgz#1a06ef647811eff6fb4a23c3ae72b1f9147e8585"
+  integrity sha512-2x/XZVlnsdPnxdm7dM7er+V7XteC4vJQz/rqe8LEuYhXieVfsqBUc/D/caVAp/NUN7W155jxqFFQ+owPQ5GB1g==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     ky "^0.33.2"
@@ -2912,9 +2912,9 @@
     "@jridgewell/sourcemap-codec" "^1.4.14"
 
 "@k-int/stripes-kint-components@^5.11.0", "@k-int/stripes-kint-components@^5.15.0":
-  version "5.18.0"
-  resolved "https://repository.folio.org/repository/npm-ci-all/@k-int/stripes-kint-components/-/stripes-kint-components-5.18.0.tgz#5da79d09aa69b5543b373d9af586d0a3bca3bda2"
-  integrity sha512-XoMFayt7AE2pLJkHUKSf/gxsBlsfA0vRV8TshzMbyUz/yY76DofnXK9gldk71P3i5+W0eHbykuUcRB1k3wZzPw==
+  version "5.19.0"
+  resolved "https://repository.folio.org/repository/npm-ci-all/@k-int/stripes-kint-components/-/stripes-kint-components-5.19.0.tgz#07c8a38995774276df612d21d03262ceddf26a6a"
+  integrity sha512-djrbGqVwEPYo98QZr/MtCdbfJ3pF/LORidAZn8I3SqN62r/yTofFQ+td6/t61dgWhIC2c5S3IPA12249bHDqCA==
   dependencies:
     "@rehooks/local-storage" "^2.4.4"
     compose-function "^3.0.3"
