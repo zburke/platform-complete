@@ -218,7 +218,7 @@
   "id" : "folio_stripes-core-11.1.109900000000846",
   "action" : "enable"
 }, {
-  "id" : "folio_users-13.0.109900000000308",
+  "id" : "folio_users-13.0.109900000000315",
   "action" : "enable"
 }, {
   "id" : "mod-circulation-storage-17.5.0-SNAPSHOT.437",
@@ -428,7 +428,7 @@
   "id" : "edge-orders-3.3.0-SNAPSHOT.81",
   "action" : "enable"
 }, {
-  "id" : "mod-mosaic-1.0.0-SNAPSHOT.4",
+  "id" : "mod-mosaic-1.0.0-SNAPSHOT.5",
   "action" : "enable"
 }, {
   "id" : "mod-rtac-3.9.0-SNAPSHOT.107",
