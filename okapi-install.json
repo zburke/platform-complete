@@ -56,7 +56,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-users-19.6.0-SNAPSHOT.347",
+    "id": "mod-users-19.6.0-SNAPSHOT.348",
     "action": "enable"
   },
   {
@@ -168,7 +168,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-source-record-manager-3.11.0-SNAPSHOT.1018",
+    "id": "mod-source-record-manager-3.11.0-SNAPSHOT.1019",
     "action": "enable"
   },
   {
@@ -184,7 +184,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-inventory-21.2.0-SNAPSHOT.863",
+    "id": "mod-inventory-21.2.0-SNAPSHOT.864",
     "action": "enable"
   },
   {
@@ -256,7 +256,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-orders-13.1.0-SNAPSHOT.1012",
+    "id": "mod-orders-13.1.0-SNAPSHOT.1013",
     "action": "enable"
   },
   {

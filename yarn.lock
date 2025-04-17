@@ -1481,9 +1481,9 @@
     react-query "^3.38.1"
 
 "@folio/eholdings@>=1.1.0":
-  version "11.1.109900000000177"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/eholdings/-/eholdings-11.1.109900000000177.tgz#af0158100961737963eb4edaa618a49d6ecdad6a"
-  integrity sha512-7aA9mhKFFImyC7f6iufe9WpRB4POjKyHhHRXfAmCE64W4Dr+aft5YD76Jf5q4rmfV9tcE989ekFlewRYenvU2Q==
+  version "11.1.109900000000184"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/eholdings/-/eholdings-11.1.109900000000184.tgz#744082389e0af1521c7a301ac24e602c61df6c16"
+  integrity sha512-31hj1sfxjE0Ncv2V0MgQSlD48VcoMApEjxiBnFaGNN/QZwfqdxht4E19YZ8ffJhoNmfkhURSkLJu+oZXsZTC7A==
   dependencies:
     classnames "^2.2.5"
     currency-symbol-map "^4.0.4"
@@ -2057,9 +2057,9 @@
     "@folio/plugin-find-organization" "^6.0.0"
 
 "@folio/quick-marc@>=1.0.0", "@folio/quick-marc@^10.0.0":
-  version "10.0.109900000000242"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/quick-marc/-/quick-marc-10.0.109900000000242.tgz#b9ba0a099a64be56bfb8d260a290e8b0b0d7a7a6"
-  integrity sha512-UiWvfyrg2tnoH61SI20WoyrXtJkXtPmqfAVp0D7NhOJ44cjmG8+fUv4skUH0biEW8AAohsViNB+c/iwM0ldhXg==
+  version "10.0.109900000000253"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/quick-marc/-/quick-marc-10.0.109900000000253.tgz#f0b2dd01c12115bdd30b8910e3264e166cace7b4"
+  integrity sha512-DjVATUE58z/jV2HugFUW31NuUKd66TssbOIWCQu0T+JOVbIb0FVbJww4iHSyQZjm2mRqDFnEY5n3twqXNCZ3uA==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     classnames "^2.5.1"
