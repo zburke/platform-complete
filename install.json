@@ -116,7 +116,7 @@
   "id" : "mod-erm-usage-harvester-5.2.0-SNAPSHOT.202",
   "action" : "enable"
 }, {
-  "id" : "folio_erm-usage-12.0.109900000000372",
+  "id" : "folio_erm-usage-12.0.109900000000375",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-erm-usage-data-provider-7.0.109900000000104",
@@ -218,7 +218,7 @@
   "id" : "folio_stripes-core-11.1.109900000000846",
   "action" : "enable"
 }, {
-  "id" : "folio_users-13.0.109900000000297",
+  "id" : "folio_users-13.0.109900000000308",
   "action" : "enable"
 }, {
   "id" : "mod-circulation-storage-17.5.0-SNAPSHOT.437",
@@ -299,7 +299,7 @@
   "id" : "folio_stripes-marc-components-2.0.109900000000140",
   "action" : "enable"
 }, {
-  "id" : "mod-data-import-3.4.0-SNAPSHOT.327",
+  "id" : "mod-data-import-3.4.0-SNAPSHOT.329",
   "action" : "enable"
 }, {
   "id" : "folio_data-import-9.0.10990000000048",
@@ -395,7 +395,7 @@
   "id" : "folio_receiving-7.0.209900000000104",
   "action" : "enable"
 }, {
-  "id" : "mod-data-export-worker-3.5.0-SNAPSHOT.603",
+  "id" : "mod-data-export-worker-3.5.0-SNAPSHOT.604",
   "action" : "enable"
 }, {
   "id" : "mod-data-export-spring-3.6.0-SNAPSHOT.299",
