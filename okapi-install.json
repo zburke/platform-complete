@@ -36,7 +36,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-service-interaction-4.3.0-SNAPSHOT.141",
+    "id": "mod-service-interaction-4.3.0-SNAPSHOT.142",
     "action": "enable"
   },
   {
@@ -48,7 +48,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-licenses-6.3.0-SNAPSHOT.284",
+    "id": "mod-licenses-6.3.0-SNAPSHOT.285",
     "action": "enable"
   },
   {
@@ -292,7 +292,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-fqm-manager-4.1.0-SNAPSHOT.604",
+    "id": "mod-fqm-manager-4.1.0-SNAPSHOT.605",
     "action": "enable"
   },
   {

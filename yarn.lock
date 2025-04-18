@@ -1962,9 +1962,9 @@
     redux-form "^8.3.7"
 
 "@folio/plugin-find-instance@>=1.1.0", "@folio/plugin-find-instance@^9.0.0":
-  version "9.1.10990000000053"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-find-instance/-/plugin-find-instance-9.1.10990000000053.tgz#4d701edda329d621289636fb794ac14f33e8c910"
-  integrity sha512-9hCTZ7qfA4xDXuQlE73bwzJFDv4P3BL1LSbObxn07etg5MsPopHyEV8lPipwf0XVFMgTo8Nc+aynxYXFaTrgWA==
+  version "9.1.10990000000056"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-find-instance/-/plugin-find-instance-9.1.10990000000056.tgz#0e54b44f4afb9aacb2ef2b7f58988df8e529ac70"
+  integrity sha512-dcjgttJXB40S+OhbMN6Q1M79xOv0WJ+YqpEEAZsOkv95m+MUj2DxFYbvoORTiaT85GY7yOcuNF3ocEh1PS1ztw==
   dependencies:
     classnames "^2.2.6"
     history "^4.10.0"
@@ -2044,9 +2044,9 @@
     prop-types "^15.6.0"
 
 "@folio/plugin-query-builder@>=1.0.0", "@folio/plugin-query-builder@^2.0.0":
-  version "2.0.209900000000615"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-query-builder/-/plugin-query-builder-2.0.209900000000615.tgz#144b35476ddd5f2c8813de445c3c2d1615f55280"
-  integrity sha512-FUNrstFLpjoBU1E0deN7j+ZMp/tMxaR3ua2mON0KkHeWCir7Ia+CoLHArz/aa6d+lE1FLDsJRoaqAsyM11zWzA==
+  version "2.0.309900000000622"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-query-builder/-/plugin-query-builder-2.0.309900000000622.tgz#8f9eac70da0cfd7b6c5a41ac11405c73686bf0e2"
+  integrity sha512-HKehmEO2zR1JsKBL3+QavR6CDTm2GEt/K+gNQk8Fg2f/ryu4daRXjzY9zUgyA8GM0R5OuIav4xq8bzE4QAG4Dw==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     ky "^0.33.2"
