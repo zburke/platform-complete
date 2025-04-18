@@ -252,23 +252,23 @@
     "action": "enable"
   },
   {
-    "id": "folio_stripes-authority-components-6.1.10990000000086",
+    "id": "folio_stripes-authority-components-6.1.10990000000091",
     "action": "enable"
   },
   {
-    "id": "folio_stripes-core-11.1.109900000000846",
+    "id": "folio_stripes-core-11.1.109900000000855",
     "action": "enable"
   },
   {
-    "id": "folio_stripes-inventory-components-2.0.209000000653",
+    "id": "folio_stripes-inventory-components-2.0.209000000657",
     "action": "enable"
   },
   {
-    "id": "folio_stripes-marc-components-2.0.109900000000140",
+    "id": "folio_stripes-marc-components-2.0.109900000000144",
     "action": "enable"
   },
   {
-    "id": "folio_stripes-smart-components-10.1.109900000000346",
+    "id": "folio_stripes-smart-components-10.1.109900000000365",
     "action": "enable"
   },
   {

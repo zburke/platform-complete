@@ -71,7 +71,7 @@
   "id" : "folio_service-interaction-4.1.109900000000204",
   "action" : "enable"
 }, {
-  "id" : "mod-calendar-3.4.0-SNAPSHOT.179",
+  "id" : "mod-calendar-3.4.0-SNAPSHOT.180",
   "action" : "enable"
 }, {
   "id" : "mod-organizations-storage-5.0.0-SNAPSHOT.119",
@@ -131,7 +131,7 @@
   "id" : "folio_calendar-12.0.109900000000133",
   "action" : "enable"
 }, {
-  "id" : "folio_stripes-inventory-components-2.0.209000000653",
+  "id" : "folio_stripes-inventory-components-2.0.209000000657",
   "action" : "enable"
 }, {
   "id" : "mod-inventory-update-4.1.1-SNAPSHOT.140",
@@ -161,7 +161,7 @@
   "id" : "mod-password-validator-3.5.0-SNAPSHOT.97",
   "action" : "enable"
 }, {
-  "id" : "folio_stripes-smart-components-10.1.109900000000346",
+  "id" : "folio_stripes-smart-components-10.1.109900000000365",
   "action" : "enable"
 }, {
   "id" : "mod-kb-ebsco-java-6.1.0-SNAPSHOT.463",
@@ -215,7 +215,7 @@
   "id" : "mod-users-bl-7.11.0-SNAPSHOT.181",
   "action" : "enable"
 }, {
-  "id" : "folio_stripes-core-11.1.109900000000846",
+  "id" : "folio_stripes-core-11.1.109900000000855",
   "action" : "enable"
 }, {
   "id" : "folio_users-13.0.109900000000322",
@@ -266,7 +266,7 @@
   "id" : "folio_plugin-find-instance-9.1.10990000000053",
   "action" : "enable"
 }, {
-  "id" : "folio_stripes-authority-components-6.1.10990000000086",
+  "id" : "folio_stripes-authority-components-6.1.10990000000091",
   "action" : "enable"
 }, {
   "id" : "mod-inventory-21.2.0-SNAPSHOT.864",
@@ -296,7 +296,7 @@
   "id" : "folio_marc-authorities-7.1.109900000000696",
   "action" : "enable"
 }, {
-  "id" : "folio_stripes-marc-components-2.0.109900000000140",
+  "id" : "folio_stripes-marc-components-2.0.109900000000144",
   "action" : "enable"
 }, {
   "id" : "mod-data-import-3.4.0-SNAPSHOT.329",
@@ -449,7 +449,7 @@
   "id" : "folio_orders-8.0.309900000000175",
   "action" : "enable"
 }, {
-  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.603",
+  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.604",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-query-builder-2.0.209900000000615",
@@ -464,7 +464,7 @@
   "id" : "folio_bulk-edit-5.0.109900000000212",
   "action" : "enable"
 }, {
-  "id" : "mod-lists-3.2.0-SNAPSHOT.185",
+  "id" : "mod-lists-3.2.0-SNAPSHOT.186",
   "action" : "enable"
 }, {
   "id" : "folio_lists-4.0.209900000000821",
