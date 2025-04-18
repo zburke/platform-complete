@@ -92,7 +92,7 @@
   "id" : "folio_plugin-find-license-12.1.10990000000080",
   "action" : "enable"
 }, {
-  "id" : "mod-source-record-storage-5.11.0-SNAPSHOT.673",
+  "id" : "mod-source-record-storage-5.11.0-SNAPSHOT.676",
   "action" : "enable"
 }, {
   "id" : "mod-users-19.6.0-SNAPSHOT.348",
@@ -428,7 +428,7 @@
   "id" : "edge-orders-3.3.0-SNAPSHOT.81",
   "action" : "enable"
 }, {
-  "id" : "mod-mosaic-1.0.0-SNAPSHOT.5",
+  "id" : "mod-mosaic-1.0.0-SNAPSHOT.6",
   "action" : "enable"
 }, {
   "id" : "mod-rtac-3.9.0-SNAPSHOT.107",
