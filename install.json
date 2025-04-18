@@ -215,7 +215,7 @@
   "id" : "mod-users-bl-7.11.0-SNAPSHOT.181",
   "action" : "enable"
 }, {
-  "id" : "folio_stripes-core-11.1.109900000000855",
+  "id" : "folio_stripes-core-11.1.109900000000868",
   "action" : "enable"
 }, {
   "id" : "folio_users-13.0.109900000000322",
@@ -260,7 +260,7 @@
   "id" : "mod-entities-links-4.1.0-SNAPSHOT.335",
   "action" : "enable"
 }, {
-  "id" : "mod-search-5.1.0-SNAPSHOT.695",
+  "id" : "mod-search-5.1.0-SNAPSHOT.696",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-instance-9.1.10990000000053",
