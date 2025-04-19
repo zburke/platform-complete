@@ -2728,9 +2728,9 @@
     typescript "5"
 
 "@formatjs/cli@^6.1.3":
-  version "6.6.3"
-  resolved "https://repository.folio.org/repository/npm-ci-all/@formatjs/cli/-/cli-6.6.3.tgz#41da2675bcb45b423e169ab8c6240e648cc3ba0c"
-  integrity sha512-vW9EQdHmxQg/+s9K39ZwKcIyyhmEMHOtsv1KyQFtjv+pbE3XmiB5ohoo4wAx3HDsrufrTsplGnQdQ+KB2wY/bA==
+  version "6.6.4"
+  resolved "https://repository.folio.org/repository/npm-ci-all/@formatjs/cli/-/cli-6.6.4.tgz#08db1cc2b9902964c287d04a8e09604022f1774c"
+  integrity sha512-VSDPsT7AO/mtth1rEBwl97Us5dMgqZpI8v7QJXakB4f90pDJsqHBdBeTbjHYrlFr2WvBLVo3/6mGPw9DeX7PUg==
 
 "@formatjs/ecma402-abstract@2.2.4":
   version "2.2.4"
@@ -8688,9 +8688,9 @@ react-inspector@^6.0.0:
   integrity sha512-x+b7LxhmHXjHoU/VrFAzw5iutsILRoYyDq97EDYdFpPLcvqtEzk4ZSZSQjnFPbr5T57tLXnHcqFYoN1pI6u8uQ==
 
 react-intl@^7.1.10:
-  version "7.1.10"
-  resolved "https://repository.folio.org/repository/npm-ci-all/react-intl/-/react-intl-7.1.10.tgz#2853eac0fac10a3dac5d60d6ca48428444a6d179"
-  integrity sha512-I5eB73BAqBbkd2M3wL8gTSE/xFvJRmxZcjS1HMnBT3KXya2PUSI7nDO/tlapX8khchoDoliliMsmyIURB/ww1g==
+  version "7.1.11"
+  resolved "https://repository.folio.org/repository/npm-ci-all/react-intl/-/react-intl-7.1.11.tgz#6155602c46621ad9b67dd31750d00908e1e0b516"
+  integrity sha512-tnVoRCWvW5Ie2ikYSdPF7z3+880yCe/9xPmitFeRPw3RYDcCfR4m8ZYa4MBq19W4adt9Z+PQA4FaMBCJ7E+HCQ==
   dependencies:
     "@formatjs/ecma402-abstract" "2.3.4"
     "@formatjs/icu-messageformat-parser" "2.11.2"
