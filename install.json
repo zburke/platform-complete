@@ -353,10 +353,10 @@
   "id" : "edge-dcb-1.4.0-SNAPSHOT.36",
   "action" : "enable"
 }, {
-  "id" : "mod-ncip-1.15.8-SNAPSHOT.108",
+  "id" : "mod-ncip-1.16.0-SNAPSHOT.109",
   "action" : "enable"
 }, {
-  "id" : "edge-ncip-1.10.3-SNAPSHOT.36",
+  "id" : "edge-ncip-1.11.0-SNAPSHOT.37",
   "action" : "enable"
 }, {
   "id" : "mod-patron-6.4.0-SNAPSHOT.166",
