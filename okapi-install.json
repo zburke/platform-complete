@@ -52,7 +52,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-source-record-storage-5.11.0-SNAPSHOT.676",
+    "id": "mod-source-record-storage-5.11.0-SNAPSHOT.677",
     "action": "enable"
   },
   {
@@ -88,7 +88,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-inventory-update-4.1.1-SNAPSHOT.140",
+    "id": "mod-inventory-update-4.1.1-SNAPSHOT.141",
     "action": "enable"
   },
   {
@@ -96,7 +96,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-courses-1.4.12-SNAPSHOT.167",
+    "id": "mod-courses-1.4.12-SNAPSHOT.168",
     "action": "enable"
   },
   {
@@ -112,7 +112,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-serials-management-2.1.0-SNAPSHOT.155",
+    "id": "mod-serials-management-2.1.0-SNAPSHOT.157",
     "action": "enable"
   },
   {
@@ -128,7 +128,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-oai-pmh-3.16.0-SNAPSHOT.386",
+    "id": "mod-oai-pmh-3.16.0-SNAPSHOT.387",
     "action": "enable"
   },
   {
@@ -144,7 +144,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-orders-storage-14.0.0-SNAPSHOT.422",
+    "id": "mod-orders-storage-14.0.0-SNAPSHOT.424",
     "action": "enable"
   },
   {
@@ -168,7 +168,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-source-record-manager-3.11.0-SNAPSHOT.1019",
+    "id": "mod-source-record-manager-3.11.0-SNAPSHOT.1020",
     "action": "enable"
   },
   {
@@ -176,7 +176,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-entities-links-4.1.0-SNAPSHOT.335",
+    "id": "mod-entities-links-4.1.0-SNAPSHOT.336",
     "action": "enable"
   },
   {
@@ -184,7 +184,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-inventory-21.2.0-SNAPSHOT.864",
+    "id": "mod-inventory-21.2.0-SNAPSHOT.865",
     "action": "enable"
   },
   {
@@ -204,7 +204,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-data-import-3.4.0-SNAPSHOT.329",
+    "id": "mod-data-import-3.4.0-SNAPSHOT.330",
     "action": "enable"
   },
   {
@@ -256,47 +256,47 @@
     "action": "enable"
   },
   {
-    "id": "mod-orders-13.1.0-SNAPSHOT.1014",
+    "id": "mod-orders-13.1.0-SNAPSHOT.1018",
     "action": "enable"
   },
   {
-    "id": "mod-data-export-worker-3.5.0-SNAPSHOT.604",
+    "id": "mod-data-export-worker-3.5.0-SNAPSHOT.608",
     "action": "enable"
   },
   {
-    "id": "mod-data-export-spring-3.6.0-SNAPSHOT.299",
+    "id": "mod-data-export-spring-3.6.0-SNAPSHOT.302",
     "action": "enable"
   },
   {
-    "id": "mod-ebsconet-2.5.0-SNAPSHOT.87",
+    "id": "mod-ebsconet-2.5.0-SNAPSHOT.89",
     "action": "enable"
   },
   {
-    "id": "mod-eusage-reports-3.1.0-SNAPSHOT.191",
+    "id": "mod-eusage-reports-3.1.0-SNAPSHOT.192",
     "action": "enable"
   },
   {
-    "id": "mod-gobi-3.1.0-SNAPSHOT.251",
+    "id": "mod-gobi-3.1.0-SNAPSHOT.253",
     "action": "enable"
   },
   {
-    "id": "mod-mosaic-1.0.0-SNAPSHOT.6",
+    "id": "mod-mosaic-1.0.0-SNAPSHOT.9",
     "action": "enable"
   },
   {
-    "id": "mod-rtac-3.9.0-SNAPSHOT.107",
+    "id": "mod-rtac-3.9.0-SNAPSHOT.108",
     "action": "enable"
   },
   {
-    "id": "mod-invoice-6.1.0-SNAPSHOT.469",
+    "id": "mod-invoice-6.1.0-SNAPSHOT.471",
     "action": "enable"
   },
   {
-    "id": "mod-fqm-manager-4.1.0-SNAPSHOT.608",
+    "id": "mod-fqm-manager-4.1.0-SNAPSHOT.611",
     "action": "enable"
   },
   {
-    "id": "mod-bulk-operations-2.3.0-SNAPSHOT.407",
+    "id": "mod-bulk-operations-2.3.0-SNAPSHOT.408",
     "action": "enable"
   },
   {

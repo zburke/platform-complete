@@ -4,7 +4,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_agreements-12.1.109900000000603",
+    "id": "folio_agreements-12.1.109900000000608",
     "action": "enable"
   },
   {
@@ -32,7 +32,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_claims-1.0.109900000000153",
+    "id": "folio_claims-2.0.109900000000169",
     "action": "enable"
   },
   {
@@ -72,7 +72,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_finance-9.0.109900000000259",
+    "id": "folio_finance-9.0.109900000000262",
     "action": "enable"
   },
   {
@@ -88,11 +88,11 @@
     "action": "enable"
   },
   {
-    "id": "folio_inventory-14.0.109900000000614",
+    "id": "folio_inventory-14.0.109900000000621",
     "action": "enable"
   },
   {
-    "id": "folio_invoice-7.0.309900000000164",
+    "id": "folio_invoice-8.0.109900000000169",
     "action": "enable"
   },
   {
@@ -136,7 +136,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_orders-8.0.309900000000178",
+    "id": "folio_orders-9.0.109900000000184",
     "action": "enable"
   },
   {
@@ -204,7 +204,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_plugin-find-po-line-6.0.10990000000032",
+    "id": "folio_plugin-find-po-line-6.0.10990000000038",
     "action": "enable"
   },
   {
@@ -224,7 +224,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_receiving-7.0.209900000000104",
+    "id": "folio_receiving-8.0.109900000000127",
     "action": "enable"
   },
   {
@@ -236,11 +236,11 @@
     "action": "enable"
   },
   {
-    "id": "folio_requests-mediated-4.0.10990000000076",
+    "id": "folio_requests-mediated-4.0.10990000000086",
     "action": "enable"
   },
   {
-    "id": "folio_serials-management-2.1.109900000000751",
+    "id": "folio_serials-management-2.1.109900000000756",
     "action": "enable"
   },
   {
@@ -300,7 +300,7 @@
     "action": "enable"
   },
   {
-    "id": "edge-sip2-3.5.0-SNAPSHOT.180",
+    "id": "edge-sip2-3.5.0-SNAPSHOT.181",
     "action": "enable"
   },
   {
