@@ -1520,9 +1520,9 @@
     react-final-form-arrays "^3.1.1"
 
 "@folio/erm-usage@>=1.0.3":
-  version "12.0.109900000000379"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/erm-usage/-/erm-usage-12.0.109900000000379.tgz#aece4cbdd49f48ff226e2a220438d87adf1f6c6b"
-  integrity sha512-i4zmb+hvmB+KRngbU+1BgpUJ3TdS/+5AFCoLte7UqwK/5OI2Rq6u+y8xS72A3SDk1cgfZKSp7JvL9JerqNwglw==
+  version "12.0.109900000000383"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/erm-usage/-/erm-usage-12.0.109900000000383.tgz#2f5d20c9ca8ba3e3064c90d3925fa85ba150d549"
+  integrity sha512-yW+BnH6cbwn0v58n0Ire6yo94PX07NO4hORcVT0RwMD0g7rJJlDtYROZCqV7hXegqWppHQ5Q2rGuJ+vSwwSrIg==
   dependencies:
     compose-function "^3.0.3"
     file-saver "^2.0.0"
@@ -2193,9 +2193,9 @@
     prop-types "^15.6.0"
 
 "@folio/stripes-acq-components@^7.0.0", "@folio/stripes-acq-components@~7.0.0", "@folio/stripes-acq-components@~7.0.2":
-  version "7.0.309900000000154"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-acq-components/-/stripes-acq-components-7.0.309900000000154.tgz#1fc2fd088c8a0b9aa13c457d4db7d6cb5fe5eb9f"
-  integrity sha512-Nbn7djpO1rwQQPiHaTCkd8PcQkBdIt01iCz6yIkREULbxgtlsVf6vXIxlgetRS/r92PMAdK+bjqS96lFzWW9GQ==
+  version "7.0.309900000000160"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-acq-components/-/stripes-acq-components-7.0.309900000000160.tgz#1fc69e04082f757a6508ba8f641d045f49595264"
+  integrity sha512-/j8v2kYejjkxPf/2255efUtgIUFAJWwLqQxcVgZRfSelKC1sqP3UmcR/tzr9D700RQFdMdTmvPxRTzm5qUHr+g==
   dependencies:
     "@folio/stripes-types" "^3.0.0"
     "@rehooks/local-storage" "^2.4.4"
@@ -2678,9 +2678,9 @@
     redux-form "^8.0.0"
 
 "@folio/users@>=2.17.0":
-  version "13.0.109900000000322"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.109900000000322.tgz#3f92170168b28c260a58426e14ab53ec4f00d259"
-  integrity sha512-6tKi/yQ/DsIeDdkzv7TBvQUe46QKYTD/JKnlYSz0tl1Per6hbB0Qexz5hluxOnCbEYRPc/86nNiTaixbLunBVA==
+  version "13.0.109900000000325"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.109900000000325.tgz#d9a424220566481d41eb52310396dc0bb49d53d2"
+  integrity sha512-GN514FIRMLR8IGRU2uPM57rBig0XC84Da5tc9ZUPG2BMuoIJq0/kSoSEnWbCsWZWcy/58Z7bbM3elkCu65uZbg==
   dependencies:
     compressorjs "^1.2.1"
     dompurify "^3.2.0"

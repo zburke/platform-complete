@@ -116,7 +116,7 @@
   "id" : "mod-erm-usage-harvester-5.2.0-SNAPSHOT.202",
   "action" : "enable"
 }, {
-  "id" : "folio_erm-usage-12.0.109900000000379",
+  "id" : "folio_erm-usage-12.0.109900000000383",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-erm-usage-data-provider-7.0.109900000000104",
@@ -125,7 +125,7 @@
   "id" : "mod-pubsub-2.17.0-SNAPSHOT.260",
   "action" : "enable"
 }, {
-  "id" : "mod-inventory-storage-29.1.0-SNAPSHOT.1131",
+  "id" : "mod-inventory-storage-29.1.0-SNAPSHOT.1132",
   "action" : "enable"
 }, {
   "id" : "folio_calendar-12.0.109900000000133",
@@ -164,7 +164,7 @@
   "id" : "folio_stripes-smart-components-10.1.109900000000365",
   "action" : "enable"
 }, {
-  "id" : "mod-kb-ebsco-java-6.1.0-SNAPSHOT.463",
+  "id" : "mod-kb-ebsco-java-6.1.0-SNAPSHOT.464",
   "action" : "enable"
 }, {
   "id" : "mod-serials-management-2.1.0-SNAPSHOT.157",
@@ -218,7 +218,7 @@
   "id" : "folio_stripes-core-11.1.109900000000868",
   "action" : "enable"
 }, {
-  "id" : "folio_users-13.0.109900000000322",
+  "id" : "folio_users-13.0.109900000000325",
   "action" : "enable"
 }, {
   "id" : "mod-circulation-storage-17.5.0-SNAPSHOT.437",
@@ -395,7 +395,7 @@
   "id" : "folio_receiving-8.0.109900000000127",
   "action" : "enable"
 }, {
-  "id" : "mod-data-export-worker-3.5.0-SNAPSHOT.608",
+  "id" : "mod-data-export-worker-3.5.0-SNAPSHOT.609",
   "action" : "enable"
 }, {
   "id" : "mod-data-export-spring-3.6.0-SNAPSHOT.302",
@@ -458,7 +458,7 @@
   "id" : "edge-fqm-4.1.0-SNAPSHOT.47",
   "action" : "enable"
 }, {
-  "id" : "mod-bulk-operations-2.3.0-SNAPSHOT.408",
+  "id" : "mod-bulk-operations-2.3.0-SNAPSHOT.409",
   "action" : "enable"
 }, {
   "id" : "folio_bulk-edit-5.0.109900000000212",
