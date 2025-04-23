@@ -1304,9 +1304,9 @@
     yup "^1.4.0"
 
 "@folio/calendar@>=2.0.5":
-  version "12.0.109900000000133"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/calendar/-/calendar-12.0.109900000000133.tgz#ab986a85c54950929827c51e9450b174909fdc96"
-  integrity sha512-l8qbXOoHb4KEPynflwRUNQrD7W8p7Dc1BtC0JuPz9y9PSkCmWCe/MAOsj+p5Xb6yw21/mu/Nb82kMsE6Rhzbhw==
+  version "12.0.109900000000138"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/calendar/-/calendar-12.0.109900000000138.tgz#dc11f7ec7af49a72afe84976860afd135234fdbf"
+  integrity sha512-x7mLXbWgw3HUbW0nOasU3YT+Q48W7UuzocGTeTzn5QYdUSxio/V4o/uMknDCoC4xZhLk6TOqEVLdfSrvloEkqQ==
   dependencies:
     "@types/memoizee" "^0.4.8"
     "@types/react-router-dom" "^5.2.0"
@@ -2456,9 +2456,9 @@
     redux-form "^8.3.0"
 
 "@folio/stripes-inventory-components@>=1.0.0":
-  version "2.0.209000000657"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-inventory-components/-/stripes-inventory-components-2.0.209000000657.tgz#56583ad15e2202097ab7f650a14357768c832900"
-  integrity sha512-arNql3wrSwnbwXcNuDD04IlexU60G37JfCs9TpNPjrcGSZMpNuBaSNqa61BKchK4zNa7PmibjE4uXjjqzdZGyw==
+  version "2.0.309000000664"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-inventory-components/-/stripes-inventory-components-2.0.309000000664.tgz#a9d2c420a0a183eef8e940e4d368e5229677b478"
+  integrity sha512-9Y4oCdY+B+af0htP0NfRGLb5qFR1y77o0ZBTgwJi0b7FLTNjz9ze6shJFW8iO+e6CnZOVMCmB1WhutYCi/rRMg==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     history "^4.10.0"

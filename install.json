@@ -128,10 +128,10 @@
   "id" : "mod-inventory-storage-29.1.0-SNAPSHOT.1132",
   "action" : "enable"
 }, {
-  "id" : "folio_calendar-12.0.109900000000133",
+  "id" : "folio_calendar-12.0.109900000000138",
   "action" : "enable"
 }, {
-  "id" : "folio_stripes-inventory-components-2.0.209000000657",
+  "id" : "folio_stripes-inventory-components-2.0.309000000664",
   "action" : "enable"
 }, {
   "id" : "mod-inventory-update-4.1.1-SNAPSHOT.141",
@@ -374,13 +374,13 @@
   "id" : "mod-tlr-1.2.0-SNAPSHOT.73",
   "action" : "enable"
 }, {
-  "id" : "mod-inn-reach-3.5.0-SNAPSHOT.398",
+  "id" : "mod-inn-reach-3.5.0-SNAPSHOT.399",
   "action" : "enable"
 }, {
   "id" : "folio_inn-reach-6.0.10990000000040",
   "action" : "enable"
 }, {
-  "id" : "mod-orders-13.1.0-SNAPSHOT.1018",
+  "id" : "mod-orders-13.1.0-SNAPSHOT.1019",
   "action" : "enable"
 }, {
   "id" : "folio_acquisition-units-6.0.10990000000026",
