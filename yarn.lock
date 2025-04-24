@@ -2057,9 +2057,9 @@
     "@folio/plugin-find-organization" "^6.0.0"
 
 "@folio/quick-marc@>=1.0.0", "@folio/quick-marc@^10.0.0":
-  version "10.0.109900000000257"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/quick-marc/-/quick-marc-10.0.109900000000257.tgz#f074003dc8474cab85f7dacc973d22407a774287"
-  integrity sha512-bKySO5Z0zUrPm2PH5+zUCde7+pL6u0j+gGtAxClstMxq1T6hJqtNISjr+DlzD8Evklu9N1qc3REuPlO15Rv91g==
+  version "10.0.109900000000270"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/quick-marc/-/quick-marc-10.0.109900000000270.tgz#c4dc0874ddbb5a0299e393bf99d88bde823b27a3"
+  integrity sha512-2FqpDwvcEsaF/HCyFQj3jkry11Obvi8mVljTLbFRQucvDl3ThjJT+hs01NZXiyV2Y2Rc8OacvJ26Io1ACAXP9g==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     classnames "^2.5.1"
@@ -2456,9 +2456,9 @@
     redux-form "^8.3.0"
 
 "@folio/stripes-inventory-components@>=1.0.0":
-  version "2.1.109000000669"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-inventory-components/-/stripes-inventory-components-2.1.109000000669.tgz#88817f8e45d18f59a9c91112f81b48d38884078b"
-  integrity sha512-njipxixmSnLQgRVPXjrzL7+jYAWH+e5oBKNzOMS0+T0nr6QjtyLaLcWFcFqoGwHvfkQldmVdXENsITyeU9sKMw==
+  version "2.1.109000000672"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-inventory-components/-/stripes-inventory-components-2.1.109000000672.tgz#2d49b85ac5225ab70de5a7d85a92cbf647e99159"
+  integrity sha512-EDU2h9HqyhmTOd9t2fYKgqB9qAdRlJOOz5leMz8/kQWCKDIUbgsL6JnGhUnJRH0DBoeBrf966Ya0k2Hx+lN1aQ==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     history "^4.10.0"

@@ -92,7 +92,7 @@
   "id" : "folio_plugin-find-license-12.1.10990000000080",
   "action" : "enable"
 }, {
-  "id" : "mod-source-record-storage-5.11.0-SNAPSHOT.677",
+  "id" : "mod-source-record-storage-5.11.0-SNAPSHOT.678",
   "action" : "enable"
 }, {
   "id" : "mod-users-19.6.0-SNAPSHOT.348",
@@ -131,7 +131,7 @@
   "id" : "folio_calendar-12.0.109900000000138",
   "action" : "enable"
 }, {
-  "id" : "folio_stripes-inventory-components-2.1.109000000669",
+  "id" : "folio_stripes-inventory-components-2.1.109000000672",
   "action" : "enable"
 }, {
   "id" : "mod-inventory-update-4.1.1-SNAPSHOT.141",
@@ -275,7 +275,7 @@
   "id" : "mod-quick-marc-7.1.0-SNAPSHOT.321",
   "action" : "enable"
 }, {
-  "id" : "folio_quick-marc-10.0.109900000000257",
+  "id" : "folio_quick-marc-10.0.109900000000270",
   "action" : "enable"
 }, {
   "id" : "mod-data-export-5.3.0-SNAPSHOT.471",
