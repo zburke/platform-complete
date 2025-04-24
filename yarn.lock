@@ -2157,9 +2157,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/serials-management@>=1.0.0":
-  version "2.1.109900000000756"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/serials-management/-/serials-management-2.1.109900000000756.tgz#0b76f920fa5c110fcf415ae02f71ccd014b184c6"
-  integrity sha512-yTDRPA7+iLRtVT6x14oYJ/IC4tFwNcv+vfh+Xk0UBVXTNTplVXCt8jEDCe/c4q3rB1QUBUo9x3xPp/PGpTDX3g==
+  version "2.1.109900000000759"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/serials-management/-/serials-management-2.1.109900000000759.tgz#0019f942cb7dde9137f2f503809b86deb8b76c10"
+  integrity sha512-U9z5gKCHed51o6I4QTF98QkLkZjm1rVlqaTBpVzDe8EG55bo3UN5aUxkbDTtsdEYSgQMw/sN5WyhjpuVbxFz6g==
   dependencies:
     "@k-int/stripes-kint-components" "^5.15.0"
     final-form "^4.18.4"
@@ -2678,9 +2678,9 @@
     redux-form "^8.0.0"
 
 "@folio/users@>=2.17.0":
-  version "13.0.109900000000325"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.109900000000325.tgz#d9a424220566481d41eb52310396dc0bb49d53d2"
-  integrity sha512-GN514FIRMLR8IGRU2uPM57rBig0XC84Da5tc9ZUPG2BMuoIJq0/kSoSEnWbCsWZWcy/58Z7bbM3elkCu65uZbg==
+  version "13.0.109900000000328"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.109900000000328.tgz#2240543f018d22e473d00a9efa22341fddcf97c0"
+  integrity sha512-b7z7WTt8TlBnbZbCj8+fkOtzjy8on2bdJGHzN3oI4JvtIz7kH/sj0aSidhK85wwyh3Alura940Jv7Wf/CRnLbA==
   dependencies:
     compressorjs "^1.2.1"
     dompurify "^3.2.0"

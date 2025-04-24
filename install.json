@@ -167,10 +167,10 @@
   "id" : "mod-kb-ebsco-java-6.1.0-SNAPSHOT.464",
   "action" : "enable"
 }, {
-  "id" : "mod-serials-management-2.1.0-SNAPSHOT.158",
+  "id" : "mod-serials-management-2.1.0-SNAPSHOT.159",
   "action" : "enable"
 }, {
-  "id" : "folio_serials-management-2.1.109900000000756",
+  "id" : "folio_serials-management-2.1.109900000000759",
   "action" : "enable"
 }, {
   "id" : "mod-agreements-7.3.0-SNAPSHOT.763",
@@ -218,7 +218,7 @@
   "id" : "folio_stripes-core-11.1.109900000000868",
   "action" : "enable"
 }, {
-  "id" : "folio_users-13.0.109900000000325",
+  "id" : "folio_users-13.0.109900000000328",
   "action" : "enable"
 }, {
   "id" : "mod-circulation-storage-17.5.0-SNAPSHOT.437",
