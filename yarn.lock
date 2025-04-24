@@ -1549,9 +1549,9 @@
     react-router-prop-types "^1.0.4"
 
 "@folio/finance@>=1.1.0":
-  version "9.0.109900000000262"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/finance/-/finance-9.0.109900000000262.tgz#e4e65c5c44391803dcdb53961e1f38cc79f165c8"
-  integrity sha512-FJ1biY4ZmnPhWrykRJ6bRaXIz1QZGWg3YeEwZ+zNoRgikbBxKckqhxiMwWo7KmLVztfPoisdXaypeMUOQzcABw==
+  version "9.0.109900000000273"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/finance/-/finance-9.0.109900000000273.tgz#cd92b0fde75beb6089b783a2f882b554d49675f5"
+  integrity sha512-4UxgCi5SLekFi7rnUTBuq3xqeFfUwFKAo6C2p5HERvVHVXIejNuQoxqEK/tqmqD5VAnk1czcGFRGfB49vXYwZg==
   dependencies:
     "@folio/stripes-acq-components" "~7.0.0"
     "@folio/stripes-data-transfer-components" "~7.0.0"
@@ -5147,9 +5147,9 @@ effection@^1.0.0:
   integrity sha512-ITAAnuI7sJqKhjvYlnm66NHaW7zrXzqgsGsjVaaqFHYDWPN8WylVj46xASfkrtwq5wmklbzy6tvRYaj2C4rDHw==
 
 electron-to-chromium@^1.5.73:
-  version "1.5.141"
-  resolved "https://repository.folio.org/repository/npm-ci-all/electron-to-chromium/-/electron-to-chromium-1.5.141.tgz#11776289d95385ca26d8cf95f31692ee58ee3a06"
-  integrity sha512-qS+qH9oqVYc1ooubTiB9l904WVyM6qNYxtOEEGReoZXw3xlqeYdFr5GclNzbkAufWgwWLEPoDi3d9MoRwwIjGw==
+  version "1.5.142"
+  resolved "https://repository.folio.org/repository/npm-ci-all/electron-to-chromium/-/electron-to-chromium-1.5.142.tgz#1de55d0d19b24b07768c4bfc90f41bd7f248d043"
+  integrity sha512-Ah2HgkTu/9RhTDNThBtzu2Wirdy4DC9b0sMT1pUhbkZQ5U/iwmE+PHZX1MpjD5IkJCc2wSghgGG/B04szAx07w==
 
 element-is-visible@^1.0.0:
   version "1.0.0"
