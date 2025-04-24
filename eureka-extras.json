@@ -1,6 +1,6 @@
 [
     {
-        "action": "enable",
-        "id": "placeholder-module"
+        "version": "0.0.1",
+        "module": "placeholder-module"
     }
 ]
