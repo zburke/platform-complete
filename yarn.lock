@@ -2136,9 +2136,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/requests@>=1.4.1":
-  version "13.0.109900000000163"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/requests/-/requests-13.0.109900000000163.tgz#06ab7af3ae3313ee6053f63091252c90929736c9"
-  integrity sha512-LNSN1eFiK0XbDshd7PuyvJ7D3edKq5T8/Bcgi69c+rr9Zg5stGEztN1NhJgLSzQbBRM7HqT3LXMUUsGzM2AJ0Q==
+  version "13.0.109900000000168"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/requests/-/requests-13.0.109900000000168.tgz#d7fa2b99cf564772007a76c1fc724f8985751ff2"
+  integrity sha512-75t2eJb2HVm7cyHSOl2t9OffMp4KlB7Hl/2HiVnG4VwT2dKYiPIxprU424AonBdWsYp6reesSQTO+/YhAwWY6g==
   dependencies:
     dompurify "^3.0.9"
     final-form "^4.20.7"

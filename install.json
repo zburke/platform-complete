@@ -338,7 +338,7 @@
   "id" : "folio_plugin-create-inventory-records-7.0.10990000000039",
   "action" : "enable"
 }, {
-  "id" : "folio_requests-13.0.109900000000163",
+  "id" : "folio_requests-13.0.109900000000168",
   "action" : "enable"
 }, {
   "id" : "edge-sip2-3.5.0-SNAPSHOT.181",
