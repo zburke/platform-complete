@@ -59,7 +59,7 @@
   "id" : "folio_tags-9.0.10990000000031",
   "action" : "enable"
 }, {
-  "id" : "mod-invoice-storage-6.1.0-SNAPSHOT.171",
+  "id" : "mod-invoice-storage-6.1.0-SNAPSHOT.172",
   "action" : "enable"
 }, {
   "id" : "mod-service-interaction-4.3.0-SNAPSHOT.142",
@@ -380,7 +380,7 @@
   "id" : "folio_inn-reach-6.0.10990000000040",
   "action" : "enable"
 }, {
-  "id" : "mod-orders-13.1.0-SNAPSHOT.1020",
+  "id" : "mod-orders-13.1.0-SNAPSHOT.1021",
   "action" : "enable"
 }, {
   "id" : "folio_acquisition-units-6.0.10990000000026",
