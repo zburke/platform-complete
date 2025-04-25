@@ -317,7 +317,7 @@
   "id" : "mod-feesfines-19.4.0-SNAPSHOT.246",
   "action" : "enable"
 }, {
-  "id" : "mod-circulation-24.5.0-SNAPSHOT.1306",
+  "id" : "mod-circulation-24.5.0-SNAPSHOT.1307",
   "action" : "enable"
 }, {
   "id" : "folio_checkin-12.0.10990000000088",
@@ -338,7 +338,7 @@
   "id" : "folio_requests-13.0.109900000000168",
   "action" : "enable"
 }, {
-  "id" : "edge-sip2-3.5.0-SNAPSHOT.181",
+  "id" : "edge-sip2-3.5.0-SNAPSHOT.182",
   "action" : "enable"
 }, {
   "id" : "mod-circulation-bff-1.2.0-SNAPSHOT.55",
