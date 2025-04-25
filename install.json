@@ -218,7 +218,7 @@
   "id" : "folio_users-13.0.109900000000328",
   "action" : "enable"
 }, {
-  "id" : "mod-circulation-storage-17.5.0-SNAPSHOT.437",
+  "id" : "mod-circulation-storage-17.5.0-SNAPSHOT.438",
   "action" : "enable"
 }, {
   "id" : "mod-user-import-3.11.0-SNAPSHOT.108",
@@ -296,7 +296,7 @@
   "id" : "folio_stripes-marc-components-2.0.109900000000144",
   "action" : "enable"
 }, {
-  "id" : "mod-data-import-3.4.0-SNAPSHOT.330",
+  "id" : "mod-data-import-3.4.0-SNAPSHOT.331",
   "action" : "enable"
 }, {
   "id" : "folio_data-import-9.0.10990000000052",
