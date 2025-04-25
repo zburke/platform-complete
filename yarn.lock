@@ -1638,9 +1638,9 @@
     "@folio/plugin-find-instance" "^9.0.0"
 
 "@folio/invoice@>=1.0.0":
-  version "8.0.109900000000169"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/invoice/-/invoice-8.0.109900000000169.tgz#428f71893abea9fc988e1c9dc17005de7ccbabb9"
-  integrity sha512-xZBiCxGBlFnfIIKb6Zuv1MTDUf5kZWaITmtYOf9Phth+KQP/f6/F3DIm8i7BhrSp3cOrrofu1Q18N/ZtInhYsQ==
+  version "8.0.109900000000178"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/invoice/-/invoice-8.0.109900000000178.tgz#9bc0981150c7f4c85b52095da1a5b2d02496f00c"
+  integrity sha512-hM1V0yRjpW/dDR5Ecy7c5BZ5ZkKkFED7JOtnDkrsPVDJyDJ9/nUJj0hh4FHbIU2aNVMwCDWoMFhZJjHXUMNE3Q==
   dependencies:
     "@folio/stripes-acq-components" "~7.0.0"
     file-saver "^2.0.0"
@@ -1794,9 +1794,9 @@
     react-router-prop-types "^1.0.4"
 
 "@folio/orders@>=1.1.0":
-  version "9.0.109900000000184"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/orders/-/orders-9.0.109900000000184.tgz#346787b0f35a4085d99f496c14d5528d310896ec"
-  integrity sha512-GE/dQY+y3HRCQtDBCYywUBJBvXfsNabCTEbczSWG8mYIqUH0XnzHcfZKfeY7gh0rsjJpg3yaQy61iOdkESch7g==
+  version "9.0.109900000000199"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/orders/-/orders-9.0.109900000000199.tgz#b604ff7c6f583b236fbecb304b10c63768249de4"
+  integrity sha512-8euHxYFa1r6OmQYGSrikUcujnklWqPcrY+mV3a5LnTRL5cmqHusRlD56ZQ8piNZDW1WJfTiLg86bay9hEkevpQ==
   dependencies:
     "@folio/plugin-find-po-line" "^6.0.0"
     "@folio/stripes-acq-components" "~7.0.0"
