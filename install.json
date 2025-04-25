@@ -2,9 +2,6 @@
   "id" : "folio_handler-stripes-registry-3.1.10990000000058",
   "action" : "enable"
 }, {
-  "id" : "folio_mosaic-settings-1.0.10990000000019",
-  "action" : "enable"
-}, {
   "id" : "folio_myprofile-10.0.10990000000061",
   "action" : "enable"
 }, {
@@ -429,6 +426,9 @@
   "action" : "enable"
 }, {
   "id" : "mod-mosaic-1.0.0-SNAPSHOT.9",
+  "action" : "enable"
+}, {
+  "id" : "folio_mosaic-settings-1.0.10990000000033",
   "action" : "enable"
 }, {
   "id" : "mod-rtac-3.9.0-SNAPSHOT.108",

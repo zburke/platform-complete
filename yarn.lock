@@ -1736,9 +1736,9 @@
     "@folio/quick-marc" "^10.0.0"
 
 "@folio/mosaic-settings@>=1.0.0":
-  version "1.0.10990000000019"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/mosaic-settings/-/mosaic-settings-1.0.10990000000019.tgz#4084e4b6a5080f6cb7204dc6c0e6e2f404419ade"
-  integrity sha512-pXWNHyTZcdPkRwS2D+tN7w96hQRev8bdRNKcn9G1Oc3WyM1RTkMqiO3wgpXIuUu6PfDykwa4AjB1k7qEv/3a8w==
+  version "1.0.10990000000033"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/mosaic-settings/-/mosaic-settings-1.0.10990000000033.tgz#ec6ca1945c8b3481097559d1c94102155d20e977"
+  integrity sha512-jzYP1etmXcz1KE4HL/S0SEGvuObxDL+mI+lNuGLxqecZ9CtlxkY3+c2C+f0hjjLdrMIdKbmIeDo/IFwGpq6iLQ==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
 
