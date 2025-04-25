@@ -92,10 +92,10 @@
   "id" : "folio_plugin-find-license-12.1.10990000000080",
   "action" : "enable"
 }, {
-  "id" : "mod-source-record-storage-5.11.0-SNAPSHOT.678",
+  "id" : "mod-source-record-storage-5.11.0-SNAPSHOT.679",
   "action" : "enable"
 }, {
-  "id" : "mod-users-19.6.0-SNAPSHOT.348",
+  "id" : "mod-users-19.6.0-SNAPSHOT.349",
   "action" : "enable"
 }, {
   "id" : "mod-authtoken-2.17.0-SNAPSHOT.165",
