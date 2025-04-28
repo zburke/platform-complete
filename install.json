@@ -341,7 +341,7 @@
   "id" : "edge-sip2-3.5.0-SNAPSHOT.182",
   "action" : "enable"
 }, {
-  "id" : "mod-circulation-bff-1.2.0-SNAPSHOT.55",
+  "id" : "mod-circulation-bff-1.2.0-SNAPSHOT.57",
   "action" : "enable"
 }, {
   "id" : "mod-dcb-2.0.0-SNAPSHOT.115",
@@ -368,7 +368,7 @@
   "id" : "folio_requests-mediated-4.0.10990000000086",
   "action" : "enable"
 }, {
-  "id" : "mod-tlr-1.2.0-SNAPSHOT.73",
+  "id" : "mod-tlr-1.2.0-SNAPSHOT.76",
   "action" : "enable"
 }, {
   "id" : "mod-inn-reach-3.5.0-SNAPSHOT.399",
@@ -443,7 +443,7 @@
   "id" : "folio_finance-9.0.109900000000273",
   "action" : "enable"
 }, {
-  "id" : "folio_invoice-8.0.109900000000181",
+  "id" : "folio_invoice-8.0.109900000000186",
   "action" : "enable"
 }, {
   "id" : "folio_orders-9.0.109900000000202",
