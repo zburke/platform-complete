@@ -12,19 +12,19 @@
     "action": "enable"
   },
   {
-    "id": "folio_calendar-12.0.109900000000138",
+    "id": "folio_calendar-12.0.109900000000142",
     "action": "enable"
   },
   {
-    "id": "folio_checkin-12.0.10990000000088",
+    "id": "folio_checkin-12.0.10990000000092",
     "action": "enable"
   },
   {
-    "id": "folio_checkout-12.0.10990000000094",
+    "id": "folio_checkout-12.0.10990000000098",
     "action": "enable"
   },
   {
-    "id": "folio_circulation-11.1.109900000000107",
+    "id": "folio_circulation-11.1.109900000000119",
     "action": "enable"
   },
   {
@@ -52,11 +52,11 @@
     "action": "enable"
   },
   {
-    "id": "folio_developer-10.0.109900000000173",
+    "id": "folio_developer-10.0.109900000000190",
     "action": "enable"
   },
   {
-    "id": "folio_eholdings-11.1.109900000000188",
+    "id": "folio_eholdings-11.1.109900000000192",
     "action": "enable"
   },
   {
@@ -208,7 +208,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_plugin-find-user-8.0.10990000000044",
+    "id": "folio_plugin-find-user-8.0.10990000000048",
     "action": "enable"
   },
   {
@@ -232,7 +232,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_requests-13.0.109900000000168",
+    "id": "folio_requests-13.0.109900000000180",
     "action": "enable"
   },
   {
@@ -280,7 +280,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_users-13.0.109900000000328",
+    "id": "folio_users-13.0.109900000000343",
     "action": "enable"
   },
   {
