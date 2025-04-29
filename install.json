@@ -149,7 +149,7 @@
   "id" : "edge-courses-1.7.0-SNAPSHOT.27",
   "action" : "enable"
 }, {
-  "id" : "mod-notes-7.1.0-SNAPSHOT.282",
+  "id" : "mod-notes-7.1.0-SNAPSHOT.283",
   "action" : "enable"
 }, {
   "id" : "folio_notes-11.0.10990000000071",
@@ -257,7 +257,7 @@
   "id" : "mod-entities-links-4.1.0-SNAPSHOT.336",
   "action" : "enable"
 }, {
-  "id" : "mod-search-5.1.0-SNAPSHOT.696",
+  "id" : "mod-search-5.1.0-SNAPSHOT.697",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-instance-9.1.10990000000056",
@@ -269,7 +269,7 @@
   "id" : "mod-inventory-21.2.0-SNAPSHOT.866",
   "action" : "enable"
 }, {
-  "id" : "mod-quick-marc-7.1.0-SNAPSHOT.321",
+  "id" : "mod-quick-marc-7.1.0-SNAPSHOT.322",
   "action" : "enable"
 }, {
   "id" : "folio_quick-marc-10.0.109900000000270",
