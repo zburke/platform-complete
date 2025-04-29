@@ -266,7 +266,7 @@
   "id" : "folio_stripes-authority-components-6.1.10990000000091",
   "action" : "enable"
 }, {
-  "id" : "mod-inventory-21.2.0-SNAPSHOT.866",
+  "id" : "mod-inventory-21.2.0-SNAPSHOT.867",
   "action" : "enable"
 }, {
   "id" : "mod-quick-marc-7.1.0-SNAPSHOT.322",
@@ -425,7 +425,7 @@
   "id" : "edge-orders-3.3.0-SNAPSHOT.81",
   "action" : "enable"
 }, {
-  "id" : "mod-mosaic-1.0.0-SNAPSHOT.9",
+  "id" : "mod-mosaic-1.0.0-SNAPSHOT.10",
   "action" : "enable"
 }, {
   "id" : "folio_mosaic-settings-1.0.10990000000033",
@@ -449,7 +449,7 @@
   "id" : "folio_orders-9.0.109900000000209",
   "action" : "enable"
 }, {
-  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.615",
+  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.616",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-query-builder-2.0.309900000000622",
