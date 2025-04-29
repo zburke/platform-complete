@@ -32,7 +32,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_claims-2.0.109900000000169",
+    "id": "folio_claims-2.0.109900000000175",
     "action": "enable"
   },
   {
@@ -72,7 +72,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_finance-9.0.109900000000273",
+    "id": "folio_finance-9.0.109900000000276",
     "action": "enable"
   },
   {
@@ -136,7 +136,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_orders-9.0.109900000000202",
+    "id": "folio_orders-9.0.109900000000209",
     "action": "enable"
   },
   {

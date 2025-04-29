@@ -1392,9 +1392,9 @@
     react-query "^3.39.3"
 
 "@folio/claims@>=1.0.0":
-  version "2.0.109900000000169"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/claims/-/claims-2.0.109900000000169.tgz#05c1776e2f35155745b99bfb456eed89ad8d5f97"
-  integrity sha512-CDtwxE8dEje9YUob+Obi0OBUMB714oU/SN9cMmvT6GLRZWKcz4GFAuPhUTGpqka636syB48OvAOH3wBi1BxgPQ==
+  version "2.0.109900000000175"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/claims/-/claims-2.0.109900000000175.tgz#83c8521a7050a147f27a35b9b9697e2939e80e9e"
+  integrity sha512-wOdxtPZAk0Tc58fYHm/9YuJmORqrzW/qEBkw3Li3xabCtH1jpcj/BG1KD9KbhuWvKmHkRfsvH1br7TUaeOur7A==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     lodash "^4.17.21"
@@ -1549,9 +1549,9 @@
     react-router-prop-types "^1.0.4"
 
 "@folio/finance@>=1.1.0":
-  version "9.0.109900000000273"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/finance/-/finance-9.0.109900000000273.tgz#cd92b0fde75beb6089b783a2f882b554d49675f5"
-  integrity sha512-4UxgCi5SLekFi7rnUTBuq3xqeFfUwFKAo6C2p5HERvVHVXIejNuQoxqEK/tqmqD5VAnk1czcGFRGfB49vXYwZg==
+  version "9.0.109900000000276"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/finance/-/finance-9.0.109900000000276.tgz#6181eac5c6e6bf2216bf810c285d6c33d68b894b"
+  integrity sha512-fYK4af1vLJqrapcYsqTRoBgQUZ+FKuYNqt5LNSnpQDU95uo+V6K3W6faxxTdkaSueYkyyU7T11zI6lDPlTIm/g==
   dependencies:
     "@folio/stripes-acq-components" "~7.0.0"
     "@folio/stripes-data-transfer-components" "~7.0.0"
@@ -1794,9 +1794,9 @@
     react-router-prop-types "^1.0.4"
 
 "@folio/orders@>=1.1.0":
-  version "9.0.109900000000202"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/orders/-/orders-9.0.109900000000202.tgz#baf40f1e7a2bfc4672f834d16b99301feb8cfb53"
-  integrity sha512-D0+uFNpEP5nSBTOvWqmVgu7ThhmPZOBCBWR4IGdVCw1uH997DCHkpFZeTzU0XC6eKoP7ON9t7dd1/mvqQPWsBQ==
+  version "9.0.109900000000209"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/orders/-/orders-9.0.109900000000209.tgz#572890a3184ee0f92fc44b3a699f5b4c98c624a5"
+  integrity sha512-PGI4Vv9JOM7K4Qh6qFqRhsRJBuELLgSfyaOP2Dy2FVkT5MfNu2qxrl5YOVugHpIhYEGMY9Hv8tGpnbywW9QJGw==
   dependencies:
     "@folio/plugin-find-po-line" "^6.0.0"
     "@folio/stripes-acq-components" "~7.0.0"
