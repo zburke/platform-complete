@@ -221,7 +221,7 @@
   "id" : "folio_stripes-core-11.1.109900000000877",
   "action" : "enable"
 }, {
-  "id" : "folio_users-13.0.109900000000343",
+  "id" : "folio_users-13.0.109900000000346",
   "action" : "enable"
 }, {
   "id" : "mod-orders-storage-14.0.0-SNAPSHOT.426",
@@ -422,7 +422,7 @@
   "id" : "folio_gobi-settings-4.0.10990000000038",
   "action" : "enable"
 }, {
-  "id" : "mod-mosaic-1.0.0-SNAPSHOT.11",
+  "id" : "mod-mosaic-1.0.0-SNAPSHOT.12",
   "action" : "enable"
 }, {
   "id" : "folio_mosaic-settings-1.0.10990000000033",

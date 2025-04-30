@@ -2678,9 +2678,9 @@
     redux-form "^8.0.0"
 
 "@folio/users@>=2.17.0":
-  version "13.0.109900000000343"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.109900000000343.tgz#885cb8f8aa9591a519b5e0751008a235d8d3a7dc"
-  integrity sha512-IMwkTLM9Ls5o+uE75jvcOFawX8Il2xrCi1Aj1ujcFclljxbjRRbui19jOQ/+Cvzb8BBz9TxbDdhsDsykjIC9Nw==
+  version "13.0.109900000000346"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.109900000000346.tgz#5f66e705d3ea69fd42ddd96bdb83fff4d8ca84ae"
+  integrity sha512-eOFY1XrWxCYo/xVg5Go0txIdoYDX/7ailPN58oWrdSptoYmn8t37KcpBEML/Zix6pU6YKLoq+Sdm4YsAVVe9hw==
   dependencies:
     compressorjs "^1.2.1"
     dompurify "^3.2.0"
