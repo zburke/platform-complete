@@ -1323,9 +1323,9 @@
     utility-types "^3.10.0"
 
 "@folio/checkin@>=1.3.0":
-  version "12.0.10990000000092"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/checkin/-/checkin-12.0.10990000000092.tgz#03d41b1bc2688edb9d12bd53dad0999abf60b8ba"
-  integrity sha512-JIUMTdbP4TqtMW8TUBjZoKyQlQgqU8s4uoAjSUs5skWdjPolvDrkkR1VZPCnWidy3DsvA0moZCLnU0kDHCYzog==
+  version "12.0.109900000000101"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/checkin/-/checkin-12.0.109900000000101.tgz#169f2f5ddc711b0e698f90821d16cf313b43c09d"
+  integrity sha512-VYtNMfJZgtVd/yQNVT+qlnSaFrcnyrF6EAaAh8z6VZctqXZOrDU1zUXfISds3wJ4uuvvjRtYKbAlb/NNsAXIqw==
   dependencies:
     dateformat "^2.0.0"
     dompurify "^3.0.9"
