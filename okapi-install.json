@@ -132,15 +132,15 @@
     "action": "enable"
   },
   {
-    "id": "mod-users-bl-7.11.0-SNAPSHOT.181",
-    "action": "enable"
-  },
-  {
     "id": "mod-circulation-storage-17.5.0-SNAPSHOT.438",
     "action": "enable"
   },
   {
     "id": "mod-user-import-3.11.0-SNAPSHOT.108",
+    "action": "enable"
+  },
+  {
+    "id": "mod-users-bl-7.11.0-SNAPSHOT.181",
     "action": "enable"
   },
   {
