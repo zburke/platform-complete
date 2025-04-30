@@ -128,7 +128,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-oai-pmh-3.16.0-SNAPSHOT.387",
+    "id": "mod-oai-pmh-3.16.0-SNAPSHOT.388",
     "action": "enable"
   },
   {
@@ -144,7 +144,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-orders-storage-14.0.0-SNAPSHOT.426",
+    "id": "mod-orders-storage-14.0.0-SNAPSHOT.427",
     "action": "enable"
   },
   {
@@ -180,11 +180,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-search-5.1.0-SNAPSHOT.697",
+    "id": "mod-search-5.1.0-SNAPSHOT.698",
     "action": "enable"
   },
   {
-    "id": "mod-inventory-21.2.0-SNAPSHOT.868",
+    "id": "mod-inventory-21.2.0-SNAPSHOT.869",
     "action": "enable"
   },
   {
@@ -228,7 +228,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-circulation-bff-1.2.0-SNAPSHOT.57",
+    "id": "mod-circulation-bff-1.2.0-SNAPSHOT.58",
     "action": "enable"
   },
   {
@@ -244,7 +244,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-requests-mediated-1.3.0-SNAPSHOT.59",
+    "id": "mod-requests-mediated-1.3.0-SNAPSHOT.60",
     "action": "enable"
   },
   {
@@ -280,7 +280,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-mosaic-1.0.0-SNAPSHOT.12",
+    "id": "mod-mosaic-1.0.0-SNAPSHOT.13",
     "action": "enable"
   },
   {

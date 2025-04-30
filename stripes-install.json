@@ -112,7 +112,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_marc-authorities-7.1.109900000000727",
+    "id": "folio_marc-authorities-7.1.109900000000746",
     "action": "enable"
   },
   {
@@ -124,7 +124,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_notes-11.0.10990000000077",
+    "id": "folio_notes-11.0.10990000000080",
     "action": "enable"
   },
   {
@@ -216,7 +216,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_quick-marc-10.0.109900000000278",
+    "id": "folio_quick-marc-10.1.109900000000281",
     "action": "enable"
   },
   {
@@ -268,7 +268,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_stripes-smart-components-10.1.109900000000384",
+    "id": "folio_stripes-smart-components-10.1.109900000000408",
     "action": "enable"
   },
   {
