@@ -1817,9 +1817,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/organizations@>=1.0.0":
-  version "7.0.10990000000088"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/organizations/-/organizations-7.0.10990000000088.tgz#2c15d108a902ae033924cf9b4082748b5f1314f3"
-  integrity sha512-51OlosQyY+YkV/KOfLJ3Zz4AEEbVErQA839ISiWBJDuiVTG7c+NV6rcNNFoN8l5RPBZeX7SyUYuypE9IIPx5/g==
+  version "7.0.10990000000093"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/organizations/-/organizations-7.0.10990000000093.tgz#533f03999bb7738254d4f764115a48550082517b"
+  integrity sha512-Zm+ThQ6cXpDftmu2pyxr9M4W/p6bCrltrSj5FlQB+x9A7aGFPj96AfBuvwKs5vR9xb9Smn/eEsRWKCH3PZ1zww==
   dependencies:
     "@folio/plugin-find-organization" "^6.0.0"
     "@folio/stripes-acq-components" "~7.0.2"
@@ -2190,9 +2190,9 @@
     prop-types "^15.6.0"
 
 "@folio/stripes-acq-components@^7.0.0", "@folio/stripes-acq-components@~7.0.0", "@folio/stripes-acq-components@~7.0.2":
-  version "7.0.309900000000166"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-acq-components/-/stripes-acq-components-7.0.309900000000166.tgz#bf7b4c6c0a94c15d7e2e6f3f252a69b55590a72e"
-  integrity sha512-fXGHkRgEv/UckHa9Qn5wlYowtZhRll5XyCqMO7E5jb3r8L+9H+7qj69avip6U9Uf8811rQUZ9dmPf6r25NbRdQ==
+  version "7.0.309900000000171"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-acq-components/-/stripes-acq-components-7.0.309900000000171.tgz#767fec0eda7c7817a8fe234fa82237f6548e686a"
+  integrity sha512-xmZG072p3yTBeZ6h1x2+HWsZxdVcg/WWQyiMVHF1th0bXb3w4FE+IwXkBO2+/QLyIkhktWeULHb0Ol8ytn7mqA==
   dependencies:
     "@folio/stripes-types" "^3.0.0"
     "@rehooks/local-storage" "^2.4.4"
