@@ -1694,9 +1694,9 @@
     react-router-prop-types "^1.0.4"
 
 "@folio/lists@>=1.2.0":
-  version "4.0.309900000000831"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/lists/-/lists-4.0.309900000000831.tgz#c02f569d787d92bddb17390b116a12d09f46aed0"
-  integrity sha512-RzB9H0DGGsMvA54DuNDiFenFZvP1LG8t3tkUJ4eiHJRrU9NsydM7/15AKZvGrYH0lOWSAAleZ6kALOnxw+tWrg==
+  version "4.0.309900000000834"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/lists/-/lists-4.0.309900000000834.tgz#62b7f98d11af3a26dfa56dce346ff4f502010084"
+  integrity sha512-Hn0X2V/7jTTNH1ragyXI19n3zJsGEU7Pp0bW4YPzBPHjAd6ExEoEtWVhdK6pli8vNOIwVpygpuxYjB+z0RfMOA==
   dependencies:
     "@folio/plugin-query-builder" "^2.0.0"
     "@folio/stripes-acq-components" "~7.0.0"
@@ -1837,9 +1837,9 @@
     "@folio/plugin-find-interface" "^6.0.0"
 
 "@folio/plugin-bursar-export@>=1.0.0":
-  version "5.0.109900000000182"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-bursar-export/-/plugin-bursar-export-5.0.109900000000182.tgz#55d5ac0d93228ceafcf3f553411dd69e1fd804bc"
-  integrity sha512-zHKaGmr/YooctSexWQ5zu+Sm7gtsoZVqSNaR7Kk3A35kxLLHTtV7pS4yohS0SCCnoXx4vkfeRKc6RnL11OkOow==
+  version "5.0.109900000000187"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-bursar-export/-/plugin-bursar-export-5.0.109900000000187.tgz#afc74193560da329912e00541c4f1425870d7643"
+  integrity sha512-4te8KkOWB5ShSXeJxL+Uk/jZ8isih5Hss5KpceG3hFBvJxYv7Ksl3HQU+GX5VYm6hRc7mH7hNsiMoS+iib+YQQ==
   dependencies:
     "@ngneat/falso" "^6.4.0"
     classnames "^2.3.2"
