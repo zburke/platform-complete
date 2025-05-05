@@ -2726,9 +2726,9 @@
     typescript "5"
 
 "@formatjs/cli@^6.1.3":
-  version "6.6.4"
-  resolved "https://repository.folio.org/repository/npm-ci-all/@formatjs/cli/-/cli-6.6.4.tgz#08db1cc2b9902964c287d04a8e09604022f1774c"
-  integrity sha512-VSDPsT7AO/mtth1rEBwl97Us5dMgqZpI8v7QJXakB4f90pDJsqHBdBeTbjHYrlFr2WvBLVo3/6mGPw9DeX7PUg==
+  version "6.7.1"
+  resolved "https://repository.folio.org/repository/npm-ci-all/@formatjs/cli/-/cli-6.7.1.tgz#6b5564f40ed62539e384cba2cc438c7c68a84a04"
+  integrity sha512-ULiXbLkbuTyd8f0qaByu1Nuc+jbAOLH1qRAtHZ7waIABQGPBB93OQ2FFtQPgoYoupKOKyNr+PZXR6pOT45E4EQ==
 
 "@formatjs/ecma402-abstract@2.2.4":
   version "2.2.4"
