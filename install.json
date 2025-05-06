@@ -371,7 +371,7 @@
   "id" : "mod-tlr-1.2.0-SNAPSHOT.76",
   "action" : "enable"
 }, {
-  "id" : "mod-inn-reach-3.5.0-SNAPSHOT.400",
+  "id" : "mod-inn-reach-3.5.0-SNAPSHOT.401",
   "action" : "enable"
 }, {
   "id" : "folio_inn-reach-6.0.10990000000044",
@@ -443,7 +443,7 @@
   "id" : "folio_finance-9.0.109900000000285",
   "action" : "enable"
 }, {
-  "id" : "folio_invoice-8.0.109900000000190",
+  "id" : "folio_invoice-8.0.109900000000195",
   "action" : "enable"
 }, {
   "id" : "folio_orders-9.0.109900000000248",

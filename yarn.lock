@@ -1635,9 +1635,9 @@
     "@folio/plugin-find-instance" "^9.0.0"
 
 "@folio/invoice@>=1.0.0":
-  version "8.0.109900000000190"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/invoice/-/invoice-8.0.109900000000190.tgz#fbf4f326abf77f92a723fd816d1287434c44194e"
-  integrity sha512-0037Ig2KSL9iymhfLGF6o01AikvobT/cCF2OMduyP9OvygfaIlXjRC5t4tXtmkXxbjVj6zo7eSoAC6WRxaFBew==
+  version "8.0.109900000000195"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/invoice/-/invoice-8.0.109900000000195.tgz#d1bfbe3a8df871af0648f80e59db48ad8a565997"
+  integrity sha512-iXxvOCN3kdWSAzD2KDeQE0r4JjYntHZGel7DizSvHqWIyJbNvO8fjAS9/0w9bnBJcnvasZ/riBMIIu0cdg2SWA==
   dependencies:
     "@folio/stripes-acq-components" "~7.0.0"
     file-saver "^2.0.0"
