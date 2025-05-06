@@ -80,7 +80,7 @@
   "id" : "folio_plugin-find-license-12.1.10990000000080",
   "action" : "enable"
 }, {
-  "id" : "mod-source-record-storage-5.11.0-SNAPSHOT.680",
+  "id" : "mod-source-record-storage-5.11.0-SNAPSHOT.681",
   "action" : "enable"
 }, {
   "id" : "mod-users-19.6.0-SNAPSHOT.350",
@@ -167,7 +167,7 @@
   "id" : "mod-serials-management-2.1.0-SNAPSHOT.159",
   "action" : "enable"
 }, {
-  "id" : "folio_serials-management-2.1.109900000000768",
+  "id" : "folio_serials-management-2.1.109900000000771",
   "action" : "enable"
 }, {
   "id" : "mod-agreements-7.3.0-SNAPSHOT.764",
