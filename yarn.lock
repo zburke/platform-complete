@@ -1517,9 +1517,9 @@
     react-final-form-arrays "^3.1.1"
 
 "@folio/erm-usage@>=1.0.3":
-  version "12.0.109900000000393"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/erm-usage/-/erm-usage-12.0.109900000000393.tgz#d6ddf554eccc0d729085518a84a7990f9475f98f"
-  integrity sha512-CKsAcqN/qcDmwlUfYBXSrbOloECwy1+N5DDSyeEmP9m91dazaWu8JobYdFgQ8LYQ5qSLyrV9afaY+7XENrw9ZA==
+  version "12.0.109900000000396"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/erm-usage/-/erm-usage-12.0.109900000000396.tgz#41574d77dcc36c3dc866c50992aa1a6c1993508e"
+  integrity sha512-NZEHdSYrdVCxWFfOslOxbBlYsnGcT35lACuHpElvA+eWzOSqlmEAvH/r0rDQ2cLIwrsjWx7cCbkSIAe+qbzWdQ==
   dependencies:
     compose-function "^3.0.3"
     file-saver "^2.0.0"
@@ -2676,9 +2676,9 @@
     redux-form "^8.0.0"
 
 "@folio/users@>=2.17.0":
-  version "13.0.109900000000346"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.109900000000346.tgz#5f66e705d3ea69fd42ddd96bdb83fff4d8ca84ae"
-  integrity sha512-eOFY1XrWxCYo/xVg5Go0txIdoYDX/7ailPN58oWrdSptoYmn8t37KcpBEML/Zix6pU6YKLoq+Sdm4YsAVVe9hw==
+  version "13.0.109900000000354"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.109900000000354.tgz#1ef2c41f308f225b4c92470eda34a985bc1d2a1c"
+  integrity sha512-duxh20yzs3S1eLTXl2R1Nmi/tbRkhQgRt/LZ1dKDNdOn9kvMFZTAU9ruIRTz2U3zBr/15Swwv25rTNGrzscGMw==
   dependencies:
     compressorjs "^1.2.1"
     dompurify "^3.2.0"

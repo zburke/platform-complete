@@ -113,7 +113,7 @@
   "id" : "mod-erm-usage-harvester-5.2.0-SNAPSHOT.202",
   "action" : "enable"
 }, {
-  "id" : "folio_erm-usage-12.0.109900000000393",
+  "id" : "folio_erm-usage-12.0.109900000000396",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-erm-usage-data-provider-7.0.109900000000104",
@@ -221,7 +221,7 @@
   "id" : "folio_stripes-core-11.1.109900000000877",
   "action" : "enable"
 }, {
-  "id" : "folio_users-13.0.109900000000346",
+  "id" : "folio_users-13.0.109900000000354",
   "action" : "enable"
 }, {
   "id" : "mod-orders-storage-14.0.0-SNAPSHOT.427",
@@ -284,7 +284,7 @@
   "id" : "mod-template-engine-1.23.0-SNAPSHOT.103",
   "action" : "enable"
 }, {
-  "id" : "mod-audit-3.0.0-SNAPSHOT.216",
+  "id" : "mod-audit-3.0.0-SNAPSHOT.221",
   "action" : "enable"
 }, {
   "id" : "folio_circulation-log-6.0.10990000000041",
