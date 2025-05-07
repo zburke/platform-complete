@@ -266,7 +266,7 @@
   "id" : "folio_stripes-authority-components-6.1.109900000000102",
   "action" : "enable"
 }, {
-  "id" : "mod-inventory-21.2.0-SNAPSHOT.871",
+  "id" : "mod-inventory-21.2.0-SNAPSHOT.872",
   "action" : "enable"
 }, {
   "id" : "mod-quick-marc-7.1.0-SNAPSHOT.322",
@@ -443,7 +443,7 @@
   "id" : "folio_finance-9.0.109900000000295",
   "action" : "enable"
 }, {
-  "id" : "folio_invoice-8.0.109900000000195",
+  "id" : "folio_invoice-8.0.109900000000200",
   "action" : "enable"
 }, {
   "id" : "folio_orders-9.0.109900000000248",
