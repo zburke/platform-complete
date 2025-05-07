@@ -1547,9 +1547,9 @@
     react-router-prop-types "^1.0.4"
 
 "@folio/finance@>=1.1.0":
-  version "9.0.109900000000285"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/finance/-/finance-9.0.109900000000285.tgz#a86040203280b31beaa036b589b956ca682a7f50"
-  integrity sha512-WeOKH/MA/8kpAs4swo+IZH/IE2eOTrfmVuNfwyBnB5NcNRa80F1sChDusBGKxuAwvPNf0lz7EBWsrbd/hWYN+Q==
+  version "9.0.109900000000295"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/finance/-/finance-9.0.109900000000295.tgz#472fa410e61076c2ecfd9428d1b8f68b11e4d0c4"
+  integrity sha512-X0xLrgEG45slnOv7IQl/H6XoHzQuhu2OOdktjE/3/W9l4Ec6VAIAHiDeW/RpgOZvNRbwN9moC+bQO9S9Nprs8A==
   dependencies:
     "@folio/stripes-acq-components" "~7.0.0"
     "@folio/stripes-data-transfer-components" "~7.0.0"
@@ -2192,9 +2192,9 @@
     prop-types "^15.6.0"
 
 "@folio/stripes-acq-components@^7.0.0", "@folio/stripes-acq-components@~7.0.0", "@folio/stripes-acq-components@~7.0.2":
-  version "7.0.409900000000184"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-acq-components/-/stripes-acq-components-7.0.409900000000184.tgz#6b2e7a38a9780948540ea0e64a6c78a461ec9a3e"
-  integrity sha512-nwl7oKlb10EcYZhtCjtZkx43fZJKd+8ReYJgDaYFyaF2ZuIjdQrHLz1lKQqfKqbF2MLHO0PbKLkFveX3y0rMrg==
+  version "7.0.409900000000191"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-acq-components/-/stripes-acq-components-7.0.409900000000191.tgz#ea1a878945988d8cde9db7f70b4a8957bd74617f"
+  integrity sha512-osw9Kvd2VOhqZwFxpGXFA8CiIAS6ZiTYAiLECvmSrkNjFVaVQ69JwQ5VZx+bqU34n798Itytd+c/oFQuTQt5SQ==
   dependencies:
     "@folio/stripes-types" "^3.0.0"
     "@rehooks/local-storage" "^2.4.4"
@@ -2494,9 +2494,9 @@
     prop-types "^15.7.2"
 
 "@folio/stripes-smart-components@^10.0.0":
-  version "10.1.109900000000408"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-smart-components/-/stripes-smart-components-10.1.109900000000408.tgz#cf51187bc031589c67fc69e5c46e909aac992859"
-  integrity sha512-ZjOsEOKTXBVezt+uy5uZiSbV5CocJuQ2Zo7pERyQR5YvLZTXPuSCTYv3xg0pKT9cNdHu44JJF/2Cij9lpK7wAA==
+  version "10.1.109900000000417"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-smart-components/-/stripes-smart-components-10.1.109900000000417.tgz#d39e824d0b4f5065cd9f87183b4334f556b5063e"
+  integrity sha512-9oyigM+tkaOP9U92vL2PTo/3wUaENSNBPq0A/1bQGxvUXNsatcJxHSR2AUp7Z66bYPls9QM1eOE+qDzBDSbsvQ==
   dependencies:
     "@rehooks/local-storage" "2.4.4"
     classnames "^2.2.6"
