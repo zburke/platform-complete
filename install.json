@@ -266,7 +266,7 @@
   "id" : "folio_stripes-authority-components-6.1.109900000000102",
   "action" : "enable"
 }, {
-  "id" : "mod-inventory-21.2.0-SNAPSHOT.870",
+  "id" : "mod-inventory-21.2.0-SNAPSHOT.871",
   "action" : "enable"
 }, {
   "id" : "mod-quick-marc-7.1.0-SNAPSHOT.322",
@@ -296,7 +296,7 @@
   "id" : "folio_stripes-marc-components-2.0.109900000000144",
   "action" : "enable"
 }, {
-  "id" : "mod-data-import-3.4.0-SNAPSHOT.331",
+  "id" : "mod-data-import-3.4.0-SNAPSHOT.332",
   "action" : "enable"
 }, {
   "id" : "folio_data-import-9.0.10990000000056",
@@ -392,7 +392,7 @@
   "id" : "folio_receiving-8.0.109900000000148",
   "action" : "enable"
 }, {
-  "id" : "mod-data-export-worker-3.5.0-SNAPSHOT.611",
+  "id" : "mod-data-export-worker-3.5.0-SNAPSHOT.612",
   "action" : "enable"
 }, {
   "id" : "mod-data-export-spring-3.6.0-SNAPSHOT.302",
