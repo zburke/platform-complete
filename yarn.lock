@@ -1465,9 +1465,9 @@
     "@folio/plugin-find-organization" "^6.0.0"
 
 "@folio/developer@>=1.5.0":
-  version "10.0.109900000000190"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/developer/-/developer-10.0.109900000000190.tgz#95c2b36d8b4c0ae6d18d8121cd4f8f4025e809a0"
-  integrity sha512-HAEjJgmsy564wPc6F+hvXE5f5JUbVBq57E/57lP91EiuHNC2QpeLemI7JZZ5MdDCC395UcANCf7RK/a+Yhjd4g==
+  version "11.0.109900000000195"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/developer/-/developer-11.0.109900000000195.tgz#c3e2d270d8f49a1e58428a087d248551ceb058d8"
+  integrity sha512-KIpRo5OdjerNscD0G06Qrh8Qd05Ern+qS4vQKg6PXHZyVN9CQ40zS3DC96BJSeBXw81xo3JJiB3tDTm1VpBEAw==
   dependencies:
     chart.js "^4.4.0"
     ky "^0.23.0"
@@ -1742,9 +1742,9 @@
     "@folio/stripes-acq-components" "^7.0.0"
 
 "@folio/myprofile@>=1.1.0":
-  version "10.0.10990000000061"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/myprofile/-/myprofile-10.0.10990000000061.tgz#33d218548b382e6b2e8949b630bb0e3517a0563f"
-  integrity sha512-t+cQkvzzKKskfX5YpgbURZnLIEotCimakPD52iIEUfpu4XBX4RTHHGIpnnesKyVXTu0S2JPAk2oyyt6JxWaMpw==
+  version "11.0.10990000000079"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/myprofile/-/myprofile-11.0.10990000000079.tgz#e736f1000adb6dea3873ea39e8f1bba809bd6f6b"
+  integrity sha512-g+JwstFgkg4eMURclvjgDgrmkPCZO3PLTAMJ5LUOuyJ/rNEAdnJgN0aaaWSdCInNpYxekGQinzdwz7w9HwbE3w==
   dependencies:
     "@dnd-kit/core" "^6.2.0"
     "@dnd-kit/modifiers" "^9.0.0"
@@ -2042,7 +2042,20 @@
     lodash "^4.17.4"
     prop-types "^15.6.0"
 
-"@folio/plugin-query-builder@>=1.0.0", "@folio/plugin-query-builder@^2.0.0":
+"@folio/plugin-query-builder@>=1.0.0":
+  version "3.0.109900000000714"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-query-builder/-/plugin-query-builder-3.0.109900000000714.tgz#fcf8be3048a8f7c87026194f9245ddcd06641ebf"
+  integrity sha512-U4moBH91z80fHNeDmjhL7AFFFH8C3M7RIiQ8kM/GDz5R85dnCmOhV+EkdsjX0ft7N+X2TaMsMCog+M8iT3mZeg==
+  dependencies:
+    "@folio/stripes-acq-components" "^7.0.0"
+    ky "^0.33.2"
+    lodash "^4.17.5"
+    prop-types "^15.5.10"
+    react-query "^3.6.0"
+  optionalDependencies:
+    "@folio/plugin-find-organization" "^6.0.0"
+
+"@folio/plugin-query-builder@^2.0.0":
   version "2.0.309900000000711"
   resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-query-builder/-/plugin-query-builder-2.0.309900000000711.tgz#8332178ce3c2bfde2ed58b7e72b7ee4f61ca1f56"
   integrity sha512-ZXx+p5xzpgV9X9VvK4VSVlIbyAI/8Pk3974RRhrhSpdb0z5EL44dJinWHbykcPx4qdGMTg3LPTyOsfwesR8EXA==
@@ -2347,9 +2360,9 @@
     uuid "^9.0.0"
 
 "@folio/stripes-core@^11.0.0":
-  version "11.1.109900000000877"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-core/-/stripes-core-11.1.109900000000877.tgz#851382d387fb3b1dbfdac617ec22462a29845d72"
-  integrity sha512-Edb5jiP+d1UR51aqnQt9XB+AK8kevvCT/QKYLP5e7Lhe47d5X79l2hXRye948fl1Im8vy1s+FjV9WlBmi6Jx2Q==
+  version "11.1.109900000000890"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-core/-/stripes-core-11.1.109900000000890.tgz#791790affa81f38f1d35cfe09d97f88cd76782f4"
+  integrity sha512-1Xh0YumFvj0xq3HnMVs/s0s4AUz8YEcOReXDAAE9C9aoDga+USk+ps6fcW2CuGNdBARpApmltvS4d/90C7b7qQ==
   dependencies:
     "@apollo/client" "^3.2.1"
     classnames "^2.2.5"
@@ -2664,9 +2677,9 @@
     redux-form "^8.3.7"
 
 "@folio/tenant-settings@>=2.5.1":
-  version "10.0.10990000000062"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/tenant-settings/-/tenant-settings-10.0.10990000000062.tgz#3a1b62837c663af528a5e0dc1fc4bbfcbe2d08c0"
-  integrity sha512-mbryMgjLW0UK8jWTr2+wWkr5XTpxqBax41c1Tm85gaJb42Rj81wJ0SojKQ6yID4rdfmGe4/1N5MJtK/rAV9ZmQ==
+  version "11.0.10990000000065"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/tenant-settings/-/tenant-settings-11.0.10990000000065.tgz#44dad24166ae95c1079b6470bd3757bc4224a333"
+  integrity sha512-fAMhHxDjJv1gmF9PHR4nUf9RB5dGYlHsTqJie71rZDE+x1340XPz7QCHtwqF8R4Hda5qUUVIkPn1uDpF31yFuQ==
   dependencies:
     final-form "^4.18.2"
     lodash "^4.17.4"
