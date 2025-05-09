@@ -137,9 +137,6 @@
   "id" : "mod-reading-room-1.3.0-SNAPSHOT.28",
   "action" : "enable"
 }, {
-  "id" : "folio_reading-room-2.0.10990000000032",
-  "action" : "enable"
-}, {
   "id" : "mod-courses-1.4.12-SNAPSHOT.168",
   "action" : "enable"
 }, {
@@ -317,6 +314,9 @@
   "id" : "mod-feesfines-19.4.0-SNAPSHOT.246",
   "action" : "enable"
 }, {
+  "id" : "folio_reading-room-3.0.10990000000056",
+  "action" : "enable"
+}, {
   "id" : "mod-circulation-24.5.0-SNAPSHOT.1307",
   "action" : "enable"
 }, {
@@ -377,7 +377,7 @@
   "id" : "folio_inn-reach-6.0.10990000000044",
   "action" : "enable"
 }, {
-  "id" : "mod-orders-13.1.0-SNAPSHOT.1023",
+  "id" : "mod-orders-13.1.0-SNAPSHOT.1025",
   "action" : "enable"
 }, {
   "id" : "folio_acquisition-units-6.0.10990000000030",

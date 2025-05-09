@@ -2089,9 +2089,9 @@
     "@folio/plugin-find-authority" "^5.0.0"
 
 "@folio/reading-room@>=1.0.0":
-  version "2.0.10990000000032"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/reading-room/-/reading-room-2.0.10990000000032.tgz#b7edf2c6e9c6a4be73448e1c747a36aaf267b505"
-  integrity sha512-PZkMiSPSVJxDOei53GeinStwOR4m1iB3dpnea/X6DrPM8P/mUabX1N3IUJVOaMNdlfUJ//3ayF5bAGk73sG0KQ==
+  version "3.0.10990000000056"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/reading-room/-/reading-room-3.0.10990000000056.tgz#6b41db3a20a98452ba6bfc6ce78ea26cc19fce04"
+  integrity sha512-cHAVNOYPdDCapStL+lXudrme7gmjHi82xM0grNumK2Ht9phBTtBBEE90L/TmRg6gpnGwx2xdJaUc/6qB8Og7Ew==
   dependencies:
     classnames "^2.2.5"
     prop-types "^15.6.0"
