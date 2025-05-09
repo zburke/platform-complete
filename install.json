@@ -128,7 +128,7 @@
   "id" : "folio_calendar-12.0.109900000000142",
   "action" : "enable"
 }, {
-  "id" : "folio_stripes-inventory-components-2.1.109000000679",
+  "id" : "folio_stripes-inventory-components-2.1.109000000682",
   "action" : "enable"
 }, {
   "id" : "mod-inventory-update-4.1.1-SNAPSHOT.141",
@@ -173,7 +173,7 @@
   "id" : "mod-agreements-7.3.0-SNAPSHOT.765",
   "action" : "enable"
 }, {
-  "id" : "folio_eholdings-11.1.109900000000192",
+  "id" : "folio_eholdings-11.1.109900000000197",
   "action" : "enable"
 }, {
   "id" : "folio_erm-comparisons-8.1.10990000000095",
@@ -290,7 +290,7 @@
   "id" : "folio_circulation-log-6.0.10990000000041",
   "action" : "enable"
 }, {
-  "id" : "folio_marc-authorities-7.1.109900000000784",
+  "id" : "folio_marc-authorities-7.1.109900000000804",
   "action" : "enable"
 }, {
   "id" : "folio_stripes-marc-components-2.0.109900000000144",

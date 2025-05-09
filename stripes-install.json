@@ -56,7 +56,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_eholdings-11.1.109900000000192",
+    "id": "folio_eholdings-11.1.109900000000197",
     "action": "enable"
   },
   {
@@ -112,7 +112,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_marc-authorities-7.1.109900000000784",
+    "id": "folio_marc-authorities-7.1.109900000000804",
     "action": "enable"
   },
   {
@@ -260,7 +260,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_stripes-inventory-components-2.1.109000000679",
+    "id": "folio_stripes-inventory-components-2.1.109000000682",
     "action": "enable"
   },
   {
