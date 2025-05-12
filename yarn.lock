@@ -1479,9 +1479,9 @@
     react-query "^3.38.1"
 
 "@folio/eholdings@>=1.1.0":
-  version "11.1.109900000000197"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/eholdings/-/eholdings-11.1.109900000000197.tgz#0f959ecbcd5e4455ddd415ca9da872695cb37ac2"
-  integrity sha512-OH1NgzBbrA/ZzE1wCeSqY9O3OLwFT+GifTJmv47XZknZIN9OjquufLqCU4/k28L7MYEGgdTUob8+TelLIxCSHQ==
+  version "11.1.109900000000204"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/eholdings/-/eholdings-11.1.109900000000204.tgz#aab8a136877e2d3707038e84f7da6f43126b2e9b"
+  integrity sha512-SkMMLtptCzPx/PCl3k2QglEBgD35+AbS78O0I56BTaAS22uwjYxE+/CSdSMwdvDV8ZhXjwXBmW8KF7HFUqIEXA==
   dependencies:
     classnames "^2.2.5"
     currency-symbol-map "^4.0.4"
