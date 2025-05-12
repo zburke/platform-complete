@@ -74,7 +74,7 @@
   "id" : "folio_plugin-find-license-12.1.10990000000080",
   "action" : "enable"
 }, {
-  "id" : "mod-source-record-storage-5.11.0-SNAPSHOT.682",
+  "id" : "mod-source-record-storage-5.11.0-SNAPSHOT.685",
   "action" : "enable"
 }, {
   "id" : "mod-users-19.6.0-SNAPSHOT.350",
@@ -449,7 +449,7 @@
   "id" : "folio_orders-9.0.109900000000253",
   "action" : "enable"
 }, {
-  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.621",
+  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.622",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-query-builder-3.0.109900000000714",
@@ -470,7 +470,7 @@
   "id" : "folio_lists-4.0.309900000000834",
   "action" : "enable"
 }, {
-  "id" : "mod-remote-storage-3.5.0-SNAPSHOT.227",
+  "id" : "mod-remote-storage-3.5.0-SNAPSHOT.228",
   "action" : "enable"
 }, {
   "id" : "folio_remote-storage-7.0.10990000000041",
