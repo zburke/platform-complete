@@ -215,7 +215,7 @@
   "id" : "mod-users-bl-7.11.0-SNAPSHOT.181",
   "action" : "enable"
 }, {
-  "id" : "folio_stripes-core-11.1.109900000000890",
+  "id" : "folio_stripes-core-11.1.109900000000895",
   "action" : "enable"
 }, {
   "id" : "folio_users-13.0.109900000000354",
@@ -314,7 +314,7 @@
   "id" : "mod-feesfines-19.4.0-SNAPSHOT.246",
   "action" : "enable"
 }, {
-  "id" : "folio_reading-room-3.0.10990000000056",
+  "id" : "folio_reading-room-3.0.10990000000061",
   "action" : "enable"
 }, {
   "id" : "mod-circulation-24.5.0-SNAPSHOT.1307",

@@ -2089,9 +2089,9 @@
     "@folio/plugin-find-authority" "^5.0.0"
 
 "@folio/reading-room@>=1.0.0":
-  version "3.0.10990000000056"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/reading-room/-/reading-room-3.0.10990000000056.tgz#6b41db3a20a98452ba6bfc6ce78ea26cc19fce04"
-  integrity sha512-cHAVNOYPdDCapStL+lXudrme7gmjHi82xM0grNumK2Ht9phBTtBBEE90L/TmRg6gpnGwx2xdJaUc/6qB8Og7Ew==
+  version "3.0.10990000000061"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/reading-room/-/reading-room-3.0.10990000000061.tgz#5e654bc75625600e833ce841640c7130c6b56ee6"
+  integrity sha512-XnwL9eLPbUMsg4fH++SwyhWTb33iKScEPhAQgUl0WiTwaXK+URgNLp0EL5Lsap2qPH1a+0yXAZWtFA9gACmvfQ==
   dependencies:
     classnames "^2.2.5"
     prop-types "^15.6.0"
@@ -2360,9 +2360,9 @@
     uuid "^9.0.0"
 
 "@folio/stripes-core@^11.0.0":
-  version "11.1.109900000000890"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-core/-/stripes-core-11.1.109900000000890.tgz#791790affa81f38f1d35cfe09d97f88cd76782f4"
-  integrity sha512-1Xh0YumFvj0xq3HnMVs/s0s4AUz8YEcOReXDAAE9C9aoDga+USk+ps6fcW2CuGNdBARpApmltvS4d/90C7b7qQ==
+  version "11.1.109900000000895"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-core/-/stripes-core-11.1.109900000000895.tgz#1bf1a25d103d324dff31260a7b8db00d9b4dca10"
+  integrity sha512-8Ud/XkaYWLYK2TKoRz0p1qhLcTF7VCfkw3YrBxWUexHfpJ5A0Xk6PY4BmflqgCCXbCzVlT6jLlAxT48yRz56kg==
   dependencies:
     "@apollo/client" "^3.2.1"
     classnames "^2.2.5"
@@ -9290,9 +9290,9 @@ semver@^6.0.0, semver@^6.3.0, semver@^6.3.1:
   integrity sha512-BR7VvDCVHO+q2xBEWskxS6DJE1qRnb7DxzUrogb71CWoSficBxYsiAGd+Kl0mmq/MprG9yArRkyrQxTO6XjMzA==
 
 semver@^7.1.3, semver@^7.3.4, semver@^7.3.5, semver@^7.3.7, semver@^7.5.0, semver@^7.5.3, semver@^7.5.4:
-  version "7.7.1"
-  resolved "https://repository.folio.org/repository/npm-ci-all/semver/-/semver-7.7.1.tgz#abd5098d82b18c6c81f6074ff2647fd3e7220c9f"
-  integrity sha512-hlq8tAfn0m/61p4BVRcPzIGr6LKiMwo4VM6dGi6pt4qcRkmNzTcWq6eCEjEh+qXjkMDvPlOFFSGwQjoEa6gyMA==
+  version "7.7.2"
+  resolved "https://repository.folio.org/repository/npm-ci-all/semver/-/semver-7.7.2.tgz#67d99fdcd35cec21e6f8b87a7fd515a33f982b58"
+  integrity sha512-RF0Fw+rO5AMf9MAyaRXI4AV0Ulj5lMHqVxxdSgiVbixSCXoEmmX/jk0CuJw4+3SqroYO9VoUh+HcuJivvtJemA==
 
 send@0.19.0:
   version "0.19.0"
