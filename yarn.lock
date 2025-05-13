@@ -1658,9 +1658,9 @@
     "@folio/plugin-find-po-line" "^6.0.0"
 
 "@folio/ldp@>=1.1.0":
-  version "3.0.20990000000085"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/ldp/-/ldp-3.0.20990000000085.tgz#34c7a7a024c552cb5f24a1e8bd417fbd47915017"
-  integrity sha512-/qxuLohwh/+iNi08KB6y+bL7zf3tIv5ucsXGqElmiaFnC7MDuqaaIgV6Tr7LAjqqeR2ICuZO8ACzJIWVQdnFFw==
+  version "3.0.20990000000088"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/ldp/-/ldp-3.0.20990000000088.tgz#843471ca13ab5a65f78a3c26f833a966b22dc26b"
+  integrity sha512-q+m8Z80jM6B4WO5Efzpf5AyCNm6pLhzm/e4XhQqJXB+ABtapu6M3xjH90wv332VJ788WWlGTuFKt7A2mEl/KwQ==
   dependencies:
     chart.js "^2.9.3"
     final-form "^4.20.7"
@@ -2321,9 +2321,9 @@
     yargs "^17.3.1"
 
 "@folio/stripes-components@^13.0.0":
-  version "13.1.1099000000001004"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-components/-/stripes-components-13.1.1099000000001004.tgz#b2f392e9f3533429e6fefdf399497d5e75d20288"
-  integrity sha512-6wm30H2o/dAwJ5JGEMoh4MuhktbkauoOFKfuPv4/zV05zWRWA9szBQ56XzbHnkgtK3vat9YWn6bSw9ZPikdiQA==
+  version "13.1.1099000000001007"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-components/-/stripes-components-13.1.1099000000001007.tgz#a71da4e0736b138563899d38d68b62e9fb270db0"
+  integrity sha512-ETlGV4mD0TF18vVtE+pXKVYzDYn5eP09HeoISarKGWNHP3HPy764ylJKxPZ3Ehps4lYMN8JWiC/0rvdgjd6xhg==
   dependencies:
     "@folio/stripes-react-hotkeys" "^3.2.1"
     classnames "^2.2.5"
@@ -2690,9 +2690,9 @@
     redux-form "^8.0.0"
 
 "@folio/users@>=2.17.0":
-  version "13.0.109900000000354"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.109900000000354.tgz#1ef2c41f308f225b4c92470eda34a985bc1d2a1c"
-  integrity sha512-duxh20yzs3S1eLTXl2R1Nmi/tbRkhQgRt/LZ1dKDNdOn9kvMFZTAU9ruIRTz2U3zBr/15Swwv25rTNGrzscGMw==
+  version "13.0.109900000000357"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.109900000000357.tgz#459c19d942ea914c25981fbb1115b7edc98d663f"
+  integrity sha512-WSnUPh3aHVTLppQvUQmumG9Yi5W05mT0Y1i4TpEdp9I4DIseVJGp2JlG4R2VWvKEOmt0Y9ORWC6BSun9/skeyg==
   dependencies:
     compressorjs "^1.2.1"
     dompurify "^3.2.0"
@@ -9883,9 +9883,9 @@ terser-webpack-plugin@^5.3.11:
     terser "^5.31.1"
 
 terser@^5.10.0, terser@^5.31.1:
-  version "5.39.0"
-  resolved "https://repository.folio.org/repository/npm-ci-all/terser/-/terser-5.39.0.tgz#0e82033ed57b3ddf1f96708d123cca717d86ca3a"
-  integrity sha512-LBAhFyLho16harJoWMg/nZsQYgTrg5jXOn2nCYjRUcZZEdE3qa2zb8QEDRUGVZBW4rlazf2fxkg8tztybTaqWw==
+  version "5.39.1"
+  resolved "https://repository.folio.org/repository/npm-ci-all/terser/-/terser-5.39.1.tgz#1c80e6bde2b362c6f9f3e79e295c228a3882d983"
+  integrity sha512-Mm6+uad0ZuDtcV8/4uOZQDQ8RuiC5Pu+iZRedJtF7yA/27sPL7d++In/AJKpWZlU3SYMPPkVfwetn6sgZ66pUA==
   dependencies:
     "@jridgewell/source-map" "^0.3.3"
     acorn "^8.8.2"
