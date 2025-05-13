@@ -2321,9 +2321,9 @@
     yargs "^17.3.1"
 
 "@folio/stripes-components@^13.0.0":
-  version "13.1.109900000000999"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-components/-/stripes-components-13.1.109900000000999.tgz#d4583b99ae1338363d6619a8401a4ba681f68f71"
-  integrity sha512-lOY9QwiP9hgeqiFJf5YweuZ3WLDW3YVTyxYza9ByzBE4q21GWfTXNOUpJSX5p8Z8U/3Nz3kJVsPCJNhKyR6vDw==
+  version "13.1.1099000000001004"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-components/-/stripes-components-13.1.1099000000001004.tgz#b2f392e9f3533429e6fefdf399497d5e75d20288"
+  integrity sha512-6wm30H2o/dAwJ5JGEMoh4MuhktbkauoOFKfuPv4/zV05zWRWA9szBQ56XzbHnkgtK3vat9YWn6bSw9ZPikdiQA==
   dependencies:
     "@folio/stripes-react-hotkeys" "^3.2.1"
     classnames "^2.2.5"
@@ -3875,9 +3875,9 @@ bare-events@^2.2.0, bare-events@^2.5.4:
   integrity sha512-+gFfDkR8pj4/TrWCGUGWmJIkBwuxPS5F+a5yWjOHQt2hHvNZd5YLzadjmDUtFmMM4y429bnKLa8bYBMHcYdnQA==
 
 bare-fs@^4.0.1:
-  version "4.1.4"
-  resolved "https://repository.folio.org/repository/npm-ci-all/bare-fs/-/bare-fs-4.1.4.tgz#3dd863925f29843e64a9030839c9cb3155714d40"
-  integrity sha512-r8+26Voz8dGX3AYpJdFb1ZPaUSM8XOLCZvy+YGpRTmwPHIxA7Z3Jov/oMPtV7hfRQbOnH8qGlLTzQAbgtdNN0Q==
+  version "4.1.5"
+  resolved "https://repository.folio.org/repository/npm-ci-all/bare-fs/-/bare-fs-4.1.5.tgz#1d06c076e68cc8bf97010d29af9e3ac3808cdcf7"
+  integrity sha512-1zccWBMypln0jEE05LzZt+V/8y8AQsQQqxtklqaIyg5nu6OAYFhZxPXinJTSG+kU5qyNmeLgcn9AW7eHiCHVLA==
   dependencies:
     bare-events "^2.5.4"
     bare-path "^3.0.0"
