@@ -53,7 +53,7 @@
   "id" : "folio_service-interaction-4.1.109900000000208",
   "action" : "enable"
 }, {
-  "id" : "mod-calendar-3.4.0-SNAPSHOT.181",
+  "id" : "mod-calendar-3.4.0-SNAPSHOT.182",
   "action" : "enable"
 }, {
   "id" : "mod-organizations-storage-5.0.0-SNAPSHOT.119",
@@ -128,7 +128,7 @@
   "id" : "folio_calendar-12.0.109900000000142",
   "action" : "enable"
 }, {
-  "id" : "folio_stripes-inventory-components-2.1.109000000682",
+  "id" : "folio_stripes-inventory-components-2.1.109000000686",
   "action" : "enable"
 }, {
   "id" : "mod-inventory-update-4.1.1-SNAPSHOT.141",
@@ -155,7 +155,7 @@
   "id" : "mod-password-validator-3.5.0-SNAPSHOT.97",
   "action" : "enable"
 }, {
-  "id" : "folio_stripes-smart-components-10.1.109900000000430",
+  "id" : "folio_stripes-smart-components-10.1.109900000000434",
   "action" : "enable"
 }, {
   "id" : "mod-kb-ebsco-java-6.1.0-SNAPSHOT.465",
@@ -215,7 +215,7 @@
   "id" : "mod-users-bl-7.11.0-SNAPSHOT.181",
   "action" : "enable"
 }, {
-  "id" : "folio_stripes-core-11.1.109900000000895",
+  "id" : "folio_stripes-core-11.1.109900000000909",
   "action" : "enable"
 }, {
   "id" : "folio_users-13.0.109900000000354",
@@ -260,7 +260,7 @@
   "id" : "folio_plugin-find-instance-9.1.10990000000060",
   "action" : "enable"
 }, {
-  "id" : "folio_stripes-authority-components-6.1.109900000000102",
+  "id" : "folio_stripes-authority-components-6.1.109900000000106",
   "action" : "enable"
 }, {
   "id" : "mod-inventory-21.2.0-SNAPSHOT.872",
@@ -290,7 +290,7 @@
   "id" : "folio_marc-authorities-7.1.109900000000804",
   "action" : "enable"
 }, {
-  "id" : "folio_stripes-marc-components-2.0.109900000000144",
+  "id" : "folio_stripes-marc-components-2.0.109900000000149",
   "action" : "enable"
 }, {
   "id" : "mod-data-import-3.4.0-SNAPSHOT.332",
