@@ -68,7 +68,7 @@
   "id" : "mod-licenses-6.3.0-SNAPSHOT.285",
   "action" : "enable"
 }, {
-  "id" : "folio_licenses-12.1.109900000000156",
+  "id" : "folio_licenses-12.1.109900000000159",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-license-12.1.10990000000080",
@@ -188,7 +188,7 @@
   "id" : "mod-configuration-5.13.0-SNAPSHOT.139",
   "action" : "enable"
 }, {
-  "id" : "folio_agreements-12.1.109900000000616",
+  "id" : "folio_agreements-12.1.109900000000633",
   "action" : "enable"
 }, {
   "id" : "folio_tenant-settings-11.0.10990000000068",

@@ -1265,9 +1265,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/agreements@>=2.0.0":
-  version "12.1.109900000000616"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/agreements/-/agreements-12.1.109900000000616.tgz#9912c9592e6e60f6dd7823b153234e5718b12041"
-  integrity sha512-D0ZjhoU+kN9BxmylpT1zeSaxV7C5gyaAFtFWiBrHG473kyE7KmSnC+DD3BIMMTeMOHvB4ZiGw0/Tr5FcotA5vg==
+  version "12.1.109900000000633"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/agreements/-/agreements-12.1.109900000000633.tgz#f24fc2b7925a6a25c644fc9515d66d2fb239933e"
+  integrity sha512-Azw57+bhiRLqJGiboxZrWGN1mCzcygUfLIgVOghb7GX1GC2FvdKH2N/apWSWV9kPjwoJsA6ywA0wOxQ6hQ4Xow==
   dependencies:
     "@k-int/stripes-kint-components" "^5.15.0"
     "@rehooks/local-storage" "^2.4.4"
@@ -1677,9 +1677,9 @@
     uuid "^8.3.1"
 
 "@folio/licenses@>=2.0.0":
-  version "12.1.109900000000156"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/licenses/-/licenses-12.1.109900000000156.tgz#4d0bdebff1c43f44786e78f8be4e864e01a70300"
-  integrity sha512-zZS/1gM9vJGFETBasabESusu87oPSBy9auMEIQJBU3PPA30ZsCDN1Goaids8DUnDixhWdaRO9LgDgRdmJqFySA==
+  version "12.1.109900000000159"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/licenses/-/licenses-12.1.109900000000159.tgz#67be42ce194b2325d93bc59a2c508f0875c1412c"
+  integrity sha512-gUOODyuDyuqvY8kEu4A8bfl98tuO/ZyQMB2laE6ca+C25DCI+rDUjdi7WN9PxYVn+tAhzbEueDvLxYLG3wWA8g==
   dependencies:
     "@k-int/stripes-kint-components" "^5.15.0"
     "@rehooks/local-storage" "^2.4.4"
@@ -2924,9 +2924,9 @@
     "@jridgewell/sourcemap-codec" "^1.4.14"
 
 "@k-int/stripes-kint-components@^5.11.0", "@k-int/stripes-kint-components@^5.15.0":
-  version "5.20.0"
-  resolved "https://repository.folio.org/repository/npm-ci-all/@k-int/stripes-kint-components/-/stripes-kint-components-5.20.0.tgz#c357af7f77d8e22562da45de03fe8691d4749baa"
-  integrity sha512-GUtyGQI5XavZiRcsAd1zR2ShkU6Ew090w8o4G36l668YG9CowgiRB/hVNX9jNX5YXazkFmBBOXEIkGahAxh6XA==
+  version "5.20.1"
+  resolved "https://repository.folio.org/repository/npm-ci-all/@k-int/stripes-kint-components/-/stripes-kint-components-5.20.1.tgz#f7edce7ca5d81f50e5a174b207af96b9245209ef"
+  integrity sha512-tYlx9Gj84N4H6prtm+NyzIBQPSLbad0NkxkS8YGT6WzeeoMiXtCa8aytVygpEL//BgRDCAnIwPHhcLcBN8oCsg==
   dependencies:
     "@rehooks/local-storage" "^2.4.4"
     compose-function "^3.0.3"
