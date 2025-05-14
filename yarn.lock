@@ -1501,9 +1501,9 @@
     redux-observable "^1.2.0"
 
 "@folio/erm-comparisons@>=1.0.0":
-  version "8.1.10990000000095"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/erm-comparisons/-/erm-comparisons-8.1.10990000000095.tgz#794dc4a208d60b7ce1e50ae94fcc75f52957fbee"
-  integrity sha512-BVbWfx2YdXjXrGLRdl5jCE9+Ih8vBdaX9/YPEC1srTblNg722dKRlsLg9Ckc9g9NINYpIUOqwAST19vdke7UhA==
+  version "8.1.109900000000100"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/erm-comparisons/-/erm-comparisons-8.1.109900000000100.tgz#eb8c7de52f1a5232ebbfb5e933e52db666c08eff"
+  integrity sha512-aFDAl6yvEuRgCYsSeqrZW8jJkzecNVjACdzZ4Pu0oCBX90OhhhwUgp238Nj8W2FB5+CodnI3aPmCwKu6vFAgyw==
   dependencies:
     "@k-int/stripes-kint-components" "^5.15.0"
     "@rehooks/local-storage" "^2.4.5"

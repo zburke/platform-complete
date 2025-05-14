@@ -173,7 +173,7 @@
   "id" : "folio_eholdings-11.1.109900000000204",
   "action" : "enable"
 }, {
-  "id" : "folio_erm-comparisons-8.1.10990000000095",
+  "id" : "folio_erm-comparisons-8.1.109900000000100",
   "action" : "enable"
 }, {
   "id" : "folio_local-kb-admin-9.1.109900000000100",
@@ -293,7 +293,7 @@
   "id" : "folio_stripes-marc-components-2.0.109900000000149",
   "action" : "enable"
 }, {
-  "id" : "mod-data-import-3.4.0-SNAPSHOT.332",
+  "id" : "mod-data-import-3.4.0-SNAPSHOT.333",
   "action" : "enable"
 }, {
   "id" : "folio_data-import-9.0.10990000000056",
@@ -317,7 +317,7 @@
   "id" : "folio_reading-room-3.0.10990000000061",
   "action" : "enable"
 }, {
-  "id" : "mod-circulation-24.5.0-SNAPSHOT.1307",
+  "id" : "mod-circulation-24.5.0-SNAPSHOT.1308",
   "action" : "enable"
 }, {
   "id" : "folio_checkin-12.0.109900000000105",
@@ -392,7 +392,7 @@
   "id" : "folio_receiving-8.0.109900000000148",
   "action" : "enable"
 }, {
-  "id" : "mod-data-export-worker-3.5.0-SNAPSHOT.615",
+  "id" : "mod-data-export-worker-3.5.0-SNAPSHOT.616",
   "action" : "enable"
 }, {
   "id" : "mod-data-export-spring-3.6.0-SNAPSHOT.303",
