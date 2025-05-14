@@ -221,7 +221,7 @@
   "id" : "folio_users-13.0.109900000000357",
   "action" : "enable"
 }, {
-  "id" : "mod-orders-storage-14.0.0-SNAPSHOT.428",
+  "id" : "mod-orders-storage-14.0.0-SNAPSHOT.429",
   "action" : "enable"
 }, {
   "id" : "mod-organizations-2.2.0-SNAPSHOT.69",
@@ -422,13 +422,13 @@
   "id" : "folio_gobi-settings-4.0.10990000000038",
   "action" : "enable"
 }, {
-  "id" : "mod-mosaic-1.0.0-SNAPSHOT.13",
+  "id" : "mod-mosaic-1.0.0-SNAPSHOT.14",
   "action" : "enable"
 }, {
   "id" : "folio_mosaic-settings-1.0.10990000000033",
   "action" : "enable"
 }, {
-  "id" : "edge-orders-3.3.0-SNAPSHOT.83",
+  "id" : "edge-orders-3.3.0-SNAPSHOT.84",
   "action" : "enable"
 }, {
   "id" : "mod-rtac-3.9.0-SNAPSHOT.108",
