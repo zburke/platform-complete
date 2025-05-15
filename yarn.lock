@@ -2148,9 +2148,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/requests@>=1.4.1":
-  version "13.0.109900000000186"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/requests/-/requests-13.0.109900000000186.tgz#6e3f002cc049478ebda1d13c55cdab6bc998ab14"
-  integrity sha512-vnSHWfKiYs7MEq5PN3o38r8k4JEEidV+9GSMKUn7Jsxc7c3jpuLZvXjVANBv+06OFTG1VMGQ8+ZqQmPLODU0eQ==
+  version "13.0.109900000000192"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/requests/-/requests-13.0.109900000000192.tgz#15f4b20fcb2cdcfa8c9353c5d9700f215e5adff3"
+  integrity sha512-qTMj1MOtv9zO4kZiHasLcJQQ500ytlw0qEo+Q+XQ9woGFXBIw1XVVsr8P9WmqwFVeSk0dpty9KrfmvIATx0WCg==
   dependencies:
     dompurify "^3.0.9"
     final-form "^4.20.7"
@@ -3605,7 +3605,7 @@ acorn-walk@^8.0.0:
   dependencies:
     acorn "^8.11.0"
 
-acorn@^8.0.4, acorn@^8.11.0, acorn@^8.14.0, acorn@^8.8.2:
+acorn@^8.0.4, acorn@^8.11.0, acorn@^8.14.0:
   version "8.14.1"
   resolved "https://repository.folio.org/repository/npm-ci-all/acorn/-/acorn-8.14.1.tgz#721d5dc10f7d5b5609a891773d47731796935dfb"
   integrity sha512-OvQ/2pUDKmgfCg++xsTX1wGxfTaszcHVcTctW4UJB4hibJx2HXxxO5UmVgyjMa+ZDsiaf5wWLXYpRWMmBI0QHg==
@@ -9883,12 +9883,12 @@ terser-webpack-plugin@^5.3.11:
     terser "^5.31.1"
 
 terser@^5.10.0, terser@^5.31.1:
-  version "5.39.1"
-  resolved "https://repository.folio.org/repository/npm-ci-all/terser/-/terser-5.39.1.tgz#1c80e6bde2b362c6f9f3e79e295c228a3882d983"
-  integrity sha512-Mm6+uad0ZuDtcV8/4uOZQDQ8RuiC5Pu+iZRedJtF7yA/27sPL7d++In/AJKpWZlU3SYMPPkVfwetn6sgZ66pUA==
+  version "5.39.2"
+  resolved "https://repository.folio.org/repository/npm-ci-all/terser/-/terser-5.39.2.tgz#5a1626030724a672e2e5b5c9cd9070308c20e8f9"
+  integrity sha512-yEPUmWve+VA78bI71BW70Dh0TuV4HHd+I5SHOAfS1+QBOmvmCiiffgjR8ryyEd3KIfvPGFqoADt8LdQ6XpXIvg==
   dependencies:
     "@jridgewell/source-map" "^0.3.3"
-    acorn "^8.8.2"
+    acorn "^8.14.0"
     commander "^2.20.0"
     source-map-support "~0.5.20"
 
