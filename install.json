@@ -98,7 +98,7 @@
   "id" : "mod-reporting-1.4.0-SNAPSHOT.120",
   "action" : "enable"
 }, {
-  "id" : "folio_ldp-3.0.20990000000088",
+  "id" : "folio_ldp-3.0.20990000000095",
   "action" : "enable"
 }, {
   "id" : "mod-login-7.13.0-SNAPSHOT.163",
@@ -254,7 +254,7 @@
   "id" : "mod-entities-links-4.1.0-SNAPSHOT.336",
   "action" : "enable"
 }, {
-  "id" : "mod-search-5.1.0-SNAPSHOT.700",
+  "id" : "mod-search-5.1.0-SNAPSHOT.701",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-instance-9.1.10990000000060",

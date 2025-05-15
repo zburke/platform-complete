@@ -1658,13 +1658,14 @@
     "@folio/plugin-find-po-line" "^6.0.0"
 
 "@folio/ldp@>=1.1.0":
-  version "3.0.20990000000088"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/ldp/-/ldp-3.0.20990000000088.tgz#843471ca13ab5a65f78a3c26f833a966b22dc26b"
-  integrity sha512-q+m8Z80jM6B4WO5Efzpf5AyCNm6pLhzm/e4XhQqJXB+ABtapu6M3xjH90wv332VJ788WWlGTuFKt7A2mEl/KwQ==
+  version "3.0.20990000000095"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/ldp/-/ldp-3.0.20990000000095.tgz#fd6774906f21cfed0b5eff099c810fb9f780eb26"
+  integrity sha512-lj1b/hxUwq2At8Ig0E3097S/D1o+Lu4eBY1JL/emIOxAVqsMVMphk1tu3lY/aYi+LvutF1hq8CcUu/mafgXezA==
   dependencies:
     chart.js "^2.9.3"
     final-form "^4.20.7"
     final-form-arrays "^3.0.2"
+    handlebars "^4.7.7"
     localforage "^1.9.0"
     lodash.clonedeep "^4.5.0"
     lodash.get "^4.4.2"
@@ -5159,9 +5160,9 @@ effection@^1.0.0:
   integrity sha512-ITAAnuI7sJqKhjvYlnm66NHaW7zrXzqgsGsjVaaqFHYDWPN8WylVj46xASfkrtwq5wmklbzy6tvRYaj2C4rDHw==
 
 electron-to-chromium@^1.5.149:
-  version "1.5.154"
-  resolved "https://repository.folio.org/repository/npm-ci-all/electron-to-chromium/-/electron-to-chromium-1.5.154.tgz#82430d66848efef703a3b643fb2a682bd08ae26b"
-  integrity sha512-G4VCFAyKbp1QJ+sWdXYIRYsPGvlV5sDACfCmoMFog3rjm1syLhI41WXm/swZypwCIWIm4IFLWzHY14joWMQ5Fw==
+  version "1.5.155"
+  resolved "https://repository.folio.org/repository/npm-ci-all/electron-to-chromium/-/electron-to-chromium-1.5.155.tgz#809dd0ae9ae1db87c358e0c0c17c09a2ffc432d1"
+  integrity sha512-ps5KcGGmwL8VaeJlvlDlu4fORQpv3+GIcF5I3f9tUKUlJ/wsysh6HU8P5L1XWRYeXfA0oJd4PyM8ds8zTFf6Ng==
 
 element-is-visible@^1.0.0:
   version "1.0.0"
