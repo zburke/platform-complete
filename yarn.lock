@@ -1479,9 +1479,9 @@
     react-query "^3.38.1"
 
 "@folio/eholdings@>=1.1.0":
-  version "11.1.109900000000204"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/eholdings/-/eholdings-11.1.109900000000204.tgz#aab8a136877e2d3707038e84f7da6f43126b2e9b"
-  integrity sha512-SkMMLtptCzPx/PCl3k2QglEBgD35+AbS78O0I56BTaAS22uwjYxE+/CSdSMwdvDV8ZhXjwXBmW8KF7HFUqIEXA==
+  version "11.1.109900000000211"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/eholdings/-/eholdings-11.1.109900000000211.tgz#1c4a245e01d344acc853cba7049cc27320ba631c"
+  integrity sha512-jFuFmqA0b43FGOnrwGoPa+1/5V1ZHR5zTwdJ15DTpE3JywBBP2xNBwCPLUV3rdso3f9/PqTXvh9Fuxq9ESaWYg==
   dependencies:
     classnames "^2.2.5"
     currency-symbol-map "^4.0.4"
@@ -2468,9 +2468,9 @@
     redux-form "^8.3.0"
 
 "@folio/stripes-inventory-components@>=1.0.0":
-  version "2.1.109000000686"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-inventory-components/-/stripes-inventory-components-2.1.109000000686.tgz#ff82e44d5b8943b84398d362bf94ea1e5dd2c40c"
-  integrity sha512-vxAkgYctDCcePoG7T3CdFbgmVsA22sG+2Ti1yfP6SkN3aGFtHEVZZLhop8iif8wDi4RIdG5KCfyR+DmcrAdiqQ==
+  version "2.1.109000000697"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-inventory-components/-/stripes-inventory-components-2.1.109000000697.tgz#b70567af937fb35a865aa30dfcd8a49d0545f076"
+  integrity sha512-yGjYVzjzGIzgkFG5yau7qeKFIojWjmKQtkTFTl5sNJebRrW0d7hYODnqeRF3+h/LRiCABLjYyo0H7tCWB4y6iQ==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     history "^4.10.0"
