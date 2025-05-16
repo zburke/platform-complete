@@ -2427,12 +2427,12 @@
   optionalDependencies:
     "@folio/plugin-find-user" "^8.0.0"
 
-"@folio/stripes-erm-components@^9.0.0":
-  version "9.3.109900000000174"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-erm-components/-/stripes-erm-components-9.3.109900000000174.tgz#e504f7e857b8e82f047c7f80ffe6a087509d6c00"
-  integrity sha512-ZP86ZSG2hD0PrgnsJHHyDP/HlOgtOIGcPJOXo9HSlLn988UgKGx7bfpb7KpqMjCKcFg6hbDpo6PEaN/RbtPAYA==
+"@folio/stripes-erm-components@>=9.0.0":
+  version "10.1.109900000000231"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-erm-components/-/stripes-erm-components-10.1.109900000000231.tgz#3c4de8d8febeb62a1604a289fd170acaaafe2fa4"
+  integrity sha512-B4+KjoIdFYHgEof5v1oeAT/KCNbHJ3zHTExPBCfZMvjbGSRrMo5uZHA7NiknJWQglPLfmXNmpk1O5j4juImj1A==
   dependencies:
-    "@k-int/stripes-kint-components" "^5.11.0"
+    "@k-int/stripes-kint-components" "^5.19.1"
     dayjs "^1.11.13"
     final-form "^4.18.4"
     final-form-arrays "^3.0.1"
@@ -2924,7 +2924,7 @@
     "@jridgewell/resolve-uri" "^3.1.0"
     "@jridgewell/sourcemap-codec" "^1.4.14"
 
-"@k-int/stripes-kint-components@^5.11.0", "@k-int/stripes-kint-components@^5.15.0":
+"@k-int/stripes-kint-components@^5.11.0", "@k-int/stripes-kint-components@^5.15.0", "@k-int/stripes-kint-components@^5.19.1":
   version "5.20.1"
   resolved "https://repository.folio.org/repository/npm-ci-all/@k-int/stripes-kint-components/-/stripes-kint-components-5.20.1.tgz#f7edce7ca5d81f50e5a174b207af96b9245209ef"
   integrity sha512-tYlx9Gj84N4H6prtm+NyzIBQPSLbad0NkxkS8YGT6WzeeoMiXtCa8aytVygpEL//BgRDCAnIwPHhcLcBN8oCsg==
