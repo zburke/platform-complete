@@ -197,7 +197,7 @@
   "id" : "folio_tenant-settings-11.0.10990000000072",
   "action" : "enable"
 }, {
-  "id" : "mod-login-saml-2.10.0-SNAPSHOT.167",
+  "id" : "mod-login-saml-2.11.0-SNAPSHOT.168",
   "action" : "enable"
 }, {
   "id" : "mod-oai-pmh-3.16.0-SNAPSHOT.389",
@@ -398,7 +398,7 @@
   "id" : "mod-data-export-worker-3.5.0-SNAPSHOT.616",
   "action" : "enable"
 }, {
-  "id" : "mod-data-export-spring-3.6.0-SNAPSHOT.304",
+  "id" : "mod-data-export-spring-3.6.0-SNAPSHOT.305",
   "action" : "enable"
 }, {
   "id" : "folio_export-manager-4.0.10990000000042",
