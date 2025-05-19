@@ -80,7 +80,7 @@
   "id" : "mod-source-record-storage-5.11.0-SNAPSHOT.687",
   "action" : "enable"
 }, {
-  "id" : "mod-users-19.6.0-SNAPSHOT.351",
+  "id" : "mod-users-19.6.0-SNAPSHOT.352",
   "action" : "enable"
 }, {
   "id" : "mod-authtoken-2.17.0-SNAPSHOT.165",
@@ -101,7 +101,7 @@
   "id" : "mod-reporting-1.4.0",
   "action" : "enable"
 }, {
-  "id" : "folio_ldp-3.0.209900000000102",
+  "id" : "folio_ldp-3.0.209900000000105",
   "action" : "enable"
 }, {
   "id" : "mod-login-7.13.0-SNAPSHOT.163",
