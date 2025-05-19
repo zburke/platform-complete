@@ -101,7 +101,7 @@
   "id" : "mod-reporting-1.4.0",
   "action" : "enable"
 }, {
-  "id" : "folio_ldp-3.0.209900000000108",
+  "id" : "folio_ldp-3.0.209900000000114",
   "action" : "enable"
 }, {
   "id" : "mod-login-7.13.0-SNAPSHOT.163",
@@ -380,7 +380,7 @@
   "id" : "folio_inn-reach-6.0.10990000000048",
   "action" : "enable"
 }, {
-  "id" : "mod-orders-13.1.0-SNAPSHOT.1027",
+  "id" : "mod-orders-13.1.0-SNAPSHOT.1028",
   "action" : "enable"
 }, {
   "id" : "folio_acquisition-units-6.0.10990000000034",
@@ -398,7 +398,7 @@
   "id" : "mod-data-export-worker-3.5.0-SNAPSHOT.616",
   "action" : "enable"
 }, {
-  "id" : "mod-data-export-spring-3.6.0-SNAPSHOT.303",
+  "id" : "mod-data-export-spring-3.6.0-SNAPSHOT.304",
   "action" : "enable"
 }, {
   "id" : "folio_export-manager-4.0.10990000000042",
