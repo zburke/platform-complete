@@ -1657,9 +1657,9 @@
     "@folio/plugin-find-po-line" "^6.0.0"
 
 "@folio/ldp@>=1.1.0":
-  version "3.0.209900000000105"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/ldp/-/ldp-3.0.209900000000105.tgz#384d44aa181b2d42b870849ccb4dae5fd10c6335"
-  integrity sha512-NxLlIjSCgWDApUufDx0JSbcFs485L71HRX6GIw0BoKUjXR/er/85rfaw3KbAMxKJn9TeWY8wtNw1xovdMvwKdQ==
+  version "3.0.209900000000108"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/ldp/-/ldp-3.0.209900000000108.tgz#49d757802c0038128e40d53de64968ed8d85853d"
+  integrity sha512-m8V9KUEabwiEjbJBdhHntxczlv7YA+TTgaRWWgt7pR3spe/KrmR6HkMbSS5rika8hhFO89AQ6cAyBqZ9mKv+xw==
   dependencies:
     chart.js "^2.9.3"
     final-form "^4.20.7"
