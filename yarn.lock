@@ -1742,9 +1742,9 @@
     "@folio/stripes-acq-components" "^7.0.0"
 
 "@folio/myprofile@>=1.1.0":
-  version "11.0.10990000000086"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/myprofile/-/myprofile-11.0.10990000000086.tgz#96b4177a12f2066ed83f5f1e67ae0f94612732b3"
-  integrity sha512-x0fc0kVXyRTtXu9qgBm6n3WjBEMK3bphLDCqxrFsdowlkCL0GxA3ld+3ZLW+qbMQ1Wsq5GRCpkVAF2pa1Jo0nA==
+  version "11.0.10990000000089"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/myprofile/-/myprofile-11.0.10990000000089.tgz#9c8e3e53babfedb03860c37dde8739914b130070"
+  integrity sha512-faR3YkFRgd0m/Y6UR8GMyRW+8avVx/3uY1e45K7H8k8Wi8K+j+Xe0OokMKoQEAtD200S32qgdGXCYF2ixN4SUg==
   dependencies:
     "@dnd-kit/core" "^6.2.0"
     "@dnd-kit/modifiers" "^9.0.0"
@@ -8024,9 +8024,9 @@ package-json@^8.1.0:
     semver "^7.3.7"
 
 papaparse@^5.2.0:
-  version "5.5.2"
-  resolved "https://repository.folio.org/repository/npm-ci-all/papaparse/-/papaparse-5.5.2.tgz#fb67cc5a03ba8930cb435dc4641a25d6804bd4d7"
-  integrity sha512-PZXg8UuAc4PcVwLosEEDYjPyfWnTEhOrUfdv+3Bx+NuAb+5NhDmXzg5fHWmdCh1mP5p7JAZfFr3IMQfcntNAdA==
+  version "5.5.3"
+  resolved "https://repository.folio.org/repository/npm-ci-all/papaparse/-/papaparse-5.5.3.tgz#07f8994dec516c6dab266e952bed68e1de59fa9a"
+  integrity sha512-5QvjGxYVjxO59MGU2lHVYpRWBBtKHnlIAcSe1uNFCkkptUh63NFRj0FJQm7nR67puEruUci/ZkjmEFrjCAyP4A==
 
 param-case@^3.0.4:
   version "3.0.4"

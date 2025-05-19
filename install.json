@@ -95,7 +95,7 @@
   "id" : "folio_developer-11.0.109900000000199",
   "action" : "enable"
 }, {
-  "id" : "folio_myprofile-11.0.10990000000086",
+  "id" : "folio_myprofile-11.0.10990000000089",
   "action" : "enable"
 }, {
   "id" : "mod-reporting-1.4.0",
@@ -125,7 +125,7 @@
   "id" : "mod-pubsub-2.17.0-SNAPSHOT.260",
   "action" : "enable"
 }, {
-  "id" : "mod-inventory-storage-29.1.0-SNAPSHOT.1141",
+  "id" : "mod-inventory-storage-29.1.0-SNAPSHOT.1144",
   "action" : "enable"
 }, {
   "id" : "folio_calendar-12.0.109900000000146",
