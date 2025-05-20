@@ -2169,9 +2169,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/serials-management@>=1.0.0":
-  version "2.1.109900000000775"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/serials-management/-/serials-management-2.1.109900000000775.tgz#eee11679fa87d9ede69ff121bcd7382339dbd03e"
-  integrity sha512-DZ/x9V3GCr8bFsYTW59SNW4Add/Y0QPPqZUxg0s39/czfQ51a6Bawxn0G3f2jvaeEMcDIoaihvAc4U4PcV+xGg==
+  version "2.1.109900000000778"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/serials-management/-/serials-management-2.1.109900000000778.tgz#c723af0b9957b1c55d9fd26c4d6e3574af6737d7"
+  integrity sha512-ZtjFyyXoW7VML98GFx9dlabskkLqtt8MdFKpNF4Moz8FP+3yF9k8+Js3nkJr7zKWKemsp4ttSse25FTZo1gyPw==
   dependencies:
     "@k-int/stripes-kint-components" "^5.15.0"
     final-form "^4.18.4"
@@ -10434,9 +10434,9 @@ webpack-virtual-modules@^0.4.3:
   integrity sha512-5tyDlKLqPfMqjT3Q9TAqf2YqjwmnUleZwzJi1A5qXnlBCdj2AtOJ6wAWdglTIDOPgOiOrXeBeFcsQ8+aGQ6QbA==
 
 webpack@^5.80.0, webpack@^5.99.6:
-  version "5.99.8"
-  resolved "https://repository.folio.org/repository/npm-ci-all/webpack/-/webpack-5.99.8.tgz#dd31a020b7c092d30c4c6d9a4edb95809e7f5946"
-  integrity sha512-lQ3CPiSTpfOnrEGeXDwoq5hIGzSjmwD72GdfVzF7CQAI7t47rJG9eDWvcEkEn3CUQymAElVvDg3YNTlCYj+qUQ==
+  version "5.99.9"
+  resolved "https://repository.folio.org/repository/npm-ci-all/webpack/-/webpack-5.99.9.tgz#d7de799ec17d0cce3c83b70744b4aedb537d8247"
+  integrity sha512-brOPwM3JnmOa+7kd3NsmOUOwbDAj8FT9xDsG3IW0MgbN9yZV7Oi/s/+MNQ/EcSMqw7qfoRyXPoeEWT8zLVdVGg==
   dependencies:
     "@types/eslint-scope" "^3.7.7"
     "@types/estree" "^1.0.6"
