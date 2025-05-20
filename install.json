@@ -125,7 +125,7 @@
   "id" : "mod-pubsub-2.17.0-SNAPSHOT.260",
   "action" : "enable"
 }, {
-  "id" : "mod-inventory-storage-29.1.0-SNAPSHOT.1144",
+  "id" : "mod-inventory-storage-29.1.0-SNAPSHOT.1146",
   "action" : "enable"
 }, {
   "id" : "folio_calendar-12.0.109900000000146",
@@ -329,7 +329,7 @@
   "id" : "folio_checkout-12.0.109900000000102",
   "action" : "enable"
 }, {
-  "id" : "folio_circulation-11.1.109900000000128",
+  "id" : "folio_circulation-11.1.109900000000133",
   "action" : "enable"
 }, {
   "id" : "folio_inventory-14.0.109900000000645",
@@ -425,7 +425,7 @@
   "id" : "folio_gobi-settings-4.0.10990000000042",
   "action" : "enable"
 }, {
-  "id" : "mod-mosaic-1.0.0-SNAPSHOT.17",
+  "id" : "mod-mosaic-1.0.0-SNAPSHOT.18",
   "action" : "enable"
 }, {
   "id" : "folio_mosaic-settings-1.0.10990000000033",
