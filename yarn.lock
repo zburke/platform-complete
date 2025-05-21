@@ -1517,9 +1517,9 @@
     react-final-form-arrays "^3.1.1"
 
 "@folio/erm-usage@>=1.0.3":
-  version "12.0.109900000000400"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/erm-usage/-/erm-usage-12.0.109900000000400.tgz#e088508615646fd85477f0eb4044c55482bd4127"
-  integrity sha512-4Q/mvy5hSpwK/6ZSNDrsS5YPXnfZHNow95xeDb2vECcTecjcl2QN5xtTjBVqg3EoMAOFL9nS9duU7RO04odxgA==
+  version "12.0.109900000000406"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/erm-usage/-/erm-usage-12.0.109900000000406.tgz#edb6b5eaea0b219c261c14e078720e0cbe3147f9"
+  integrity sha512-8m9Q8GoA7SiHR3vcn40BY9jF2WIpoWnxxgXaJ8j7M6xRDyu9OujveN5zxziT/ayJvdCFjf1mOKCKy1DX9JuFXQ==
   dependencies:
     compose-function "^3.0.3"
     file-saver "^2.0.0"
@@ -2148,9 +2148,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/requests@>=1.4.1":
-  version "13.0.109900000000196"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/requests/-/requests-13.0.109900000000196.tgz#7fe9d03ab50672e7d30c1a4954db1ef7271da1b7"
-  integrity sha512-xqPn9SaRy9ce92e/9DLUXBxM/44UtX9bjGOnUEDi2dw3JdfOy3r0/QrKhVRmxLf1XhSYsoAKG6cfToGd2geyFg==
+  version "13.0.109900000000199"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/requests/-/requests-13.0.109900000000199.tgz#7cfc995e4dff79d3bb79f2c0e4b4ac2c3b296676"
+  integrity sha512-ko53xm2AdpBL65mOa/+sN+sFEt8R661o8Rjh8Qm9BNt/3eg+2ImJ4R2Z+FG957+UKVak50fz+XECr6jl94JdrQ==
   dependencies:
     dompurify "^3.0.9"
     final-form "^4.20.7"
@@ -2468,9 +2468,9 @@
     redux-form "^8.3.0"
 
 "@folio/stripes-inventory-components@>=1.0.0":
-  version "2.1.109000000697"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-inventory-components/-/stripes-inventory-components-2.1.109000000697.tgz#b70567af937fb35a865aa30dfcd8a49d0545f076"
-  integrity sha512-yGjYVzjzGIzgkFG5yau7qeKFIojWjmKQtkTFTl5sNJebRrW0d7hYODnqeRF3+h/LRiCABLjYyo0H7tCWB4y6iQ==
+  version "2.1.109000000701"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-inventory-components/-/stripes-inventory-components-2.1.109000000701.tgz#df77383aa2500b5fcfcd997b2999c29213cb7347"
+  integrity sha512-OVxuGTRn0eMmienaFWorV09vbERyYpy/n05NnJPeDzyFKh7j1EVY4AaT84liHuRygnZhTkgIhVSpTBSQ7mgzpg==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     history "^4.10.0"
