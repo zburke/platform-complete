@@ -161,7 +161,7 @@
   "id" : "folio_stripes-smart-components-10.1.109900000000446",
   "action" : "enable"
 }, {
-  "id" : "mod-kb-ebsco-java-6.1.0-SNAPSHOT.466",
+  "id" : "mod-kb-ebsco-java-6.1.0-SNAPSHOT.468",
   "action" : "enable"
 }, {
   "id" : "mod-serials-management-2.1.0-SNAPSHOT.159",
@@ -257,7 +257,7 @@
   "id" : "mod-entities-links-4.1.0-SNAPSHOT.336",
   "action" : "enable"
 }, {
-  "id" : "mod-search-5.1.0-SNAPSHOT.702",
+  "id" : "mod-search-5.1.0-SNAPSHOT.703",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-instance-9.1.10990000000064",
