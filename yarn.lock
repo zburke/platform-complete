@@ -2023,9 +2023,9 @@
     prop-types "^15.6.0"
 
 "@folio/plugin-find-user@>=1.3.0", "@folio/plugin-find-user@^8.0.0":
-  version "8.0.10990000000065"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-find-user/-/plugin-find-user-8.0.10990000000065.tgz#06eb63cf6c7a852ccce9d2d5c70c31c636f994c4"
-  integrity sha512-xL7JONFnn9llDzl4cb7kfZLFXFV+84NaFdj4KuYdu8tM0swJP35lTweBk2GEetZ0KrYoH24j1DnPiP6Pve+/uA==
+  version "8.0.10990000000068"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-find-user/-/plugin-find-user-8.0.10990000000068.tgz#36260ec4a46e98520d36276de3f5dabae2f1aaf0"
+  integrity sha512-Al523QTS1X9YYRxtoG0MD1JhEs7Spj/Jei3h4xDsW+o2l5YON80DWeEys9Pbh7txXlEnwuElxt76zgb2w6bqLA==
   dependencies:
     classnames "^2.2.5"
     dom-helpers "^3.4.0"

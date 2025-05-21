@@ -11,7 +11,7 @@
   "id" : "folio_plugin-find-package-title-7.0.10990000000034",
   "action" : "enable"
 }, {
-  "id" : "folio_plugin-find-user-8.0.10990000000065",
+  "id" : "folio_plugin-find-user-8.0.10990000000068",
   "action" : "enable"
 }, {
   "id" : "folio_servicepoints-8.0.10990000000029",
@@ -170,7 +170,7 @@
   "id" : "folio_serials-management-2.1.109900000000778",
   "action" : "enable"
 }, {
-  "id" : "mod-agreements-7.3.0-SNAPSHOT.766",
+  "id" : "mod-agreements-7.3.0-SNAPSHOT.767",
   "action" : "enable"
 }, {
   "id" : "folio_eholdings-11.1.109900000000218",
