@@ -191,7 +191,7 @@
   "id" : "mod-configuration-5.13.0-SNAPSHOT.139",
   "action" : "enable"
 }, {
-  "id" : "folio_agreements-12.1.109900000000642",
+  "id" : "folio_agreements-12.1.109900000000659",
   "action" : "enable"
 }, {
   "id" : "folio_tenant-settings-11.0.10990000000072",
@@ -449,7 +449,7 @@
   "id" : "folio_orders-9.0.109900000000257",
   "action" : "enable"
 }, {
-  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.630",
+  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.631",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-query-builder-3.0.109900000000718",
