@@ -2690,9 +2690,9 @@
     redux-form "^8.0.0"
 
 "@folio/users@>=2.17.0":
-  version "13.0.109900000000357"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.109900000000357.tgz#459c19d942ea914c25981fbb1115b7edc98d663f"
-  integrity sha512-WSnUPh3aHVTLppQvUQmumG9Yi5W05mT0Y1i4TpEdp9I4DIseVJGp2JlG4R2VWvKEOmt0Y9ORWC6BSun9/skeyg==
+  version "13.0.109900000000370"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.109900000000370.tgz#492fc987a1e9f2afc4446ad6b2b19f3b3666922c"
+  integrity sha512-97N/4AUaY6HwV2mzvDmic4xIRNNV3drGv+/yAODxRCjDGYRghenOSPJ2+R9SDmN7ZA2MczaPVfvXt40pXHlD7Q==
   dependencies:
     compressorjs "^1.2.1"
     dompurify "^3.2.0"
@@ -3414,9 +3414,9 @@
     "@types/react" "*"
 
 "@types/react@*", "@types/react@16 || 17 || 18 || 19", "@types/react@^18.3.14":
-  version "18.3.21"
-  resolved "https://repository.folio.org/repository/npm-ci-all/@types/react/-/react-18.3.21.tgz#ba9bdc8833ceaf2b5edabbbabfbf9a84040df89a"
-  integrity sha512-gXLBtmlcRJeT09/sI4PxVwyrku6SaNUj/6cMubjE6T6XdY1fDmBL7r0nX0jbSZPU/Xr0KuwLLZh6aOYY5d91Xw==
+  version "18.3.22"
+  resolved "https://repository.folio.org/repository/npm-ci-all/@types/react/-/react-18.3.22.tgz#19b77d6e4957c43070c297e638c6a1c43079e234"
+  integrity sha512-vUhG0YmQZ7kL/tmKLrD3g5zXbXXreZXB3pmROW8bg3CnLnpjkRVwUlLne7Ufa2r9yJ8+/6B73RzhAek5TBKh2Q==
   dependencies:
     "@types/prop-types" "*"
     csstype "^3.0.2"
@@ -10344,9 +10344,9 @@ warning@^4.0.0:
     loose-envify "^1.0.0"
 
 watchpack@^2.4.1:
-  version "2.4.3"
-  resolved "https://repository.folio.org/repository/npm-ci-all/watchpack/-/watchpack-2.4.3.tgz#110b3a600c525f6a39ab66cf354cf08b205c29dc"
-  integrity sha512-adBYQLivcg1jbdKEJeqScJJFvgm4qY9+3tXw+jdG6lkVeqRJEtiQmSWjmth8GKmDZuX7sYM4YFxQsf0AzMfGGw==
+  version "2.4.4"
+  resolved "https://repository.folio.org/repository/npm-ci-all/watchpack/-/watchpack-2.4.4.tgz#473bda72f0850453da6425081ea46fc0d7602947"
+  integrity sha512-c5EGNOiyxxV5qmTtAB7rbiXxi1ooX1pQKMLX/MIabJjRA0SJBQOjKF+KSVfHkr9U1cADPon0mRiVe/riyaiDUA==
   dependencies:
     glob-to-regexp "^0.4.1"
     graceful-fs "^4.1.2"
