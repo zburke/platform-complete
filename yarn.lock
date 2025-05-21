@@ -1265,9 +1265,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/agreements@>=2.0.0":
-  version "12.1.109900000000637"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/agreements/-/agreements-12.1.109900000000637.tgz#5f98d42d0d7829fd0dd9e362618c6463cfea9e5a"
-  integrity sha512-sRnrTFBOU+QZFP/Z/sg3bqD9jsEEzCrdr+1EkInx2RG7jMDV15xEC+43pNqTuBQqjtlIBDZBjY0PR/K1Tdy2iQ==
+  version "12.1.109900000000642"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/agreements/-/agreements-12.1.109900000000642.tgz#349e1b192dd732834de67e9b6854d3ad8ab32aa9"
+  integrity sha512-SWnElP5zUgBLZ0HSa5jm8MK9WW9U2H394wyVvC9lY6FltWiTqurKY/PjEb8Xc9MAmkIveQj6GWLKqkBBRwS3oQ==
   dependencies:
     "@k-int/stripes-kint-components" "^5.15.0"
     "@rehooks/local-storage" "^2.4.4"
@@ -2427,9 +2427,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/stripes-erm-components@>=9.0.0":
-  version "10.1.109900000000231"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-erm-components/-/stripes-erm-components-10.1.109900000000231.tgz#3c4de8d8febeb62a1604a289fd170acaaafe2fa4"
-  integrity sha512-B4+KjoIdFYHgEof5v1oeAT/KCNbHJ3zHTExPBCfZMvjbGSRrMo5uZHA7NiknJWQglPLfmXNmpk1O5j4juImj1A==
+  version "10.1.109900000000234"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-erm-components/-/stripes-erm-components-10.1.109900000000234.tgz#b78ee61986bb6c477f143d3d08e633fd2e35ccec"
+  integrity sha512-IVZ3W6rqS/8Oh6zAZz+oLJ69kXzbdT942VuTSnNWUMjNdcZyK6DycZg8M+F7TwtVUgoHYJlJ2lGuha3kQSqWTg==
   dependencies:
     "@k-int/stripes-kint-components" "^5.19.1"
     dayjs "^1.11.13"
