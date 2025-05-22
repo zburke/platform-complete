@@ -112,7 +112,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_marc-authorities-7.1.109900000000826",
+    "id": "folio_marc-authorities-7.1.109900000000850",
     "action": "enable"
   },
   {
@@ -160,7 +160,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_plugin-find-authority-5.0.10990000000061",
+    "id": "folio_plugin-find-authority-5.0.10990000000067",
     "action": "enable"
   },
   {
@@ -252,7 +252,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_stripes-authority-components-6.1.109900000000106",
+    "id": "folio_stripes-authority-components-6.1.109900000000109",
     "action": "enable"
   },
   {
