@@ -221,7 +221,7 @@
   "id" : "folio_stripes-core-11.1.109900000000909",
   "action" : "enable"
 }, {
-  "id" : "folio_users-13.0.109900000000376",
+  "id" : "folio_users-13.0.109900000000381",
   "action" : "enable"
 }, {
   "id" : "mod-orders-storage-14.0.0-SNAPSHOT.430",
