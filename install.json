@@ -80,7 +80,7 @@
   "id" : "mod-source-record-storage-5.11.0-SNAPSHOT.688",
   "action" : "enable"
 }, {
-  "id" : "mod-users-19.6.0-SNAPSHOT.352",
+  "id" : "mod-users-19.6.0-SNAPSHOT.353",
   "action" : "enable"
 }, {
   "id" : "mod-authtoken-2.18.0-SNAPSHOT.166",
@@ -443,7 +443,7 @@
   "id" : "folio_finance-9.0.109900000000303",
   "action" : "enable"
 }, {
-  "id" : "folio_invoice-8.0.109900000000208",
+  "id" : "folio_invoice-8.0.109900000000213",
   "action" : "enable"
 }, {
   "id" : "folio_orders-9.0.109900000000261",
