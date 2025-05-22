@@ -1284,9 +1284,9 @@
     zustand "^4.1.5"
 
 "@folio/bulk-edit@>=1.0.0":
-  version "5.0.109900000000260"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/bulk-edit/-/bulk-edit-5.0.109900000000260.tgz#44813d337cf49ab2515108deb6ba229ce30d28db"
-  integrity sha512-ydZNbmL0w1K8V2Bzb8eRTskLxBUg2w8a6EYtj9ekSnXApYZ51UWnZxi9cRTlnFqDTNInJ1eonZCvSwemVtKCJA==
+  version "5.0.109900000000263"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/bulk-edit/-/bulk-edit-5.0.109900000000263.tgz#753c691b909fdc005a16e0bb6563f2ab7e975236"
+  integrity sha512-MOvjhXM3AeRDpGqpVgywO9yCckdGpnLkNmfXDVF1gD04W5UpMrUHaEsajP9e2IkbS4uVIPkFJlrSUa2XazPsoQ==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     file-saver "^2.0.5"
@@ -8640,9 +8640,9 @@ react-dropzone@^11.3.4:
     prop-types "^15.8.1"
 
 react-easy-crop@^5.0.5:
-  version "5.4.1"
-  resolved "https://repository.folio.org/repository/npm-ci-all/react-easy-crop/-/react-easy-crop-5.4.1.tgz#41aebb2d602dc3cdf2c2c17df1af776c40188ce0"
-  integrity sha512-Djtsi7bWO75vkKYkVxNRrJWY69pXLahIAkUN0mmt9cXNnaq2tpG59ctSY6P7ipJgBc7COJDRMRuwb2lYwtACNQ==
+  version "5.4.2"
+  resolved "https://repository.folio.org/repository/npm-ci-all/react-easy-crop/-/react-easy-crop-5.4.2.tgz#94266ee3a669d3867455ceaeaf9c29bd6dd097d9"
+  integrity sha512-V+GQUTkNWD8gK0mbZQfwTvcDxyCB4GS0cM36is8dAcvnsHY7DMEDP2D5IqHju55TOiCHwElJPVOYDgiu8BEiHQ==
   dependencies:
     normalize-wheel "^1.0.1"
     tslib "^2.0.1"
