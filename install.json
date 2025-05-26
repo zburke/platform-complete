@@ -332,7 +332,7 @@
   "id" : "folio_circulation-11.1.109900000000137",
   "action" : "enable"
 }, {
-  "id" : "folio_inventory-14.0.109900000000668",
+  "id" : "folio_inventory-14.0.109900000000681",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-create-inventory-records-7.0.10990000000051",
