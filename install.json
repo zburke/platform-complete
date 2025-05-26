@@ -101,7 +101,7 @@
   "id" : "mod-reporting-1.4.0",
   "action" : "enable"
 }, {
-  "id" : "folio_ldp-3.0.209900000000124",
+  "id" : "folio_ldp-3.0.209900000000127",
   "action" : "enable"
 }, {
   "id" : "mod-login-7.14.0-SNAPSHOT.165",
@@ -143,7 +143,7 @@
   "id" : "mod-courses-1.5.0-SNAPSHOT.169",
   "action" : "enable"
 }, {
-  "id" : "folio_courses-7.0.30990000000089",
+  "id" : "folio_courses-7.0.30990000000093",
   "action" : "enable"
 }, {
   "id" : "edge-courses-1.7.0-SNAPSHOT.27",
@@ -266,7 +266,7 @@
   "id" : "folio_stripes-authority-components-6.1.109900000000109",
   "action" : "enable"
 }, {
-  "id" : "mod-inventory-21.2.0-SNAPSHOT.873",
+  "id" : "mod-inventory-21.2.0-SNAPSHOT.874",
   "action" : "enable"
 }, {
   "id" : "mod-quick-marc-7.1.0-SNAPSHOT.323",

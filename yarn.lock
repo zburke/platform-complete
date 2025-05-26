@@ -1402,9 +1402,9 @@
     lodash "^4.17.21"
 
 "@folio/courses@>=1.0.0":
-  version "7.0.30990000000089"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/courses/-/courses-7.0.30990000000089.tgz#45df0d40e343da028712b586b3e389837bad20d4"
-  integrity sha512-q5mhoQwDSWEkzxPDzCORmmfuZxJDFStunBoEDl80HU2lvJI9gFj08WkffdLgcu03uw5HOZNxoyK/+7VKrrwIpw==
+  version "7.0.30990000000093"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/courses/-/courses-7.0.30990000000093.tgz#e7ff0804940e8d82ff6b915cf0712a745bceb820"
+  integrity sha512-J/Zk0o5NdNSOYrZYhBcUi7uRXxEee5+TUZGvouxE0BbFHq3Yk3SimLpUn7MtslzFJXgkBQ1CeSG6Icjdc0Hjvw==
   dependencies:
     final-form-set-field-data "^1.0.2"
     ky "^0.23.0"
@@ -1662,9 +1662,9 @@
     "@folio/plugin-find-po-line" "^6.0.0"
 
 "@folio/ldp@>=1.1.0":
-  version "3.0.209900000000124"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/ldp/-/ldp-3.0.209900000000124.tgz#5a1768ad9fca291f8e7ce2a7f80e86257cabe2b3"
-  integrity sha512-W/fEWNO6CfK3NLe3dGRMmZAllyGn0qeBFHsQ2OmSSRyj3nYbi43GqNTKwbC58H42g1akkwjMDPyPcOkAkE8luA==
+  version "3.0.209900000000127"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/ldp/-/ldp-3.0.209900000000127.tgz#2798b5488a40ccdc31cfb1f8be7dc7c7d2f1c365"
+  integrity sha512-kOwjNCbL4/Scsyy2JTQoWZtx4V1knfL1gUJO0A0U4i6D9SatX6aeQ2yVDeuR9l3V+PjKhen+iyX41uwvs3Uqbg==
   dependencies:
     "@e965/xlsx" "^0.20.2"
     chart.js "^2.9.3"
