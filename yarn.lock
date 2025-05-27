@@ -1483,9 +1483,9 @@
     react-query "^3.38.1"
 
 "@folio/eholdings@>=1.1.0":
-  version "11.1.109900000000222"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/eholdings/-/eholdings-11.1.109900000000222.tgz#1d709507f670d5b4bdaebc4867e9d5c15adebdea"
-  integrity sha512-PFac3+NhqB+CGPkBZWVGy1/0g7pacGpLcQ7Y0spHIVVGN+xTa+q+veY58N1pOXGaf4OZywS/t/XUz+70X4UyuA==
+  version "11.1.109900000000225"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/eholdings/-/eholdings-11.1.109900000000225.tgz#ea6a3451d8bf09de30e56a8242d514fe78b23443"
+  integrity sha512-jFH/u/iqKh2PcxeiojNINRgo/ToyghASHek56F5w1RAlgY9Lj34iyGBCZU6Ft06Jp/2YwULJl8rwjc4eoVZKtg==
   dependencies:
     classnames "^2.2.5"
     currency-symbol-map "^4.0.4"
@@ -3421,9 +3421,9 @@
     "@types/react" "*"
 
 "@types/react@*", "@types/react@16 || 17 || 18 || 19", "@types/react@^18.3.14":
-  version "18.3.22"
-  resolved "https://repository.folio.org/repository/npm-ci-all/@types/react/-/react-18.3.22.tgz#19b77d6e4957c43070c297e638c6a1c43079e234"
-  integrity sha512-vUhG0YmQZ7kL/tmKLrD3g5zXbXXreZXB3pmROW8bg3CnLnpjkRVwUlLne7Ufa2r9yJ8+/6B73RzhAek5TBKh2Q==
+  version "18.3.23"
+  resolved "https://repository.folio.org/repository/npm-ci-all/@types/react/-/react-18.3.23.tgz#86ae6f6b95a48c418fecdaccc8069e0fbb63696a"
+  integrity sha512-/LDXMQh55EzZQ0uVAZmKKhfENivEvWz6E+EYzh+/MCjMhNsotd+ZHhBGIjFDTi6+fz0OhQQQLbTgdQIxxCsC0w==
   dependencies:
     "@types/prop-types" "*"
     csstype "^3.0.2"
