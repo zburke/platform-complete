@@ -3370,9 +3370,9 @@
   integrity sha512-EdtpwNYNhe3kZ+4TlXj/++pvBoU0KdrAICMzgI7vjWgu9sIvvUhu9XR8Ks4L6Wh3sxpZ22wkZR7yCLAqUjnZuQ==
 
 "@types/node@*", "@types/node@14 || 16 || 17 || 18 || 20 || 22", "@types/node@>=10.0.0":
-  version "22.15.22"
-  resolved "https://repository.folio.org/repository/npm-ci-all/@types/node/-/node-22.15.22.tgz#a138bd3dcc8b5d30ad2fda6354137581c2f05ee3"
-  integrity sha512-IZ8lyY8xikZwGTJ9tsmbE68+mZbx2tsR+WnN1ZJU/h5flim8xBxEbpDrouMQNkMeT4pYxyJOTkf7YyDcQaUvQw==
+  version "22.15.23"
+  resolved "https://repository.folio.org/repository/npm-ci-all/@types/node/-/node-22.15.23.tgz#a0b7c03f951f1ffe381a6a345c68d80e48043dd0"
+  integrity sha512-7Ec1zaFPF4RJ0eXu1YT/xgiebqwqoJz8rYPDi/O2BcZ++Wpt0Kq9cl0eg6NN6bYbPnR67ZLo7St5Q3UK0SnARw==
   dependencies:
     undici-types "~6.21.0"
 
