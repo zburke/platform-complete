@@ -170,7 +170,7 @@
   "id" : "folio_serials-management-2.1.109900000000782",
   "action" : "enable"
 }, {
-  "id" : "mod-agreements-7.3.0-SNAPSHOT.768",
+  "id" : "mod-agreements-7.3.0-SNAPSHOT.769",
   "action" : "enable"
 }, {
   "id" : "folio_eholdings-11.1.109900000000225",
@@ -380,7 +380,7 @@
   "id" : "folio_inn-reach-6.0.10990000000052",
   "action" : "enable"
 }, {
-  "id" : "mod-orders-13.1.0-SNAPSHOT.1030",
+  "id" : "mod-orders-13.1.0-SNAPSHOT.1031",
   "action" : "enable"
 }, {
   "id" : "folio_acquisition-units-6.0.10990000000034",
@@ -392,7 +392,7 @@
   "id" : "folio_plugin-find-po-line-6.0.10990000000045",
   "action" : "enable"
 }, {
-  "id" : "folio_receiving-8.0.109900000000156",
+  "id" : "folio_receiving-8.0.109900000000162",
   "action" : "enable"
 }, {
   "id" : "mod-data-export-worker-3.5.0-SNAPSHOT.618",
@@ -425,7 +425,7 @@
   "id" : "folio_gobi-settings-4.0.10990000000046",
   "action" : "enable"
 }, {
-  "id" : "mod-mosaic-1.0.0-SNAPSHOT.19",
+  "id" : "mod-mosaic-1.0.0-SNAPSHOT.20",
   "action" : "enable"
 }, {
   "id" : "folio_mosaic-settings-1.0.10990000000046",
@@ -437,7 +437,7 @@
   "id" : "edge-rtac-2.10.0-SNAPSHOT.108",
   "action" : "enable"
 }, {
-  "id" : "mod-invoice-6.1.0-SNAPSHOT.472",
+  "id" : "mod-invoice-6.1.0-SNAPSHOT.473",
   "action" : "enable"
 }, {
   "id" : "folio_finance-9.0.109900000000310",
@@ -446,7 +446,7 @@
   "id" : "folio_invoice-8.0.109900000000213",
   "action" : "enable"
 }, {
-  "id" : "folio_orders-9.0.109900000000261",
+  "id" : "folio_orders-9.0.109900000000274",
   "action" : "enable"
 }, {
   "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.634",
