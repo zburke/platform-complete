@@ -1742,9 +1742,9 @@
     "@folio/quick-marc" "^10.0.0"
 
 "@folio/mosaic-settings@>=1.0.0":
-  version "1.0.10990000000033"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/mosaic-settings/-/mosaic-settings-1.0.10990000000033.tgz#ec6ca1945c8b3481097559d1c94102155d20e977"
-  integrity sha512-jzYP1etmXcz1KE4HL/S0SEGvuObxDL+mI+lNuGLxqecZ9CtlxkY3+c2C+f0hjjLdrMIdKbmIeDo/IFwGpq6iLQ==
+  version "1.0.10990000000046"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/mosaic-settings/-/mosaic-settings-1.0.10990000000046.tgz#fc472bf72458f453edc669d7332e40bfa1460a2b"
+  integrity sha512-FWGm5SzhTqehWRxU3n//Xi3wTmsiRc48CnRhsqQrFHgCbQyJgTc6NZX3aeo89K00BNRp8CwGkilRFh1ryQH+Sw==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
 
@@ -2155,9 +2155,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/requests@>=1.4.1":
-  version "13.0.109900000000203"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/requests/-/requests-13.0.109900000000203.tgz#621249ad5d3a46b71c86258e6384d42c352dacd5"
-  integrity sha512-CdlBrUBftOYit6FQQH+n8Zatf2kp0EwrrkYr5D1XHOU8KNVjZiyzRlcveHwEsHay229S1/cYmtphMAgvMnvOlg==
+  version "13.0.109900000000208"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/requests/-/requests-13.0.109900000000208.tgz#b4c402c08c7f0336516b0ae7a4af8200d6b09066"
+  integrity sha512-2IUVFcFsGlWnf+ZWo6hGpm78SG8O/N5HZkD8mFcBSItEhtNQlPdz+L9wgj8332Y8NhEFu6P2w9YYfHnUsBAAng==
   dependencies:
     dompurify "^3.0.9"
     final-form "^4.20.7"

@@ -122,7 +122,7 @@
   "id" : "folio_plugin-find-erm-usage-data-provider-7.0.109900000000111",
   "action" : "enable"
 }, {
-  "id" : "mod-pubsub-2.17.0-SNAPSHOT.260",
+  "id" : "mod-pubsub-2.17.0-SNAPSHOT.261",
   "action" : "enable"
 }, {
   "id" : "mod-inventory-storage-29.1.0-SNAPSHOT.1146",
@@ -254,7 +254,7 @@
   "id" : "mod-entities-links-4.1.0-SNAPSHOT.336",
   "action" : "enable"
 }, {
-  "id" : "mod-search-5.1.0-SNAPSHOT.707",
+  "id" : "mod-search-5.1.0-SNAPSHOT.708",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-instance-9.1.10990000000068",
@@ -311,7 +311,7 @@
   "id" : "mod-notify-3.5.0-SNAPSHOT.139",
   "action" : "enable"
 }, {
-  "id" : "mod-feesfines-19.4.0-SNAPSHOT.246",
+  "id" : "mod-feesfines-19.4.0-SNAPSHOT.247",
   "action" : "enable"
 }, {
   "id" : "folio_reading-room-3.0.10990000000071",
@@ -335,7 +335,7 @@
   "id" : "folio_plugin-create-inventory-records-7.0.10990000000051",
   "action" : "enable"
 }, {
-  "id" : "folio_requests-13.0.109900000000203",
+  "id" : "folio_requests-13.0.109900000000208",
   "action" : "enable"
 }, {
   "id" : "edge-sip2-3.5.0-SNAPSHOT.184",
@@ -428,7 +428,7 @@
   "id" : "mod-mosaic-1.0.0-SNAPSHOT.19",
   "action" : "enable"
 }, {
-  "id" : "folio_mosaic-settings-1.0.10990000000033",
+  "id" : "folio_mosaic-settings-1.0.10990000000046",
   "action" : "enable"
 }, {
   "id" : "mod-rtac-3.9.0-SNAPSHOT.108",
