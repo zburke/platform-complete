@@ -209,19 +209,16 @@
   "id" : "edge-oai-pmh-2.12.0-SNAPSHOT.121",
   "action" : "enable"
 }, {
-  "id" : "mod-circulation-storage-17.5.0-SNAPSHOT.438",
+  "id" : "mod-circulation-storage-17.5.0-SNAPSHOT.439",
   "action" : "enable"
 }, {
-  "id" : "mod-user-import-3.11.0-SNAPSHOT.109",
+  "id" : "mod-user-import-3.11.0-SNAPSHOT.110",
   "action" : "enable"
 }, {
   "id" : "mod-users-bl-7.11.0-SNAPSHOT.182",
   "action" : "enable"
 }, {
   "id" : "folio_stripes-core-11.1.109900000000937",
-  "action" : "enable"
-}, {
-  "id" : "folio_users-13.0.109900000000381",
   "action" : "enable"
 }, {
   "id" : "mod-orders-storage-14.0.0-SNAPSHOT.431",
@@ -320,7 +317,7 @@
   "id" : "folio_reading-room-3.0.10990000000071",
   "action" : "enable"
 }, {
-  "id" : "mod-circulation-24.5.0-SNAPSHOT.1310",
+  "id" : "mod-circulation-24.5.0-SNAPSHOT.1311",
   "action" : "enable"
 }, {
   "id" : "folio_checkin-12.0.109900000000109",
@@ -347,13 +344,16 @@
   "id" : "mod-circulation-bff-1.2.0-SNAPSHOT.61",
   "action" : "enable"
 }, {
-  "id" : "mod-dcb-2.0.0-SNAPSHOT.121",
+  "id" : "folio_users-13.0.109900000000406",
+  "action" : "enable"
+}, {
+  "id" : "mod-dcb-2.0.0-SNAPSHOT.122",
   "action" : "enable"
 }, {
   "id" : "edge-dcb-1.4.0-SNAPSHOT.36",
   "action" : "enable"
 }, {
-  "id" : "mod-ncip-1.16.0-SNAPSHOT.109",
+  "id" : "mod-ncip-1.16.0-SNAPSHOT.110",
   "action" : "enable"
 }, {
   "id" : "edge-ncip-1.11.0-SNAPSHOT.37",
@@ -461,7 +461,7 @@
   "id" : "mod-bulk-operations-2.3.0-SNAPSHOT.415",
   "action" : "enable"
 }, {
-  "id" : "folio_bulk-edit-5.0.109900000000279",
+  "id" : "folio_bulk-edit-5.0.109900000000287",
   "action" : "enable"
 }, {
   "id" : "mod-lists-3.2.0-SNAPSHOT.190",

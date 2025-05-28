@@ -132,11 +132,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-circulation-storage-17.5.0-SNAPSHOT.438",
+    "id": "mod-circulation-storage-17.5.0-SNAPSHOT.439",
     "action": "enable"
   },
   {
-    "id": "mod-user-import-3.11.0-SNAPSHOT.109",
+    "id": "mod-user-import-3.11.0-SNAPSHOT.110",
     "action": "enable"
   },
   {
@@ -224,7 +224,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-circulation-24.5.0-SNAPSHOT.1310",
+    "id": "mod-circulation-24.5.0-SNAPSHOT.1311",
     "action": "enable"
   },
   {
@@ -232,11 +232,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-dcb-2.0.0-SNAPSHOT.121",
+    "id": "mod-dcb-2.0.0-SNAPSHOT.122",
     "action": "enable"
   },
   {
-    "id": "mod-ncip-1.16.0-SNAPSHOT.109",
+    "id": "mod-ncip-1.16.0-SNAPSHOT.110",
     "action": "enable"
   },
   {

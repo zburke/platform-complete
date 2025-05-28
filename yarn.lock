@@ -1289,9 +1289,9 @@
     zustand "^4.1.5"
 
 "@folio/bulk-edit@>=1.0.0":
-  version "5.0.109900000000279"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/bulk-edit/-/bulk-edit-5.0.109900000000279.tgz#624bdb96e55e7325784b354320f01632ed751b3e"
-  integrity sha512-5AbaZWlpa7u8Rt4U4YQkGopAWEgA+II+JelmyErSvbbBSDqlj65qLuOXMKryG5tiB+XAsQnxavEoZgRMDo9j8Q==
+  version "5.0.109900000000287"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/bulk-edit/-/bulk-edit-5.0.109900000000287.tgz#e7d2254e46ce41c48a564e1c46f8cd72d12da5b7"
+  integrity sha512-TLKC3ip7OxeOFAW4ZEyjITznlocTQXTxIJrDsgn2UbUQd1cvkvUfwnoz77iQE7S7l1aejqbmygRaVmXay0ylDQ==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     file-saver "^2.0.5"
@@ -2697,9 +2697,9 @@
     redux-form "^8.0.0"
 
 "@folio/users@>=2.17.0":
-  version "13.0.109900000000381"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.109900000000381.tgz#96a6a64c279407964c59da7e1f63dec31b8efa0f"
-  integrity sha512-tUY0KBvcaYeGTNr8sAn81EO5N75XWacaudlawLrO11GKRUoHo0TQN1t9DXqGDKLvOreg14vDGvCGkCEON6OZ3w==
+  version "13.0.109900000000406"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.109900000000406.tgz#48374d027e534f6803094aba143ada0b5921d3b0"
+  integrity sha512-UC14lTGIUt6L6HWRzfuzUnu00Ii+Nqip0JyzlO3fo9+TSqTd1+2ZiWdjgqczm2003wTswfZgEsA/YQ4FqdaNMg==
   dependencies:
     compressorjs "^1.2.1"
     dompurify "^3.2.0"
