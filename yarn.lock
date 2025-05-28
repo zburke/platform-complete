@@ -1800,9 +1800,9 @@
     react-router-prop-types "^1.0.4"
 
 "@folio/orders@>=1.1.0":
-  version "9.0.109900000000274"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/orders/-/orders-9.0.109900000000274.tgz#8c2cb03733fb9d610758a6f32c5f020a2b0f947a"
-  integrity sha512-GJe/HphIAdlpM60ayYF0Ac6O5lblmC7CdMtJDah+MJlHBMmJwNP2vdwYoAfKbPHpWmtBtiEiauJWjs0jflUXPg==
+  version "9.0.109900000000277"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/orders/-/orders-9.0.109900000000277.tgz#cd1323a59c668d38e5cffb4299566fbc25cd0bb6"
+  integrity sha512-q2KdMlyeEafNg433XQmVBIhtSJHTCopBQckIuizAeWcvga0OSgpIF+1YVljZ6Q5lJAKIUw6c8Mlxop5iAIZ9Pw==
   dependencies:
     "@folio/plugin-find-po-line" "^6.0.0"
     "@folio/stripes-acq-components" "~7.0.0"
@@ -2514,9 +2514,9 @@
     prop-types "^15.7.2"
 
 "@folio/stripes-smart-components@^10.0.0":
-  version "10.1.109900000000446"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-smart-components/-/stripes-smart-components-10.1.109900000000446.tgz#ee8b5e9b40d9ae34819527978555ca576f32363c"
-  integrity sha512-c4OMPq84maQILcBgcYGDRLsAdXuceozQ6TPtdrQz9rmU7jhuTLJVQawSpnsh4jqTUVjF5q+DDFZExM4jxsxFUw==
+  version "10.1.109900000000449"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-smart-components/-/stripes-smart-components-10.1.109900000000449.tgz#2a5fc0699fbaefaacee16b6bc35907369b2d771f"
+  integrity sha512-5tttKdYoBxTB8SdnPW0Fk4jJw7nIwrRLni3LSsnEklFk3hgV8yLAhD+CQ4PMLbGWiobLN7zUmwXejy8zJ5jjOA==
   dependencies:
     "@rehooks/local-storage" "2.4.4"
     classnames "^2.2.6"
