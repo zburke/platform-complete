@@ -251,7 +251,7 @@
   "id" : "edge-connexion-1.4.2-SNAPSHOT.40",
   "action" : "enable"
 }, {
-  "id" : "mod-entities-links-4.1.0-SNAPSHOT.336",
+  "id" : "mod-entities-links-4.1.0-SNAPSHOT.337",
   "action" : "enable"
 }, {
   "id" : "mod-search-5.1.0-SNAPSHOT.708",
@@ -263,7 +263,7 @@
   "id" : "folio_stripes-authority-components-6.1.109900000000109",
   "action" : "enable"
 }, {
-  "id" : "mod-inventory-21.2.0-SNAPSHOT.874",
+  "id" : "mod-inventory-21.2.0-SNAPSHOT.875",
   "action" : "enable"
 }, {
   "id" : "mod-quick-marc-7.1.0-SNAPSHOT.323",
@@ -425,7 +425,7 @@
   "id" : "folio_gobi-settings-4.0.10990000000046",
   "action" : "enable"
 }, {
-  "id" : "mod-mosaic-1.0.0-SNAPSHOT.20",
+  "id" : "mod-mosaic-1.0.0-SNAPSHOT.21",
   "action" : "enable"
 }, {
   "id" : "folio_mosaic-settings-1.0.10990000000046",
