@@ -77,7 +77,7 @@
   "id" : "folio_plugin-find-license-12.1.10990000000087",
   "action" : "enable"
 }, {
-  "id" : "mod-source-record-storage-5.11.0-SNAPSHOT.689",
+  "id" : "mod-source-record-storage-5.11.0-SNAPSHOT.694",
   "action" : "enable"
 }, {
   "id" : "mod-users-19.6.0-SNAPSHOT.356",
@@ -101,7 +101,7 @@
   "id" : "mod-reporting-1.4.0",
   "action" : "enable"
 }, {
-  "id" : "folio_ldp-3.0.209900000000130",
+  "id" : "folio_ldp-3.0.209900000000137",
   "action" : "enable"
 }, {
   "id" : "mod-login-7.14.0-SNAPSHOT.165",
@@ -242,7 +242,7 @@
   "id" : "mod-finance-5.2.0-SNAPSHOT.289",
   "action" : "enable"
 }, {
-  "id" : "mod-source-record-manager-3.11.0-SNAPSHOT.1023",
+  "id" : "mod-source-record-manager-3.11.0-SNAPSHOT.1027",
   "action" : "enable"
 }, {
   "id" : "mod-copycat-1.8.0",
@@ -425,7 +425,7 @@
   "id" : "folio_gobi-settings-4.0.10990000000046",
   "action" : "enable"
 }, {
-  "id" : "mod-mosaic-1.0.0-SNAPSHOT.21",
+  "id" : "mod-mosaic-1.0.0-SNAPSHOT.22",
   "action" : "enable"
 }, {
   "id" : "folio_mosaic-settings-1.0.10990000000046",
@@ -458,7 +458,7 @@
   "id" : "edge-fqm-4.1.0-SNAPSHOT.48",
   "action" : "enable"
 }, {
-  "id" : "mod-bulk-operations-2.3.0-SNAPSHOT.415",
+  "id" : "mod-bulk-operations-2.3.0-SNAPSHOT.416",
   "action" : "enable"
 }, {
   "id" : "folio_bulk-edit-5.0.109900000000287",

@@ -44,7 +44,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-source-record-storage-5.11.0-SNAPSHOT.689",
+    "id": "mod-source-record-storage-5.11.0-SNAPSHOT.694",
     "action": "enable"
   },
   {
@@ -168,7 +168,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-source-record-manager-3.11.0-SNAPSHOT.1023",
+    "id": "mod-source-record-manager-3.11.0-SNAPSHOT.1027",
     "action": "enable"
   },
   {
@@ -280,7 +280,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-mosaic-1.0.0-SNAPSHOT.21",
+    "id": "mod-mosaic-1.0.0-SNAPSHOT.22",
     "action": "enable"
   },
   {
@@ -296,7 +296,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-bulk-operations-2.3.0-SNAPSHOT.415",
+    "id": "mod-bulk-operations-2.3.0-SNAPSHOT.416",
     "action": "enable"
   },
   {
