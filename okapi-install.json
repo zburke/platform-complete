@@ -44,7 +44,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-source-record-storage-5.11.0-SNAPSHOT.694",
+    "id": "mod-source-record-storage-5.11.0-SNAPSHOT.696",
     "action": "enable"
   },
   {
@@ -64,7 +64,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-reporting-1.4.0",
+    "id": "mod-reporting-1.5.0-SNAPSHOT.123",
     "action": "enable"
   },
   {
@@ -80,7 +80,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-pubsub-2.17.0-SNAPSHOT.261",
+    "id": "mod-pubsub-2.17.0-SNAPSHOT.262",
     "action": "enable"
   },
   {
@@ -132,15 +132,15 @@
     "action": "enable"
   },
   {
-    "id": "mod-circulation-storage-17.5.0-SNAPSHOT.439",
+    "id": "mod-users-bl-7.11.0-SNAPSHOT.182",
+    "action": "enable"
+  },
+  {
+    "id": "mod-circulation-storage-17.5.0-SNAPSHOT.440",
     "action": "enable"
   },
   {
     "id": "mod-user-import-3.11.0-SNAPSHOT.110",
-    "action": "enable"
-  },
-  {
-    "id": "mod-users-bl-7.11.0-SNAPSHOT.182",
     "action": "enable"
   },
   {
@@ -224,7 +224,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-circulation-24.5.0-SNAPSHOT.1311",
+    "id": "mod-circulation-24.5.0-SNAPSHOT.1312",
     "action": "enable"
   },
   {
@@ -248,7 +248,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-tlr-1.2.0-SNAPSHOT.79",
+    "id": "mod-tlr-1.2.0-SNAPSHOT.80",
     "action": "enable"
   },
   {
@@ -292,7 +292,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-fqm-manager-4.1.0-SNAPSHOT.634",
+    "id": "mod-fqm-manager-4.1.0-SNAPSHOT.639",
     "action": "enable"
   },
   {
