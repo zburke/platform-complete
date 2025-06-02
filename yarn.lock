@@ -1640,9 +1640,9 @@
     "@folio/plugin-find-instance" "^9.0.0"
 
 "@folio/invoice@>=1.0.0":
-  version "8.0.109900000000218"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/invoice/-/invoice-8.0.109900000000218.tgz#165604a012dbd600aebc755da11927d3d7e40d9d"
-  integrity sha512-IqjkC0TtgvxQ87WPlG/iOisUeUBYNRlEcQzJaErDuf79RP4AciiggL8cBq1VvCsX42nnT3TKst1brXw6W8zsIw==
+  version "8.0.109900000000221"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/invoice/-/invoice-8.0.109900000000221.tgz#7a1aca42ddb4a6f08ce0a303a4665dc287bde5c5"
+  integrity sha512-W38cTTe0kEkj7ldv7k6S+a1W1AYD2AYvVa3z5QbzKsTBRdsMTompV69wXAj8t1/9HsTUm7tLN6C7zkWeCsL/8g==
   dependencies:
     "@folio/stripes-acq-components" "~7.0.0"
     file-saver "^2.0.0"
@@ -10431,9 +10431,9 @@ webpack-sources@^1.4.3:
     source-map "~0.6.1"
 
 webpack-sources@^3.2.3:
-  version "3.3.0"
-  resolved "https://repository.folio.org/repository/npm-ci-all/webpack-sources/-/webpack-sources-3.3.0.tgz#8d3449f1ed3f254e722a529a0a344a37d2d17048"
-  integrity sha512-77R0RDmJfj9dyv5p3bM5pOHa+X8/ZkO9c7kpDstigkC4nIDobadsfSGCwB4bKhMVxqAok8tajaoR8rirM7+VFQ==
+  version "3.3.1"
+  resolved "https://repository.folio.org/repository/npm-ci-all/webpack-sources/-/webpack-sources-3.3.1.tgz#ad67407c0bcc9a2bd963828ee324da6130945cc2"
+  integrity sha512-EWzBqw2ZH/hIXIWIdOTvFHij6MuYdDHZVL12bZb921CrmP9UqYhK9+a3OC/onMGeBYrt2aOivHCLy5E+x5wYOA==
 
 webpack-virtual-modules@^0.4.3:
   version "0.4.6"
