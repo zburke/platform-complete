@@ -10431,9 +10431,9 @@ webpack-sources@^1.4.3:
     source-map "~0.6.1"
 
 webpack-sources@^3.2.3:
-  version "3.3.1"
-  resolved "https://repository.folio.org/repository/npm-ci-all/webpack-sources/-/webpack-sources-3.3.1.tgz#ad67407c0bcc9a2bd963828ee324da6130945cc2"
-  integrity sha512-EWzBqw2ZH/hIXIWIdOTvFHij6MuYdDHZVL12bZb921CrmP9UqYhK9+a3OC/onMGeBYrt2aOivHCLy5E+x5wYOA==
+  version "3.3.2"
+  resolved "https://repository.folio.org/repository/npm-ci-all/webpack-sources/-/webpack-sources-3.3.2.tgz#0ab55ab0b380ce53c45ca40cb7b33bab3149ea85"
+  integrity sha512-ykKKus8lqlgXX/1WjudpIEjqsafjOTcOJqxnAbMLAu/KCsDCJ6GBtvscewvTkrn24HsnvFwrSCbenFrhtcCsAA==
 
 webpack-virtual-modules@^0.4.3:
   version "0.4.6"
