@@ -344,7 +344,7 @@
   "id" : "mod-circulation-bff-1.2.0-SNAPSHOT.61",
   "action" : "enable"
 }, {
-  "id" : "folio_users-13.0.109900000000406",
+  "id" : "folio_users-13.0.109900000000420",
   "action" : "enable"
 }, {
   "id" : "mod-dcb-2.0.0-SNAPSHOT.123",
