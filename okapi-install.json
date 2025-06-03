@@ -64,7 +64,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-reporting-1.5.0-SNAPSHOT.123",
+    "id": "mod-reporting-1.5.0-SNAPSHOT.125",
     "action": "enable"
   },
   {
@@ -108,7 +108,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-kb-ebsco-java-6.1.0-SNAPSHOT.468",
+    "id": "mod-kb-ebsco-java-6.1.0-SNAPSHOT.470",
     "action": "enable"
   },
   {
@@ -116,7 +116,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-agreements-7.3.0-SNAPSHOT.769",
+    "id": "mod-agreements-7.3.0-SNAPSHOT.770",
     "action": "enable"
   },
   {
@@ -136,7 +136,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-circulation-storage-17.5.0-SNAPSHOT.440",
+    "id": "mod-circulation-storage-17.5.0-SNAPSHOT.441",
     "action": "enable"
   },
   {
@@ -224,11 +224,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-circulation-24.5.0-SNAPSHOT.1312",
+    "id": "mod-circulation-24.5.0-SNAPSHOT.1313",
     "action": "enable"
   },
   {
-    "id": "mod-circulation-bff-1.2.0-SNAPSHOT.61",
+    "id": "mod-circulation-bff-1.2.0-SNAPSHOT.63",
     "action": "enable"
   },
   {
@@ -292,7 +292,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-fqm-manager-4.1.0-SNAPSHOT.639",
+    "id": "mod-fqm-manager-4.1.0-SNAPSHOT.640",
     "action": "enable"
   },
   {
