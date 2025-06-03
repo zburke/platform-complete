@@ -202,5 +202,9 @@
   {
     "id": "mod-pubsub",
     "action": "enable"
+  },
+  {
+    "id": "mod-search-5.1.0-SNAPSHOT.708",
+    "action": "enable"
   }
 ]
