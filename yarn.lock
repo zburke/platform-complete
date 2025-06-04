@@ -1450,9 +1450,9 @@
     react-window "^1.8.5"
 
 "@folio/data-import@>=0.0.0", "@folio/data-import@^9.0.0":
-  version "9.0.10990000000077"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/data-import/-/data-import-9.0.10990000000077.tgz#4e0c8ddae667cc774d273a375fb7ff2d6b57d323"
-  integrity sha512-mTzRSYyYlJ6FgP7O527Uqm6ldp/04TYqiXuM5yy6zgTUJWTchhd7u3zxDPB4fU4lyPxZwRALLZokCig7hxTPbQ==
+  version "9.0.10990000000081"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/data-import/-/data-import-9.0.10990000000081.tgz#938015191d95ec32dc9b0999f1416520665bec76"
+  integrity sha512-Nty1U79I9uibF2+7KYhWbXZDWgPYeoXzoAi4EZM4cd+C+zAOzx+61YCHXd6foBW/6pBPYHicnEGpCPV1c5XttA==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     "@folio/stripes-data-transfer-components" "^7.0.0"
@@ -1955,9 +1955,9 @@
     prop-types "^15.5.10"
 
 "@folio/plugin-find-import-profile@>=1.1.0":
-  version "9.0.10990000000033"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-find-import-profile/-/plugin-find-import-profile-9.0.10990000000033.tgz#0735c36d428cf4d9ae5a8dfe3571e8df1c9d8d35"
-  integrity sha512-FUVMGaHjBHTW2eZlu9T5BzSiqHHcuyjH4YGEQ7tBnXcEwKQSU7BkQ8IpJhakcZB8Ww+kHvl6FeCTwbS91NHY1g==
+  version "9.0.10990000000038"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-find-import-profile/-/plugin-find-import-profile-9.0.10990000000038.tgz#aef481dcc535be6f27fc252121bd39b93d5a7f09"
+  integrity sha512-bC5WGMG6+Y3j+8RSeNxzP0naJzcbaHis6LboEqWVRu4FaEhrsi5WAR+vEx8wMuCoCmSxmMzMOSi1ElWrTF3iZg==
   dependencies:
     "@folio/data-import" "^9.0.0"
     "@folio/stripes-acq-components" "^7.0.0"

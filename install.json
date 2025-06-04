@@ -296,10 +296,10 @@
   "id" : "mod-data-import-3.4.0-SNAPSHOT.333",
   "action" : "enable"
 }, {
-  "id" : "folio_data-import-9.0.10990000000077",
+  "id" : "folio_data-import-9.0.10990000000081",
   "action" : "enable"
 }, {
-  "id" : "folio_plugin-find-import-profile-9.0.10990000000033",
+  "id" : "folio_plugin-find-import-profile-9.0.10990000000038",
   "action" : "enable"
 }, {
   "id" : "mod-event-config-2.10.0-SNAPSHOT.72",
