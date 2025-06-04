@@ -24,7 +24,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-invoice-storage-6.1.0-SNAPSHOT.173",
+    "id": "mod-invoice-storage-6.1.0-SNAPSHOT.174",
     "action": "enable"
   },
   {
@@ -36,7 +36,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-organizations-storage-5.0.0-SNAPSHOT.119",
+    "id": "mod-organizations-storage-5.0.0-SNAPSHOT.120",
     "action": "enable"
   },
   {
@@ -80,7 +80,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-pubsub-2.17.0-SNAPSHOT.262",
+    "id": "mod-pubsub-2.17.0-SNAPSHOT.263",
     "action": "enable"
   },
   {
@@ -100,7 +100,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-notes-7.1.0-SNAPSHOT.285",
+    "id": "mod-notes-7.1.0-SNAPSHOT.286",
     "action": "enable"
   },
   {
@@ -144,11 +144,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-orders-storage-14.0.0-SNAPSHOT.431",
+    "id": "mod-orders-storage-14.0.0-SNAPSHOT.432",
     "action": "enable"
   },
   {
-    "id": "mod-organizations-2.2.0-SNAPSHOT.69",
+    "id": "mod-organizations-2.2.0-SNAPSHOT.70",
     "action": "enable"
   },
   {
@@ -160,11 +160,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-finance-storage-8.9.0-SNAPSHOT.406",
+    "id": "mod-finance-storage-8.9.0-SNAPSHOT.407",
     "action": "enable"
   },
   {
-    "id": "mod-finance-5.2.0-SNAPSHOT.289",
+    "id": "mod-finance-5.2.0-SNAPSHOT.290",
     "action": "enable"
   },
   {
@@ -176,7 +176,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-entities-links-4.1.0-SNAPSHOT.337",
+    "id": "mod-entities-links-4.1.0-SNAPSHOT.339",
     "action": "enable"
   },
   {
@@ -256,7 +256,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-orders-13.1.0-SNAPSHOT.1031",
+    "id": "mod-orders-13.1.0-SNAPSHOT.1032",
     "action": "enable"
   },
   {
@@ -276,11 +276,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-gobi-3.1.0-SNAPSHOT.253",
+    "id": "mod-gobi-3.1.0-SNAPSHOT.254",
     "action": "enable"
   },
   {
-    "id": "mod-mosaic-1.0.0-SNAPSHOT.23",
+    "id": "mod-mosaic-1.0.0-SNAPSHOT.24",
     "action": "enable"
   },
   {
@@ -288,7 +288,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-invoice-6.1.0-SNAPSHOT.474",
+    "id": "mod-invoice-6.1.0-SNAPSHOT.475",
     "action": "enable"
   },
   {

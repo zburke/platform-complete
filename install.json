@@ -44,7 +44,7 @@
   "id" : "folio_tags-9.0.10990000000031",
   "action" : "enable"
 }, {
-  "id" : "mod-invoice-storage-6.1.0-SNAPSHOT.173",
+  "id" : "mod-invoice-storage-6.1.0-SNAPSHOT.174",
   "action" : "enable"
 }, {
   "id" : "mod-service-interaction-4.3.0-SNAPSHOT.143",
@@ -59,7 +59,7 @@
   "id" : "mod-calendar-3.4.0-SNAPSHOT.182",
   "action" : "enable"
 }, {
-  "id" : "mod-organizations-storage-5.0.0-SNAPSHOT.119",
+  "id" : "mod-organizations-storage-5.0.0-SNAPSHOT.120",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-contact-6.0.10990000000032",
@@ -122,7 +122,7 @@
   "id" : "folio_plugin-find-erm-usage-data-provider-7.0.109900000000111",
   "action" : "enable"
 }, {
-  "id" : "mod-pubsub-2.17.0-SNAPSHOT.262",
+  "id" : "mod-pubsub-2.17.0-SNAPSHOT.263",
   "action" : "enable"
 }, {
   "id" : "mod-inventory-storage-29.1.0-SNAPSHOT.1146",
@@ -149,7 +149,7 @@
   "id" : "edge-courses-1.7.0-SNAPSHOT.27",
   "action" : "enable"
 }, {
-  "id" : "mod-notes-7.1.0-SNAPSHOT.285",
+  "id" : "mod-notes-7.1.0-SNAPSHOT.286",
   "action" : "enable"
 }, {
   "id" : "folio_notes-11.0.10990000000080",
@@ -221,10 +221,10 @@
   "id" : "mod-user-import-3.11.0-SNAPSHOT.110",
   "action" : "enable"
 }, {
-  "id" : "mod-orders-storage-14.0.0-SNAPSHOT.431",
+  "id" : "mod-orders-storage-14.0.0-SNAPSHOT.432",
   "action" : "enable"
 }, {
-  "id" : "mod-organizations-2.2.0-SNAPSHOT.69",
+  "id" : "mod-organizations-2.2.0-SNAPSHOT.70",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-organization-6.0.10990000000016",
@@ -236,10 +236,10 @@
   "id" : "mod-email-1.20.0-SNAPSHOT.93",
   "action" : "enable"
 }, {
-  "id" : "mod-finance-storage-8.9.0-SNAPSHOT.406",
+  "id" : "mod-finance-storage-8.9.0-SNAPSHOT.407",
   "action" : "enable"
 }, {
-  "id" : "mod-finance-5.2.0-SNAPSHOT.289",
+  "id" : "mod-finance-5.2.0-SNAPSHOT.290",
   "action" : "enable"
 }, {
   "id" : "mod-source-record-manager-3.11.0-SNAPSHOT.1027",
@@ -251,7 +251,7 @@
   "id" : "edge-connexion-1.4.2-SNAPSHOT.40",
   "action" : "enable"
 }, {
-  "id" : "mod-entities-links-4.1.0-SNAPSHOT.337",
+  "id" : "mod-entities-links-4.1.0-SNAPSHOT.339",
   "action" : "enable"
 }, {
   "id" : "mod-search-5.1.0-SNAPSHOT.708",
@@ -380,7 +380,7 @@
   "id" : "folio_inn-reach-6.0.10990000000056",
   "action" : "enable"
 }, {
-  "id" : "mod-orders-13.1.0-SNAPSHOT.1031",
+  "id" : "mod-orders-13.1.0-SNAPSHOT.1032",
   "action" : "enable"
 }, {
   "id" : "folio_acquisition-units-6.0.10990000000034",
@@ -419,13 +419,13 @@
   "id" : "folio_plugin-eusage-reports-4.0.109900000000111",
   "action" : "enable"
 }, {
-  "id" : "mod-gobi-3.1.0-SNAPSHOT.253",
+  "id" : "mod-gobi-3.1.0-SNAPSHOT.254",
   "action" : "enable"
 }, {
   "id" : "folio_gobi-settings-4.0.10990000000050",
   "action" : "enable"
 }, {
-  "id" : "mod-mosaic-1.0.0-SNAPSHOT.23",
+  "id" : "mod-mosaic-1.0.0-SNAPSHOT.24",
   "action" : "enable"
 }, {
   "id" : "folio_mosaic-settings-1.0.10990000000046",
@@ -437,7 +437,7 @@
   "id" : "edge-rtac-2.10.0-SNAPSHOT.108",
   "action" : "enable"
 }, {
-  "id" : "mod-invoice-6.1.0-SNAPSHOT.474",
+  "id" : "mod-invoice-6.1.0-SNAPSHOT.475",
   "action" : "enable"
 }, {
   "id" : "folio_finance-9.0.109900000000314",
