@@ -1662,9 +1662,9 @@
     "@folio/plugin-find-po-line" "^6.0.0"
 
 "@folio/ldp@>=1.1.0":
-  version "3.0.209900000000141"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/ldp/-/ldp-3.0.209900000000141.tgz#fc62aeee37762a28d27d28fcd1ed8493b31d283c"
-  integrity sha512-0E+KFK9bAcyLDulyULfJrJ5oNISzL5EB0mnJz6XYDIUzVD1phCQqbcyOyuv57iRRiPLljey9b5ewy6aPt6aFLA==
+  version "3.1.209900000000149"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/ldp/-/ldp-3.1.209900000000149.tgz#57d37b92fb61ae371e6fe94ea53994b86af2c7e4"
+  integrity sha512-977Dg18YB93XoQ5LRiA01Wt3kg+lz7s78v14+Awz0sJXkG2w3L4wr+NxLmqZbcFUvCYWENg76xXFPvwTaAIFqg==
   dependencies:
     "@e965/xlsx" "^0.20.2"
     chart.js "^2.9.3"
@@ -5166,9 +5166,9 @@ effection@^1.0.0:
   integrity sha512-ITAAnuI7sJqKhjvYlnm66NHaW7zrXzqgsGsjVaaqFHYDWPN8WylVj46xASfkrtwq5wmklbzy6tvRYaj2C4rDHw==
 
 electron-to-chromium@^1.5.160:
-  version "1.5.163"
-  resolved "https://repository.folio.org/repository/npm-ci-all/electron-to-chromium/-/electron-to-chromium-1.5.163.tgz#cbf68a1b2c47bac722f6679003e81b0bfa4b4e19"
-  integrity sha512-y6WESxcFekrMfiz9+pTLNacCTsOyeha5JkleNgE12k+7M8P8gaA09h6r/Kc5m2iQ87V9taexvLjAl2ILdJ+xmw==
+  version "1.5.164"
+  resolved "https://repository.folio.org/repository/npm-ci-all/electron-to-chromium/-/electron-to-chromium-1.5.164.tgz#d85fa1a083f19a54fbf1f6e55f6cfcde300fe68d"
+  integrity sha512-TXBrF2aZenRjY3wbj5Yc0mZn43lMiSHNkzwPkIxx+vWUB35Kf8Gm/uOYmOJFNQ7SUwWAinbfxX73ANIud65wSA==
 
 element-is-visible@^1.0.0:
   version "1.0.0"
