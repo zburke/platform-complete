@@ -125,7 +125,7 @@
   "id" : "mod-pubsub-2.17.0-SNAPSHOT.263",
   "action" : "enable"
 }, {
-  "id" : "mod-inventory-storage-29.1.0-SNAPSHOT.1146",
+  "id" : "mod-inventory-storage-29.1.0-SNAPSHOT.1148",
   "action" : "enable"
 }, {
   "id" : "folio_calendar-12.0.109900000000151",
@@ -161,7 +161,7 @@
   "id" : "folio_stripes-smart-components-10.1.109900000000449",
   "action" : "enable"
 }, {
-  "id" : "mod-kb-ebsco-java-6.1.0-SNAPSHOT.470",
+  "id" : "mod-kb-ebsco-java-6.1.0-SNAPSHOT.471",
   "action" : "enable"
 }, {
   "id" : "mod-serials-management-2.1.0-SNAPSHOT.159",
@@ -170,7 +170,7 @@
   "id" : "folio_serials-management-2.1.109900000000786",
   "action" : "enable"
 }, {
-  "id" : "mod-agreements-7.3.0-SNAPSHOT.770",
+  "id" : "mod-agreements-7.3.0-SNAPSHOT.771",
   "action" : "enable"
 }, {
   "id" : "folio_eholdings-11.1.109900000000229",
