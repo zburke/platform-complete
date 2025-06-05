@@ -64,7 +64,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_erm-usage-12.0.109900000000414",
+    "id": "folio_erm-usage-12.0.109900000000430",
     "action": "enable"
   },
   {
@@ -92,7 +92,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_invoice-8.0.109900000000231",
+    "id": "folio_invoice-8.0.109900000000234",
     "action": "enable"
   },
   {
@@ -136,7 +136,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_orders-9.0.109900000000281",
+    "id": "folio_orders-9.0.109900000000301",
     "action": "enable"
   },
   {
