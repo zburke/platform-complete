@@ -239,7 +239,7 @@
   "id" : "mod-finance-storage-8.9.0-SNAPSHOT.408",
   "action" : "enable"
 }, {
-  "id" : "mod-finance-5.2.0-SNAPSHOT.290",
+  "id" : "mod-finance-5.2.0-SNAPSHOT.291",
   "action" : "enable"
 }, {
   "id" : "mod-source-record-manager-3.11.0-SNAPSHOT.1027",
@@ -347,7 +347,7 @@
   "id" : "mod-circulation-bff-1.2.0-SNAPSHOT.64",
   "action" : "enable"
 }, {
-  "id" : "folio_users-13.0.109900000000420",
+  "id" : "folio_users-13.0.109900000000433",
   "action" : "enable"
 }, {
   "id" : "mod-dcb-2.0.0-SNAPSHOT.123",
@@ -458,7 +458,7 @@
   "id" : "edge-fqm-4.1.0-SNAPSHOT.48",
   "action" : "enable"
 }, {
-  "id" : "mod-bulk-operations-2.3.0-SNAPSHOT.418",
+  "id" : "mod-bulk-operations-2.3.0-SNAPSHOT.419",
   "action" : "enable"
 }, {
   "id" : "folio_bulk-edit-5.0.109900000000291",
