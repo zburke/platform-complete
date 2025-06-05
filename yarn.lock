@@ -1910,9 +1910,9 @@
     prop-types "^15.6.0"
 
 "@folio/plugin-find-authority@>=1.0.0", "@folio/plugin-find-authority@^5.0.0":
-  version "5.0.10990000000067"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-find-authority/-/plugin-find-authority-5.0.10990000000067.tgz#63f648f0aee1cfedac68aefa674748354e7a8009"
-  integrity sha512-LKn7ZsOSwte96E4MT9AEbc6xF3woCoRO2X4nNxAz/x4l8GUvizVoDaCtcpKbb0QLpF0PjJeohlHu8imKpW8Ftg==
+  version "5.1.10990000000073"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-find-authority/-/plugin-find-authority-5.1.10990000000073.tgz#a72df9d4b1ec85d5cbb99ca750c3d0a14ba4cc12"
+  integrity sha512-/PZW/H0gFel1TqNsACGyO+ug27R6GmvmOYsDe34+T8YdSyn2hYIkf6800KhsvXneizy1l6iR61fuuyMzRdzuZA==
   dependencies:
     query-string "^7.0.1"
 
@@ -9890,9 +9890,9 @@ terser-webpack-plugin@^5.3.11:
     terser "^5.31.1"
 
 terser@^5.10.0, terser@^5.31.1:
-  version "5.40.0"
-  resolved "https://repository.folio.org/repository/npm-ci-all/terser/-/terser-5.40.0.tgz#839a80db42bfee8340085f44ea99b5cba36c55c8"
-  integrity sha512-cfeKl/jjwSR5ar7d0FGmave9hFGJT8obyo0z+CrQOylLDbk7X81nPU6vq9VORa5jU30SkDnT2FXjLbR8HLP+xA==
+  version "5.41.0"
+  resolved "https://repository.folio.org/repository/npm-ci-all/terser/-/terser-5.41.0.tgz#11646bba11eff72d506fbafbd0086f57173141e1"
+  integrity sha512-H406eLPXpZbAX14+B8psIuvIr8+3c+2hkuYzpMkoE0ij+NdsVATbA78vb8neA/eqrj7rywa2pIkdmWRsXW6wmw==
   dependencies:
     "@jridgewell/source-map" "^0.3.3"
     acorn "^8.14.0"
