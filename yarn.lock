@@ -2155,9 +2155,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/requests@>=1.4.1":
-  version "13.0.109900000000212"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/requests/-/requests-13.0.109900000000212.tgz#aa887b8fdc962b9a9703ef33d14a3e8de45d9703"
-  integrity sha512-u3cRiudvisPqHJhPdN5x7VJR0vpCi3bE3pVQmYll76ncx5w0iRgI4paDMM9o177ofUzKaL2vGF+JSYkK2uDnMQ==
+  version "13.0.109900000000218"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/requests/-/requests-13.0.109900000000218.tgz#7179b6d5c9010f62a5b3d0af154a8c9d7c3510be"
+  integrity sha512-whQtuTHg6Rs/n4uQToPFQHSacZsNyCJs7NGZzGOVh6sU/M4TBiiVliNCllOYMVhZERW5zzZDe8bnETmgFFcVPQ==
   dependencies:
     dompurify "^3.0.9"
     final-form "^4.20.7"
@@ -2541,9 +2541,9 @@
     uuid "^9.0.0"
 
 "@folio/stripes-template-editor@^3.0.0", "@folio/stripes-template-editor@^3.2.0":
-  version "3.6.10990000000095"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-template-editor/-/stripes-template-editor-3.6.10990000000095.tgz#1e2f00f99622d73d326cc8be2151ec8e5e496691"
-  integrity sha512-JFqhPYraED0F6Z0IHB3aNTHciElsTgBTk6oUpGDMkebrw1xwEaBGpfPQFJawnbn7jCF9P/LpbbH76CjlOTzU0Q==
+  version "3.6.109900000000123"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-template-editor/-/stripes-template-editor-3.6.109900000000123.tgz#b61ea396ad3ddfa046ae23cfae1308154dce1822"
+  integrity sha512-6n2yrEr4mUWEq82XXQu09Tv8tgh77VknS7IutsafHXxP5pZVj7L2AxZi/tY3Jhq0cY/8eYu/Oyv4N1NA2A5QKQ==
   dependencies:
     dompurify "^3.1.3"
     html-to-react "^1.3.3"

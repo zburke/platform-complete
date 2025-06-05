@@ -23,7 +23,7 @@
   "id" : "mod-permissions-6.8.0-SNAPSHOT.192",
   "action" : "enable"
 }, {
-  "id" : "edge-orders-3.3.0-SNAPSHOT.88",
+  "id" : "edge-orders-3.3.0-SNAPSHOT.89",
   "action" : "enable"
 }, {
   "id" : "mod-batch-print-1.3.1-SNAPSHOT.16",
@@ -338,7 +338,7 @@
   "id" : "folio_plugin-create-inventory-records-7.0.10990000000055",
   "action" : "enable"
 }, {
-  "id" : "folio_requests-13.0.109900000000212",
+  "id" : "folio_requests-13.0.109900000000218",
   "action" : "enable"
 }, {
   "id" : "edge-sip2-3.5.0-SNAPSHOT.184",
@@ -383,7 +383,7 @@
   "id" : "folio_inn-reach-6.0.10990000000056",
   "action" : "enable"
 }, {
-  "id" : "mod-orders-13.1.0-SNAPSHOT.1032",
+  "id" : "mod-orders-13.1.0-SNAPSHOT.1033",
   "action" : "enable"
 }, {
   "id" : "folio_acquisition-units-6.0.10990000000034",
