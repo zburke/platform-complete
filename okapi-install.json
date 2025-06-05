@@ -116,7 +116,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-agreements-7.3.0-SNAPSHOT.772",
+    "id": "mod-agreements-7.3.0-SNAPSHOT.773",
     "action": "enable"
   },
   {
@@ -184,7 +184,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-inventory-21.2.0-SNAPSHOT.875",
+    "id": "mod-inventory-21.2.0-SNAPSHOT.876",
     "action": "enable"
   },
   {
@@ -224,6 +224,10 @@
     "action": "enable"
   },
   {
+    "id": "mod-data-export-worker-3.5.0-SNAPSHOT.620",
+    "action": "enable"
+  },
+  {
     "id": "mod-circulation-24.5.0-SNAPSHOT.1313",
     "action": "enable"
   },
@@ -257,10 +261,6 @@
   },
   {
     "id": "mod-orders-13.1.0-SNAPSHOT.1032",
-    "action": "enable"
-  },
-  {
-    "id": "mod-data-export-worker-3.5.0-SNAPSHOT.618",
     "action": "enable"
   },
   {

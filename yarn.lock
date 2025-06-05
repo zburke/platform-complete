@@ -214,12 +214,12 @@
     "@babel/types" "^7.27.1"
 
 "@babel/helpers@^7.27.4":
-  version "7.27.4"
-  resolved "https://repository.folio.org/repository/npm-ci-all/@babel/helpers/-/helpers-7.27.4.tgz#c79050c6a0e41e095bfc96d469c85431e9ed7fe7"
-  integrity sha512-Y+bO6U+I7ZKaM5G5rDUZiYfUvQPUibYmAFe7EnKdnKBbVXDZxvp+MWOH5gYciY0EPk4EScsuFMQBbEfpdRKSCQ==
+  version "7.27.6"
+  resolved "https://repository.folio.org/repository/npm-ci-all/@babel/helpers/-/helpers-7.27.6.tgz#6456fed15b2cb669d2d1fabe84b66b34991d812c"
+  integrity sha512-muE8Tt8M22638HU31A3CgfSUciwz1fhATfoVai05aPXGor//CdWDCbnlY1yvBPo07njuVOCNGCSp/GTt12lIug==
   dependencies:
     "@babel/template" "^7.27.2"
-    "@babel/types" "^7.27.3"
+    "@babel/types" "^7.27.6"
 
 "@babel/parser@^7.14.7", "@babel/parser@^7.27.2", "@babel/parser@^7.27.4", "@babel/parser@^7.27.5":
   version "7.27.5"
@@ -927,9 +927,9 @@
     source-map-support "^0.5.16"
 
 "@babel/runtime@^7.0.0", "@babel/runtime@^7.1.2", "@babel/runtime@^7.10.0", "@babel/runtime@^7.12.1", "@babel/runtime@^7.12.13", "@babel/runtime@^7.12.5", "@babel/runtime@^7.15.4", "@babel/runtime@^7.19.4", "@babel/runtime@^7.21.0", "@babel/runtime@^7.23.8", "@babel/runtime@^7.24.1", "@babel/runtime@^7.24.5", "@babel/runtime@^7.26.7", "@babel/runtime@^7.5.5", "@babel/runtime@^7.6.2", "@babel/runtime@^7.7.2", "@babel/runtime@^7.7.6", "@babel/runtime@^7.8.7", "@babel/runtime@^7.9.2":
-  version "7.27.4"
-  resolved "https://repository.folio.org/repository/npm-ci-all/@babel/runtime/-/runtime-7.27.4.tgz#a91ec580e6c00c67118127777c316dfd5a5a6abf"
-  integrity sha512-t3yaEOuGu9NlIZ+hIeGbBjFtZT7j2cb2tg0fuaJKeGotchRjjLfrBA9Kwf8quhpP1EUuxModQg04q/mBwyg8uA==
+  version "7.27.6"
+  resolved "https://repository.folio.org/repository/npm-ci-all/@babel/runtime/-/runtime-7.27.6.tgz#ec4070a04d76bae8ddbb10770ba55714a417b7c6"
+  integrity sha512-vbavdySgbTTrmFE+EsiqUTzlOr5bzlnJtUv9PynGCAKvfQqjIXbvFdumPM/GxMDfyuGMJaJAU6TO4zc1Jf1i8Q==
 
 "@babel/template@^7.27.1", "@babel/template@^7.27.2":
   version "7.27.2"
@@ -953,10 +953,10 @@
     debug "^4.3.1"
     globals "^11.1.0"
 
-"@babel/types@^7.21.3", "@babel/types@^7.27.1", "@babel/types@^7.27.3", "@babel/types@^7.4.4":
-  version "7.27.3"
-  resolved "https://repository.folio.org/repository/npm-ci-all/@babel/types/-/types-7.27.3.tgz#c0257bedf33aad6aad1f406d35c44758321eb3ec"
-  integrity sha512-Y1GkI4ktrtvmawoSq+4FCVHNryea6uR+qUQy0AGxLSsjCX0nVmkYQMBLHDkXZuo5hGx7eYdnIaslsdBFm7zbUw==
+"@babel/types@^7.21.3", "@babel/types@^7.27.1", "@babel/types@^7.27.3", "@babel/types@^7.27.6", "@babel/types@^7.4.4":
+  version "7.27.6"
+  resolved "https://repository.folio.org/repository/npm-ci-all/@babel/types/-/types-7.27.6.tgz#a434ca7add514d4e646c80f7375c0aa2befc5535"
+  integrity sha512-ETyHEk2VHHvl9b9jZP5IHPavHYk57EhanlRRuae9XCpb/j5bDCbPPMOBfCWhnl/7EDJz0jEMCi/RhccCE8r1+Q==
   dependencies:
     "@babel/helper-string-parser" "^7.27.1"
     "@babel/helper-validator-identifier" "^7.27.1"
@@ -1800,9 +1800,9 @@
     react-router-prop-types "^1.0.4"
 
 "@folio/orders@>=1.1.0":
-  version "9.0.109900000000301"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/orders/-/orders-9.0.109900000000301.tgz#8fa6a32c31da76e4c6f9c6efdde1025e95643dc8"
-  integrity sha512-Mj6qvVYbcMpTG29PipxNkR8u4yD+42mOfoZVODHAWg9h8qKdmKzn07dblRKF6gobPBmfcAfYRB3X+DbNkvfHww==
+  version "9.0.109900000000304"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/orders/-/orders-9.0.109900000000304.tgz#020cadb0206b2e7d274f6350ecc873e07ebbbc93"
+  integrity sha512-F2t5xe8YlFcpuHR/tG2lOc14oefJlc2XeMpn39LvcfjV4kDzBA+ks5HuUUEuSJlh7o8yb6SssolnMnDY7UCymw==
   dependencies:
     "@folio/plugin-find-po-line" "^6.0.0"
     "@folio/stripes-acq-components" "~7.0.0"
