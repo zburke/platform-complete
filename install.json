@@ -164,6 +164,9 @@
   "id" : "mod-kb-ebsco-java-6.1.0-SNAPSHOT.471",
   "action" : "enable"
 }, {
+  "id" : "folio_eholdings-11.1.109900000000235",
+  "action" : "enable"
+}, {
   "id" : "mod-serials-management-2.1.0-SNAPSHOT.159",
   "action" : "enable"
 }, {
@@ -171,9 +174,6 @@
   "action" : "enable"
 }, {
   "id" : "mod-agreements-7.3.0-SNAPSHOT.773",
-  "action" : "enable"
-}, {
-  "id" : "folio_eholdings-11.1.109900000000229",
   "action" : "enable"
 }, {
   "id" : "folio_erm-comparisons-8.1.109900000000113",
@@ -260,7 +260,7 @@
   "id" : "folio_plugin-find-instance-9.1.10990000000072",
   "action" : "enable"
 }, {
-  "id" : "folio_stripes-authority-components-6.1.109900000000109",
+  "id" : "folio_stripes-authority-components-6.1.109900000000114",
   "action" : "enable"
 }, {
   "id" : "mod-inventory-21.2.0-SNAPSHOT.876",
