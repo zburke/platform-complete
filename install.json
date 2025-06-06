@@ -197,7 +197,7 @@
   "id" : "folio_tenant-settings-11.0.10990000000077",
   "action" : "enable"
 }, {
-  "id" : "mod-login-saml-2.11.0-SNAPSHOT.168",
+  "id" : "mod-login-saml-2.11.0-SNAPSHOT.169",
   "action" : "enable"
 }, {
   "id" : "mod-oai-pmh-3.16.0-SNAPSHOT.389",
@@ -419,7 +419,7 @@
   "id" : "folio_plugin-eusage-reports-4.0.109900000000111",
   "action" : "enable"
 }, {
-  "id" : "mod-gobi-3.1.0-SNAPSHOT.254",
+  "id" : "mod-gobi-3.1.0-SNAPSHOT.255",
   "action" : "enable"
 }, {
   "id" : "folio_gobi-settings-4.0.10990000000050",
@@ -440,13 +440,13 @@
   "id" : "mod-invoice-6.1.0-SNAPSHOT.475",
   "action" : "enable"
 }, {
-  "id" : "folio_finance-9.0.109900000000314",
+  "id" : "folio_finance-9.0.109900000000317",
   "action" : "enable"
 }, {
   "id" : "folio_invoice-8.0.109900000000234",
   "action" : "enable"
 }, {
-  "id" : "folio_orders-9.0.109900000000304",
+  "id" : "folio_orders-9.0.109900000000310",
   "action" : "enable"
 }, {
   "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.640",
