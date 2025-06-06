@@ -2931,9 +2931,9 @@
     "@jridgewell/sourcemap-codec" "^1.4.14"
 
 "@k-int/stripes-kint-components@^5.11.0", "@k-int/stripes-kint-components@^5.15.0", "@k-int/stripes-kint-components@^5.19.1":
-  version "5.20.1"
-  resolved "https://repository.folio.org/repository/npm-ci-all/@k-int/stripes-kint-components/-/stripes-kint-components-5.20.1.tgz#f7edce7ca5d81f50e5a174b207af96b9245209ef"
-  integrity sha512-tYlx9Gj84N4H6prtm+NyzIBQPSLbad0NkxkS8YGT6WzeeoMiXtCa8aytVygpEL//BgRDCAnIwPHhcLcBN8oCsg==
+  version "5.21.0"
+  resolved "https://repository.folio.org/repository/npm-ci-all/@k-int/stripes-kint-components/-/stripes-kint-components-5.21.0.tgz#9f5d9e908bb7e3758e96732734fbea2d7f3eaac9"
+  integrity sha512-2dAO33NV3fsYV5s8T6AcUNP/lwgju1F8nTziyZeHfXP3saoO/bpepL9YiX0ZVgDE6kMKnbWwYsTmxie81wTnAw==
   dependencies:
     "@rehooks/local-storage" "^2.4.4"
     compose-function "^3.0.3"
