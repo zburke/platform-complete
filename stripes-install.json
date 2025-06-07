@@ -252,15 +252,15 @@
     "action": "enable"
   },
   {
-    "id": "folio_stripes-authority-components-6.1.109900000000114",
+    "id": "folio_stripes-authority-components-6.1.109900000000118",
     "action": "enable"
   },
   {
-    "id": "folio_stripes-core-11.1.109900000000937",
+    "id": "folio_stripes-core-11.1.109900000000948",
     "action": "enable"
   },
   {
-    "id": "folio_stripes-inventory-components-2.1.109000000701",
+    "id": "folio_stripes-inventory-components-2.1.109000000707",
     "action": "enable"
   },
   {
@@ -268,7 +268,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_stripes-smart-components-10.1.109900000000449",
+    "id": "folio_stripes-smart-components-10.1.109900000000453",
     "action": "enable"
   },
   {
