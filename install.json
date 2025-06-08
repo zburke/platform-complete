@@ -281,7 +281,7 @@
   "id" : "mod-template-engine-1.23.0-SNAPSHOT.103",
   "action" : "enable"
 }, {
-  "id" : "mod-audit-3.0.0-SNAPSHOT.221",
+  "id" : "mod-audit-3.0.0-SNAPSHOT.222",
   "action" : "enable"
 }, {
   "id" : "folio_circulation-log-6.0.10990000000051",
