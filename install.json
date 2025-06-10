@@ -251,7 +251,7 @@
   "id" : "edge-connexion-1.4.2-SNAPSHOT.40",
   "action" : "enable"
 }, {
-  "id" : "mod-entities-links-4.1.0-SNAPSHOT.339",
+  "id" : "mod-entities-links-4.1.0-SNAPSHOT.340",
   "action" : "enable"
 }, {
   "id" : "mod-search-5.1.0-SNAPSHOT.710",
@@ -266,7 +266,7 @@
   "id" : "mod-inventory-21.2.0-SNAPSHOT.876",
   "action" : "enable"
 }, {
-  "id" : "mod-quick-marc-7.1.0-SNAPSHOT.323",
+  "id" : "mod-quick-marc-7.1.0-SNAPSHOT.324",
   "action" : "enable"
 }, {
   "id" : "folio_quick-marc-10.1.109900000000297",
