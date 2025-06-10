@@ -84,7 +84,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-inventory-storage-29.1.0-SNAPSHOT.1149",
+    "id": "mod-inventory-storage-29.1.0-SNAPSHOT.1151",
     "action": "enable"
   },
   {
@@ -144,7 +144,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-orders-storage-14.0.0-SNAPSHOT.432",
+    "id": "mod-orders-storage-14.0.0-SNAPSHOT.433",
     "action": "enable"
   },
   {
@@ -200,7 +200,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-audit-3.0.0-SNAPSHOT.222",
+    "id": "mod-audit-3.0.0-SNAPSHOT.223",
     "action": "enable"
   },
   {

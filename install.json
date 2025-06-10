@@ -125,7 +125,7 @@
   "id" : "mod-pubsub-2.17.0-SNAPSHOT.263",
   "action" : "enable"
 }, {
-  "id" : "mod-inventory-storage-29.1.0-SNAPSHOT.1149",
+  "id" : "mod-inventory-storage-29.1.0-SNAPSHOT.1151",
   "action" : "enable"
 }, {
   "id" : "folio_calendar-12.0.109900000000155",
@@ -221,7 +221,7 @@
   "id" : "mod-user-import-3.11.0-SNAPSHOT.110",
   "action" : "enable"
 }, {
-  "id" : "mod-orders-storage-14.0.0-SNAPSHOT.432",
+  "id" : "mod-orders-storage-14.0.0-SNAPSHOT.433",
   "action" : "enable"
 }, {
   "id" : "mod-organizations-2.2.0-SNAPSHOT.70",
@@ -281,7 +281,7 @@
   "id" : "mod-template-engine-1.23.0-SNAPSHOT.103",
   "action" : "enable"
 }, {
-  "id" : "mod-audit-3.0.0-SNAPSHOT.222",
+  "id" : "mod-audit-3.0.0-SNAPSHOT.223",
   "action" : "enable"
 }, {
   "id" : "folio_circulation-log-6.0.10990000000051",
