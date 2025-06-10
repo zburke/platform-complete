@@ -2096,9 +2096,9 @@
     "@folio/plugin-find-authority" "^5.0.0"
 
 "@folio/reading-room@>=1.0.0":
-  version "3.0.10990000000079"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/reading-room/-/reading-room-3.0.10990000000079.tgz#8d9b32d6b401021b5d3ba72b3ed07036743d6b0b"
-  integrity sha512-bqyuoQlmwNaYfzI4iJ5l+SB9pjaVOx4/sTPg+lZ+GgdcJnDWH4l7K75Pnhw5oAhUWDdEQ1pGjHK5eGA8xE177w==
+  version "3.0.10990000000080"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/reading-room/-/reading-room-3.0.10990000000080.tgz#c1394144a89bab872e4e804e01de6fb2a9b6e627"
+  integrity sha512-x6nuU3S0Kx412zzy6XPXdkQmqVge3fAvH38+dCNK++AHtIbg29dsH+Fbeez6A50PjaC6xrJBiyGnKcZTyoIOeA==
   dependencies:
     classnames "^2.2.5"
     prop-types "^15.6.0"
@@ -2697,9 +2697,9 @@
     redux-form "^8.0.0"
 
 "@folio/users@>=2.17.0":
-  version "13.0.109900000000446"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.109900000000446.tgz#49367c1c5fd27daa7590fe818fdab892c8249e53"
-  integrity sha512-g6CBDnnkdarmZue9ikGUjZlXvBhfJti06vyjU436xpu+D6GvlLQlgFjpKOmA2RFx8SbChA0/Jgddwj1lUcyVXg==
+  version "13.0.109900000000449"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.109900000000449.tgz#d5f04878d4055ca04e1bffde450dbbb7adaf2448"
+  integrity sha512-n5ymfHA1YEJHqRMQh45dPZfHaud+XVYL57xRmJfoxUhxkCCo/Fk+Qcx+s9+5CJ/UN8PZPY0n6DQsJfgkTX4S3A==
   dependencies:
     compressorjs "^1.2.1"
     dompurify "^3.2.0"
