@@ -401,7 +401,7 @@
   "id" : "mod-data-export-spring-3.6.0-SNAPSHOT.305",
   "action" : "enable"
 }, {
-  "id" : "folio_export-manager-4.0.10990000000048",
+  "id" : "folio_export-manager-4.0.10990000000053",
   "action" : "enable"
 }, {
   "id" : "folio_organizations-7.0.10990000000098",
@@ -425,7 +425,7 @@
   "id" : "folio_gobi-settings-4.0.10990000000054",
   "action" : "enable"
 }, {
-  "id" : "mod-mosaic-1.0.0-SNAPSHOT.24",
+  "id" : "mod-mosaic-1.0.0-SNAPSHOT.25",
   "action" : "enable"
 }, {
   "id" : "folio_mosaic-settings-1.0.10990000000046",

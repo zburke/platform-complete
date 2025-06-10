@@ -1540,9 +1540,9 @@
     redux-form "^8.3.7"
 
 "@folio/export-manager@>=1.0.0":
-  version "4.0.10990000000048"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/export-manager/-/export-manager-4.0.10990000000048.tgz#b8a2dd898c7eb7a930af5ce2b6ad1036d7148f25"
-  integrity sha512-XH+hN+TORwzhxD+U6Y3mx7cR3szQQnbzQ62LAUddodENR0BDdrvfhZzhDEbDKTvdR4s57lUOQwcd7EZm4MO2jw==
+  version "4.0.10990000000053"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/export-manager/-/export-manager-4.0.10990000000053.tgz#95d9d008f7bd2e4848436c3ad15053dc841b46cd"
+  integrity sha512-LQ8Rebn/nvkqZB3t4Qcp66eFM+CH0h3TS5hncyd/hLHlofb/5x0/rIob5ZHI8ApUPhfC5JntgHiTNMLDRoAxvw==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     lodash "^4.17.21"
