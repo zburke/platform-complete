@@ -1730,9 +1730,9 @@
     react-final-form-arrays "^3.1.1"
 
 "@folio/marc-authorities@>=1.0.0":
-  version "7.1.109900000000895"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/marc-authorities/-/marc-authorities-7.1.109900000000895.tgz#de6f12390a98fc49358b4376370a3edc3493d6f8"
-  integrity sha512-19Glrgv3m7cBZ7it6lm6u8QGX9Wop5fN6PrBwajbi5TXI7QJ2DIAbKaU/8+Zi5w/6WHpp+Mya/gkEAkTPyArhQ==
+  version "8.0.109900000000914"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/marc-authorities/-/marc-authorities-8.0.109900000000914.tgz#c4d1ca9630c4dd7b4378d24145b30246e37eb047"
+  integrity sha512-/OklEcUonxcyP5I0pxt5oCoNUtIr6SUlohfpNk++THdZDcZkf/axZIf8Ma36Dqwzfgm4zq240t8odeXG8BA4iw==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     "@rehooks/local-storage" "^2.4.4"
@@ -2272,9 +2272,9 @@
     yargs "^17.3.1"
 
 "@folio/stripes-cli@^4.0.0":
-  version "4.0.109900000000151"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-cli/-/stripes-cli-4.0.109900000000151.tgz#040b6c767d41002130b6dfc3d7830e5d5d5b1e01"
-  integrity sha512-y1+bcP4YIuLyaIL4nUGVa5KaVte87oOlslutfttBRFEw+yVbQnhTH6xyI9aL/adqB+vBpiRTD5RDruZgPgezGQ==
+  version "4.1.109900000000154"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-cli/-/stripes-cli-4.1.109900000000154.tgz#76d3a3680b6610cff4e6714e6a4054a431a7d7d5"
+  integrity sha512-MaUgGIiT9PlXqYWkF6c2HQCiOPgvza3uImz2eFVCTCfggUNBBRZXK07A6OBytyFD0weeqleC1uJHhrSRoAkgYQ==
   dependencies:
     "@folio/stripes-testing" "^3.0.0"
     "@folio/stripes-webpack" "^6.0.0"
