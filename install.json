@@ -392,7 +392,7 @@
   "id" : "folio_inn-reach-6.0.10990000000060",
   "action" : "enable"
 }, {
-  "id" : "mod-orders-13.1.0-SNAPSHOT.1035",
+  "id" : "mod-orders-13.1.0-SNAPSHOT.1036",
   "action" : "enable"
 }, {
   "id" : "folio_acquisition-units-6.0.10990000000040",
@@ -449,7 +449,7 @@
   "id" : "folio_orders-9.0.109900000000314",
   "action" : "enable"
 }, {
-  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.645",
+  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.646",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-query-builder-3.0.109900000000727",
