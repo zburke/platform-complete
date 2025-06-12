@@ -2328,9 +2328,9 @@
     yargs "^17.3.1"
 
 "@folio/stripes-components@^13.0.0":
-  version "13.1.1099000000001020"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-components/-/stripes-components-13.1.1099000000001020.tgz#6c585e8514761910a3b811b2c7cd5c8d8fc8b11e"
-  integrity sha512-iLxcIp2y3De2U3zibmrqOPWXT/R+PegxDnffCzvOGletgw5I6xc6nfSBf03GmZZ0lgqbA7Rs5lCCm9tfK1Y4GQ==
+  version "13.1.1099000000001023"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-components/-/stripes-components-13.1.1099000000001023.tgz#98c155635dd8c82317444c6dec543ae8c6dc5fe6"
+  integrity sha512-V8fBUeU+u6MW+guyniAadd/KtyzPARG0H0/gRKIH/CEhtewgPGyN7/b+xcg0WMdCryAtFNNoe+CGXK50dkc7Zw==
   dependencies:
     "@folio/stripes-react-hotkeys" "^3.2.1"
     classnames "^2.2.5"
@@ -2697,9 +2697,9 @@
     redux-form "^8.0.0"
 
 "@folio/users@>=2.17.0":
-  version "13.0.109900000000460"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.109900000000460.tgz#2a0215b69192f7d067d6e3913493a3de2dba1a73"
-  integrity sha512-bHb0OsCaCfy9eoW4I32eLQu7CKXi4mQlfjyXfaVotCCnnwcwD4Bj+v2h6x2yvGcvXvxWXuGZoKKJxfcxIEpT2g==
+  version "13.0.109900000000465"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.109900000000465.tgz#4d2367be0b4ac65339894f431a8db213f521bb8d"
+  integrity sha512-Px51UvSdDTCHsNxsRcI+Y1BNQV7Gs67P2jkToywcfU0bP1qceuB74Fl/gwP0Do4Q4QYxtjtNL+uEVhdVNrixZg==
   dependencies:
     compressorjs "^1.2.1"
     dompurify "^3.2.0"
@@ -5173,9 +5173,9 @@ effection@^1.0.0:
   integrity sha512-ITAAnuI7sJqKhjvYlnm66NHaW7zrXzqgsGsjVaaqFHYDWPN8WylVj46xASfkrtwq5wmklbzy6tvRYaj2C4rDHw==
 
 electron-to-chromium@^1.5.160:
-  version "1.5.166"
-  resolved "https://repository.folio.org/repository/npm-ci-all/electron-to-chromium/-/electron-to-chromium-1.5.166.tgz#3fff386ed473cc2169dbe2d3ace9592262601114"
-  integrity sha512-QPWqHL0BglzPYyJJ1zSSmwFFL6MFXhbACOCcsCdUMCkzPdS9/OIBVxg516X/Ado2qwAq8k0nJJ7phQPCqiaFAw==
+  version "1.5.167"
+  resolved "https://repository.folio.org/repository/npm-ci-all/electron-to-chromium/-/electron-to-chromium-1.5.167.tgz#dab251d7161985306c54d9df2b7c1e651589a4d2"
+  integrity sha512-LxcRvnYO5ez2bMOFpbuuVuAI5QNeY1ncVytE/KXaL6ZNfzX1yPlAO0nSOyIHx2fVAuUprMqPs/TdVhUFZy7SIQ==
 
 element-is-visible@^1.0.0:
   version "1.0.0"
