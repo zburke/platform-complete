@@ -228,6 +228,10 @@
     "action": "enable"
   },
   {
+    "id": "mod-data-export-spring-3.6.0-SNAPSHOT.306",
+    "action": "enable"
+  },
+  {
     "id": "mod-circulation-24.5.0-SNAPSHOT.1314",
     "action": "enable"
   },
@@ -261,10 +265,6 @@
   },
   {
     "id": "mod-orders-13.1.0-SNAPSHOT.1035",
-    "action": "enable"
-  },
-  {
-    "id": "mod-data-export-spring-3.6.0-SNAPSHOT.305",
     "action": "enable"
   },
   {

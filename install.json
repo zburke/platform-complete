@@ -320,6 +320,15 @@
   "id" : "mod-data-export-worker-3.5.0-SNAPSHOT.621",
   "action" : "enable"
 }, {
+  "id" : "mod-data-export-spring-3.6.0-SNAPSHOT.306",
+  "action" : "enable"
+}, {
+  "id" : "folio_export-manager-4.0.10990000000053",
+  "action" : "enable"
+}, {
+  "id" : "folio_plugin-bursar-export-5.0.109900000000200",
+  "action" : "enable"
+}, {
   "id" : "mod-circulation-24.5.0-SNAPSHOT.1314",
   "action" : "enable"
 }, {
@@ -392,22 +401,13 @@
   "id" : "folio_claims-2.0.109900000000175",
   "action" : "enable"
 }, {
+  "id" : "folio_organizations-7.0.10990000000098",
+  "action" : "enable"
+}, {
   "id" : "folio_plugin-find-po-line-6.0.10990000000054",
   "action" : "enable"
 }, {
   "id" : "folio_receiving-8.0.109900000000179",
-  "action" : "enable"
-}, {
-  "id" : "mod-data-export-spring-3.6.0-SNAPSHOT.305",
-  "action" : "enable"
-}, {
-  "id" : "folio_export-manager-4.0.10990000000053",
-  "action" : "enable"
-}, {
-  "id" : "folio_organizations-7.0.10990000000098",
-  "action" : "enable"
-}, {
-  "id" : "folio_plugin-bursar-export-5.0.109900000000200",
   "action" : "enable"
 }, {
   "id" : "mod-ebsconet-2.5.0-SNAPSHOT.89",
