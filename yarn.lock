@@ -2155,9 +2155,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/requests@>=1.4.1":
-  version "13.0.109900000000235"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/requests/-/requests-13.0.109900000000235.tgz#ab57f01c79fc0a99726dc1600ff4a7f2c3e4bf15"
-  integrity sha512-XfzrWZcNX6C3qTOlUBJQsECrv3gFxxI1UbKtwjRDqVXzSuMSrpsNXRrCLLoSJOys7Wuy7ag7Ew6bA8OzC5MJZw==
+  version "13.0.109900000000238"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/requests/-/requests-13.0.109900000000238.tgz#c6d567f3a69ac26b49e70a2f378223180a78f42d"
+  integrity sha512-nbMrC/K30Ht8RBPg+5QVv7uXU5xYhAwpZ3AdPTWoGJTU62ct9JgwvhhuApIpYUytU20oPg/Ne4wZOi8h4/kHvA==
   dependencies:
     dompurify "^3.0.9"
     final-form "^4.20.7"
@@ -2697,9 +2697,9 @@
     redux-form "^8.0.0"
 
 "@folio/users@>=2.17.0":
-  version "13.0.109900000000465"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.109900000000465.tgz#4d2367be0b4ac65339894f431a8db213f521bb8d"
-  integrity sha512-Px51UvSdDTCHsNxsRcI+Y1BNQV7Gs67P2jkToywcfU0bP1qceuB74Fl/gwP0Do4Q4QYxtjtNL+uEVhdVNrixZg==
+  version "13.0.109900000000468"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.109900000000468.tgz#177c3ef93a006134cc5a05c86d56f9acb48fd4d5"
+  integrity sha512-Do4TimbHsZaqfDRpvGC7yT2nJYUNzdTZMCC02GGpJT+zwYKtjSPKCN7e7GRY2CGleKSho1d8bP5UmId2bmOcDA==
   dependencies:
     compressorjs "^1.2.1"
     dompurify "^3.2.0"

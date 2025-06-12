@@ -80,7 +80,7 @@
   "id" : "mod-source-record-storage-5.11.0-SNAPSHOT.696",
   "action" : "enable"
 }, {
-  "id" : "mod-users-19.6.0-SNAPSHOT.356",
+  "id" : "mod-users-19.6.0-SNAPSHOT.357",
   "action" : "enable"
 }, {
   "id" : "mod-authtoken-2.18.0-SNAPSHOT.166",
@@ -215,6 +215,9 @@
   "id" : "folio_stripes-core-11.1.109900000000948",
   "action" : "enable"
 }, {
+  "id" : "folio_users-13.0.109900000000468",
+  "action" : "enable"
+}, {
   "id" : "mod-circulation-storage-17.5.0-SNAPSHOT.441",
   "action" : "enable"
 }, {
@@ -347,16 +350,13 @@
   "id" : "folio_plugin-create-inventory-records-7.0.10990000000059",
   "action" : "enable"
 }, {
-  "id" : "folio_requests-13.0.109900000000235",
+  "id" : "folio_requests-13.0.109900000000238",
   "action" : "enable"
 }, {
   "id" : "edge-sip2-3.5.0-SNAPSHOT.184",
   "action" : "enable"
 }, {
   "id" : "mod-circulation-bff-1.2.0-SNAPSHOT.65",
-  "action" : "enable"
-}, {
-  "id" : "folio_users-13.0.109900000000465",
   "action" : "enable"
 }, {
   "id" : "mod-dcb-2.0.0-SNAPSHOT.123",
