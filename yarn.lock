@@ -2328,9 +2328,9 @@
     yargs "^17.3.1"
 
 "@folio/stripes-components@^13.0.0":
-  version "13.1.1099000000001023"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-components/-/stripes-components-13.1.1099000000001023.tgz#98c155635dd8c82317444c6dec543ae8c6dc5fe6"
-  integrity sha512-V8fBUeU+u6MW+guyniAadd/KtyzPARG0H0/gRKIH/CEhtewgPGyN7/b+xcg0WMdCryAtFNNoe+CGXK50dkc7Zw==
+  version "13.1.1099000000001028"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-components/-/stripes-components-13.1.1099000000001028.tgz#f78189407cddb123938a0450d1a9ad1e7fca5617"
+  integrity sha512-CgBBAc2gO6rSS7sJJuHOh5lkvC8RvoTJqxYeK9Ow1149Ovr3joBeEcEbeHxB+YdSmsbUc6FTbkG9wgf7QHaqog==
   dependencies:
     "@folio/stripes-react-hotkeys" "^3.2.1"
     classnames "^2.2.5"
@@ -2931,9 +2931,9 @@
     "@jridgewell/sourcemap-codec" "^1.4.14"
 
 "@k-int/stripes-kint-components@^5.11.0", "@k-int/stripes-kint-components@^5.15.0", "@k-int/stripes-kint-components@^5.19.1":
-  version "5.21.0"
-  resolved "https://repository.folio.org/repository/npm-ci-all/@k-int/stripes-kint-components/-/stripes-kint-components-5.21.0.tgz#9f5d9e908bb7e3758e96732734fbea2d7f3eaac9"
-  integrity sha512-2dAO33NV3fsYV5s8T6AcUNP/lwgju1F8nTziyZeHfXP3saoO/bpepL9YiX0ZVgDE6kMKnbWwYsTmxie81wTnAw==
+  version "5.22.0"
+  resolved "https://repository.folio.org/repository/npm-ci-all/@k-int/stripes-kint-components/-/stripes-kint-components-5.22.0.tgz#3218cf653b21fe2347e993b12c55adc8ad559b1b"
+  integrity sha512-Ylj/xmbyg64631LXQoFf1V9iZ1SOxbKk2eCfFxdLWDohj7uEWamaFBYqDRdQGmEh6l2r64HrYE5D6erXRYnY+A==
   dependencies:
     "@rehooks/local-storage" "^2.4.4"
     compose-function "^3.0.3"
