@@ -96,6 +96,14 @@
     "action": "enable"
   },
   {
+    "id": "mod-orders-storage-14.0.0-SNAPSHOT.435",
+    "action": "enable"
+  },
+  {
+    "id": "mod-organizations-2.2.0-SNAPSHOT.70",
+    "action": "enable"
+  },
+  {
     "id": "mod-courses-1.5.0-SNAPSHOT.169",
     "action": "enable"
   },
@@ -141,14 +149,6 @@
   },
   {
     "id": "mod-user-import-3.11.0-SNAPSHOT.110",
-    "action": "enable"
-  },
-  {
-    "id": "mod-orders-storage-14.0.0-SNAPSHOT.434",
-    "action": "enable"
-  },
-  {
-    "id": "mod-organizations-2.2.0-SNAPSHOT.70",
     "action": "enable"
   },
   {
@@ -292,7 +292,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-fqm-manager-4.1.0-SNAPSHOT.646",
+    "id": "mod-fqm-manager-4.1.0-SNAPSHOT.647",
     "action": "enable"
   },
   {
@@ -304,7 +304,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-remote-storage-3.5.0-SNAPSHOT.230",
+    "id": "mod-remote-storage-3.5.0-SNAPSHOT.231",
     "action": "enable"
   },
   {
