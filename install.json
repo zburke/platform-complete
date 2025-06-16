@@ -176,7 +176,7 @@
   "id" : "mod-serials-management-2.1.0-SNAPSHOT.159",
   "action" : "enable"
 }, {
-  "id" : "folio_serials-management-2.1.109900000000793",
+  "id" : "folio_serials-management-2.1.109900000000796",
   "action" : "enable"
 }, {
   "id" : "mod-agreements-7.3.0-SNAPSHOT.774",
@@ -395,7 +395,7 @@
   "id" : "mod-orders-13.1.0-SNAPSHOT.1036",
   "action" : "enable"
 }, {
-  "id" : "folio_acquisition-units-6.0.10990000000040",
+  "id" : "folio_acquisition-units-6.0.10990000000043",
   "action" : "enable"
 }, {
   "id" : "folio_claims-2.0.109900000000175",
@@ -404,7 +404,7 @@
   "id" : "folio_organizations-7.0.10990000000098",
   "action" : "enable"
 }, {
-  "id" : "folio_plugin-find-po-line-6.0.10990000000054",
+  "id" : "folio_plugin-find-po-line-6.0.10990000000059",
   "action" : "enable"
 }, {
   "id" : "folio_receiving-8.0.109900000000179",
@@ -458,10 +458,10 @@
   "id" : "edge-fqm-4.1.0-SNAPSHOT.48",
   "action" : "enable"
 }, {
-  "id" : "mod-bulk-operations-2.3.0-SNAPSHOT.424",
+  "id" : "mod-bulk-operations-2.3.0-SNAPSHOT.425",
   "action" : "enable"
 }, {
-  "id" : "folio_bulk-edit-5.0.109900000000321",
+  "id" : "folio_bulk-edit-5.0.109900000000328",
   "action" : "enable"
 }, {
   "id" : "mod-lists-3.2.0-SNAPSHOT.195",
