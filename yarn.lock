@@ -4061,9 +4061,9 @@ browserslist@^4.24.0, browserslist@^4.24.4, browserslist@^4.25.0:
     update-browserslist-db "^1.1.3"
 
 browserstack-local@^1.3.7:
-  version "1.5.6"
-  resolved "https://repository.folio.org/repository/npm-ci-all/browserstack-local/-/browserstack-local-1.5.6.tgz#da639f0f4203df9f46efd9935b2239b223991139"
-  integrity sha512-s0GadAkyE1XHxnmymb9atogTZbA654bcFpqGkcYEtYPaPvuvVfSXR0gw8ojn0I0Td2HEMJcGtdrkBjb1Fi/HmQ==
+  version "1.5.7"
+  resolved "https://repository.folio.org/repository/npm-ci-all/browserstack-local/-/browserstack-local-1.5.7.tgz#8c0e49869fa52a4cf811cfde36a853f4d52cc7a2"
+  integrity sha512-I9uPQce1iXzQP2aLk8BvxCL28TUmqBnz+DpODTKGTGeiYOt+uMu2NirJDwgYUveOKOvnN2W+Wan7NKv8VF5KXQ==
   dependencies:
     agent-base "^6.0.2"
     https-proxy-agent "^5.0.1"
@@ -9897,9 +9897,9 @@ terser-webpack-plugin@^5.3.11:
     terser "^5.31.1"
 
 terser@^5.10.0, terser@^5.31.1:
-  version "5.42.0"
-  resolved "https://repository.folio.org/repository/npm-ci-all/terser/-/terser-5.42.0.tgz#1db8493aa0f3f866e488ec0fcf7e0c28eb43a2f5"
-  integrity sha512-UYCvU9YQW2f/Vwl+P0GfhxJxbUGLwd+5QrrGgLajzWAtC/23AX0vcise32kkP7Eu0Wu9VlzzHAXkLObgjQfFlQ==
+  version "5.43.0"
+  resolved "https://repository.folio.org/repository/npm-ci-all/terser/-/terser-5.43.0.tgz#f9cac3cc347020d6ffafdbaa3698a5257b7cb690"
+  integrity sha512-CqNNxKSGKSZCunSvwKLTs8u8sGGlp27sxNZ4quGh0QeNuyHM0JSEM/clM9Mf4zUp6J+tO2gUXhgXT2YMMkwfKQ==
   dependencies:
     "@jridgewell/source-map" "^0.3.3"
     acorn "^8.14.0"
