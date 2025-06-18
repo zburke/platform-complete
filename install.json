@@ -239,7 +239,7 @@
   "id" : "mod-email-1.20.0-SNAPSHOT.93",
   "action" : "enable"
 }, {
-  "id" : "mod-finance-storage-8.9.0-SNAPSHOT.410",
+  "id" : "mod-finance-storage-8.9.0-SNAPSHOT.411",
   "action" : "enable"
 }, {
   "id" : "mod-finance-5.2.0-SNAPSHOT.292",
@@ -266,7 +266,7 @@
   "id" : "folio_stripes-authority-components-6.1.109900000000118",
   "action" : "enable"
 }, {
-  "id" : "mod-inventory-21.2.0-SNAPSHOT.877",
+  "id" : "mod-inventory-21.2.0-SNAPSHOT.880",
   "action" : "enable"
 }, {
   "id" : "mod-quick-marc-7.1.0-SNAPSHOT.324",
@@ -458,7 +458,7 @@
   "id" : "edge-fqm-4.1.0-SNAPSHOT.48",
   "action" : "enable"
 }, {
-  "id" : "mod-bulk-operations-2.3.0-SNAPSHOT.426",
+  "id" : "mod-bulk-operations-2.3.0-SNAPSHOT.431",
   "action" : "enable"
 }, {
   "id" : "folio_bulk-edit-5.0.109900000000328",
