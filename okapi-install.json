@@ -140,15 +140,15 @@
     "action": "enable"
   },
   {
+    "id": "mod-users-bl-7.11.0-SNAPSHOT.182",
+    "action": "enable"
+  },
+  {
     "id": "mod-circulation-storage-17.5.0-SNAPSHOT.441",
     "action": "enable"
   },
   {
     "id": "mod-user-import-3.11.0-SNAPSHOT.110",
-    "action": "enable"
-  },
-  {
-    "id": "mod-users-bl-7.11.0-SNAPSHOT.182",
     "action": "enable"
   },
   {
@@ -168,7 +168,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-source-record-manager-3.11.0-SNAPSHOT.1027",
+    "id": "mod-source-record-manager-3.11.0-SNAPSHOT.1031",
     "action": "enable"
   },
   {
@@ -232,7 +232,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-circulation-24.5.0-SNAPSHOT.1315",
+    "id": "mod-circulation-24.5.0-SNAPSHOT.1318",
     "action": "enable"
   },
   {

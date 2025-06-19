@@ -2697,9 +2697,9 @@
     redux-form "^8.0.0"
 
 "@folio/users@>=2.17.0":
-  version "13.0.109900000000479"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.109900000000479.tgz#41630652f66624321f86e4be0cbefa8d43bbcaf2"
-  integrity sha512-Zta1HQFuhwNf7WL4tksr43GUv7xGNu55W50fMmHzh9r8yPqqh08nx92Gf9CCIXlwJhX696LAMT/Rt1Hn057eKw==
+  version "13.0.109900000000482"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.109900000000482.tgz#71efbf70222f0335a49417fd272a8cfcfd4d1bad"
+  integrity sha512-guBx+jxzjW5pljkZ5JCJcLOlCMSvOm7iwkTT87Hm6v+AXJGBE0tJithUD3auT+BogKQ1rCfr1aypRwVwRppogQ==
   dependencies:
     compressorjs "^1.2.1"
     dompurify "^3.2.0"
@@ -9897,9 +9897,9 @@ terser-webpack-plugin@^5.3.11:
     terser "^5.31.1"
 
 terser@^5.10.0, terser@^5.31.1:
-  version "5.43.0"
-  resolved "https://repository.folio.org/repository/npm-ci-all/terser/-/terser-5.43.0.tgz#f9cac3cc347020d6ffafdbaa3698a5257b7cb690"
-  integrity sha512-CqNNxKSGKSZCunSvwKLTs8u8sGGlp27sxNZ4quGh0QeNuyHM0JSEM/clM9Mf4zUp6J+tO2gUXhgXT2YMMkwfKQ==
+  version "5.43.1"
+  resolved "https://repository.folio.org/repository/npm-ci-all/terser/-/terser-5.43.1.tgz#88387f4f9794ff1a29e7ad61fb2932e25b4fdb6d"
+  integrity sha512-+6erLbBm0+LROX2sPXlUYx/ux5PyE9K/a92Wrt6oA+WDAoFTdpHE5tCYCI5PNzq2y8df4rA+QgHLJuR4jNymsg==
   dependencies:
     "@jridgewell/source-map" "^0.3.3"
     acorn "^8.14.0"

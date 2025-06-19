@@ -218,19 +218,19 @@
   "id" : "edge-oai-pmh-2.12.0-SNAPSHOT.121",
   "action" : "enable"
 }, {
-  "id" : "mod-circulation-storage-17.5.0-SNAPSHOT.441",
-  "action" : "enable"
-}, {
-  "id" : "mod-user-import-3.11.0-SNAPSHOT.110",
-  "action" : "enable"
-}, {
   "id" : "mod-users-bl-7.11.0-SNAPSHOT.182",
   "action" : "enable"
 }, {
   "id" : "folio_stripes-core-11.1.109900000000948",
   "action" : "enable"
 }, {
-  "id" : "folio_users-13.0.109900000000479",
+  "id" : "folio_users-13.0.109900000000482",
+  "action" : "enable"
+}, {
+  "id" : "mod-circulation-storage-17.5.0-SNAPSHOT.441",
+  "action" : "enable"
+}, {
+  "id" : "mod-user-import-3.11.0-SNAPSHOT.110",
   "action" : "enable"
 }, {
   "id" : "mod-patron-blocks-1.13.0-SNAPSHOT.108",
@@ -245,7 +245,7 @@
   "id" : "mod-finance-5.2.0-SNAPSHOT.292",
   "action" : "enable"
 }, {
-  "id" : "mod-source-record-manager-3.11.0-SNAPSHOT.1027",
+  "id" : "mod-source-record-manager-3.11.0-SNAPSHOT.1031",
   "action" : "enable"
 }, {
   "id" : "mod-copycat-1.8.0",
@@ -332,7 +332,7 @@
   "id" : "folio_plugin-bursar-export-5.0.109900000000200",
   "action" : "enable"
 }, {
-  "id" : "mod-circulation-24.5.0-SNAPSHOT.1315",
+  "id" : "mod-circulation-24.5.0-SNAPSHOT.1318",
   "action" : "enable"
 }, {
   "id" : "folio_checkin-12.0.109900000000114",
