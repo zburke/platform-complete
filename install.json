@@ -287,7 +287,7 @@
   "id" : "mod-audit-3.0.0-SNAPSHOT.223",
   "action" : "enable"
 }, {
-  "id" : "folio_circulation-log-6.0.10990000000051",
+  "id" : "folio_circulation-log-6.0.10990000000067",
   "action" : "enable"
 }, {
   "id" : "folio_marc-authorities-8.0.109900000000914",

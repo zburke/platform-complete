@@ -1358,9 +1358,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/circulation-log@>=1.0.0":
-  version "6.0.10990000000051"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/circulation-log/-/circulation-log-6.0.10990000000051.tgz#320431a16cb78cbaed6eb82535a209fac4d15ce6"
-  integrity sha512-wFJZLNkR+cUiKdmOD60/a26/jHg3Ssfm9TTutj24LJJZ1K9RcuYI40XEyvsjkDTwrRdStfli978K0o4ROVvruA==
+  version "6.0.10990000000067"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/circulation-log/-/circulation-log-6.0.10990000000067.tgz#da632a3f9cee7f99c3869706ce234ebccc24b273"
+  integrity sha512-DRKarubS7n3s3EVsY1OOuXMegZJ5u63i+g8YTtb+qAZweHXppxlps7Ri0xlb3MfSqiO8nR5vueZjjy3Fblbwcw==
   dependencies:
     "@folio/stripes-acq-components" "~7.0.0"
     dayjs "^1.11.9"
