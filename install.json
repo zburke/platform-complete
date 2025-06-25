@@ -155,7 +155,7 @@
   "id" : "edge-courses-1.7.0-SNAPSHOT.27",
   "action" : "enable"
 }, {
-  "id" : "mod-notes-7.1.0-SNAPSHOT.286",
+  "id" : "mod-notes-7.1.0-SNAPSHOT.287",
   "action" : "enable"
 }, {
   "id" : "folio_notes-11.0.10990000000094",
@@ -167,7 +167,7 @@
   "id" : "folio_stripes-smart-components-10.1.109900000000458",
   "action" : "enable"
 }, {
-  "id" : "mod-kb-ebsco-java-6.1.0-SNAPSHOT.471",
+  "id" : "mod-kb-ebsco-java-6.1.0-SNAPSHOT.473",
   "action" : "enable"
 }, {
   "id" : "folio_eholdings-11.1.109900000000239",
@@ -269,7 +269,7 @@
   "id" : "mod-inventory-21.2.0-SNAPSHOT.880",
   "action" : "enable"
 }, {
-  "id" : "mod-quick-marc-7.1.0-SNAPSHOT.325",
+  "id" : "mod-quick-marc-7.1.0-SNAPSHOT.326",
   "action" : "enable"
 }, {
   "id" : "folio_quick-marc-10.1.109900000000308",
