@@ -1325,9 +1325,9 @@
     utility-types "^3.10.0"
 
 "@folio/checkin@>=1.3.0":
-  version "12.0.109900000000114"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/checkin/-/checkin-12.0.109900000000114.tgz#fde30c16369acb6dfcf7f2bb123b000d558b6b1a"
-  integrity sha512-H4pSi61rvjiuVekEhj9P9jtFP8VLZriGnoR3qpi/SEYN174xeIHK7tn7/sgGIGkFOw8Cf38K3Wifa4Swtd6j+g==
+  version "12.0.109900000000119"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/checkin/-/checkin-12.0.109900000000119.tgz#da4d651d57bb250aca689cea0138dfe1d31f22de"
+  integrity sha512-MOVjLkN4dKTgkQaDaDBbF9cRA893c3C78n+V0FlYsKZTM8zaagSNTb5Om9rqRwUOEdbsF5Cj99M2ew/GcpY9NQ==
   dependencies:
     dateformat "^2.0.0"
     dompurify "^3.0.9"
@@ -2931,9 +2931,9 @@
     "@jridgewell/sourcemap-codec" "^1.4.14"
 
 "@k-int/stripes-kint-components@^5.11.0", "@k-int/stripes-kint-components@^5.15.0", "@k-int/stripes-kint-components@^5.19.1":
-  version "5.22.0"
-  resolved "https://repository.folio.org/repository/npm-ci-all/@k-int/stripes-kint-components/-/stripes-kint-components-5.22.0.tgz#3218cf653b21fe2347e993b12c55adc8ad559b1b"
-  integrity sha512-Ylj/xmbyg64631LXQoFf1V9iZ1SOxbKk2eCfFxdLWDohj7uEWamaFBYqDRdQGmEh6l2r64HrYE5D6erXRYnY+A==
+  version "5.23.0"
+  resolved "https://repository.folio.org/repository/npm-ci-all/@k-int/stripes-kint-components/-/stripes-kint-components-5.23.0.tgz#6810548508cf1c72feb3677be6f9f88d32a44c48"
+  integrity sha512-GvQ0ZLcnNPvS3cvQhbb4NdGkbJwrc7zrVCHAufKLZtnt/pcWr/6P8tpj50NAgdyV5i8bCDum5aRVwjXiS/K2DQ==
   dependencies:
     "@rehooks/local-storage" "^2.4.4"
     compose-function "^3.0.3"
@@ -5173,9 +5173,9 @@ effection@^1.0.0:
   integrity sha512-ITAAnuI7sJqKhjvYlnm66NHaW7zrXzqgsGsjVaaqFHYDWPN8WylVj46xASfkrtwq5wmklbzy6tvRYaj2C4rDHw==
 
 electron-to-chromium@^1.5.173:
-  version "1.5.173"
-  resolved "https://repository.folio.org/repository/npm-ci-all/electron-to-chromium/-/electron-to-chromium-1.5.173.tgz#1aeba57204fe19425921a29946ef543653f5e896"
-  integrity sha512-2bFhXP2zqSfQHugjqJIDFVwa+qIxyNApenmXTp9EjaKtdPrES5Qcn9/aSFy/NaP2E+fWG/zxKu/LBvY36p5VNQ==
+  version "1.5.174"
+  resolved "https://repository.folio.org/repository/npm-ci-all/electron-to-chromium/-/electron-to-chromium-1.5.174.tgz#c7d273755d4dc9bc4f1d192f6f2092bee42771f3"
+  integrity sha512-HE43yYdUUiJVjewV2A9EP8o89Kb4AqMKplMQP2IxEPUws1Etu/ZkdsgUDabUZ/WmbP4ZbvJDOcunvbBUPPIfmw==
 
 element-is-visible@^1.0.0:
   version "1.0.0"
