@@ -179,7 +179,7 @@
   "id" : "folio_serials-management-2.1.109900000000796",
   "action" : "enable"
 }, {
-  "id" : "mod-agreements-7.3.0-SNAPSHOT.774",
+  "id" : "mod-agreements-7.3.0-SNAPSHOT.775",
   "action" : "enable"
 }, {
   "id" : "folio_erm-comparisons-8.1.109900000000113",
@@ -350,7 +350,7 @@
   "id" : "folio_plugin-create-inventory-records-7.0.10990000000059",
   "action" : "enable"
 }, {
-  "id" : "folio_requests-13.0.109900000000238",
+  "id" : "folio_requests-13.0.109900000000241",
   "action" : "enable"
 }, {
   "id" : "edge-sip2-3.5.0-SNAPSHOT.184",
@@ -458,7 +458,7 @@
   "id" : "edge-fqm-4.1.0-SNAPSHOT.49",
   "action" : "enable"
 }, {
-  "id" : "mod-bulk-operations-2.3.0-SNAPSHOT.434",
+  "id" : "mod-bulk-operations-2.3.0-SNAPSHOT.435",
   "action" : "enable"
 }, {
   "id" : "folio_bulk-edit-5.0.109900000000328",
