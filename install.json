@@ -233,7 +233,7 @@
   "id" : "folio_users-13.0.109900000000485",
   "action" : "enable"
 }, {
-  "id" : "mod-patron-blocks-1.13.0-SNAPSHOT.109",
+  "id" : "mod-patron-blocks-1.13.0-SNAPSHOT.111",
   "action" : "enable"
 }, {
   "id" : "mod-email-1.20.0-SNAPSHOT.93",
