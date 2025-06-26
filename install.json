@@ -125,7 +125,7 @@
   "id" : "mod-pubsub-2.17.0-SNAPSHOT.263",
   "action" : "enable"
 }, {
-  "id" : "mod-inventory-storage-29.1.0-SNAPSHOT.1160",
+  "id" : "mod-inventory-storage-29.1.0-SNAPSHOT.1161",
   "action" : "enable"
 }, {
   "id" : "folio_calendar-12.0.109900000000155",
@@ -164,7 +164,7 @@
   "id" : "mod-password-validator-3.5.0-SNAPSHOT.98",
   "action" : "enable"
 }, {
-  "id" : "folio_stripes-smart-components-10.1.109900000000458",
+  "id" : "folio_stripes-smart-components-10.1.109900000000466",
   "action" : "enable"
 }, {
   "id" : "mod-kb-ebsco-java-6.1.0-SNAPSHOT.473",
@@ -431,10 +431,10 @@
   "id" : "folio_mosaic-settings-1.0.10990000000046",
   "action" : "enable"
 }, {
-  "id" : "mod-rtac-3.9.0-SNAPSHOT.108",
+  "id" : "mod-rtac-3.9.0-SNAPSHOT.109",
   "action" : "enable"
 }, {
-  "id" : "edge-rtac-2.10.0-SNAPSHOT.108",
+  "id" : "edge-rtac-2.10.0-SNAPSHOT.109",
   "action" : "enable"
 }, {
   "id" : "mod-invoice-6.1.0-SNAPSHOT.475",
@@ -446,7 +446,7 @@
   "id" : "folio_invoice-8.0.109900000000238",
   "action" : "enable"
 }, {
-  "id" : "folio_orders-9.0.109900000000336",
+  "id" : "folio_orders-9.0.109900000000349",
   "action" : "enable"
 }, {
   "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.662",
