@@ -164,7 +164,7 @@
   "id" : "mod-password-validator-3.5.0-SNAPSHOT.98",
   "action" : "enable"
 }, {
-  "id" : "folio_stripes-smart-components-10.1.109900000000466",
+  "id" : "folio_stripes-smart-components-10.1.109900000000473",
   "action" : "enable"
 }, {
   "id" : "mod-kb-ebsco-java-6.1.0-SNAPSHOT.473",
@@ -359,7 +359,7 @@
   "id" : "mod-circulation-bff-1.2.0-SNAPSHOT.65",
   "action" : "enable"
 }, {
-  "id" : "mod-dcb-2.0.0-SNAPSHOT.125",
+  "id" : "mod-dcb-2.0.0-SNAPSHOT.128",
   "action" : "enable"
 }, {
   "id" : "edge-dcb-1.4.0-SNAPSHOT.38",
