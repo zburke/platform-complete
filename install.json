@@ -230,7 +230,7 @@
   "id" : "folio_stripes-core-11.1.109900000000959",
   "action" : "enable"
 }, {
-  "id" : "folio_users-13.0.109900000000489",
+  "id" : "folio_users-13.0.109900000000494",
   "action" : "enable"
 }, {
   "id" : "mod-patron-blocks-1.13.0-SNAPSHOT.111",
@@ -275,7 +275,7 @@
   "id" : "folio_quick-marc-10.1.109900000000308",
   "action" : "enable"
 }, {
-  "id" : "mod-data-export-5.3.0-SNAPSHOT.472",
+  "id" : "mod-data-export-5.3.0-SNAPSHOT.473",
   "action" : "enable"
 }, {
   "id" : "folio_data-export-7.0.10990000000061",
@@ -458,7 +458,7 @@
   "id" : "edge-fqm-4.1.0-SNAPSHOT.49",
   "action" : "enable"
 }, {
-  "id" : "mod-bulk-operations-2.3.0-SNAPSHOT.435",
+  "id" : "mod-bulk-operations-2.3.0-SNAPSHOT.437",
   "action" : "enable"
 }, {
   "id" : "folio_bulk-edit-5.0.109900000000328",

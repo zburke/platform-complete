@@ -2699,10 +2699,11 @@
     redux-form "^8.0.0"
 
 "@folio/users@>=2.17.0":
-  version "13.0.109900000000489"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.109900000000489.tgz#0e542cc1922927427b04a58def103102c4875d71"
-  integrity sha512-TgitJsdrJs4d0f0ddQt+HcETRn3CVmx8GO+leZBcVLEWd0/EIIB/NbZcahdOmwj0HaM1VGaXMfxq4LLBRSGHwg==
+  version "13.0.109900000000494"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.109900000000494.tgz#9c340f63104f8471ab837acded457547f28fb7a6"
+  integrity sha512-COFc/4Z639bxaY/uzmW2qUftjFY7IQFGYgPDgbz0K0+UUg/30/SiFNBn8V5Lnv0ju61vGHuJ7Rl5ckxr2OeBjA==
   dependencies:
+    "@folio/stripes-util" "^7.0.0"
     compressorjs "^1.2.1"
     dompurify "^3.2.0"
     final-form-set-field-data "^1.0.2"
