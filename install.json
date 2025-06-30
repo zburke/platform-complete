@@ -68,7 +68,7 @@
   "id" : "folio_plugin-find-interface-6.0.10990000000038",
   "action" : "enable"
 }, {
-  "id" : "mod-licenses-6.3.0-SNAPSHOT.287",
+  "id" : "mod-licenses-6.3.0-SNAPSHOT.288",
   "action" : "enable"
 }, {
   "id" : "folio_licenses-12.1.109900000000177",
@@ -449,7 +449,7 @@
   "id" : "folio_orders-9.0.109900000000366",
   "action" : "enable"
 }, {
-  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.667",
+  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.668",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-query-builder-3.0.109900000000727",
