@@ -1802,9 +1802,9 @@
     react-router-prop-types "^1.0.4"
 
 "@folio/orders@>=1.1.0":
-  version "9.0.109900000000361"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/orders/-/orders-9.0.109900000000361.tgz#b9e96897d1ce29358daea8536f6cebafb38ea3d7"
-  integrity sha512-oOtGMFhZm7/gP0FZk/XyoTewwhmRU70nVWn8/AJGTGV349HKzxK0zKZWMUWwQPCps1eI6qhRtQ730iAfDeRwiw==
+  version "9.0.109900000000366"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/orders/-/orders-9.0.109900000000366.tgz#58748e6eed4d036a3984882f142eb434c1f5176e"
+  integrity sha512-qYBUuroe5HxH66hWoaX+DcfUqutJZRxRAbJStKjrxyWSzwXz0SKI5o3X1du8OFORxu9U+CN/ieRCO2/IQMUlCA==
   dependencies:
     "@folio/plugin-find-po-line" "^6.0.0"
     "@folio/stripes-acq-components" "~7.0.0"
@@ -9840,9 +9840,9 @@ tar-fs@^2.0.0:
     tar-stream "^2.1.4"
 
 tar-fs@^3.0.4:
-  version "3.0.10"
-  resolved "https://repository.folio.org/repository/npm-ci-all/tar-fs/-/tar-fs-3.0.10.tgz#60f8ccd60fe30164bdd3d6606619650236ed38f7"
-  integrity sha512-C1SwlQGNLe/jPNqapK8epDsXME7CAJR5RL3GcE6KWx1d9OUByzoHVcbu1VPI8tevg9H8Alae0AApHHFGzrD5zA==
+  version "3.1.0"
+  resolved "https://repository.folio.org/repository/npm-ci-all/tar-fs/-/tar-fs-3.1.0.tgz#4675e2254d81410e609d91581a762608de999d25"
+  integrity sha512-5Mty5y/sOF1YWj1J6GiBodjlDc05CUR8PKXrsnFAiSG0xA+GHeWLovaZPYUDXkH/1iKRf2+M5+OrRgzC7O9b7w==
   dependencies:
     pump "^3.0.0"
     tar-stream "^3.1.5"

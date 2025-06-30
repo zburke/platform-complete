@@ -38,7 +38,7 @@
   "id" : "mod-erm-usage-5.2.0-SNAPSHOT.218",
   "action" : "enable"
 }, {
-  "id" : "mod-tags-2.5.0-SNAPSHOT.115",
+  "id" : "mod-tags-2.5.0-SNAPSHOT.116",
   "action" : "enable"
 }, {
   "id" : "folio_tags-9.0.10990000000039",
@@ -125,7 +125,7 @@
   "id" : "mod-pubsub-2.17.0-SNAPSHOT.263",
   "action" : "enable"
 }, {
-  "id" : "mod-inventory-storage-29.1.0-SNAPSHOT.1161",
+  "id" : "mod-inventory-storage-29.1.0-SNAPSHOT.1162",
   "action" : "enable"
 }, {
   "id" : "folio_calendar-12.0.109900000000155",
@@ -161,7 +161,7 @@
   "id" : "folio_notes-11.0.10990000000094",
   "action" : "enable"
 }, {
-  "id" : "mod-password-validator-3.5.0-SNAPSHOT.98",
+  "id" : "mod-password-validator-3.5.0-SNAPSHOT.99",
   "action" : "enable"
 }, {
   "id" : "folio_stripes-smart-components-10.1.109900000000473",
@@ -296,7 +296,7 @@
   "id" : "folio_stripes-marc-components-2.0.109900000000157",
   "action" : "enable"
 }, {
-  "id" : "mod-data-import-3.4.0-SNAPSHOT.333",
+  "id" : "mod-data-import-3.4.0-SNAPSHOT.334",
   "action" : "enable"
 }, {
   "id" : "folio_data-import-9.0.10990000000088",
@@ -353,7 +353,7 @@
   "id" : "folio_requests-13.0.109900000000241",
   "action" : "enable"
 }, {
-  "id" : "edge-sip2-3.5.0-SNAPSHOT.184",
+  "id" : "edge-sip2-3.5.0-SNAPSHOT.186",
   "action" : "enable"
 }, {
   "id" : "mod-circulation-bff-1.2.0-SNAPSHOT.65",
@@ -437,7 +437,7 @@
   "id" : "edge-rtac-2.10.0-SNAPSHOT.109",
   "action" : "enable"
 }, {
-  "id" : "mod-invoice-6.1.0-SNAPSHOT.475",
+  "id" : "mod-invoice-6.1.0-SNAPSHOT.476",
   "action" : "enable"
 }, {
   "id" : "folio_finance-9.0.109900000000321",
@@ -446,7 +446,7 @@
   "id" : "folio_invoice-8.0.109900000000238",
   "action" : "enable"
 }, {
-  "id" : "folio_orders-9.0.109900000000361",
+  "id" : "folio_orders-9.0.109900000000366",
   "action" : "enable"
 }, {
   "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.665",
@@ -476,7 +476,7 @@
   "id" : "folio_remote-storage-7.0.10990000000057",
   "action" : "enable"
 }, {
-  "id" : "edge-caiasoft-2.5.0-SNAPSHOT.55",
+  "id" : "edge-caiasoft-2.5.0-SNAPSHOT.56",
   "action" : "enable"
 }, {
   "id" : "edge-dematic-3.0.0-SNAPSHOT.68",

@@ -20,7 +20,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-tags-2.5.0-SNAPSHOT.115",
+    "id": "mod-tags-2.5.0-SNAPSHOT.116",
     "action": "enable"
   },
   {
@@ -84,7 +84,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-inventory-storage-29.1.0-SNAPSHOT.1161",
+    "id": "mod-inventory-storage-29.1.0-SNAPSHOT.1162",
     "action": "enable"
   },
   {
@@ -112,7 +112,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-password-validator-3.5.0-SNAPSHOT.98",
+    "id": "mod-password-validator-3.5.0-SNAPSHOT.99",
     "action": "enable"
   },
   {
@@ -204,7 +204,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-data-import-3.4.0-SNAPSHOT.333",
+    "id": "mod-data-import-3.4.0-SNAPSHOT.334",
     "action": "enable"
   },
   {
@@ -288,7 +288,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-invoice-6.1.0-SNAPSHOT.475",
+    "id": "mod-invoice-6.1.0-SNAPSHOT.476",
     "action": "enable"
   },
   {
