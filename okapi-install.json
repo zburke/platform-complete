@@ -12,7 +12,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-record-specifications-2.1.0-SNAPSHOT.102",
+    "id": "mod-record-specifications-2.1.0-SNAPSHOT.103",
     "action": "enable"
   },
   {
@@ -44,7 +44,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-source-record-storage-5.11.0-SNAPSHOT.696",
+    "id": "mod-source-record-storage-5.11.0-SNAPSHOT.698",
     "action": "enable"
   },
   {
@@ -84,7 +84,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-inventory-storage-29.1.0-SNAPSHOT.1163",
+    "id": "mod-inventory-storage-29.1.0-SNAPSHOT.1164",
     "action": "enable"
   },
   {
@@ -124,7 +124,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-agreements-7.3.0-SNAPSHOT.776",
+    "id": "mod-agreements-7.3.0-SNAPSHOT.777",
     "action": "enable"
   },
   {
@@ -184,11 +184,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-inventory-21.2.0-SNAPSHOT.880",
+    "id": "mod-inventory-21.2.0-SNAPSHOT.881",
     "action": "enable"
   },
   {
-    "id": "mod-quick-marc-7.1.0-SNAPSHOT.326",
+    "id": "mod-quick-marc-7.1.0-SNAPSHOT.327",
     "action": "enable"
   },
   {
@@ -260,7 +260,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-inn-reach-3.5.0-SNAPSHOT.406",
+    "id": "mod-inn-reach-3.5.0-SNAPSHOT.408",
     "action": "enable"
   },
   {
