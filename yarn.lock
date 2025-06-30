@@ -1471,9 +1471,9 @@
     "@folio/plugin-find-organization" "^6.0.0"
 
 "@folio/developer@>=1.5.0":
-  version "11.0.109900000000208"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/developer/-/developer-11.0.109900000000208.tgz#6afa69c2e8536d3b632fe299dfe53f43a4c5f738"
-  integrity sha512-QpDUMt2IwxEei+c7UXu0/dDAlZmhq3fvvbDyXkTBFAsMQMaFzE911Go69W5HkWLVPcMF8fzfDJGNc9x2kjf75A==
+  version "11.0.109900000000217"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/developer/-/developer-11.0.109900000000217.tgz#b63edf22fd58307f0c394e84e4f1c18ffa84cdf0"
+  integrity sha512-J0xPRT+f/2p4c9+ozZWGfw01VAKB3cPpF0yMPEUy2K2PdmTiCtR2Pjc9EHAMlhoDM6xANWXrP04zepksNK/A8g==
   dependencies:
     chart.js "^4.4.0"
     ky "^0.23.0"
