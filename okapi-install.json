@@ -8,7 +8,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-graphql-1.13.1000375",
+    "id": "mod-graphql-1.13.1000376",
     "action": "enable"
   },
   {
@@ -84,7 +84,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-inventory-storage-29.1.0-SNAPSHOT.1162",
+    "id": "mod-inventory-storage-29.1.0-SNAPSHOT.1163",
     "action": "enable"
   },
   {
@@ -96,7 +96,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-orders-storage-14.0.0-SNAPSHOT.435",
+    "id": "mod-orders-storage-14.0.0-SNAPSHOT.436",
     "action": "enable"
   },
   {
@@ -296,7 +296,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-bulk-operations-2.3.0-SNAPSHOT.437",
+    "id": "mod-bulk-operations-2.3.0-SNAPSHOT.439",
     "action": "enable"
   },
   {
