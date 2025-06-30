@@ -4,7 +4,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_agreements-12.1.109900000000667",
+    "id": "folio_agreements-12.1.109900000000682",
     "action": "enable"
   },
   {
@@ -60,7 +60,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_erm-comparisons-8.1.109900000000113",
+    "id": "folio_erm-comparisons-8.1.109900000000119",
     "action": "enable"
   },
   {
@@ -100,7 +100,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_licenses-12.1.109900000000171",
+    "id": "folio_licenses-12.1.109900000000177",
     "action": "enable"
   },
   {
@@ -108,7 +108,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_local-kb-admin-9.1.109900000000109",
+    "id": "folio_local-kb-admin-9.1.109900000000115",
     "action": "enable"
   },
   {
@@ -308,7 +308,7 @@
     "action": "enable"
   },
   {
-    "id": "edge-dcb-1.4.0-SNAPSHOT.39",
+    "id": "edge-dcb-1.4.0-SNAPSHOT.41",
     "action": "enable"
   },
   {
