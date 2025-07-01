@@ -2078,9 +2078,9 @@
     "@folio/plugin-find-organization" "^6.0.0"
 
 "@folio/quick-marc@>=1.0.0", "@folio/quick-marc@^10.0.0":
-  version "10.1.109900000000308"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/quick-marc/-/quick-marc-10.1.109900000000308.tgz#9ce42309840c392f450807e5e686c057e0bf54d9"
-  integrity sha512-bAh2yLkYmB7D0YMTYvkV1it7M0pkxp9+OCa9WXmkQJ6q5xa0ICJUp0fCJXKd4rr2mZPgnN9ACffwEgmf55/YMw==
+  version "10.1.109900000000313"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/quick-marc/-/quick-marc-10.1.109900000000313.tgz#a181c98546f35ac6cc4a2fdcea2b504086080c7e"
+  integrity sha512-xAZqFgsmwwW5YCr8JuPlrvN4/JxoSmzH2DzvY1tHlYJOg8G3RfNfhzVwU6WgbPbY9ctM6xMHT8p/QeUm+DD9tA==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     classnames "^2.5.1"
@@ -4058,9 +4058,9 @@ browserslist@^4.24.0, browserslist@^4.24.4, browserslist@^4.25.0:
     update-browserslist-db "^1.1.3"
 
 browserstack-local@^1.3.7:
-  version "1.5.7"
-  resolved "https://repository.folio.org/repository/npm-ci-all/browserstack-local/-/browserstack-local-1.5.7.tgz#8c0e49869fa52a4cf811cfde36a853f4d52cc7a2"
-  integrity sha512-I9uPQce1iXzQP2aLk8BvxCL28TUmqBnz+DpODTKGTGeiYOt+uMu2NirJDwgYUveOKOvnN2W+Wan7NKv8VF5KXQ==
+  version "1.5.8"
+  resolved "https://repository.folio.org/repository/npm-ci-all/browserstack-local/-/browserstack-local-1.5.8.tgz#3866573c90e71212afb1a1323c458991ae2a017b"
+  integrity sha512-8p8APDD7bY8E806pZBratRQmd9quqB8o3jiOqxVHWTiYGAW5ePMqFDKbZaedUkFM52Dnfl5Gxviz2bHXiiV3DQ==
   dependencies:
     agent-base "^6.0.2"
     https-proxy-agent "^5.0.1"

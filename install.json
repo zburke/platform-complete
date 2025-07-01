@@ -272,7 +272,7 @@
   "id" : "mod-quick-marc-7.1.0-SNAPSHOT.327",
   "action" : "enable"
 }, {
-  "id" : "folio_quick-marc-10.1.109900000000308",
+  "id" : "folio_quick-marc-10.1.109900000000313",
   "action" : "enable"
 }, {
   "id" : "mod-data-export-5.3.0-SNAPSHOT.473",
@@ -392,7 +392,7 @@
   "id" : "folio_inn-reach-6.0.10990000000060",
   "action" : "enable"
 }, {
-  "id" : "mod-orders-13.1.0-SNAPSHOT.1038",
+  "id" : "mod-orders-13.1.0-SNAPSHOT.1039",
   "action" : "enable"
 }, {
   "id" : "folio_acquisition-units-6.0.10990000000043",
@@ -449,13 +449,13 @@
   "id" : "folio_orders-9.0.109900000000369",
   "action" : "enable"
 }, {
-  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.668",
+  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.671",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-query-builder-3.0.109900000000727",
   "action" : "enable"
 }, {
-  "id" : "edge-fqm-4.1.0-SNAPSHOT.49",
+  "id" : "edge-fqm-4.1.0-SNAPSHOT.50",
   "action" : "enable"
 }, {
   "id" : "mod-bulk-operations-2.3.0-SNAPSHOT.439",
@@ -464,7 +464,7 @@
   "id" : "folio_bulk-edit-5.0.109900000000328",
   "action" : "enable"
 }, {
-  "id" : "mod-lists-3.2.0-SNAPSHOT.198",
+  "id" : "mod-lists-3.2.0-SNAPSHOT.199",
   "action" : "enable"
 }, {
   "id" : "folio_lists-4.0.309900000000850",
@@ -476,7 +476,7 @@
   "id" : "folio_remote-storage-7.0.10990000000057",
   "action" : "enable"
 }, {
-  "id" : "edge-caiasoft-2.5.0-SNAPSHOT.56",
+  "id" : "edge-caiasoft-2.5.0-SNAPSHOT.57",
   "action" : "enable"
 }, {
   "id" : "edge-dematic-3.0.0-SNAPSHOT.68",
