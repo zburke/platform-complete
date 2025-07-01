@@ -155,7 +155,7 @@
   "id" : "edge-courses-1.7.0-SNAPSHOT.27",
   "action" : "enable"
 }, {
-  "id" : "mod-notes-7.1.0-SNAPSHOT.287",
+  "id" : "mod-notes-7.1.0-SNAPSHOT.288",
   "action" : "enable"
 }, {
   "id" : "folio_notes-11.0.10990000000094",
@@ -446,7 +446,7 @@
   "id" : "folio_invoice-8.0.109900000000238",
   "action" : "enable"
 }, {
-  "id" : "folio_orders-9.0.109900000000366",
+  "id" : "folio_orders-9.0.109900000000369",
   "action" : "enable"
 }, {
   "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.668",
