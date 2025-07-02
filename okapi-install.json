@@ -36,7 +36,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-organizations-storage-5.0.0-SNAPSHOT.121",
+    "id": "mod-organizations-storage-5.0.0-SNAPSHOT.122",
     "action": "enable"
   },
   {
@@ -84,7 +84,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-inventory-storage-29.1.0-SNAPSHOT.1167",
+    "id": "mod-inventory-storage-29.1.0-SNAPSHOT.1168",
     "action": "enable"
   },
   {
@@ -100,7 +100,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-organizations-2.2.0-SNAPSHOT.71",
+    "id": "mod-organizations-2.2.0-SNAPSHOT.72",
     "action": "enable"
   },
   {
@@ -160,11 +160,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-finance-storage-8.9.0-SNAPSHOT.414",
+    "id": "mod-finance-storage-8.9.0-SNAPSHOT.415",
     "action": "enable"
   },
   {
-    "id": "mod-finance-5.2.0-SNAPSHOT.293",
+    "id": "mod-finance-5.2.0-SNAPSHOT.294",
     "action": "enable"
   },
   {
@@ -268,7 +268,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-ebsconet-2.5.0-SNAPSHOT.89",
+    "id": "mod-ebsconet-2.5.0-SNAPSHOT.90",
     "action": "enable"
   },
   {
@@ -276,7 +276,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-gobi-3.1.0-SNAPSHOT.258",
+    "id": "mod-gobi-3.1.0-SNAPSHOT.259",
     "action": "enable"
   },
   {
