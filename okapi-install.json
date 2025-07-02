@@ -24,7 +24,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-invoice-storage-6.1.0-SNAPSHOT.174",
+    "id": "mod-invoice-storage-6.1.0-SNAPSHOT.175",
     "action": "enable"
   },
   {
@@ -36,7 +36,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-organizations-storage-5.0.0-SNAPSHOT.120",
+    "id": "mod-organizations-storage-5.0.0-SNAPSHOT.121",
     "action": "enable"
   },
   {
@@ -84,7 +84,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-inventory-storage-29.1.0-SNAPSHOT.1166",
+    "id": "mod-inventory-storage-29.1.0-SNAPSHOT.1167",
     "action": "enable"
   },
   {
@@ -96,11 +96,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-orders-storage-14.0.0-SNAPSHOT.437",
+    "id": "mod-orders-storage-14.0.0-SNAPSHOT.438",
     "action": "enable"
   },
   {
-    "id": "mod-organizations-2.2.0-SNAPSHOT.70",
+    "id": "mod-organizations-2.2.0-SNAPSHOT.71",
     "action": "enable"
   },
   {
@@ -160,11 +160,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-finance-storage-8.9.0-SNAPSHOT.413",
+    "id": "mod-finance-storage-8.9.0-SNAPSHOT.414",
     "action": "enable"
   },
   {
-    "id": "mod-finance-5.2.0-SNAPSHOT.292",
+    "id": "mod-finance-5.2.0-SNAPSHOT.293",
     "action": "enable"
   },
   {
@@ -192,7 +192,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-data-export-5.3.0-SNAPSHOT.473",
+    "id": "mod-data-export-5.3.0-SNAPSHOT.474",
     "action": "enable"
   },
   {
@@ -264,7 +264,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-orders-13.1.0-SNAPSHOT.1039",
+    "id": "mod-orders-13.1.0-SNAPSHOT.1040",
     "action": "enable"
   },
   {
@@ -276,11 +276,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-gobi-3.1.0-SNAPSHOT.257",
+    "id": "mod-gobi-3.1.0-SNAPSHOT.258",
     "action": "enable"
   },
   {
-    "id": "mod-mosaic-1.0.0-SNAPSHOT.26",
+    "id": "mod-mosaic-1.0.0-SNAPSHOT.27",
     "action": "enable"
   },
   {
@@ -288,7 +288,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-invoice-6.1.0-SNAPSHOT.476",
+    "id": "mod-invoice-6.1.0-SNAPSHOT.477",
     "action": "enable"
   },
   {
@@ -296,7 +296,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-bulk-operations-2.3.0-SNAPSHOT.439",
+    "id": "mod-bulk-operations-2.3.0-SNAPSHOT.440",
     "action": "enable"
   },
   {
