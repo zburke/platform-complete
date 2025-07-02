@@ -125,7 +125,7 @@
   "id" : "mod-pubsub-2.17.0-SNAPSHOT.263",
   "action" : "enable"
 }, {
-  "id" : "mod-inventory-storage-29.1.0-SNAPSHOT.1165",
+  "id" : "mod-inventory-storage-29.1.0-SNAPSHOT.1166",
   "action" : "enable"
 }, {
   "id" : "folio_calendar-12.0.109900000000155",
@@ -179,7 +179,7 @@
   "id" : "folio_serials-management-2.1.109900000000796",
   "action" : "enable"
 }, {
-  "id" : "mod-agreements-7.3.0-SNAPSHOT.778",
+  "id" : "mod-agreements-7.3.0-SNAPSHOT.779",
   "action" : "enable"
 }, {
   "id" : "folio_erm-comparisons-8.1.109900000000119",
