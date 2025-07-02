@@ -224,7 +224,7 @@
   "id" : "mod-user-import-3.11.0-SNAPSHOT.110",
   "action" : "enable"
 }, {
-  "id" : "mod-users-bl-7.11.0-SNAPSHOT.182",
+  "id" : "mod-users-bl-7.11.0-SNAPSHOT.183",
   "action" : "enable"
 }, {
   "id" : "folio_stripes-core-11.1.109900000000959",
@@ -389,7 +389,7 @@
   "id" : "mod-inn-reach-3.5.0-SNAPSHOT.408",
   "action" : "enable"
 }, {
-  "id" : "folio_inn-reach-6.0.10990000000060",
+  "id" : "folio_inn-reach-6.0.10990000000068",
   "action" : "enable"
 }, {
   "id" : "mod-orders-13.1.0-SNAPSHOT.1039",
