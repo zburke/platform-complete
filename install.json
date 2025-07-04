@@ -173,7 +173,7 @@
   "id" : "folio_eholdings-11.1.109900000000239",
   "action" : "enable"
 }, {
-  "id" : "mod-serials-management-2.1.0-SNAPSHOT.160",
+  "id" : "mod-serials-management-2.1.0-SNAPSHOT.161",
   "action" : "enable"
 }, {
   "id" : "folio_serials-management-2.1.109900000000796",
@@ -197,7 +197,7 @@
   "id" : "mod-configuration-5.13.0-SNAPSHOT.139",
   "action" : "enable"
 }, {
-  "id" : "folio_agreements-12.1.109900000000715",
+  "id" : "folio_agreements-12.1.109900000000730",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-organization-6.0.10990000000016",
@@ -272,7 +272,7 @@
   "id" : "mod-quick-marc-7.1.0-SNAPSHOT.327",
   "action" : "enable"
 }, {
-  "id" : "folio_quick-marc-10.1.109900000000313",
+  "id" : "folio_quick-marc-10.1.109900000000316",
   "action" : "enable"
 }, {
   "id" : "mod-data-export-5.3.0-SNAPSHOT.474",
@@ -392,7 +392,7 @@
   "id" : "folio_inn-reach-6.0.10990000000068",
   "action" : "enable"
 }, {
-  "id" : "mod-orders-13.1.0-SNAPSHOT.1041",
+  "id" : "mod-orders-13.1.0-SNAPSHOT.1042",
   "action" : "enable"
 }, {
   "id" : "folio_acquisition-units-6.0.10990000000043",
