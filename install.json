@@ -47,7 +47,7 @@
   "id" : "mod-invoice-storage-6.1.0-SNAPSHOT.176",
   "action" : "enable"
 }, {
-  "id" : "mod-service-interaction-4.3.0-SNAPSHOT.143",
+  "id" : "mod-service-interaction-4.3.0-SNAPSHOT.144",
   "action" : "enable"
 }, {
   "id" : "folio_dashboard-7.1.109900000000169",
@@ -173,7 +173,7 @@
   "id" : "folio_eholdings-11.1.109900000000239",
   "action" : "enable"
 }, {
-  "id" : "mod-serials-management-2.1.0-SNAPSHOT.159",
+  "id" : "mod-serials-management-2.1.0-SNAPSHOT.160",
   "action" : "enable"
 }, {
   "id" : "folio_serials-management-2.1.109900000000796",
@@ -482,7 +482,7 @@
   "id" : "edge-dematic-3.0.0-SNAPSHOT.68",
   "action" : "enable"
 }, {
-  "id" : "mod-oa-3.3.0-SNAPSHOT.190",
+  "id" : "mod-oa-3.3.0-SNAPSHOT.191",
   "action" : "enable"
 }, {
   "id" : "folio_oa-3.1.109900000000168",

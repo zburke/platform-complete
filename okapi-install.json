@@ -28,7 +28,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-service-interaction-4.3.0-SNAPSHOT.143",
+    "id": "mod-service-interaction-4.3.0-SNAPSHOT.144",
     "action": "enable"
   },
   {
@@ -120,7 +120,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-serials-management-2.1.0-SNAPSHOT.159",
+    "id": "mod-serials-management-2.1.0-SNAPSHOT.160",
     "action": "enable"
   },
   {
@@ -308,7 +308,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-oa-3.3.0-SNAPSHOT.190",
+    "id": "mod-oa-3.3.0-SNAPSHOT.191",
     "action": "enable"
   }
 ]
