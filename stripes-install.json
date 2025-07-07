@@ -80,7 +80,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_handler-stripes-registry-3.1.10990000000067",
+    "id": "folio_handler-stripes-registry-3.1.10990000000079",
     "action": "enable"
   },
   {
@@ -252,23 +252,23 @@
     "action": "enable"
   },
   {
-    "id": "folio_stripes-authority-components-6.1.109900000000122",
+    "id": "folio_stripes-authority-components-6.1.109900000000126",
     "action": "enable"
   },
   {
-    "id": "folio_stripes-core-11.1.109900000000959",
+    "id": "folio_stripes-core-11.1.109900000000963",
     "action": "enable"
   },
   {
-    "id": "folio_stripes-inventory-components-2.1.109000000722",
+    "id": "folio_stripes-inventory-components-2.1.109000000726",
     "action": "enable"
   },
   {
-    "id": "folio_stripes-marc-components-2.0.109900000000157",
+    "id": "folio_stripes-marc-components-2.0.109900000000167",
     "action": "enable"
   },
   {
-    "id": "folio_stripes-smart-components-10.1.109900000000510",
+    "id": "folio_stripes-smart-components-10.1.109900000000516",
     "action": "enable"
   },
   {
