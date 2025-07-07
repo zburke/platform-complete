@@ -128,7 +128,7 @@
   "id" : "mod-pubsub-2.17.0-SNAPSHOT.263",
   "action" : "enable"
 }, {
-  "id" : "mod-inventory-storage-29.1.0-SNAPSHOT.1170",
+  "id" : "mod-inventory-storage-29.1.0-SNAPSHOT.1171",
   "action" : "enable"
 }, {
   "id" : "folio_calendar-12.0.109900000000155",
@@ -260,7 +260,7 @@
   "id" : "mod-entities-links-4.1.0-SNAPSHOT.342",
   "action" : "enable"
 }, {
-  "id" : "mod-search-5.1.0-SNAPSHOT.713",
+  "id" : "mod-search-5.1.0-SNAPSHOT.715",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-instance-9.1.10990000000076",
@@ -389,13 +389,13 @@
   "id" : "mod-tlr-1.2.0-SNAPSHOT.80",
   "action" : "enable"
 }, {
-  "id" : "mod-inn-reach-3.5.0-SNAPSHOT.409",
+  "id" : "mod-inn-reach-3.5.0-SNAPSHOT.410",
   "action" : "enable"
 }, {
   "id" : "folio_inn-reach-6.0.10990000000068",
   "action" : "enable"
 }, {
-  "id" : "mod-orders-13.1.0-SNAPSHOT.1043",
+  "id" : "mod-orders-13.1.0-SNAPSHOT.1044",
   "action" : "enable"
 }, {
   "id" : "folio_acquisition-units-6.0.10990000000043",
@@ -461,7 +461,7 @@
   "id" : "edge-fqm-4.1.0-SNAPSHOT.52",
   "action" : "enable"
 }, {
-  "id" : "mod-bulk-operations-2.3.0-SNAPSHOT.441",
+  "id" : "mod-bulk-operations-2.3.0-SNAPSHOT.442",
   "action" : "enable"
 }, {
   "id" : "folio_bulk-edit-5.0.109900000000328",
