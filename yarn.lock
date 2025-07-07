@@ -2713,9 +2713,9 @@
     redux-form "^8.0.0"
 
 "@folio/users@>=2.17.0":
-  version "13.0.109900000000494"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.109900000000494.tgz#9c340f63104f8471ab837acded457547f28fb7a6"
-  integrity sha512-COFc/4Z639bxaY/uzmW2qUftjFY7IQFGYgPDgbz0K0+UUg/30/SiFNBn8V5Lnv0ju61vGHuJ7Rl5ckxr2OeBjA==
+  version "13.0.109900000000510"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.109900000000510.tgz#53b0cf10896a71cb5183c80af8c8b31af1842ecc"
+  integrity sha512-53qlm/drsXVGE4gVp+avhJIVuFXrkmtHfxDIzYb9iQ+CqJ+gl0m59pGcxpTohZkDwnhGqMqjaJkTdQ/P/ShDnA==
   dependencies:
     "@folio/stripes-util" "^7.0.0"
     compressorjs "^1.2.1"
@@ -4061,7 +4061,7 @@ browser-stdout@^1.3.1:
   resolved "https://repository.folio.org/repository/npm-ci-all/browser-stdout/-/browser-stdout-1.3.1.tgz#baa559ee14ced73452229bad7326467c61fabd60"
   integrity sha512-qhAVI1+Av2X7qelOfAIYwXONood6XlZE/fXaBSmW/T5SzLAmCgzi+eiWE7fUvbHaeNBQH13UftjpXxsfLkMpgw==
 
-browserslist@^4.24.0, browserslist@^4.24.4, browserslist@^4.25.0:
+browserslist@^4.24.0, browserslist@^4.24.4, browserslist@^4.25.1:
   version "4.25.1"
   resolved "https://repository.folio.org/repository/npm-ci-all/browserslist/-/browserslist-4.25.1.tgz#ba9e8e6f298a1d86f829c9b975e07948967bb111"
   integrity sha512-KGj0KoOMXLpSNkkEI6Z6mShmQy0bc1I+T7K9N81k4WWMrfz+6fQ6es80B/YLAeRoKvjYE1YSHHOW1qe9xIVzHw==
@@ -4635,21 +4635,21 @@ copy-to-clipboard@^3.3.1:
     toggle-selection "^1.0.6"
 
 core-js-compat@^3.43.0:
-  version "3.43.0"
-  resolved "https://repository.folio.org/repository/npm-ci-all/core-js-compat/-/core-js-compat-3.43.0.tgz#055587369c458795ef316f65e0aabb808fb15840"
-  integrity sha512-2GML2ZsCc5LR7hZYz4AXmjQw8zuy2T//2QntwdnpuYI7jteT6GVYJL7F6C2C57R7gSYrcqVW3lAALefdbhBLDA==
+  version "3.44.0"
+  resolved "https://repository.folio.org/repository/npm-ci-all/core-js-compat/-/core-js-compat-3.44.0.tgz#62b9165b97e4cbdb8bca16b14818e67428b4a0f8"
+  integrity sha512-JepmAj2zfl6ogy34qfWtcE7nHKAJnKsQFRn++scjVS2bZFllwptzw61BZcZFYBPpUznLfAvh0LGhxKppk04ClA==
   dependencies:
-    browserslist "^4.25.0"
+    browserslist "^4.25.1"
 
 core-js-pure@^3.23.3:
-  version "3.43.0"
-  resolved "https://repository.folio.org/repository/npm-ci-all/core-js-pure/-/core-js-pure-3.43.0.tgz#4df9c949c7abde839a8398d16a827a76856b1f0c"
-  integrity sha512-i/AgxU2+A+BbJdMxh3v7/vxi2SbFqxiFmg6VsDwYB4jkucrd1BZNA9a9gphC0fYMG5IBSgQcbQnk865VCLe7xA==
+  version "3.44.0"
+  resolved "https://repository.folio.org/repository/npm-ci-all/core-js-pure/-/core-js-pure-3.44.0.tgz#6e9d6c128c8b967c5eac4f181c2b654d85c28090"
+  integrity sha512-gvMQAGB4dfVUxpYD0k3Fq8J+n5bB6Ytl15lqlZrOIXFzxOhtPaObfkQGHtMRdyjIf7z2IeNULwi1jEwyS+ltKQ==
 
 core-js@^3.0.0, core-js@^3.26.1, core-js@^3.6.0, core-js@^3.6.1, core-js@^3.8.3:
-  version "3.43.0"
-  resolved "https://repository.folio.org/repository/npm-ci-all/core-js/-/core-js-3.43.0.tgz#f7258b156523208167df35dea0cfd6b6ecd4ee88"
-  integrity sha512-N6wEbTTZSYOY2rYAn85CuvWWkCK6QweMn7/4Nr3w+gDBeBhk/x4EJeY6FPo4QzDoJZxVTv8U7CMvgWk6pOHHqA==
+  version "3.44.0"
+  resolved "https://repository.folio.org/repository/npm-ci-all/core-js/-/core-js-3.44.0.tgz#db4fd4fa07933c1d6898c8b112a1119a9336e959"
+  integrity sha512-aFCtd4l6GvAXwVEh3XbbVqJGHDJt0OZRa+5ePGx3LLwi12WfexqQxcsohb2wgsa/92xtl19Hd66G/L+TaAxDMw==
 
 cors@~2.8.5:
   version "2.8.5"
