@@ -35,7 +35,7 @@
   "id" : "mod-graphql-1.13.1000376",
   "action" : "enable"
 }, {
-  "id" : "mod-record-specifications-2.1.0-SNAPSHOT.103",
+  "id" : "mod-record-specifications-2.1.0-SNAPSHOT.104",
   "action" : "enable"
 }, {
   "id" : "mod-erm-usage-5.2.0-SNAPSHOT.218",
@@ -128,7 +128,7 @@
   "id" : "mod-pubsub-2.17.0-SNAPSHOT.263",
   "action" : "enable"
 }, {
-  "id" : "mod-inventory-storage-29.1.0-SNAPSHOT.1168",
+  "id" : "mod-inventory-storage-29.1.0-SNAPSHOT.1170",
   "action" : "enable"
 }, {
   "id" : "folio_calendar-12.0.109900000000155",
@@ -161,13 +161,13 @@
   "id" : "mod-notes-7.1.0-SNAPSHOT.288",
   "action" : "enable"
 }, {
-  "id" : "folio_notes-11.0.10990000000094",
+  "id" : "folio_notes-12.0.109900000000103",
   "action" : "enable"
 }, {
   "id" : "mod-password-validator-3.5.0-SNAPSHOT.99",
   "action" : "enable"
 }, {
-  "id" : "folio_stripes-smart-components-10.1.109900000000473",
+  "id" : "folio_stripes-smart-components-10.1.109900000000505",
   "action" : "enable"
 }, {
   "id" : "mod-kb-ebsco-java-6.1.0-SNAPSHOT.473",
