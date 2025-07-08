@@ -257,7 +257,7 @@
   "id" : "mod-entities-links-4.1.0-SNAPSHOT.342",
   "action" : "enable"
 }, {
-  "id" : "mod-search-5.1.0-SNAPSHOT.715",
+  "id" : "mod-search-5.1.0-SNAPSHOT.716",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-instance-9.1.10990000000076",
@@ -350,7 +350,7 @@
   "id" : "folio_plugin-create-inventory-records-7.0.10990000000059",
   "action" : "enable"
 }, {
-  "id" : "folio_requests-13.0.109900000000246",
+  "id" : "folio_requests-13.0.109900000000253",
   "action" : "enable"
 }, {
   "id" : "edge-sip2-3.5.0-SNAPSHOT.186",
@@ -419,7 +419,7 @@
   "id" : "folio_plugin-eusage-reports-4.0.109900000000115",
   "action" : "enable"
 }, {
-  "id" : "mod-gobi-3.1.0-SNAPSHOT.261",
+  "id" : "mod-gobi-3.1.0-SNAPSHOT.262",
   "action" : "enable"
 }, {
   "id" : "folio_gobi-settings-4.0.10990000000054",
