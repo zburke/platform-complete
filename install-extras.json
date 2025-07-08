@@ -72,10 +72,6 @@
     "action": "enable"
   },
   {
-    "id": "folio_agreements-12.1.109900000000735",
-    "action": "enable"
-  },
-  {
     "id": "mod-circulation-bff",
     "action": "enable"
   },
