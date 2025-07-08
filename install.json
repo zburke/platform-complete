@@ -29,9 +29,6 @@
   "id" : "mod-batch-print-1.3.1-SNAPSHOT.16",
   "action" : "enable"
 }, {
-  "id" : "folio_agreements-12.1.109900000000735",
-  "action" : "uptodate"
-}, {
   "id" : "mod-graphql-1.13.1000376",
   "action" : "enable"
 }, {
@@ -200,7 +197,7 @@
   "id" : "mod-configuration-5.13.0-SNAPSHOT.139",
   "action" : "enable"
 }, {
-  "id" : "folio_agreements-12.1.109900000000735",
+  "id" : "folio_agreements-12.1.109900000000744",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-organization-6.0.10990000000016",
