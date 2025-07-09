@@ -32,7 +32,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_claims-2.0.109900000000175",
+    "id": "folio_claims-2.0.109900000000198",
     "action": "enable"
   },
   {
@@ -88,7 +88,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_inventory-14.0.109900000000782",
+    "id": "folio_inventory-14.0.109900000000793",
     "action": "enable"
   },
   {
@@ -112,7 +112,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_marc-authorities-8.0.109900000000936",
+    "id": "folio_marc-authorities-8.0.109900000000961",
     "action": "enable"
   },
   {
@@ -136,7 +136,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_orders-9.0.109900000000373",
+    "id": "folio_orders-9.0.109900000000379",
     "action": "enable"
   },
   {
@@ -184,7 +184,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_plugin-find-instance-9.1.10990000000080",
+    "id": "folio_plugin-find-instance-9.1.10990000000087",
     "action": "enable"
   },
   {
@@ -216,7 +216,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_quick-marc-10.1.109900000000320",
+    "id": "folio_quick-marc-10.1.109900000000327",
     "action": "enable"
   },
   {
@@ -224,7 +224,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_receiving-8.0.109900000000183",
+    "id": "folio_receiving-8.0.109900000000192",
     "action": "enable"
   },
   {
@@ -252,7 +252,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_stripes-authority-components-6.1.109900000000126",
+    "id": "folio_stripes-authority-components-6.1.109900000000134",
     "action": "enable"
   },
   {
@@ -304,7 +304,7 @@
     "action": "enable"
   },
   {
-    "id": "edge-sip2-3.5.0-SNAPSHOT.186",
+    "id": "edge-sip2-3.5.0-SNAPSHOT.188",
     "action": "enable"
   },
   {
