@@ -1473,9 +1473,9 @@
     react-window "^1.8.5"
 
 "@folio/data-import@>=0.0.0", "@folio/data-import@^9.0.0":
-  version "9.0.109900000000103"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/data-import/-/data-import-9.0.109900000000103.tgz#182e95cfd80fd212686b0b2701f335dae6ac2324"
-  integrity sha512-7BySSi349Z4JXS4H56OpCejVGusGcqDQH6ILHB50lMM2/oEuwqkl6LGimvl5hqaGg7vdBfb8BmuEKNXSx/xVrw==
+  version "9.0.109900000000110"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/data-import/-/data-import-9.0.109900000000110.tgz#187498ee3dfa75fde0192c4ba224c8a32b22803b"
+  integrity sha512-7CqX29QHjN4WycV7htEV2aVCRNnHvPm+HFoJ7tnNcCtsfK+qKmWDgbSIHgRcQrPMLKnNWv+PEwlveLM+HB5nmw==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     "@folio/stripes-data-transfer-components" "^7.0.0"
@@ -1574,9 +1574,9 @@
     react-router-prop-types "^1.0.4"
 
 "@folio/finance@>=1.1.0":
-  version "9.0.109900000000332"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/finance/-/finance-9.0.109900000000332.tgz#34af7649c468896a624ef780ebce527b582d9b7f"
-  integrity sha512-fLfKdHcR/4V/j2Z/XmEuU+8ZvALC3/qoZu6963zHiHpfGrbwTrtYIx0JxD742ibwtzJ0J52Yr+MCMwVLB/Eymw==
+  version "9.0.109900000000335"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/finance/-/finance-9.0.109900000000335.tgz#c63a485efba02b88849175c6a3175a6a4630ebee"
+  integrity sha512-bP+QBnIsU3xIH6xX80j0+vyvrD/BJJoRKqRCuHYDuZSxC6feYmy35YyLzBB2WBddPqJd/Mw0Mq/ARwh61bTLYA==
   dependencies:
     "@folio/stripes-acq-components" "~7.0.0"
     "@folio/stripes-data-transfer-components" "~7.0.0"
@@ -3917,9 +3917,9 @@ balanced-match@^1.0.0:
   integrity sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw==
 
 bare-events@^2.2.0, bare-events@^2.5.4:
-  version "2.5.4"
-  resolved "https://repository.folio.org/repository/npm-ci-all/bare-events/-/bare-events-2.5.4.tgz#16143d435e1ed9eafd1ab85f12b89b3357a41745"
-  integrity sha512-+gFfDkR8pj4/TrWCGUGWmJIkBwuxPS5F+a5yWjOHQt2hHvNZd5YLzadjmDUtFmMM4y429bnKLa8bYBMHcYdnQA==
+  version "2.6.0"
+  resolved "https://repository.folio.org/repository/npm-ci-all/bare-events/-/bare-events-2.6.0.tgz#11d9506da109e363a2f3af050fbb005ccdb3ee8f"
+  integrity sha512-EKZ5BTXYExaNqi3I3f9RtEsaI/xBSGjE0XZCZilPzFAV/goswFHuPd9jEZlPIZ/iNZJwDSao9qRiScySz7MbQg==
 
 bare-fs@^4.0.1:
   version "4.1.6"

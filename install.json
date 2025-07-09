@@ -299,7 +299,7 @@
   "id" : "mod-data-import-3.4.0-SNAPSHOT.334",
   "action" : "enable"
 }, {
-  "id" : "folio_data-import-9.0.109900000000103",
+  "id" : "folio_data-import-9.0.109900000000110",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-import-profile-9.0.10990000000046",
@@ -440,7 +440,7 @@
   "id" : "mod-invoice-6.1.0-SNAPSHOT.478",
   "action" : "enable"
 }, {
-  "id" : "folio_finance-9.0.109900000000332",
+  "id" : "folio_finance-9.0.109900000000335",
   "action" : "enable"
 }, {
   "id" : "folio_invoice-8.0.109900000000244",
