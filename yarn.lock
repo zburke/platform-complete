@@ -1367,9 +1367,9 @@
     uuid "^9.0.0"
 
 "@folio/checkout@>=1.3.0":
-  version "12.0.109900000000123"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/checkout/-/checkout-12.0.109900000000123.tgz#a86e68040a1e0643ffbfa546d8d96564c13a4b51"
-  integrity sha512-U4/kUqUM5QDrMgDTf6/YCrVAx6EpO9BYqGMe3xymyf/gjb7uDP1XjOd08o22QSOgUaBT+eGZAhfkp4gVbDDiAA==
+  version "12.0.109900000000126"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/checkout/-/checkout-12.0.109900000000126.tgz#92d7c7f80b47a2ce18d68552596d3e2cb12e29dd"
+  integrity sha512-GzV8xPwZa9L9b2K2PKq4dGWl4dX7j7TsxY66aKfnNwapZhK9vZ+eCODBP8cj3nNIKGMArl0X8SgPtfpHCtceRQ==
   dependencies:
     final-form "^4.19.1"
     inactivity-timer "^1.0.0"
