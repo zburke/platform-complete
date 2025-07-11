@@ -1636,9 +1636,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/inventory@>=1.4.0":
-  version "14.0.109900000000798"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/inventory/-/inventory-14.0.109900000000798.tgz#740d497c18bc7af8736919519becd6525f2725a1"
-  integrity sha512-BdhFkcLJhPM2SQRrhapfC3PUXkDZWR/f6Fe1i4Js+fT+k6s2DZZQOqo7uMauhJBxi9o3OvzKRpKeYGjNNEocGg==
+  version "14.0.109900000000803"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/inventory/-/inventory-14.0.109900000000803.tgz#156dfc9489432d3473b9e3012034c5ef0b67ff91"
+  integrity sha512-1HmzsETbJ2bh7heXDliTdezCVHfA/Dm42TT5q4oB6a2sAgV31iRlc0II7aQSJeDf0nLX/SyA7Qzt0e+D9gfUFg==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     classnames "^2.3.2"
@@ -10508,9 +10508,9 @@ webpack-virtual-modules@^0.4.3:
   integrity sha512-5tyDlKLqPfMqjT3Q9TAqf2YqjwmnUleZwzJi1A5qXnlBCdj2AtOJ6wAWdglTIDOPgOiOrXeBeFcsQ8+aGQ6QbA==
 
 webpack@^5.80.0, webpack@^5.99.6:
-  version "5.100.0"
-  resolved "https://repository.folio.org/repository/npm-ci-all/webpack/-/webpack-5.100.0.tgz#fa3ef235b38969bd0ded53297a2c44a5f092f8f4"
-  integrity sha512-H8yBSBTk+BqxrINJnnRzaxU94SVP2bjd7WmA+PfCphoIdDpeQMJ77pq9/4I7xjLq38cB1bNKfzYPZu8pB3zKtg==
+  version "5.100.1"
+  resolved "https://repository.folio.org/repository/npm-ci-all/webpack/-/webpack-5.100.1.tgz#d8a7e7761d253b961248ed9ed7661c51698593de"
+  integrity sha512-YJB/ESPUe2Locd0NKXmw72Dx8fZQk1gTzI6rc9TAT4+Sypbnhl8jd8RywB1bDsDF9Dy1RUR7gn3q/ZJTd0OZZg==
   dependencies:
     "@types/eslint-scope" "^3.7.7"
     "@types/estree" "^1.0.8"
