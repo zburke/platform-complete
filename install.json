@@ -125,7 +125,7 @@
   "id" : "mod-pubsub-2.17.0-SNAPSHOT.263",
   "action" : "enable"
 }, {
-  "id" : "mod-inventory-storage-29.1.0-SNAPSHOT.1172",
+  "id" : "mod-inventory-storage-29.1.0-SNAPSHOT.1173",
   "action" : "enable"
 }, {
   "id" : "folio_calendar-12.0.109900000000159",
@@ -164,7 +164,7 @@
   "id" : "mod-password-validator-3.5.0-SNAPSHOT.99",
   "action" : "enable"
 }, {
-  "id" : "folio_stripes-smart-components-10.1.109900000000516",
+  "id" : "folio_stripes-smart-components-10.1.109900000000527",
   "action" : "enable"
 }, {
   "id" : "mod-kb-ebsco-java-6.1.0-SNAPSHOT.473",
@@ -209,7 +209,7 @@
   "id" : "mod-login-saml-2.11.0-SNAPSHOT.169",
   "action" : "enable"
 }, {
-  "id" : "mod-oai-pmh-3.16.0-SNAPSHOT.390",
+  "id" : "mod-oai-pmh-3.16.0-SNAPSHOT.391",
   "action" : "enable"
 }, {
   "id" : "folio_oai-pmh-6.0.10990000000052",
@@ -230,7 +230,7 @@
   "id" : "folio_stripes-core-11.1.109900000000963",
   "action" : "enable"
 }, {
-  "id" : "folio_users-13.0.109900000000517",
+  "id" : "folio_users-13.0.109900000000528",
   "action" : "enable"
 }, {
   "id" : "mod-patron-blocks-1.13.0-SNAPSHOT.111",
@@ -320,7 +320,7 @@
   "id" : "folio_reading-room-3.0.10990000000087",
   "action" : "enable"
 }, {
-  "id" : "mod-data-export-worker-3.5.0-SNAPSHOT.623",
+  "id" : "mod-data-export-worker-3.5.0-SNAPSHOT.624",
   "action" : "enable"
 }, {
   "id" : "mod-data-export-spring-3.6.0-SNAPSHOT.307",
@@ -377,7 +377,7 @@
   "id" : "edge-patron-5.4.0-SNAPSHOT.144",
   "action" : "enable"
 }, {
-  "id" : "mod-requests-mediated-1.3.0-SNAPSHOT.68",
+  "id" : "mod-requests-mediated-1.3.0-SNAPSHOT.69",
   "action" : "enable"
 }, {
   "id" : "folio_requests-mediated-4.0.109900000000127",
