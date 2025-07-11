@@ -1312,9 +1312,9 @@
     zustand "^4.1.5"
 
 "@folio/bulk-edit@>=1.0.0":
-  version "5.0.109900000000421"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/bulk-edit/-/bulk-edit-5.0.109900000000421.tgz#3982e3264b4109eea229f9d511fd5b9e50849ece"
-  integrity sha512-Uw/lApW1h9nBZ6yHa6B6Rf+o/b2qZOgGmEIin4v+26o9XJBAUaU0pYVXfky9yXhC+Ypy5O4fZ149766JmokSFQ==
+  version "5.0.109900000000442"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/bulk-edit/-/bulk-edit-5.0.109900000000442.tgz#0354717802e79d2f4229325ce82a0e2bece532b0"
+  integrity sha512-1+LdDJZ5HR63TR1QTHSrEhZjy/7QHliWt2e0k6k8CgpsABVv+2pLbZmmTrn63sq/M16PiFqLYKjh5mlsIYyWEg==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     "@folio/stripes-data-transfer-components" "^7.0.0"
@@ -1475,9 +1475,9 @@
     react-window "^1.8.5"
 
 "@folio/data-import@>=0.0.0", "@folio/data-import@^9.0.0":
-  version "9.0.109900000000110"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/data-import/-/data-import-9.0.109900000000110.tgz#187498ee3dfa75fde0192c4ba224c8a32b22803b"
-  integrity sha512-7CqX29QHjN4WycV7htEV2aVCRNnHvPm+HFoJ7tnNcCtsfK+qKmWDgbSIHgRcQrPMLKnNWv+PEwlveLM+HB5nmw==
+  version "9.0.109900000000114"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/data-import/-/data-import-9.0.109900000000114.tgz#80a97eed6c4b43b73549be0d8d3306a3990ce891"
+  integrity sha512-GC+S/jzDCd6/Julc5RvxXq0SstQt3fGT7wT8/M65saBS1WSU74o8ZCjSmv6SoNeKPwY1YQKmelGjlpEG9jTmzA==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     "@folio/stripes-data-transfer-components" "^7.0.0"
