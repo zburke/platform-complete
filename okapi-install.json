@@ -48,7 +48,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-users-19.6.0-SNAPSHOT.359",
+    "id": "mod-users-19.6.0-SNAPSHOT.360",
     "action": "enable"
   },
   {
@@ -288,11 +288,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-invoice-6.1.0-SNAPSHOT.478",
+    "id": "mod-invoice-6.1.0-SNAPSHOT.479",
     "action": "enable"
   },
   {
-    "id": "mod-fqm-manager-4.1.0-SNAPSHOT.685",
+    "id": "mod-fqm-manager-4.1.0-SNAPSHOT.686",
     "action": "enable"
   },
   {

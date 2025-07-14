@@ -80,7 +80,7 @@
   "id" : "mod-source-record-storage-5.11.0-SNAPSHOT.698",
   "action" : "enable"
 }, {
-  "id" : "mod-users-19.6.0-SNAPSHOT.359",
+  "id" : "mod-users-19.6.0-SNAPSHOT.360",
   "action" : "enable"
 }, {
   "id" : "mod-authtoken-2.18.0-SNAPSHOT.166",
@@ -437,7 +437,7 @@
   "id" : "edge-rtac-2.10.0-SNAPSHOT.110",
   "action" : "enable"
 }, {
-  "id" : "mod-invoice-6.1.0-SNAPSHOT.478",
+  "id" : "mod-invoice-6.1.0-SNAPSHOT.479",
   "action" : "enable"
 }, {
   "id" : "folio_finance-9.0.109900000000335",
@@ -449,7 +449,7 @@
   "id" : "folio_orders-9.0.109900000000379",
   "action" : "enable"
 }, {
-  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.685",
+  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.686",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-query-builder-3.0.109900000000731",
