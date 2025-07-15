@@ -173,7 +173,7 @@
   "id" : "folio_eholdings-11.1.109900000000243",
   "action" : "enable"
 }, {
-  "id" : "mod-serials-management-2.1.0-SNAPSHOT.162",
+  "id" : "mod-serials-management-2.1.0-SNAPSHOT.163",
   "action" : "enable"
 }, {
   "id" : "folio_serials-management-2.1.109900000000800",
@@ -230,7 +230,7 @@
   "id" : "folio_stripes-core-11.1.109900000000963",
   "action" : "enable"
 }, {
-  "id" : "folio_users-13.0.109900000000531",
+  "id" : "folio_users-13.0.109900000000536",
   "action" : "enable"
 }, {
   "id" : "mod-patron-blocks-1.13.0-SNAPSHOT.111",
@@ -332,7 +332,7 @@
   "id" : "folio_plugin-bursar-export-5.0.109900000000204",
   "action" : "enable"
 }, {
-  "id" : "mod-circulation-24.5.0-SNAPSHOT.1321",
+  "id" : "mod-circulation-24.5.0-SNAPSHOT.1322",
   "action" : "enable"
 }, {
   "id" : "folio_checkin-12.0.109900000000125",
@@ -344,7 +344,7 @@
   "id" : "folio_circulation-11.1.109900000000175",
   "action" : "enable"
 }, {
-  "id" : "folio_inventory-14.0.109900000000837",
+  "id" : "folio_inventory-14.0.109900000000853",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-create-inventory-records-7.0.10990000000063",
@@ -446,7 +446,7 @@
   "id" : "folio_invoice-8.0.109900000000244",
   "action" : "enable"
 }, {
-  "id" : "folio_orders-9.0.109900000000388",
+  "id" : "folio_orders-9.0.109900000000403",
   "action" : "enable"
 }, {
   "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.688",
