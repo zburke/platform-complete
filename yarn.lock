@@ -1786,9 +1786,9 @@
     redux-form "^8.3.7"
 
 "@folio/notes@>=1.0.0":
-  version "12.0.109900000000107"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/notes/-/notes-12.0.109900000000107.tgz#5753514c29cf2b31b22869d00ee8e286bf4fb202"
-  integrity sha512-Ny1+fg5N+cHb2PxTsVDCX6FSdCome7fbit8iUm1ON3hZ+mbmvHAnz0peo5FsUI86AfvPgXKVsTVMhBvTzMcNOg==
+  version "12.0.109900000000110"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/notes/-/notes-12.0.109900000000110.tgz#4cafa3ff48f4ad82b1d8eb0e32b7f98907176080"
+  integrity sha512-K0UED9/41Izf3Krzqx4dBKfB1Cs0uPozBB3Nir/tXbLVOAiMEVZPjIOr9IZZDfoGFb/mNs+nJibmGn2rIWzLMA==
   dependencies:
     prop-types "^15.6.0"
 
@@ -2393,9 +2393,9 @@
     uuid "^9.0.0"
 
 "@folio/stripes-core@^11.0.0":
-  version "11.1.109900000000963"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-core/-/stripes-core-11.1.109900000000963.tgz#eea19b87f220f195cf21591757af59b2f40c0f92"
-  integrity sha512-sUZY5SC1lGDaceGQW9rBB7eq6sALvHLF3YzZ/EICm+zD3sWFagzC5sOW+xoTR8Ot2iwJch66pyVGSB/Tn9HRFg==
+  version "11.1.109900000000967"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-core/-/stripes-core-11.1.109900000000967.tgz#91d74000405a9255bfe0c0dc68c7006c9b579d1b"
+  integrity sha512-L8rVdt0/Jwe1O+/MP5VM07GFJGP1RipYTyjOtnuoRit67BC0KsTK/TN/70h7RWVttrRgjmi2Pd8ISsgb14Fvlw==
   dependencies:
     "@apollo/client" "^3.2.1"
     classnames "^2.2.5"
