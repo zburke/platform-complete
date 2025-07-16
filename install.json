@@ -314,7 +314,7 @@
   "id" : "mod-notify-3.5.0-SNAPSHOT.139",
   "action" : "enable"
 }, {
-  "id" : "mod-feesfines-19.4.0-SNAPSHOT.247",
+  "id" : "mod-feesfines-19.4.0-SNAPSHOT.248",
   "action" : "enable"
 }, {
   "id" : "folio_reading-room-3.0.10990000000087",
@@ -449,7 +449,7 @@
   "id" : "folio_orders-9.0.109900000000403",
   "action" : "enable"
 }, {
-  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.689",
+  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.692",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-query-builder-3.0.109900000000731",
