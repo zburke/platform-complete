@@ -218,7 +218,7 @@
   "id" : "edge-oai-pmh-2.12.0-SNAPSHOT.121",
   "action" : "enable"
 }, {
-  "id" : "mod-circulation-storage-17.5.0-SNAPSHOT.441",
+  "id" : "mod-circulation-storage-17.5.0-SNAPSHOT.443",
   "action" : "enable"
 }, {
   "id" : "mod-user-import-3.11.0-SNAPSHOT.110",
@@ -320,7 +320,7 @@
   "id" : "mod-notify-3.5.0-SNAPSHOT.139",
   "action" : "enable"
 }, {
-  "id" : "mod-feesfines-19.4.0-SNAPSHOT.250",
+  "id" : "mod-feesfines-19.4.0-SNAPSHOT.251",
   "action" : "enable"
 }, {
   "id" : "folio_reading-room-3.0.10990000000091",
@@ -455,7 +455,7 @@
   "id" : "folio_orders-9.0.109900000000414",
   "action" : "enable"
 }, {
-  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.696",
+  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.697",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-query-builder-3.0.109900000000731",

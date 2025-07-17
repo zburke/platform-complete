@@ -140,7 +140,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-circulation-storage-17.5.0-SNAPSHOT.441",
+    "id": "mod-circulation-storage-17.5.0-SNAPSHOT.443",
     "action": "enable"
   },
   {
@@ -224,7 +224,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-feesfines-19.4.0-SNAPSHOT.250",
+    "id": "mod-feesfines-19.4.0-SNAPSHOT.251",
     "action": "enable"
   },
   {
@@ -296,7 +296,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-fqm-manager-4.1.0-SNAPSHOT.696",
+    "id": "mod-fqm-manager-4.1.0-SNAPSHOT.697",
     "action": "enable"
   },
   {
