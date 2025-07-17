@@ -24,7 +24,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-invoice-storage-6.1.0-SNAPSHOT.176",
+    "id": "mod-invoice-storage-6.1.0-SNAPSHOT.177",
     "action": "enable"
   },
   {
@@ -164,7 +164,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-finance-5.2.0-SNAPSHOT.294",
+    "id": "mod-finance-5.2.0-SNAPSHOT.295",
     "action": "enable"
   },
   {
@@ -268,7 +268,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-orders-13.1.0-SNAPSHOT.1046",
+    "id": "mod-orders-13.1.0-SNAPSHOT.1047",
     "action": "enable"
   },
   {
@@ -292,11 +292,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-invoice-6.1.0-SNAPSHOT.479",
+    "id": "mod-invoice-6.1.0-SNAPSHOT.480",
     "action": "enable"
   },
   {
-    "id": "mod-fqm-manager-4.1.0-SNAPSHOT.693",
+    "id": "mod-fqm-manager-4.1.0-SNAPSHOT.694",
     "action": "enable"
   },
   {

@@ -8,7 +8,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_bulk-edit-5.0.109900000000471",
+    "id": "folio_bulk-edit-5.0.109900000000474",
     "action": "enable"
   },
   {
@@ -120,7 +120,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_myprofile-11.0.109900000000109",
+    "id": "folio_myprofile-11.0.109900000000115",
     "action": "enable"
   },
   {
@@ -304,7 +304,7 @@
     "action": "enable"
   },
   {
-    "id": "edge-sip2-3.5.0-SNAPSHOT.190",
+    "id": "edge-sip2-3.5.0-SNAPSHOT.193",
     "action": "enable"
   },
   {

@@ -1312,9 +1312,9 @@
     zustand "^4.1.5"
 
 "@folio/bulk-edit@>=1.0.0":
-  version "5.0.109900000000471"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/bulk-edit/-/bulk-edit-5.0.109900000000471.tgz#86153834e8a1500b29f7fd2003ceaf81249892be"
-  integrity sha512-U41/5jQyFXhyJylFztK2FUHBtKIR0d4MOFCN6b6vm7AE6DuloTwfA5ZVC1fGhSuZExOI9rso++m10zFHCUiVqQ==
+  version "5.0.109900000000474"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/bulk-edit/-/bulk-edit-5.0.109900000000474.tgz#c81156b0c6467b54f535b3c61e9cc02f2077d2a7"
+  integrity sha512-as6s1pzAI2MXqLvs/az9WxNGLMeU3w2aDjJyPW8y1W2deGqRGLI5xcHpAVnqCPs9Uyn+Zio5/Ur+L6tRHFz1lQ==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     "@folio/stripes-data-transfer-components" "^7.0.0"
@@ -1775,9 +1775,9 @@
     "@folio/stripes-acq-components" "^7.0.0"
 
 "@folio/myprofile@>=1.1.0":
-  version "11.0.109900000000109"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/myprofile/-/myprofile-11.0.109900000000109.tgz#4034ee75c93466b2ff44131ebb0aa89fd1838236"
-  integrity sha512-BS7urA6xmmBich+D0ShI+EEYDnvDCDspFEVmjCX/1DHLCwUh19cYs2vgn3MFAJTlQA9D5cPxfbWp2iitiDRTYA==
+  version "11.0.109900000000115"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/myprofile/-/myprofile-11.0.109900000000115.tgz#0c5826c39d333dfb3d5acae5c42be4efddb6d5ea"
+  integrity sha512-BJzmSc77/XlFGg9Ucp3I+dkimoSG2AatimEvHG22w2mumDWKECJdjGCMd0nzvdLEyLNTb0/ltKACpPRpFpaxog==
   dependencies:
     "@dnd-kit/core" "^6.2.0"
     "@dnd-kit/modifiers" "^9.0.0"
