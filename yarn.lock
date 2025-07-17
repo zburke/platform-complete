@@ -1826,9 +1826,9 @@
     react-router-prop-types "^1.0.4"
 
 "@folio/orders@>=1.1.0":
-  version "9.0.109900000000411"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/orders/-/orders-9.0.109900000000411.tgz#2d055966c2fd53263711f095eb65dddc4c2235b5"
-  integrity sha512-BXtmGVttMkVwysG2rwUCE3qf44Zopx2nC1mCWTSUUXi6Bak2nZKzMkj+PFoW5CtrT9f0cBwOLf3u5qsMJOaEog==
+  version "9.0.109900000000414"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/orders/-/orders-9.0.109900000000414.tgz#4736968dbde62b8130cde88cef7d1dd7860139c4"
+  integrity sha512-zik21x62LVqJ5N/cPWR/aMa8f99YBHt80571qey/ZGe2XtdbX6+YCmKBD36v+aBvW4fkilV3C6ULuLCqbgZe6g==
   dependencies:
     "@folio/plugin-find-po-line" "^6.0.0"
     "@folio/stripes-acq-components" "~7.0.0"
@@ -2237,7 +2237,29 @@
     lodash "^4.17.4"
     prop-types "^15.6.0"
 
-"@folio/stripes-acq-components@^7.0.0", "@folio/stripes-acq-components@~7.0.0", "@folio/stripes-acq-components@~7.0.2":
+"@folio/stripes-acq-components@^7.0.0":
+  version "7.1.109900000000237"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-acq-components/-/stripes-acq-components-7.1.109900000000237.tgz#792c204e427547b5384435c35fd860cb348316b6"
+  integrity sha512-OtqqpEvBfPxyOT5+lRRQutz672u1FOMoQHoh7ql/Kp92pveCeXIoEMWnwUr9fwQe23KWvaF6I0Q2hH76RJUv+w==
+  dependencies:
+    "@folio/stripes-types" "^3.0.0"
+    "@rehooks/local-storage" "^2.4.4"
+    classnames "^2.2.5"
+    dom-helpers "^3.4.0"
+    final-form "^4.18.2"
+    final-form-arrays "^3.0.2"
+    lodash "^4.17.11"
+    prop-types "^15.7.2"
+    query-string "^7.1.2"
+    react-beautiful-dnd "^13.1.0"
+    react-dropzone "^10.0.0"
+    react-final-form "^6.3.0"
+    react-final-form-arrays "^3.1.1"
+    react-to-print "^2.15.1"
+    react-virtualized-auto-sizer "^1.0.6"
+    redux-form "^8.3.0"
+
+"@folio/stripes-acq-components@~7.0.0", "@folio/stripes-acq-components@~7.0.2":
   version "7.0.409900000000232"
   resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-acq-components/-/stripes-acq-components-7.0.409900000000232.tgz#a06951d9bd56f8b86e6802924d92e2a1c6f85fa0"
   integrity sha512-nxhTk8EZeyS8a5OuHzHs07hTdbsxQ0+buExWOF44gatKS2mvZ35E/kxfZxtU2VEDptbfu/XWaKCQsE8eFP1JUw==
