@@ -1427,9 +1427,9 @@
     lodash "^4.17.21"
 
 "@folio/courses@>=1.0.0":
-  version "7.0.309900000000113"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/courses/-/courses-7.0.309900000000113.tgz#57b3ea5d29b9862cd4be66a93f17ed6c4ca9b6e8"
-  integrity sha512-k5Mz3j2xE0WRY2IVmuxlN6mvRiTJgXcc/TbYJDJFRKHuU0/UkIeUAmhYZYXrBqic/lrpEU+irh9Ln48xFfxGxg==
+  version "7.0.309900000000116"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/courses/-/courses-7.0.309900000000116.tgz#316ef93f332a9987d5b081ca2566819ebe946a41"
+  integrity sha512-gDPAfd50XyNs11cypv1GR66XDCwqE19NTxXHRzf/XFu3rr8M8CtWoh+93pWMidmeLdKX5e6woIgxWoIPd2/Ryg==
   dependencies:
     final-form-set-field-data "^1.0.2"
     ky "^0.23.0"
@@ -1637,9 +1637,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/inventory@>=1.4.0":
-  version "14.0.109900000000873"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/inventory/-/inventory-14.0.109900000000873.tgz#6c3707c381e4c9240944533da71e8344d11ad812"
-  integrity sha512-HVc+6ncHHTBPyGAvMlDqiN+aMSojCL9Vsd3Wg9Z9UFromA82qRpt/Pf7zqRHfsZ9hndo3/KKTguCoEaHefQ8pQ==
+  version "14.0.109900000000876"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/inventory/-/inventory-14.0.109900000000876.tgz#aca33d4f391ea99a145894f1a1d1d2db14a37704"
+  integrity sha512-IMAPG6SU5apxG8wE92snERu6BwV3XzzRqnZGzFi6D/9CtkWDLxIZenJ9re0hohwhIoW+/9bzW/ixVsKFwBILrQ==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     classnames "^2.3.2"
