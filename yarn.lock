@@ -1618,9 +1618,9 @@
     prop-types "^15.6.0"
 
 "@folio/inn-reach@>=1.1.0":
-  version "6.0.10990000000084"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/inn-reach/-/inn-reach-6.0.10990000000084.tgz#092536a87b02699f7422a99c2736df45e8c55af5"
-  integrity sha512-55d+VnQKoy65E5FGQ8YEhoxium02w71P0RMEae3CwdpjlUSj+AsrA/V8jBZGyanX1oOeGjvnjk23dYLsNpt3CQ==
+  version "6.1.10990000000087"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/inn-reach/-/inn-reach-6.1.10990000000087.tgz#5b5ab41739f201458019f821862c2925efb54db2"
+  integrity sha512-RYpRzPALu/oip6FOfA/kpOuigS0X9IqJ6Bs2cWB13TOtJV908CzSaasulvITeBIAaaHAfm84afUcu5QXOliwQw==
   dependencies:
     "@folio/stripes-data-transfer-components" "^6.0.0"
     "@folio/stripes-template-editor" "^3.0.0"
