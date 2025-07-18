@@ -136,11 +136,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-oai-pmh-3.16.0-SNAPSHOT.391",
+    "id": "mod-oai-pmh-3.16.0-SNAPSHOT.392",
     "action": "enable"
   },
   {
-    "id": "mod-circulation-storage-17.5.0-SNAPSHOT.443",
+    "id": "mod-circulation-storage-17.5.0-SNAPSHOT.447",
     "action": "enable"
   },
   {
@@ -168,7 +168,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-source-record-manager-3.11.0-SNAPSHOT.1033",
+    "id": "mod-source-record-manager-3.11.0-SNAPSHOT.1034",
     "action": "enable"
   },
   {
@@ -284,7 +284,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-mosaic-1.0.0-SNAPSHOT.27",
+    "id": "mod-mosaic-1.0.0-SNAPSHOT.28",
     "action": "enable"
   },
   {
