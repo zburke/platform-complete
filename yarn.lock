@@ -1637,9 +1637,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/inventory@>=1.4.0":
-  version "14.0.109900000000895"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/inventory/-/inventory-14.0.109900000000895.tgz#1f0aa2532139d33178350943f2e4cec63c42eb1b"
-  integrity sha512-GLF0fgnbK4G28Ij0M4DaXq7IVpFa4nOLk7DH0iBIP9mMzD1GBzg82vgxNiMBjGSA+zD0RxuEq08Xc1DSn6IUrg==
+  version "14.0.109900000000904"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/inventory/-/inventory-14.0.109900000000904.tgz#146f0229f30f9c304779bb67664cf00401d26b75"
+  integrity sha512-Q+wOa1UOB0yLc7YPxWYccNQEjfHsKBv/7cIKZOiT1qgiDg2f92qmzxVgwvYKnvVel8xqA0VLbQCxsf6doFd+OQ==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     classnames "^2.3.2"
@@ -2102,9 +2102,9 @@
     "@folio/plugin-find-organization" "^6.0.0"
 
 "@folio/quick-marc@>=1.0.0", "@folio/quick-marc@^10.0.0":
-  version "10.1.109900000000335"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/quick-marc/-/quick-marc-10.1.109900000000335.tgz#105b0c8147c25443794065e92baa926f63091b11"
-  integrity sha512-Wwq7RlSDE6B0CU7/DzVHFADIwakLLK7rJm4oPIxR7fg4ZC/eI+19DVFgKsL0KVvR+cYD/gQtIEfnuNiZcyaeTw==
+  version "10.1.109900000000342"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/quick-marc/-/quick-marc-10.1.109900000000342.tgz#d88670ad9e0432d0571bde4bf594f176fd498900"
+  integrity sha512-TdS77fakfhdz/ipv6cfmxavqle171pYKbGDwPbaLrvHm8oXHybQmNr/x0piBgGqRSGZYV2ktldXnLQR4/tDCQA==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     classnames "^2.5.1"
