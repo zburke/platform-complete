@@ -446,7 +446,7 @@
   "id" : "mod-invoice-6.1.0-SNAPSHOT.480",
   "action" : "enable"
 }, {
-  "id" : "folio_finance-9.0.109900000000345",
+  "id" : "folio_finance-9.0.109900000000348",
   "action" : "enable"
 }, {
   "id" : "folio_invoice-8.0.109900000000248",
