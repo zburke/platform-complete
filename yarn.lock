@@ -1637,9 +1637,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/inventory@>=1.4.0":
-  version "14.0.109900000000922"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/inventory/-/inventory-14.0.109900000000922.tgz#75b5b9393748ff1bcb3e384981af796181a0a0e5"
-  integrity sha512-AOb8BybewA8ZhAGtR2Bp5wX7JBmxAPBgWtKXuGqtPXJFWLfkyWdtP4DsJknBGEWZauURSWz0XZqaWXElakNdhA==
+  version "14.0.109900000000929"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/inventory/-/inventory-14.0.109900000000929.tgz#b2b150f3ec6040e5a41de934c434fd4f3e803841"
+  integrity sha512-JBKvDY9vZJBH/YvVLtjStNd0TdmxQeEE7UALZWMNSVgTJxQBIuaM7yfvgjedGOKkr2Vu71HdhLYcuJ9brLZgng==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     classnames "^2.3.2"
@@ -5233,9 +5233,9 @@ effection@^1.0.0:
   integrity sha512-ITAAnuI7sJqKhjvYlnm66NHaW7zrXzqgsGsjVaaqFHYDWPN8WylVj46xASfkrtwq5wmklbzy6tvRYaj2C4rDHw==
 
 electron-to-chromium@^1.5.173:
-  version "1.5.187"
-  resolved "https://repository.folio.org/repository/npm-ci-all/electron-to-chromium/-/electron-to-chromium-1.5.187.tgz#8c58854e065962351dc87e95614dd78d50425966"
-  integrity sha512-cl5Jc9I0KGUoOoSbxvTywTa40uspGJt/BDBoDLoxJRSBpWh4FFXBsjNRHfQrONsV/OoEjDfHUmZQa2d6Ze4YgA==
+  version "1.5.188"
+  resolved "https://repository.folio.org/repository/npm-ci-all/electron-to-chromium/-/electron-to-chromium-1.5.188.tgz#38033691f27b1ad914f8ba9812634fa4c4f5b4f9"
+  integrity sha512-pfEx5CBFAocOKNrc+i5fSvhDaI1Vr9R9aT5uX1IzM3hhdL6k649wfuUcdUd9EZnmbE1xdfA51CwqQ61CO3Xl3g==
 
 element-is-visible@^1.0.0:
   version "1.0.0"
