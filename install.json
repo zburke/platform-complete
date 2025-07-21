@@ -218,7 +218,7 @@
   "id" : "edge-oai-pmh-2.12.0-SNAPSHOT.121",
   "action" : "enable"
 }, {
-  "id" : "mod-circulation-storage-17.5.0-SNAPSHOT.449",
+  "id" : "mod-circulation-storage-17.5.0-SNAPSHOT.458",
   "action" : "enable"
 }, {
   "id" : "mod-user-import-3.11.0-SNAPSHOT.110",
@@ -449,10 +449,10 @@
   "id" : "folio_orders-9.0.109900000000414",
   "action" : "enable"
 }, {
-  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.699",
+  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.700",
   "action" : "enable"
 }, {
-  "id" : "folio_plugin-query-builder-3.0.109900000000731",
+  "id" : "folio_plugin-query-builder-3.0.109900000000769",
   "action" : "enable"
 }, {
   "id" : "edge-fqm-4.1.0-SNAPSHOT.52",
