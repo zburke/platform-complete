@@ -164,10 +164,10 @@
   "id" : "mod-password-validator-3.5.0-SNAPSHOT.99",
   "action" : "enable"
 }, {
-  "id" : "folio_stripes-smart-components-10.1.109900000000531",
+  "id" : "folio_stripes-smart-components-10.1.109900000000536",
   "action" : "enable"
 }, {
-  "id" : "mod-kb-ebsco-java-6.1.0-SNAPSHOT.473",
+  "id" : "mod-kb-ebsco-java-6.1.0-SNAPSHOT.474",
   "action" : "enable"
 }, {
   "id" : "folio_eholdings-11.1.109900000000247",
@@ -179,7 +179,7 @@
   "id" : "folio_serials-management-2.1.109900000000804",
   "action" : "enable"
 }, {
-  "id" : "mod-agreements-7.3.0-SNAPSHOT.780",
+  "id" : "mod-agreements-7.3.0-SNAPSHOT.781",
   "action" : "enable"
 }, {
   "id" : "folio_erm-comparisons-8.1.109900000000126",
@@ -305,12 +305,6 @@
   "id" : "folio_plugin-find-import-profile-9.0.10990000000046",
   "action" : "enable"
 }, {
-  "id" : "mod-oa-3.3.0-SNAPSHOT.191",
-  "action" : "enable"
-}, {
-  "id" : "folio_oa-3.1.109900000000177",
-  "action" : "enable"
-}, {
   "id" : "mod-event-config-2.10.0-SNAPSHOT.72",
   "action" : "enable"
 }, {
@@ -338,7 +332,7 @@
   "id" : "folio_plugin-bursar-export-5.0.109900000000208",
   "action" : "enable"
 }, {
-  "id" : "mod-circulation-24.5.0-SNAPSHOT.1322",
+  "id" : "mod-circulation-24.5.0-SNAPSHOT.1323",
   "action" : "enable"
 }, {
   "id" : "folio_checkin-12.0.109900000000137",
@@ -350,7 +344,7 @@
   "id" : "folio_circulation-11.1.109900000000179",
   "action" : "enable"
 }, {
-  "id" : "folio_inventory-14.0.109900000000904",
+  "id" : "folio_inventory-14.0.109900000000922",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-create-inventory-records-7.0.10990000000071",
@@ -365,7 +359,7 @@
   "id" : "mod-circulation-bff-1.2.0-SNAPSHOT.71",
   "action" : "enable"
 }, {
-  "id" : "mod-dcb-2.0.0-SNAPSHOT.132",
+  "id" : "mod-dcb-2.0.0-SNAPSHOT.133",
   "action" : "enable"
 }, {
   "id" : "edge-dcb-1.4.0-SNAPSHOT.41",
@@ -392,7 +386,7 @@
   "id" : "mod-tlr-1.2.0-SNAPSHOT.84",
   "action" : "enable"
 }, {
-  "id" : "mod-inn-reach-3.5.0-SNAPSHOT.411",
+  "id" : "mod-inn-reach-3.5.0-SNAPSHOT.412",
   "action" : "enable"
 }, {
   "id" : "folio_inn-reach-6.1.10990000000087",
@@ -467,7 +461,7 @@
   "id" : "mod-bulk-operations-2.3.0-SNAPSHOT.443",
   "action" : "enable"
 }, {
-  "id" : "folio_bulk-edit-5.0.109900000000474",
+  "id" : "folio_bulk-edit-5.0.109900000000484",
   "action" : "enable"
 }, {
   "id" : "mod-lists-3.2.0-SNAPSHOT.204",
@@ -486,5 +480,11 @@
   "action" : "enable"
 }, {
   "id" : "edge-dematic-3.0.0-SNAPSHOT.68",
+  "action" : "enable"
+}, {
+  "id" : "mod-oa-3.3.0-SNAPSHOT.191",
+  "action" : "enable"
+}, {
+  "id" : "folio_oa-3.1.109900000000177",
   "action" : "enable"
 } ]

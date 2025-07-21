@@ -116,7 +116,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-kb-ebsco-java-6.1.0-SNAPSHOT.473",
+    "id": "mod-kb-ebsco-java-6.1.0-SNAPSHOT.474",
     "action": "enable"
   },
   {
@@ -124,7 +124,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-agreements-7.3.0-SNAPSHOT.780",
+    "id": "mod-agreements-7.3.0-SNAPSHOT.781",
     "action": "enable"
   },
   {
@@ -208,10 +208,6 @@
     "action": "enable"
   },
   {
-    "id": "mod-oa-3.3.0-SNAPSHOT.191",
-    "action": "enable"
-  },
-  {
     "id": "mod-event-config-2.10.0-SNAPSHOT.72",
     "action": "enable"
   },
@@ -236,7 +232,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-circulation-24.5.0-SNAPSHOT.1322",
+    "id": "mod-circulation-24.5.0-SNAPSHOT.1323",
     "action": "enable"
   },
   {
@@ -244,7 +240,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-dcb-2.0.0-SNAPSHOT.132",
+    "id": "mod-dcb-2.0.0-SNAPSHOT.133",
     "action": "enable"
   },
   {
@@ -264,7 +260,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-inn-reach-3.5.0-SNAPSHOT.411",
+    "id": "mod-inn-reach-3.5.0-SNAPSHOT.412",
     "action": "enable"
   },
   {
@@ -309,6 +305,10 @@
   },
   {
     "id": "mod-remote-storage-3.5.0-SNAPSHOT.233",
+    "action": "enable"
+  },
+  {
+    "id": "mod-oa-3.3.0-SNAPSHOT.191",
     "action": "enable"
   }
 ]
