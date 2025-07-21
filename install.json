@@ -125,7 +125,7 @@
   "id" : "mod-pubsub-2.17.0-SNAPSHOT.263",
   "action" : "enable"
 }, {
-  "id" : "mod-inventory-storage-29.1.0-SNAPSHOT.1175",
+  "id" : "mod-inventory-storage-29.1.0-SNAPSHOT.1176",
   "action" : "enable"
 }, {
   "id" : "folio_calendar-12.0.109900000000163",
@@ -146,7 +146,7 @@
   "id" : "mod-organizations-2.2.0-SNAPSHOT.73",
   "action" : "enable"
 }, {
-  "id" : "mod-courses-1.5.0-SNAPSHOT.169",
+  "id" : "mod-courses-1.5.0-SNAPSHOT.170",
   "action" : "enable"
 }, {
   "id" : "folio_courses-7.0.309900000000116",
@@ -449,7 +449,7 @@
   "id" : "folio_orders-9.0.109900000000414",
   "action" : "enable"
 }, {
-  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.697",
+  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.699",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-query-builder-3.0.109900000000731",
