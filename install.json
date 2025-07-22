@@ -125,7 +125,7 @@
   "id" : "mod-pubsub-2.17.0-SNAPSHOT.263",
   "action" : "enable"
 }, {
-  "id" : "mod-inventory-storage-29.1.0-SNAPSHOT.1176",
+  "id" : "mod-inventory-storage-29.1.0-SNAPSHOT.1177",
   "action" : "enable"
 }, {
   "id" : "folio_calendar-12.0.109900000000163",
@@ -218,7 +218,7 @@
   "id" : "edge-oai-pmh-2.12.0-SNAPSHOT.121",
   "action" : "enable"
 }, {
-  "id" : "mod-circulation-storage-17.5.0-SNAPSHOT.458",
+  "id" : "mod-circulation-storage-17.5.0-SNAPSHOT.459",
   "action" : "enable"
 }, {
   "id" : "mod-user-import-3.11.0-SNAPSHOT.110",
