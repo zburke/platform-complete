@@ -320,7 +320,7 @@
   "id" : "folio_reading-room-3.0.10990000000091",
   "action" : "enable"
 }, {
-  "id" : "mod-data-export-worker-3.5.0-SNAPSHOT.625",
+  "id" : "mod-data-export-worker-3.5.0-SNAPSHOT.626",
   "action" : "enable"
 }, {
   "id" : "mod-data-export-spring-3.6.0-SNAPSHOT.308",
@@ -344,7 +344,7 @@
   "id" : "folio_circulation-11.1.109900000000179",
   "action" : "enable"
 }, {
-  "id" : "folio_inventory-14.0.109900000000939",
+  "id" : "folio_inventory-14.0.109900000000942",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-create-inventory-records-7.0.10990000000071",
