@@ -335,16 +335,16 @@
   "id" : "mod-circulation-24.5.0-SNAPSHOT.1323",
   "action" : "enable"
 }, {
-  "id" : "folio_checkin-12.0.109900000000137",
+  "id" : "folio_checkin-12.0.109900000000146",
   "action" : "enable"
 }, {
-  "id" : "folio_checkout-12.0.109900000000130",
+  "id" : "folio_checkout-12.0.109900000000133",
   "action" : "enable"
 }, {
   "id" : "folio_circulation-11.1.109900000000179",
   "action" : "enable"
 }, {
-  "id" : "folio_inventory-14.0.109900000000929",
+  "id" : "folio_inventory-14.0.109900000000939",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-create-inventory-records-7.0.10990000000071",
