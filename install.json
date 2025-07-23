@@ -266,7 +266,7 @@
   "id" : "folio_stripes-authority-components-6.1.109900000000138",
   "action" : "enable"
 }, {
-  "id" : "mod-inventory-21.2.0-SNAPSHOT.883",
+  "id" : "mod-inventory-21.2.0-SNAPSHOT.884",
   "action" : "enable"
 }, {
   "id" : "mod-quick-marc-7.1.0-SNAPSHOT.327",
@@ -296,7 +296,7 @@
   "id" : "folio_stripes-marc-components-2.0.109900000000167",
   "action" : "enable"
 }, {
-  "id" : "mod-data-import-3.4.0-SNAPSHOT.334",
+  "id" : "mod-data-import-3.4.0-SNAPSHOT.335",
   "action" : "enable"
 }, {
   "id" : "folio_data-import-9.0.109900000000129",
