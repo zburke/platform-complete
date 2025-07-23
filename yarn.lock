@@ -1637,9 +1637,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/inventory@>=1.4.0":
-  version "14.0.109900000000942"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/inventory/-/inventory-14.0.109900000000942.tgz#d8fbe29669ce8d476a8634c4dcf394bcac126fbb"
-  integrity sha512-1VXXH36eJ1aMdI1VTgascvq0aM0OKBodsRz7Er0DDQWv23sP9POo/6E1uhOrLptza52UUvcu4quwFOvcFmMb9g==
+  version "14.0.109900000000950"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/inventory/-/inventory-14.0.109900000000950.tgz#c5a4a0d2621a486ed99032a620c086a5d061fce5"
+  integrity sha512-gZMHElM4BZBxDJ87AG3x3Hw2vDw08ma0kpiMDVfX4PaMesBUP+GiYlIfQN3ZNz+53TJ8y2wj7FGuU5+E1RuTOA==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     classnames "^2.3.2"
@@ -1756,9 +1756,9 @@
     react-final-form-arrays "^3.1.1"
 
 "@folio/marc-authorities@>=1.0.0":
-  version "8.0.109900000000981"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/marc-authorities/-/marc-authorities-8.0.109900000000981.tgz#d297d58161f1eb91e297e63ce5c16127a5b2a5a2"
-  integrity sha512-jUHsAM304I01lMIiUyLJYZ/REuhrwVYzoYuegX3mb9vkCC/8uxAxnCHWrxcB0cYzIBPXj8AQuCyjKEpiEHMilw==
+  version "8.0.1099000000001003"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/marc-authorities/-/marc-authorities-8.0.1099000000001003.tgz#c596e40738dcd0f762b0977d576f999e2ad47b7b"
+  integrity sha512-JiRnxJ/IprS3iLrJD6I8pot0OLKWbvHY7U8sEIMFhxqkItl9Gn327kmhJ8CPH1i4FVebHzkinHpK0nIRpmiDwg==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     "@rehooks/local-storage" "^2.4.4"
@@ -2745,9 +2745,9 @@
     redux-form "^8.0.0"
 
 "@folio/users@>=2.17.0":
-  version "13.0.109900000000543"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.109900000000543.tgz#c1c634e831e7ca97cd3c7580dbead9643dad3475"
-  integrity sha512-KdUHFlp1ykNRa/0hMgbcGTOBWXzBdQSxN5deKAL2fPmMSklnEnkk/0H8AL2aFI0ydgsoTudPD0QIsZOlMUSMRg==
+  version "13.0.109900000000546"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.109900000000546.tgz#e21414d34f1cf4613d094d17f5e3ad8be132645a"
+  integrity sha512-FpR7u40Sb0T1eTVu6gFSZnD0ZkCGI95sLVGVb4sjGnecHsU4GCn/4LmeAMBkbFndbSxHvYab4SeAPaUvQn0exg==
   dependencies:
     "@folio/stripes-util" "^7.0.0"
     compressorjs "^1.2.1"
