@@ -1,10 +1,6 @@
 [
     {
-        "version": "7.3.0-SNAPSHOT.775",
-        "module": "mod-agreements"
-    },
-    {
-        "version": "2.1.0-SNAPSHOT.159",
-        "module": "mod-serials-management"
+        "version": "some-version",
+        "module": "some-module"
     }
 ]
