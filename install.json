@@ -245,7 +245,7 @@
   "id" : "mod-finance-5.2.0-SNAPSHOT.295",
   "action" : "enable"
 }, {
-  "id" : "mod-source-record-manager-3.11.0-SNAPSHOT.1036",
+  "id" : "mod-source-record-manager-3.11.0-SNAPSHOT.1037",
   "action" : "enable"
 }, {
   "id" : "mod-copycat-1.8.0",
@@ -449,7 +449,7 @@
   "id" : "folio_orders-9.0.109900000000414",
   "action" : "enable"
 }, {
-  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.711",
+  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.714",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-query-builder-3.0.109900000000769",
