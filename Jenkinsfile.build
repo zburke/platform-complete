@@ -29,7 +29,7 @@ pipeline {
 
   agent {
     node {
-      label 'platform-build-java17-test'
+      label 'platform-build-java17'
     }
   }
 
@@ -49,7 +49,7 @@ pipeline {
           }
           else {
             env.folio_config = 'snapshot'
-            env.ec2_instanceType = 'm5.2xlarge'
+            env.ec2_instanceType = 'm5.4xlarge'
             env.ec2_group = 'build_snapshot'
           }
         }
