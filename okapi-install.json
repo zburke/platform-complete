@@ -36,7 +36,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-organizations-storage-5.0.0-SNAPSHOT.126",
+    "id": "mod-organizations-storage-5.0.0-SNAPSHOT.127",
     "action": "enable"
   },
   {
@@ -96,7 +96,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-orders-storage-14.0.0-SNAPSHOT.441",
+    "id": "mod-orders-storage-14.0.0-SNAPSHOT.443",
     "action": "enable"
   },
   {
@@ -132,7 +132,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-login-saml-2.11.0-SNAPSHOT.169",
+    "id": "mod-login-saml-2.11.0-SNAPSHOT.171",
     "action": "enable"
   },
   {

@@ -1312,9 +1312,9 @@
     zustand "^4.1.5"
 
 "@folio/bulk-edit@>=1.0.0":
-  version "5.0.109900000000484"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/bulk-edit/-/bulk-edit-5.0.109900000000484.tgz#d8449caf7709a4d08d0a087c5f2539a223c038f6"
-  integrity sha512-etsycEaJ4IR9uzHqH44h/ryrare6fo0ybtrNBJrH0cu36uCOwqOjeAe3Ifs5n8rNlp0g0hV427RV64wloKcrag==
+  version "5.0.109900000000507"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/bulk-edit/-/bulk-edit-5.0.109900000000507.tgz#c5a8d274e2c65005badf8d93f5621e2c7c2d3b19"
+  integrity sha512-/8t5LhtEeJwdm5gJrZeO4vLi3yQfA3EO5BLEQ4EYqjtFOAgmQuN4lFWYLZvJd3ifJHGHODiU2IO27XYdfU1E6w==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     "@folio/stripes-data-transfer-components" "^7.0.0"
@@ -2732,9 +2732,9 @@
     redux-form "^8.3.7"
 
 "@folio/tenant-settings@>=2.5.1":
-  version "11.0.10990000000094"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/tenant-settings/-/tenant-settings-11.0.10990000000094.tgz#c79ca039accb69ae878bbb967763a3e31c36dc75"
-  integrity sha512-PbGrvP/s8+hVFYymqnYCtgq3PjTwHliwEgzEilOYxDpd5qNHB3I8070MOjQ7d/nOGhdcwNORspXlE4Cvd2/mUA==
+  version "11.0.10990000000097"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/tenant-settings/-/tenant-settings-11.0.10990000000097.tgz#01be707377266e8ca0af6ff7977770956ae64c16"
+  integrity sha512-By/yaiAnB2cdRbCIwc8TGPcDSxxNTOCCYqM/xl8D92XKfNMAHjSpMl65VjQkwMgXPBeayWroPkZcAfHKx1zGkA==
   dependencies:
     final-form "^4.18.2"
     lodash "^4.17.4"
