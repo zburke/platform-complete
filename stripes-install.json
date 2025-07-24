@@ -8,7 +8,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_bulk-edit-5.0.109900000000517",
+    "id": "folio_bulk-edit-5.0.109900000000530",
     "action": "enable"
   },
   {
@@ -88,11 +88,11 @@
     "action": "enable"
   },
   {
-    "id": "folio_inventory-14.0.109900000000950",
+    "id": "folio_inventory-14.0.109900000000956",
     "action": "enable"
   },
   {
-    "id": "folio_invoice-8.0.109900000000248",
+    "id": "folio_invoice-8.0.109900000000259",
     "action": "enable"
   },
   {
@@ -148,7 +148,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_plugin-create-inventory-records-7.0.10990000000071",
+    "id": "folio_plugin-create-inventory-records-7.0.10990000000074",
     "action": "enable"
   },
   {
@@ -304,7 +304,7 @@
     "action": "enable"
   },
   {
-    "id": "edge-sip2-3.5.0-SNAPSHOT.194",
+    "id": "edge-sip2-3.5.0-SNAPSHOT.195",
     "action": "enable"
   },
   {
