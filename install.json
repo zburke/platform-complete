@@ -140,7 +140,7 @@
   "id" : "mod-reading-room-1.3.0-SNAPSHOT.28",
   "action" : "enable"
 }, {
-  "id" : "mod-orders-storage-14.0.0-SNAPSHOT.443",
+  "id" : "mod-orders-storage-14.0.0-SNAPSHOT.444",
   "action" : "enable"
 }, {
   "id" : "mod-organizations-2.2.0-SNAPSHOT.73",
@@ -197,7 +197,7 @@
   "id" : "mod-configuration-5.13.0-SNAPSHOT.139",
   "action" : "enable"
 }, {
-  "id" : "folio_agreements-12.1.109900000000817",
+  "id" : "folio_agreements-12.1.109900000000852",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-organization-6.0.10990000000031",
@@ -320,7 +320,7 @@
   "id" : "folio_reading-room-3.0.10990000000091",
   "action" : "enable"
 }, {
-  "id" : "mod-data-export-worker-3.5.0-SNAPSHOT.626",
+  "id" : "mod-data-export-worker-3.5.0-SNAPSHOT.627",
   "action" : "enable"
 }, {
   "id" : "mod-data-export-spring-3.6.0-SNAPSHOT.309",
