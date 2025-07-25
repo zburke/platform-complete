@@ -1637,9 +1637,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/inventory@>=1.4.0":
-  version "14.0.109900000000956"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/inventory/-/inventory-14.0.109900000000956.tgz#b22d66661f3b18cd3462afbc74b8dbd30c015bc7"
-  integrity sha512-q6Zp7JAEMaaCOFKi6z5DGZxwCiYhh1pdPcdJv94v0rq2/yvfVqhm/4aDZuht+Op9uTNyW1uHW4AZBiepIKEiQQ==
+  version "14.0.109900000000959"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/inventory/-/inventory-14.0.109900000000959.tgz#62f9e90d9eebd47b6b6f93b949abd5f45c60f756"
+  integrity sha512-S9PhgXjeTY/+DtikAQC8czf5CpmKYQTHnLQSyfa6bNQ5tUDuTTuQwTViGKha77uYxKbFbrN+0LfLFN1Tlzjj/A==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     classnames "^2.3.2"
