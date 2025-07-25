@@ -1666,9 +1666,9 @@
     "@folio/plugin-find-instance" "^9.0.0"
 
 "@folio/invoice@>=1.0.0":
-  version "8.0.109900000000259"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/invoice/-/invoice-8.0.109900000000259.tgz#e01d81defa2841a0f71d799294b5614e1ab5f115"
-  integrity sha512-RLySVZiwHSqdA3fNSnRT0nfAYecdQmY2WK6EwMnbqQBG/kCoP2FvvVyVhsVGH212ebxdDDX137B2+3W52A7HNQ==
+  version "8.0.109900000000264"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/invoice/-/invoice-8.0.109900000000264.tgz#526fcc0e382543d955c465d9a2e7dc6f72994d9e"
+  integrity sha512-TSG/Mbn6dW0OBOCND/3fWZRGtlZf04SklHvnudg7RhDpngIEh3g96wHUvl20fWb5tYxLPsDDmQL+ioNOAcvFsg==
   dependencies:
     "@folio/stripes-acq-components" "~7.1.0"
     file-saver "^2.0.0"
@@ -2745,9 +2745,9 @@
     redux-form "^8.0.0"
 
 "@folio/users@>=2.17.0":
-  version "13.0.109900000000546"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.109900000000546.tgz#e21414d34f1cf4613d094d17f5e3ad8be132645a"
-  integrity sha512-FpR7u40Sb0T1eTVu6gFSZnD0ZkCGI95sLVGVb4sjGnecHsU4GCn/4LmeAMBkbFndbSxHvYab4SeAPaUvQn0exg==
+  version "13.0.109900000000560"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.109900000000560.tgz#cdebd22be9d006cc6d8a316d880b0d8f572a29be"
+  integrity sha512-d3O+4xPYstV+EqpPhsx4nOkpq3WSjWLldfg3yggiryu9rE+CUY8cglxbu/vZiB0p4UDgH/8yitctBl9ChjvfyQ==
   dependencies:
     "@folio/stripes-util" "^7.0.0"
     compressorjs "^1.2.1"
