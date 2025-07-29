@@ -1427,9 +1427,9 @@
     lodash "^4.17.21"
 
 "@folio/courses@>=1.0.0":
-  version "7.0.309900000000121"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/courses/-/courses-7.0.309900000000121.tgz#3fb2ebb6d752d507031963f58666b0263608d643"
-  integrity sha512-+2anbzPPsBfD1C0uu9alDb4kopbZb0qXybNFytpkc8nP2sMtjSN5Vx3Cfa+GRqdrkppPLCn1v8apEmIEqcBVrA==
+  version "7.0.309900000000124"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/courses/-/courses-7.0.309900000000124.tgz#aacd064ce97d519e4528c30e0abe70f3cfea6c92"
+  integrity sha512-GpY7sATRqasrawxdNS3RxLsqBebPVBMNwiKpvU0YtZxrRC1Ex430lZzAoZe748mSdl4DqoFCAo4FVYP6lPzFzQ==
   dependencies:
     final-form-set-field-data "^1.0.2"
     ky "^0.23.0"
