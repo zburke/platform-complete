@@ -164,7 +164,7 @@
   "id" : "mod-password-validator-3.5.0-SNAPSHOT.99",
   "action" : "enable"
 }, {
-  "id" : "folio_stripes-smart-components-10.1.109900000000567",
+  "id" : "folio_stripes-smart-components-10.1.109900000000570",
   "action" : "enable"
 }, {
   "id" : "mod-kb-ebsco-java-6.1.0-SNAPSHOT.475",
@@ -206,7 +206,7 @@
   "id" : "folio_tenant-settings-11.0.109900000000101",
   "action" : "enable"
 }, {
-  "id" : "mod-login-saml-2.11.0-SNAPSHOT.171",
+  "id" : "mod-login-saml-2.11.0-SNAPSHOT.172",
   "action" : "enable"
 }, {
   "id" : "mod-oai-pmh-3.16.0-SNAPSHOT.392",
@@ -230,7 +230,7 @@
   "id" : "folio_stripes-core-11.1.109900000000974",
   "action" : "enable"
 }, {
-  "id" : "folio_users-13.0.109900000000579",
+  "id" : "folio_users-13.0.109900000000592",
   "action" : "enable"
 }, {
   "id" : "mod-patron-blocks-1.13.0-SNAPSHOT.111",
@@ -287,7 +287,7 @@
   "id" : "mod-audit-3.0.0-SNAPSHOT.225",
   "action" : "enable"
 }, {
-  "id" : "folio_circulation-log-6.0.10990000000075",
+  "id" : "folio_circulation-log-6.0.10990000000085",
   "action" : "enable"
 }, {
   "id" : "folio_marc-authorities-8.0.1099000000001003",

@@ -1383,9 +1383,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/circulation-log@>=1.0.0":
-  version "6.0.10990000000075"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/circulation-log/-/circulation-log-6.0.10990000000075.tgz#022136b29db1169c07edd72ca1454e81c1bf7ca2"
-  integrity sha512-2OfXYxCSGqb0KTilOWDEcy4lrJ8yOYPicuPS542bLXoBgQu7CdDD7dqKVD8hP++0e0HWrQoNreHq43E/KnqriA==
+  version "6.0.10990000000085"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/circulation-log/-/circulation-log-6.0.10990000000085.tgz#5e5075aa8d68524298db85dafb4488cedd7cd933"
+  integrity sha512-Uiz1SGtiK8Owx7ts1LK2s8xhcCkyIStDMymcVET491QVuUZl7y2vlHufSeRj+L7W1wqU86Ofu4YzHWLJSeCTlg==
   dependencies:
     "@folio/stripes-acq-components" "~7.0.0"
     dayjs "^1.11.9"
@@ -2562,9 +2562,9 @@
     prop-types "^15.7.2"
 
 "@folio/stripes-smart-components@^10.0.0":
-  version "10.1.109900000000567"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-smart-components/-/stripes-smart-components-10.1.109900000000567.tgz#3f3bbb0366e63701e3a0772fac81b9637bdd003b"
-  integrity sha512-br7Tr7m0LhHYQoy7p3Kra1DI5Rtoh1E8Mf4CpX8YEte8h66klFUFy3VgRVh8/HAdMeNX+LXGU0Yxqe4mmOEFHw==
+  version "10.1.109900000000570"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-smart-components/-/stripes-smart-components-10.1.109900000000570.tgz#a45722993de543a618f002afac335a062c7e0a72"
+  integrity sha512-rRVbIJPayogAaeKpOpkrjScmTWxkrNZeNZJAGDblasY/ihWm0Gv6NSEfC6l7/s6gWuiVdHFHoi0WP76lEHPpaw==
   dependencies:
     "@rehooks/local-storage" "2.4.4"
     classnames "^2.2.6"
@@ -2745,9 +2745,9 @@
     redux-form "^8.0.0"
 
 "@folio/users@>=2.17.0":
-  version "13.0.109900000000579"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.109900000000579.tgz#fe9cd0e55f66da8c00b42e2d7041283f4d5db943"
-  integrity sha512-j0HjaqPd/JgyoCgokIa+RT8yobtk+z34HRnlhJOYew0jtn4hshA2tv1Ri8pYhL0cdkgi5A8RMs4lvG+gha0HcA==
+  version "13.0.109900000000592"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.109900000000592.tgz#3eb8a265ce46e4ea93071c8a219d4e332c93dc30"
+  integrity sha512-e1JzDTxSo7raQOK0H4V/ELBcMr8vTTF7ioBiAMNSX0J18Vrkohu36s81SogjeraBkwTI4+Fw9ObCJXb4bHvQBg==
   dependencies:
     "@folio/stripes-util" "^7.0.0"
     compressorjs "^1.2.1"

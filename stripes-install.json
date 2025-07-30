@@ -28,7 +28,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_circulation-log-6.0.10990000000075",
+    "id": "folio_circulation-log-6.0.10990000000085",
     "action": "enable"
   },
   {
@@ -268,7 +268,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_stripes-smart-components-10.1.109900000000567",
+    "id": "folio_stripes-smart-components-10.1.109900000000570",
     "action": "enable"
   },
   {
@@ -280,7 +280,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_users-13.0.109900000000579",
+    "id": "folio_users-13.0.109900000000592",
     "action": "enable"
   },
   {
