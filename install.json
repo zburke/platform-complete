@@ -179,7 +179,7 @@
   "id" : "folio_serials-management-2.1.109900000000804",
   "action" : "enable"
 }, {
-  "id" : "mod-agreements-7.3.0-SNAPSHOT.789",
+  "id" : "mod-agreements-7.3.0-SNAPSHOT.790",
   "action" : "enable"
 }, {
   "id" : "folio_erm-comparisons-8.1.109900000000130",
@@ -326,7 +326,7 @@
   "id" : "folio_reading-room-3.0.10990000000091",
   "action" : "enable"
 }, {
-  "id" : "mod-data-export-worker-3.5.0-SNAPSHOT.627",
+  "id" : "mod-data-export-worker-3.5.0-SNAPSHOT.628",
   "action" : "enable"
 }, {
   "id" : "mod-data-export-spring-3.6.0-SNAPSHOT.309",
