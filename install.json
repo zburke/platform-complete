@@ -179,7 +179,7 @@
   "id" : "folio_serials-management-2.1.109900000000804",
   "action" : "enable"
 }, {
-  "id" : "mod-agreements-7.3.0-SNAPSHOT.792",
+  "id" : "mod-agreements-7.3.0-SNAPSHOT.793",
   "action" : "enable"
 }, {
   "id" : "folio_erm-comparisons-8.1.109900000000130",
@@ -389,7 +389,7 @@
   "id" : "folio_requests-mediated-4.0.109900000000131",
   "action" : "enable"
 }, {
-  "id" : "mod-tlr-1.2.0-SNAPSHOT.87",
+  "id" : "mod-tlr-1.2.0-SNAPSHOT.88",
   "action" : "enable"
 }, {
   "id" : "mod-inn-reach-3.5.0-SNAPSHOT.414",
