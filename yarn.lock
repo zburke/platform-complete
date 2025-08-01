@@ -1566,14 +1566,16 @@
     redux-form "^8.3.7"
 
 "@folio/export-manager@>=1.0.0":
-  version "4.0.10990000000090"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/export-manager/-/export-manager-4.0.10990000000090.tgz#15ea03153cc4bb299602b887ac2881871f94b315"
-  integrity sha512-Rm01RbxXP6HycK7p+9TvLekI3anSaAqGj/TJcM4CXf/+PjVBPfjPXK7IhfAFWnZp0BmF5Kxx22nwQSDA3nKAAg==
+  version "5.0.10990000000095"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/export-manager/-/export-manager-5.0.10990000000095.tgz#a3f95b89052f5705bff1b3df1be345152c58be9f"
+  integrity sha512-p0LALZtkGBn4rfmCePEKDLQyIUAsRiaovWQ1bKjZXircQlGXAk2fOrBj4OqufbcHagWf0rI9Wbveu3uIBNSlug==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     lodash "^4.17.21"
     prop-types "^15.5.10"
     query-string "^6.1.0"
+    react-final-form "^7.0.0"
+    react-final-form-arrays "^4.0.0"
     react-router-prop-types "^1.0.4"
 
 "@folio/finance@>=1.1.0":
@@ -1599,11 +1601,11 @@
     "@folio/plugin-find-fund" "^4.0.0"
 
 "@folio/gobi-settings@>=1.0.0":
-  version "4.0.10990000000054"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/gobi-settings/-/gobi-settings-4.0.10990000000054.tgz#88176799827e350fca5d223076fa26671b497130"
-  integrity sha512-EJvx4S2FIqa41Dp/oFXeuKsSRHB8xczqt3YbSGEH3YvwF0vhldUsk+nCbtwWzR9hAk7FNeyF8c9d0H1IXasAdw==
+  version "4.0.10990000000074"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/gobi-settings/-/gobi-settings-4.0.10990000000074.tgz#c2f76d5e2388332d2704212a49be7100c7727168"
+  integrity sha512-Ge45JficYAsuZfe4rvkJzUREZZXn9/LZ89Q+kN+2qfM7Zj32caXfjmsVs7CcWQLDschA24XQ7hYj1yMyflJHxw==
   dependencies:
-    "@folio/stripes-acq-components" "~7.0.0"
+    "@folio/stripes-acq-components" "~7.1.0"
     lodash "^4.17.11"
     prop-types "^15.6.0"
     query-string "^7.1.2"
@@ -1826,9 +1828,9 @@
     react-router-prop-types "^1.0.4"
 
 "@folio/orders@>=1.1.0":
-  version "9.0.109900000000424"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/orders/-/orders-9.0.109900000000424.tgz#fd795eb5f4f9b4fd10235c6432628293cb95bbe1"
-  integrity sha512-RRLS/0GQSaCQW4j+rdVvb+QMAyog5bmlH1Q4X4DTTs2EuIQqPM3SfU6Ebfsf1Q+C/S5X9gayKe9w8AksbhN2NQ==
+  version "9.0.109900000000439"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/orders/-/orders-9.0.109900000000439.tgz#dafbaec2f7ad71c0255b00c494e6c7771837f0a1"
+  integrity sha512-bn0sjuF4NWeruRTziUvYQNVZBDntYIzk5aSO8pzKdWy3lle3hPnt9nN2oh3Jx2imyI8/gOCWvBn5kbtt+FP7dA==
   dependencies:
     "@folio/plugin-find-po-line" "^6.0.0"
     "@folio/stripes-acq-components" "~7.0.0"
@@ -8755,6 +8757,13 @@ react-final-form-arrays@^3.1.0, react-final-form-arrays@^3.1.1, react-final-form
   dependencies:
     "@babel/runtime" "^7.19.4"
 
+react-final-form-arrays@^4.0.0:
+  version "4.0.0"
+  resolved "https://repository.folio.org/repository/npm-ci-all/react-final-form-arrays/-/react-final-form-arrays-4.0.0.tgz#c92707eeb7edff8d38946a55d02f9c9a594fb6b3"
+  integrity sha512-mC/FcaQY0NdVLmpwjJGFY8V77BzFqiI2QBJRDHwWRNkLqOCYB9v5WVhcjbj5NfXMqDl7GmG2iCCndNX+S9teHw==
+  dependencies:
+    "@babel/runtime" "^7.19.4"
+
 react-final-form-listeners@^1.0.2, react-final-form-listeners@^1.0.3:
   version "1.0.3"
   resolved "https://repository.folio.org/repository/npm-ci-all/react-final-form-listeners/-/react-final-form-listeners-1.0.3.tgz#88e0bd6af06edc9a74b81ddad2ce0ded53f3331e"
@@ -8766,6 +8775,13 @@ react-final-form@^6.3.0, react-final-form@^6.3.5, react-final-form@^6.4.0, react
   version "6.5.9"
   resolved "https://repository.folio.org/repository/npm-ci-all/react-final-form/-/react-final-form-6.5.9.tgz#644797d4c122801b37b58a76c87761547411190b"
   integrity sha512-x3XYvozolECp3nIjly+4QqxdjSSWfcnpGEL5K8OBT6xmGrq5kBqbA6+/tOqoom9NwqIPPbxPNsOViFlbKgowbA==
+  dependencies:
+    "@babel/runtime" "^7.15.4"
+
+react-final-form@^7.0.0:
+  version "7.0.0"
+  resolved "https://repository.folio.org/repository/npm-ci-all/react-final-form/-/react-final-form-7.0.0.tgz#8cc6287d1e6863e4b9bba29b3abe99732aeaca18"
+  integrity sha512-aEeAWbSsCLVXa4GBkJtjjyhPyX4L/Pgp5P/jXZwdz0YYcK6Zs/0PkgB+qWMSyIsbbGGE7m9yYlSpui5E5Gx26A==
   dependencies:
     "@babel/runtime" "^7.15.4"
 
