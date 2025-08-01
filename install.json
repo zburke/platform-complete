@@ -389,7 +389,7 @@
   "id" : "folio_requests-mediated-4.0.109900000000131",
   "action" : "enable"
 }, {
-  "id" : "mod-tlr-1.2.0-SNAPSHOT.86",
+  "id" : "mod-tlr-1.2.0-SNAPSHOT.87",
   "action" : "enable"
 }, {
   "id" : "mod-inn-reach-3.5.0-SNAPSHOT.414",
@@ -443,7 +443,7 @@
   "id" : "edge-rtac-2.10.0-SNAPSHOT.114",
   "action" : "enable"
 }, {
-  "id" : "mod-invoice-6.1.0-SNAPSHOT.481",
+  "id" : "mod-invoice-6.1.0-SNAPSHOT.482",
   "action" : "enable"
 }, {
   "id" : "folio_finance-9.0.109900000000352",
