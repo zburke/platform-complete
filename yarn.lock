@@ -1291,9 +1291,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/agreements@>=2.0.0":
-  version "12.1.109900000000880"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/agreements/-/agreements-12.1.109900000000880.tgz#13a18b20326b7537896c170b20d62ddc501681f4"
-  integrity sha512-Y2mF+XAdJDpy0krTgr/56URZd/qP75xjPLA2OI6+HzP44AEmna6E+W1YKX2SEeigJ1gjKBII5YYgwONQkrqF/Q==
+  version "12.1.109900000000899"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/agreements/-/agreements-12.1.109900000000899.tgz#f9cb5a28db0457050ba130b19922b69700457245"
+  integrity sha512-B90XpQgJU0RfC6ReziLIm9qCjppe4WB5IXA8rELBNp+wGll3kAvZhkdeUVp2gG1dMwMen+UETuEMrICesOnLzg==
   dependencies:
     "@k-int/stripes-kint-components" "^5.15.0"
     "@rehooks/local-storage" "^2.4.4"
@@ -1547,9 +1547,9 @@
     react-final-form-arrays "^3.1.1"
 
 "@folio/erm-usage@>=1.0.3":
-  version "12.0.109900000000507"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/erm-usage/-/erm-usage-12.0.109900000000507.tgz#ca18b0a8fdf4f86ba8326a9f9d30c0c29e2fe6b2"
-  integrity sha512-0+x36LixZwCR4hZtco41wqH6j3YNS7wFgLAm1kHsUnXzSn7qxtQDUUz6vFp+DHJilNgK41ejxRCjmyBOTcmxrA==
+  version "12.0.109900000000510"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/erm-usage/-/erm-usage-12.0.109900000000510.tgz#427b6ef810045bf1822e2c72f2503f1d394b6d13"
+  integrity sha512-LQN1xc2qMDVtfG+qdRmq9lTOKG0w013mFb/ZGghWjGK3DL+sqRocbA2uhyMX7BO9chEUMhreBm6qfBKIglMt0w==
   dependencies:
     compose-function "^3.0.3"
     file-saver "^2.0.0"
