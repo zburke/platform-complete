@@ -197,7 +197,7 @@
   "id" : "mod-configuration-5.13.0-SNAPSHOT.139",
   "action" : "enable"
 }, {
-  "id" : "folio_agreements-12.1.109900000000899",
+  "id" : "folio_agreements-12.1.109900000000910",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-organization-6.0.10990000000031",
@@ -437,7 +437,7 @@
   "id" : "folio_mosaic-settings-1.0.10990000000046",
   "action" : "enable"
 }, {
-  "id" : "mod-rtac-3.9.0-SNAPSHOT.114",
+  "id" : "mod-rtac-3.9.0-SNAPSHOT.115",
   "action" : "enable"
 }, {
   "id" : "edge-rtac-2.10.0-SNAPSHOT.114",
