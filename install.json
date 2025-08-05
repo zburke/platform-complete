@@ -116,7 +116,7 @@
   "id" : "mod-erm-usage-harvester-5.2.0-SNAPSHOT.202",
   "action" : "enable"
 }, {
-  "id" : "folio_erm-usage-12.0.109900000000513",
+  "id" : "folio_erm-usage-12.0.109900000000517",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-erm-usage-data-provider-7.0.109900000000121",
@@ -125,7 +125,7 @@
   "id" : "mod-pubsub-2.17.0-SNAPSHOT.263",
   "action" : "enable"
 }, {
-  "id" : "mod-inventory-storage-30.0.0-SNAPSHOT.1182",
+  "id" : "mod-inventory-storage-30.0.0-SNAPSHOT.1183",
   "action" : "enable"
 }, {
   "id" : "folio_calendar-12.0.109900000000163",
@@ -230,7 +230,7 @@
   "id" : "folio_stripes-core-11.1.109900000000974",
   "action" : "enable"
 }, {
-  "id" : "folio_users-13.0.109900000000595",
+  "id" : "folio_users-13.0.109900000000613",
   "action" : "enable"
 }, {
   "id" : "mod-patron-blocks-1.13.0-SNAPSHOT.111",
