@@ -446,13 +446,13 @@
   "id" : "mod-invoice-6.1.0-SNAPSHOT.482",
   "action" : "enable"
 }, {
-  "id" : "folio_finance-9.0.109900000000352",
+  "id" : "folio_finance-9.0.109900000000355",
   "action" : "enable"
 }, {
   "id" : "folio_invoice-8.0.109900000000268",
   "action" : "enable"
 }, {
-  "id" : "folio_orders-9.0.109900000000439",
+  "id" : "folio_orders-9.0.109900000000442",
   "action" : "enable"
 }, {
   "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.725",

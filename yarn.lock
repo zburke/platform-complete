@@ -1581,9 +1581,9 @@
     react-router-prop-types "^1.0.4"
 
 "@folio/finance@>=1.1.0":
-  version "9.0.109900000000352"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/finance/-/finance-9.0.109900000000352.tgz#fb1ff8aa2f9300e0de260f4e0ed6cf48864d3f6c"
-  integrity sha512-wPliDGOg9IZMJfXIsPhKHKNx9rUOp7WVgGUCqSGVwbSohJOAG1Qmfh1bpf4vGfm4XZhuMVBA/ewiO8JkBg2p9Q==
+  version "9.0.109900000000355"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/finance/-/finance-9.0.109900000000355.tgz#1ed4dbfb34fd46632bb83dfe6684d9b265cd2b6d"
+  integrity sha512-5cii//AU6G/zAPl4mAmI+n8UBgrQ2p93cSH0mQ2gHc+jJFwm1lGLYxCKNh/gYTE7liEJQ7ISeFTFY7QDBtLN7A==
   dependencies:
     "@folio/stripes-acq-components" "~7.0.0"
     "@folio/stripes-data-transfer-components" "~7.0.0"
@@ -1830,9 +1830,9 @@
     react-router-prop-types "^1.0.4"
 
 "@folio/orders@>=1.1.0":
-  version "9.0.109900000000439"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/orders/-/orders-9.0.109900000000439.tgz#dafbaec2f7ad71c0255b00c494e6c7771837f0a1"
-  integrity sha512-bn0sjuF4NWeruRTziUvYQNVZBDntYIzk5aSO8pzKdWy3lle3hPnt9nN2oh3Jx2imyI8/gOCWvBn5kbtt+FP7dA==
+  version "9.0.109900000000442"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/orders/-/orders-9.0.109900000000442.tgz#4cb3dc5c2f1f4673905206fa79975543e5fa6dea"
+  integrity sha512-JK47cB6Yr0QVN+FY+WlQ4sa/+214a3gPWgbCEC982kcXL6ZGU8dhcoguKyJbUs/ii8vBC26WlL6y+50PyMat7Q==
   dependencies:
     "@folio/plugin-find-po-line" "^6.0.0"
     "@folio/stripes-acq-components" "~7.0.0"
