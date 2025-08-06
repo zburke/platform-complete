@@ -197,7 +197,7 @@
   "id" : "mod-configuration-5.13.0-SNAPSHOT.139",
   "action" : "enable"
 }, {
-  "id" : "folio_agreements-12.1.109900000000910",
+  "id" : "folio_agreements-12.1.109900000000919",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-organization-6.0.10990000000031",
@@ -296,7 +296,7 @@
   "id" : "folio_stripes-marc-components-2.0.109900000000167",
   "action" : "enable"
 }, {
-  "id" : "mod-data-import-3.4.0-SNAPSHOT.335",
+  "id" : "mod-data-import-3.4.0-SNAPSHOT.336",
   "action" : "enable"
 }, {
   "id" : "folio_data-import-9.0.109900000000133",
@@ -350,7 +350,7 @@
   "id" : "folio_circulation-11.1.109900000000188",
   "action" : "enable"
 }, {
-  "id" : "folio_inventory-14.0.109900000000978",
+  "id" : "folio_inventory-14.0.1099000000001012",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-create-inventory-records-7.0.10990000000074",
@@ -365,7 +365,7 @@
   "id" : "mod-circulation-bff-1.2.0-SNAPSHOT.74",
   "action" : "enable"
 }, {
-  "id" : "mod-dcb-2.0.0-SNAPSHOT.139",
+  "id" : "mod-dcb-2.0.0-SNAPSHOT.140",
   "action" : "enable"
 }, {
   "id" : "edge-dcb-1.4.0-SNAPSHOT.42",
@@ -467,7 +467,7 @@
   "id" : "mod-bulk-operations-2.3.0-SNAPSHOT.447",
   "action" : "enable"
 }, {
-  "id" : "folio_bulk-edit-5.0.109900000000563",
+  "id" : "folio_bulk-edit-5.0.109900000000582",
   "action" : "enable"
 }, {
   "id" : "mod-lists-3.2.0-SNAPSHOT.205",
