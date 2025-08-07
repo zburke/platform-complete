@@ -88,7 +88,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_inventory-14.0.1099000000001027",
+    "id": "folio_inventory-14.0.1099000000001030",
     "action": "enable"
   },
   {
@@ -136,7 +136,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_orders-9.0.109900000000458",
+    "id": "folio_orders-9.0.109900000000463",
     "action": "enable"
   },
   {
@@ -204,7 +204,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_plugin-find-po-line-6.0.10990000000078",
+    "id": "folio_plugin-find-po-line-6.0.10990000000081",
     "action": "enable"
   },
   {
@@ -216,7 +216,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_quick-marc-10.1.109900000000352",
+    "id": "folio_quick-marc-10.1.109900000000355",
     "action": "enable"
   },
   {
