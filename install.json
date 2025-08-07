@@ -239,7 +239,7 @@
   "id" : "mod-email-1.20.0-SNAPSHOT.93",
   "action" : "enable"
 }, {
-  "id" : "mod-finance-storage-8.9.0-SNAPSHOT.415",
+  "id" : "mod-finance-storage-8.9.0-SNAPSHOT.416",
   "action" : "enable"
 }, {
   "id" : "mod-finance-5.2.0-SNAPSHOT.297",
@@ -329,7 +329,7 @@
   "id" : "mod-data-export-worker-3.5.0-SNAPSHOT.629",
   "action" : "enable"
 }, {
-  "id" : "mod-data-export-spring-3.6.0-SNAPSHOT.309",
+  "id" : "mod-data-export-spring-3.6.0-SNAPSHOT.310",
   "action" : "enable"
 }, {
   "id" : "folio_export-manager-5.0.109900000000105",
@@ -350,7 +350,7 @@
   "id" : "folio_circulation-11.1.109900000000192",
   "action" : "enable"
 }, {
-  "id" : "folio_inventory-14.0.1099000000001030",
+  "id" : "folio_inventory-14.0.1099000000001034",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-create-inventory-records-7.0.10990000000079",
