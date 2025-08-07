@@ -1312,9 +1312,9 @@
     zustand "^4.1.5"
 
 "@folio/bulk-edit@>=1.0.0":
-  version "5.0.109900000000596"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/bulk-edit/-/bulk-edit-5.0.109900000000596.tgz#d161a2dad4a6f38a6fba374e7c66107745cff57d"
-  integrity sha512-b9zllE2Yl/IHc8j/Kk6ifTJ/XxG96N9I7VtJmkoCLpPXf85YfAgaoWLdDeg5kVhjxMgkcWVv0smakp0kUNRFWQ==
+  version "5.0.109900000000603"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/bulk-edit/-/bulk-edit-5.0.109900000000603.tgz#6e29924a5e881587d67f22a4954f40cd30b26235"
+  integrity sha512-yr+YDmaKgDagwCcHaQlRfauW+510MLQM1hqF+uRnN/7zmkuT7SwaYwaRktZXvs95vcIPplcd5xSJXBem08dUxg==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     "@folio/stripes-data-transfer-components" "^7.0.0"
@@ -1567,9 +1567,9 @@
     redux-form "^8.3.7"
 
 "@folio/export-manager@>=1.0.0":
-  version "5.0.109900000000105"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/export-manager/-/export-manager-5.0.109900000000105.tgz#bd406b5a00d2f7d6ae54d221c41ec3c2cc229858"
-  integrity sha512-sNAK+xxWaTEeT/Ix43iNGJK4C5R/HUclUpFEVbcstThUBaYVkJtvlvmE0V4/VCxz3Y3Da/BfQ7JyNBANYEmG3Q==
+  version "5.0.109900000000108"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/export-manager/-/export-manager-5.0.109900000000108.tgz#2dc98afa385abaec345d1ee706202c98a2b19005"
+  integrity sha512-i4grtXg8NKm3gXe+mLAqmKZSY7oZdTUkm+MNUxynL/oBE9DUYxEp+hQqx5Y/EpFlLJv9ito32gqkAKAhNSt7Kw==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     final-form "^4.0.0"
