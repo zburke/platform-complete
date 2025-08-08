@@ -1312,9 +1312,9 @@
     zustand "^4.1.5"
 
 "@folio/bulk-edit@>=1.0.0":
-  version "5.0.109900000000603"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/bulk-edit/-/bulk-edit-5.0.109900000000603.tgz#6e29924a5e881587d67f22a4954f40cd30b26235"
-  integrity sha512-yr+YDmaKgDagwCcHaQlRfauW+510MLQM1hqF+uRnN/7zmkuT7SwaYwaRktZXvs95vcIPplcd5xSJXBem08dUxg==
+  version "5.0.109900000000610"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/bulk-edit/-/bulk-edit-5.0.109900000000610.tgz#abf5a9a784617fe3e4e112aafac5cc2a0390ec25"
+  integrity sha512-zIMk1t9SxAU4Ty40dp99zg6BWS02WgSWyOyHSU+rVK1hKoYlg6xcnlMTL+eiK2LbyaBa9JiHfDajYciar9eMuw==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     "@folio/stripes-data-transfer-components" "^7.0.0"
@@ -1384,9 +1384,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/circulation-log@>=1.0.0":
-  version "6.0.10990000000094"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/circulation-log/-/circulation-log-6.0.10990000000094.tgz#6cdc9a0b29634aad661a272bd7fe48d487e6273a"
-  integrity sha512-1snxUsosjsLg8HXaEqdnNl3rV2MDEHh3Oq9C1gXw+MiZsv7YywkscAoMOYM6xqotyn0B03fcjV2Bl5/MVoabig==
+  version "6.0.10990000000099"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/circulation-log/-/circulation-log-6.0.10990000000099.tgz#955278cd04c521410647e7c2d65884dfeb6b8dce"
+  integrity sha512-rkFsPL6m4sGbGSfK1JTYphp0IXUeoyrtzgkkl3nZokm22vnmAoCoMOpbqu4FNj9e5e4yJpJa1faAUycx6PNyEg==
   dependencies:
     "@folio/stripes-acq-components" "~7.0.0"
     dayjs "^1.11.9"
