@@ -230,7 +230,7 @@
   "id" : "folio_stripes-core-11.1.109900000000974",
   "action" : "enable"
 }, {
-  "id" : "folio_users-13.0.109900000000635",
+  "id" : "folio_users-13.0.109900000000651",
   "action" : "enable"
 }, {
   "id" : "mod-patron-blocks-1.13.0-SNAPSHOT.111",
