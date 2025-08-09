@@ -305,12 +305,6 @@
   "id" : "folio_plugin-find-import-profile-9.0.10990000000046",
   "action" : "enable"
 }, {
-  "id" : "mod-oa-3.3.0-SNAPSHOT.191",
-  "action" : "enable"
-}, {
-  "id" : "folio_oa-3.1.109900000000185",
-  "action" : "enable"
-}, {
   "id" : "mod-event-config-2.10.0-SNAPSHOT.72",
   "action" : "enable"
 }, {
@@ -338,7 +332,7 @@
   "id" : "folio_plugin-bursar-export-5.0.109900000000216",
   "action" : "enable"
 }, {
-  "id" : "mod-circulation-24.5.0-SNAPSHOT.1326",
+  "id" : "mod-circulation-24.5.0-SNAPSHOT.1327",
   "action" : "enable"
 }, {
   "id" : "folio_checkin-12.0.109900000000171",
@@ -486,5 +480,11 @@
   "action" : "enable"
 }, {
   "id" : "edge-dematic-3.0.0-SNAPSHOT.68",
+  "action" : "enable"
+}, {
+  "id" : "mod-oa-3.3.0-SNAPSHOT.191",
+  "action" : "enable"
+}, {
+  "id" : "folio_oa-3.1.109900000000185",
   "action" : "enable"
 } ]
