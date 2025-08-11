@@ -2107,9 +2107,9 @@
     "@folio/plugin-find-organization" "^6.0.0"
 
 "@folio/quick-marc@>=1.0.0", "@folio/quick-marc@^10.0.0":
-  version "10.1.109900000000355"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/quick-marc/-/quick-marc-10.1.109900000000355.tgz#46a34c08773722e08e36c7ae93f1450ca458c57e"
-  integrity sha512-yw0iYx1X9NKdJpEh3tr15rQXu/XIqDf6ofkuuxsWsJDDlxGQrFUZ6g0S10APRqtQPBMy4h4EG6dBTHzSg2bZHQ==
+  version "10.1.109900000000358"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/quick-marc/-/quick-marc-10.1.109900000000358.tgz#7d363418aadc414ede5391444c40abfaa568be7a"
+  integrity sha512-NuRGHKtnxNwXt+YE7eX9pX98o7Dvc6HdiyMlVn6cxhduLa2LtTZ17VXAKxv3NNyW4WbKduTgI+qbDUf4drs+vg==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     classnames "^2.5.1"
