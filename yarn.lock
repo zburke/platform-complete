@@ -2081,9 +2081,9 @@
     prop-types "^15.6.0"
 
 "@folio/plugin-query-builder@>=1.0.0":
-  version "3.0.109900000000796"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-query-builder/-/plugin-query-builder-3.0.109900000000796.tgz#f8b25f1b133de342aaf7dc56f74b72007303b6d0"
-  integrity sha512-yzPKmGOgUE71pgG4QQc2uuhhxvbg5sBOVkhzDbRb9pj3z3n1OjCQrcvSupP4JQjnLKS6BDfLRv7TcG/cTn9HgA==
+  version "3.0.109900000000805"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-query-builder/-/plugin-query-builder-3.0.109900000000805.tgz#543847aef3aab0743560d8017c181d53b262b716"
+  integrity sha512-x+2oYQhxQg+IGank7qoYpsdKof+vcV5h/p0ggItwoncb6v8HXakrMIQydG/RFr34ZKuNcQJ+SOJ/eMx8IZFvoA==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     ky "^0.33.2"
@@ -2750,9 +2750,9 @@
     redux-form "^8.0.0"
 
 "@folio/users@>=2.17.0":
-  version "13.0.109900000000654"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.109900000000654.tgz#962d037dd85c5d08f483b406a1134e3f39419d1e"
-  integrity sha512-vnFQBSAsEs3z83sB00Q8hQHrsMzdvMvDRBb/rvd5Bvt4+5EDDRpJXUPFDWCrY8uXv5/uUfOBRPmgV0mpmoQ8UA==
+  version "13.0.109900000000669"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.109900000000669.tgz#32d4e3ab34c7f64a6b2fa181ca20e74a780cf8e1"
+  integrity sha512-jT5TYqokI1m2nnLUZ3rcx0HDtHhxKEFLSv8In899ub8FxxIcsVCTGa3C48IjviFcfOGooWlQc7HkvjkFEDURRA==
   dependencies:
     "@folio/stripes-util" "^7.0.0"
     compressorjs "^1.2.1"
