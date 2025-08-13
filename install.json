@@ -392,7 +392,7 @@
   "id" : "folio_inn-reach-6.1.10990000000095",
   "action" : "enable"
 }, {
-  "id" : "mod-orders-13.1.0-SNAPSHOT.1060",
+  "id" : "mod-orders-13.1.0-SNAPSHOT.1061",
   "action" : "enable"
 }, {
   "id" : "folio_acquisition-units-6.0.10990000000047",
@@ -440,7 +440,7 @@
   "id" : "mod-invoice-6.1.0-SNAPSHOT.485",
   "action" : "enable"
 }, {
-  "id" : "folio_finance-9.0.109900000000359",
+  "id" : "folio_finance-9.0.109900000000363",
   "action" : "enable"
 }, {
   "id" : "folio_invoice-8.0.109900000000272",
@@ -467,7 +467,7 @@
   "id" : "mod-lists-3.2.0-SNAPSHOT.206",
   "action" : "enable"
 }, {
-  "id" : "folio_lists-4.0.309900000000867",
+  "id" : "folio_lists-4.0.309900000000870",
   "action" : "enable"
 }, {
   "id" : "mod-remote-storage-3.5.0-SNAPSHOT.234",

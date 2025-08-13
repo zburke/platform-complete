@@ -1582,11 +1582,11 @@
     react-router-prop-types "^1.0.4"
 
 "@folio/finance@>=1.1.0":
-  version "9.0.109900000000359"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/finance/-/finance-9.0.109900000000359.tgz#d8309ef625b23ecbb571bb40ba09db02fc3c5f25"
-  integrity sha512-VVJykAcXXO79StLDulSKV08UUvSRkE8VcfIsGPtqRMw7Zd4lM1xuireE6qK09lerh9hXOkevWWNWsLv4ZmM7ZQ==
+  version "9.0.109900000000363"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/finance/-/finance-9.0.109900000000363.tgz#48bb0741697442d4914c06e6e086090bdb2d0e89"
+  integrity sha512-OSb72Ij5fNKt5IFS9V7d9w5qMjmip4gIttrjVhhxlW4Q/bXfXvJAjifSmzq/bEorqVk6+9DZCnWtvFwFh+3m/g==
   dependencies:
-    "@folio/stripes-acq-components" "~7.0.0"
+    "@folio/stripes-acq-components" "~7.1.0"
     "@folio/stripes-data-transfer-components" "~7.0.0"
     "@rehooks/local-storage" "^2.4.4"
     final-form "^4.18.2"
@@ -1733,9 +1733,9 @@
     react-router-prop-types "^1.0.4"
 
 "@folio/lists@>=1.2.0":
-  version "4.0.309900000000867"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/lists/-/lists-4.0.309900000000867.tgz#40656c9aacaccd8cdb1a29e64caad38413a0e87d"
-  integrity sha512-SaN6JXVJGv3DhQUye61dVK+PQYVEKzcjZDlR1eWzumBsruxUUUN9Gl8zGuviYZd/mpv+/Hboz/3hidEZEwNnlw==
+  version "4.0.309900000000870"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/lists/-/lists-4.0.309900000000870.tgz#e47574ca3746b7506ceedf536131465cab7cf434"
+  integrity sha512-fMZONtGIyMgbUFqmCX1ogJzoh7pzEjhCywGNebewjaTmLZtZSW5fxa5ZYQCjSW2gXSIfC7B/myxDeapXK4F1kQ==
   dependencies:
     "@folio/plugin-query-builder" "^2.0.0"
     "@folio/stripes-acq-components" "~7.0.0"
