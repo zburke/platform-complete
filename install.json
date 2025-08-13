@@ -449,7 +449,7 @@
   "id" : "folio_orders-9.0.109900000000483",
   "action" : "enable"
 }, {
-  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.735",
+  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.736",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-query-builder-3.0.109900000000818",
@@ -461,7 +461,7 @@
   "id" : "mod-bulk-operations-2.3.0-SNAPSHOT.449",
   "action" : "enable"
 }, {
-  "id" : "folio_bulk-edit-5.0.109900000000638",
+  "id" : "folio_bulk-edit-5.0.109900000000641",
   "action" : "enable"
 }, {
   "id" : "mod-lists-3.2.0-SNAPSHOT.206",
