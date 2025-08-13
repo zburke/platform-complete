@@ -44,7 +44,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-source-record-storage-5.11.0-SNAPSHOT.699",
+    "id": "mod-source-record-storage-5.11.0-SNAPSHOT.701",
     "action": "enable"
   },
   {
@@ -168,7 +168,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-source-record-manager-3.11.0-SNAPSHOT.1037",
+    "id": "mod-source-record-manager-3.11.0-SNAPSHOT.1038",
     "action": "enable"
   },
   {
@@ -184,7 +184,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-inventory-21.2.0-SNAPSHOT.889",
+    "id": "mod-inventory-21.2.0-SNAPSHOT.890",
     "action": "enable"
   },
   {
