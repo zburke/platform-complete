@@ -359,7 +359,7 @@
   "id" : "mod-circulation-bff-1.2.0-SNAPSHOT.74",
   "action" : "enable"
 }, {
-  "id" : "mod-dcb-2.0.0-SNAPSHOT.140",
+  "id" : "mod-dcb-2.0.0-SNAPSHOT.141",
   "action" : "enable"
 }, {
   "id" : "edge-dcb-1.4.0-SNAPSHOT.42",
@@ -392,7 +392,7 @@
   "id" : "folio_inn-reach-6.1.10990000000095",
   "action" : "enable"
 }, {
-  "id" : "mod-orders-13.1.0-SNAPSHOT.1059",
+  "id" : "mod-orders-13.1.0-SNAPSHOT.1060",
   "action" : "enable"
 }, {
   "id" : "folio_acquisition-units-6.0.10990000000047",
@@ -425,7 +425,7 @@
   "id" : "folio_gobi-settings-4.0.10990000000078",
   "action" : "enable"
 }, {
-  "id" : "mod-mosaic-1.0.0-SNAPSHOT.33",
+  "id" : "mod-mosaic-1.0.0-SNAPSHOT.34",
   "action" : "enable"
 }, {
   "id" : "folio_mosaic-settings-1.0.10990000000046",
@@ -446,7 +446,7 @@
   "id" : "folio_invoice-8.0.109900000000272",
   "action" : "enable"
 }, {
-  "id" : "folio_orders-9.0.109900000000463",
+  "id" : "folio_orders-9.0.109900000000480",
   "action" : "enable"
 }, {
   "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.734",

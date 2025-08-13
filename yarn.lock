@@ -1831,12 +1831,12 @@
     react-router-prop-types "^1.0.4"
 
 "@folio/orders@>=1.1.0":
-  version "9.0.109900000000463"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/orders/-/orders-9.0.109900000000463.tgz#e092f41d1e97217667c520e893b3f58787d3d00a"
-  integrity sha512-O3G2Q6h97AY2RaDTicOO1B9XVfse8HlTuMVNBItlKhG3EVR3kZx8B8he1XyF7+1IttUt1quf+vu9fYeCDkAzMw==
+  version "9.0.109900000000480"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/orders/-/orders-9.0.109900000000480.tgz#9704bb2fd9dfb5c67560080cbdd3c9690b9cc96d"
+  integrity sha512-RZ90cJO3UEzU2Nd5NdtNeN+crFiOG4CY1wmAriW6PKgEmAJZBctr/6R2zVeqD7wMMEl8Bj8ZjCblTH0FDp8xoA==
   dependencies:
     "@folio/plugin-find-po-line" "^6.0.0"
-    "@folio/stripes-acq-components" "~7.0.0"
+    "@folio/stripes-acq-components" "~7.1.0"
     "@folio/stripes-template-editor" "^3.2.0"
     classnames "^2.2.5"
     dompurify "^3.0.9"
@@ -3988,9 +3988,9 @@ bare-path@^3.0.0:
     bare-os "^3.0.1"
 
 bare-stream@^2.6.4:
-  version "2.6.5"
-  resolved "https://repository.folio.org/repository/npm-ci-all/bare-stream/-/bare-stream-2.6.5.tgz#bba8e879674c4c27f7e27805df005c15d7a2ca07"
-  integrity sha512-jSmxKJNJmHySi6hC42zlZnq00rga4jjxcgNZjY9N5WlOe/iOoGRtdwGsHzQv2RlH2KOYMwGUXhf2zXd32BA9RA==
+  version "2.7.0"
+  resolved "https://repository.folio.org/repository/npm-ci-all/bare-stream/-/bare-stream-2.7.0.tgz#5b9e7dd0a354d06e82d6460c426728536c35d789"
+  integrity sha512-oyXQNicV1y8nc2aKffH+BUHFRXmx6VrPzlnaEvMhram0nPBrKcEdcyBg5r08D0i8VxngHFAiVyn1QKXpSG0B8A==
   dependencies:
     streamx "^2.21.0"
 
