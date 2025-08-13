@@ -1312,9 +1312,9 @@
     zustand "^4.1.5"
 
 "@folio/bulk-edit@>=1.0.0":
-  version "5.0.109900000000635"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/bulk-edit/-/bulk-edit-5.0.109900000000635.tgz#8e09b8373203dd0b75edd4dcdc9715c722f80765"
-  integrity sha512-2zwWGf5qpcWBzaTs9pTg+kZ7iUYrfaNETc3qqdGrUvPuJT2iipXRKzsNKiGmXywmHmp0zFzYq/BBVwDXx+Emag==
+  version "5.0.109900000000638"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/bulk-edit/-/bulk-edit-5.0.109900000000638.tgz#12592fc9f83b2783877759e48ada43260579b8bc"
+  integrity sha512-damRnYJQyuFVGzeMVA1u0azC+9C0GPRJAtFRBTuqPa9Y954jFVS0CdP8CYSumAvH1qHX1U/rXHloemQp+2Iw4w==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     "@folio/stripes-data-transfer-components" "^7.0.0"
@@ -1831,9 +1831,9 @@
     react-router-prop-types "^1.0.4"
 
 "@folio/orders@>=1.1.0":
-  version "9.0.109900000000480"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/orders/-/orders-9.0.109900000000480.tgz#9704bb2fd9dfb5c67560080cbdd3c9690b9cc96d"
-  integrity sha512-RZ90cJO3UEzU2Nd5NdtNeN+crFiOG4CY1wmAriW6PKgEmAJZBctr/6R2zVeqD7wMMEl8Bj8ZjCblTH0FDp8xoA==
+  version "9.0.109900000000483"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/orders/-/orders-9.0.109900000000483.tgz#b8adea9e98079718f4b09bf73dd3f40b34521ba8"
+  integrity sha512-f/rPOPUo+MOsAUmu4Bf5fTVAAe/IVc4PfkPcbMZQiGwBu0pFe6HGHmd54BCzXn5I+4QyLdS1lqhCkMaU+Y3ADQ==
   dependencies:
     "@folio/plugin-find-po-line" "^6.0.0"
     "@folio/stripes-acq-components" "~7.1.0"
@@ -2081,9 +2081,9 @@
     prop-types "^15.6.0"
 
 "@folio/plugin-query-builder@>=1.0.0":
-  version "3.0.109900000000805"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-query-builder/-/plugin-query-builder-3.0.109900000000805.tgz#543847aef3aab0743560d8017c181d53b262b716"
-  integrity sha512-x+2oYQhxQg+IGank7qoYpsdKof+vcV5h/p0ggItwoncb6v8HXakrMIQydG/RFr34ZKuNcQJ+SOJ/eMx8IZFvoA==
+  version "3.0.109900000000818"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-query-builder/-/plugin-query-builder-3.0.109900000000818.tgz#4f0dea0b668ee25c6b208f37a7c8880749788a74"
+  integrity sha512-MWcKy5Ilb9wRvb7LHrlupitnHgXNpnQ56N0A1j1LnZGuy2ZstIRmzImWicbgiV720YgYI+TKB2woxmHC0zswEg==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     ky "^0.33.2"
