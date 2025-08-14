@@ -10527,9 +10527,9 @@ webpack-virtual-modules@^0.4.3:
   integrity sha512-5tyDlKLqPfMqjT3Q9TAqf2YqjwmnUleZwzJi1A5qXnlBCdj2AtOJ6wAWdglTIDOPgOiOrXeBeFcsQ8+aGQ6QbA==
 
 webpack@^5.80.0, webpack@^5.99.6:
-  version "5.101.1"
-  resolved "https://repository.folio.org/repository/npm-ci-all/webpack/-/webpack-5.101.1.tgz#bda907efcb233161fe17690ef906a2b244bbfede"
-  integrity sha512-rHY3vHXRbkSfhG6fH8zYQdth/BtDgXXuR2pHF++1f/EBkI8zkgM5XWfsC3BvOoW9pr1CvZ1qQCxhCEsbNgT50g==
+  version "5.101.2"
+  resolved "https://repository.folio.org/repository/npm-ci-all/webpack/-/webpack-5.101.2.tgz#08c222b7acfce7da95c593e2f88ea1638a07b344"
+  integrity sha512-4JLXU0tD6OZNVqlwzm3HGEhAHufSiyv+skb7q0d2367VDMzrU1Q/ZeepvkcHH0rZie6uqEtTQQe0OEOOluH3Mg==
   dependencies:
     "@types/eslint-scope" "^3.7.7"
     "@types/estree" "^1.0.8"
