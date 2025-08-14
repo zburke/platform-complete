@@ -1442,9 +1442,9 @@
     "@folio/plugin-create-inventory-records" "^4.0.0||^5.0.0||^6.0.0"
 
 "@folio/dashboard@>=1.0.0":
-  version "7.1.109900000000173"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/dashboard/-/dashboard-7.1.109900000000173.tgz#b00f086986c08171393fd4459b0c84d97c2af2eb"
-  integrity sha512-StOO/tpwHVCZz7j3jLEITkv6VUo6yAiEXrRaoiaP8frSPShP97e0mwYp1UvZdStVS2EfEpImUCABRYJr37KiBw==
+  version "7.1.109900000000184"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/dashboard/-/dashboard-7.1.109900000000184.tgz#fb0d086c353e2396a9fdc1cb6c249d589cce4338"
+  integrity sha512-H39hJFrmKg6zNDvqkG7roB9mzrM+R9LLdM3TTDAXwBmbTYSqVd97qwAzQdsmpOIqjoxTLCaEXlFo1tmVUsXInQ==
   dependencies:
     "@hello-pangea/dnd" "^16.6.0"
     "@k-int/stripes-kint-components" "^5.15.0"
