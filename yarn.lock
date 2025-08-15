@@ -1291,9 +1291,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/agreements@>=2.0.0":
-  version "12.1.109900000000953"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/agreements/-/agreements-12.1.109900000000953.tgz#8e9379321cd82509f80ae3bf670edbbe215f645f"
-  integrity sha512-nU6De+Aha+fJ8P5biNDs6sB5D64Jay8c/H0Mdxy1fgUJ5VDx5B9XkI3NoBn3fYvYd5xUE9SitfbHdN6iXgotMA==
+  version "12.1.109900000000962"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/agreements/-/agreements-12.1.109900000000962.tgz#a68946c49f83da64a4933cdc57a5c652a7dabb7e"
+  integrity sha512-Lgtfp3ZZGdV+PN1aEdcg732qRAc3rjwO360zRbfI7pyARFg3aYSjCdOnTJTc2/3P689mJEIcOuW8g4erPHyZow==
   dependencies:
     "@k-int/stripes-kint-components" "^5.15.0"
     "@rehooks/local-storage" "^2.4.4"
@@ -1309,12 +1309,12 @@
     react-final-form "^6.3.0"
     react-final-form-arrays "^3.1.0"
     react-router-prop-types "^1.0.4"
-    zustand "^4.1.5"
+    zustand "^5.0.0"
 
 "@folio/bulk-edit@>=1.0.0":
-  version "5.0.109900000000649"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/bulk-edit/-/bulk-edit-5.0.109900000000649.tgz#6ce20e843d2c377e24a41f27f6ec3a7943e31691"
-  integrity sha512-0HxsA6owNovYzt/Cl8sJM7O3e7ZLDmZGzuT2b58VjCw6FkFufr7PRksNJ8IeQTlCqqJRCT3hSML7GGURceyj1w==
+  version "5.0.109900000000652"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/bulk-edit/-/bulk-edit-5.0.109900000000652.tgz#6c7d73eccd51c0134ccd60ee66a7405218cb6d4d"
+  integrity sha512-1vlBVwCF4mjIL31oepLtWFDPy91rfveBWMICP1ySbp3tT2JyhLHEIgfw4/sepxcnwpzRqjoqRH9wI9ISaPf0sA==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     "@folio/stripes-data-transfer-components" "^7.0.0"
@@ -1442,9 +1442,9 @@
     "@folio/plugin-create-inventory-records" "^4.0.0||^5.0.0||^6.0.0"
 
 "@folio/dashboard@>=1.0.0":
-  version "7.1.109900000000184"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/dashboard/-/dashboard-7.1.109900000000184.tgz#fb0d086c353e2396a9fdc1cb6c249d589cce4338"
-  integrity sha512-H39hJFrmKg6zNDvqkG7roB9mzrM+R9LLdM3TTDAXwBmbTYSqVd97qwAzQdsmpOIqjoxTLCaEXlFo1tmVUsXInQ==
+  version "7.1.109900000000187"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/dashboard/-/dashboard-7.1.109900000000187.tgz#99214173936d8fb3b6843f6846b8d938c26a0ce9"
+  integrity sha512-yhlbk4JbMemF/7sESJAyY+k6otF1IghkUtkmGlAm9jONfmnC7w+w6gmblRyRu0YOpLV4jv5kipucZY2YBrWl+g==
   dependencies:
     "@hello-pangea/dnd" "^16.6.0"
     "@k-int/stripes-kint-components" "^5.15.0"
@@ -10830,9 +10830,14 @@ zen-observable@0.8.15:
   resolved "https://repository.folio.org/repository/npm-ci-all/zen-observable/-/zen-observable-0.8.15.tgz#96415c512d8e3ffd920afd3889604e30b9eaac15"
   integrity sha512-PQ2PC7R9rslx84ndNBZB/Dkv8V8fZEpk83RLgXtYd0fwUgEjseMn1Dgajh2x6S8QbZAFa9p2qVCEuYZNgve0dQ==
 
-zustand@^4.0.0, zustand@^4.1.1, zustand@^4.1.5, zustand@^4.5.4:
+zustand@^4.0.0, zustand@^4.1.1, zustand@^4.5.4:
   version "4.5.7"
   resolved "https://repository.folio.org/repository/npm-ci-all/zustand/-/zustand-4.5.7.tgz#7d6bb2026a142415dd8be8891d7870e6dbe65f55"
   integrity sha512-CHOUy7mu3lbD6o6LJLfllpjkzhHXSBlX8B9+qPddUsIfeF5S/UZ5q0kmCsnRqT1UHFQZchNFDDzMbQsuesHWlw==
   dependencies:
     use-sync-external-store "^1.2.2"
+
+zustand@^5.0.0:
+  version "5.0.7"
+  resolved "https://repository.folio.org/repository/npm-ci-all/zustand/-/zustand-5.0.7.tgz#e325364e82c992a84bf386d8445aa7f180c450dc"
+  integrity sha512-Ot6uqHDW/O2VdYsKLLU8GQu8sCOM1LcoE8RwvLv9uuRT9s6SOHCKs0ZEOhxg+I1Ld+A1Q5lwx+UlKXXUoCZITg==
