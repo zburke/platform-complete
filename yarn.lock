@@ -1548,9 +1548,9 @@
     react-final-form-arrays "^3.1.1"
 
 "@folio/erm-usage@>=1.0.3":
-  version "12.0.109900000000538"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/erm-usage/-/erm-usage-12.0.109900000000538.tgz#a0f64adbb94cd8da2fd50d5cc799d0c8df2ec849"
-  integrity sha512-sxZYSYbP3RkoOBGEMWNBpwx8kKSoEkejqIWZyioaNmkrvzlkTTUK3RJykrKUs5nyRQ07dA0BjE6+mKw3osocpw==
+  version "12.0.109900000000554"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/erm-usage/-/erm-usage-12.0.109900000000554.tgz#8cef257d3a39b636c3ca4740eb09a70701b379ee"
+  integrity sha512-pxNPxII0mVgvLkncWwSAQl9L5qmKjjig/t/xWO6LYDMtvgkAzBgXyBVdMeiTboJgda6MonpeXerdyPw/PqsGCg==
   dependencies:
     compose-function "^3.0.3"
     file-saver "^2.0.0"
