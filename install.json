@@ -44,7 +44,7 @@
   "id" : "folio_tags-9.0.10990000000044",
   "action" : "enable"
 }, {
-  "id" : "mod-invoice-storage-6.1.0-SNAPSHOT.177",
+  "id" : "mod-invoice-storage-6.1.0-SNAPSHOT.178",
   "action" : "enable"
 }, {
   "id" : "mod-service-interaction-4.3.0-SNAPSHOT.144",
@@ -437,7 +437,7 @@
   "id" : "edge-rtac-2.10.0-SNAPSHOT.114",
   "action" : "enable"
 }, {
-  "id" : "mod-invoice-6.1.0-SNAPSHOT.485",
+  "id" : "mod-invoice-6.1.0-SNAPSHOT.486",
   "action" : "enable"
 }, {
   "id" : "folio_finance-9.0.109900000000363",
@@ -452,7 +452,7 @@
   "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.740",
   "action" : "enable"
 }, {
-  "id" : "folio_plugin-query-builder-3.0.109900000000818",
+  "id" : "folio_plugin-query-builder-3.0.109900000000821",
   "action" : "enable"
 }, {
   "id" : "edge-fqm-4.1.0-SNAPSHOT.52",
