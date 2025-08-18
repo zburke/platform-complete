@@ -2052,11 +2052,11 @@
     react-final-form "^6.3.0"
 
 "@folio/plugin-find-po-line@>=1.0.0", "@folio/plugin-find-po-line@^6.0.0":
-  version "6.0.10990000000081"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-find-po-line/-/plugin-find-po-line-6.0.10990000000081.tgz#52f9b935bc540584d4ba7b7a3ab3342af7396c7c"
-  integrity sha512-0wnHYf0XrEbQVf9iuHKAAOkMU2VugVjbCEcod2vJccB7pl91rn4OuRRfEQiWZAM2xjG6gfHbts5dBMnRByC/PA==
+  version "6.0.10990000000085"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-find-po-line/-/plugin-find-po-line-6.0.10990000000085.tgz#c8cde2c209072ed042bbadfb4537f54d14bee7bd"
+  integrity sha512-gwBaYucbTu+GLPncmp1cwXF+qVjLh2rVs6TQ2boi5yGdtf1YMWb8PbNr7B0R1PYvP06DzYXkcqn8LcbUyJ7HWQ==
   dependencies:
-    "@folio/stripes-acq-components" "~7.0.0"
+    "@folio/stripes-acq-components" "~7.1.0"
     lodash "^4.17.11"
     prop-types "^15.6.0"
 
