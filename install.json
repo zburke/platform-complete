@@ -359,7 +359,7 @@
   "id" : "mod-circulation-bff-1.2.0-SNAPSHOT.74",
   "action" : "enable"
 }, {
-  "id" : "mod-dcb-2.0.0-SNAPSHOT.141",
+  "id" : "mod-dcb-2.0.0-SNAPSHOT.142",
   "action" : "enable"
 }, {
   "id" : "edge-dcb-1.4.0-SNAPSHOT.42",
@@ -386,7 +386,7 @@
   "id" : "mod-tlr-1.2.0-SNAPSHOT.90",
   "action" : "enable"
 }, {
-  "id" : "mod-inn-reach-3.5.0-SNAPSHOT.415",
+  "id" : "mod-inn-reach-3.5.0-SNAPSHOT.416",
   "action" : "enable"
 }, {
   "id" : "folio_inn-reach-6.1.10990000000095",
