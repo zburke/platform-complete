@@ -155,7 +155,7 @@
   "id" : "edge-courses-1.7.0-SNAPSHOT.27",
   "action" : "enable"
 }, {
-  "id" : "mod-notes-7.1.0-SNAPSHOT.289",
+  "id" : "mod-notes-7.1.0-SNAPSHOT.290",
   "action" : "enable"
 }, {
   "id" : "folio_notes-12.0.109900000000122",
@@ -167,7 +167,7 @@
   "id" : "folio_stripes-smart-components-10.1.109900000000570",
   "action" : "enable"
 }, {
-  "id" : "mod-kb-ebsco-java-6.1.0-SNAPSHOT.475",
+  "id" : "mod-kb-ebsco-java-6.1.0-SNAPSHOT.476",
   "action" : "enable"
 }, {
   "id" : "folio_eholdings-11.1.109900000000255",
@@ -269,7 +269,7 @@
   "id" : "mod-inventory-21.2.0-SNAPSHOT.890",
   "action" : "enable"
 }, {
-  "id" : "mod-quick-marc-7.1.0-SNAPSHOT.328",
+  "id" : "mod-quick-marc-7.1.0-SNAPSHOT.329",
   "action" : "enable"
 }, {
   "id" : "folio_quick-marc-10.1.109900000000358",
@@ -449,7 +449,7 @@
   "id" : "folio_orders-9.0.109900000000483",
   "action" : "enable"
 }, {
-  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.739",
+  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.740",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-query-builder-3.0.109900000000818",
