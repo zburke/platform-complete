@@ -2243,9 +2243,9 @@
     prop-types "^15.6.0"
 
 "@folio/stripes-acq-components@^7.0.0", "@folio/stripes-acq-components@~7.1.0":
-  version "7.1.109900000000255"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-acq-components/-/stripes-acq-components-7.1.109900000000255.tgz#2edbcef24734a838b9a64e89eb71d04812bd8f40"
-  integrity sha512-OAr1CU1UaiuyPkSCnZayqSpoC4xnVcgIkV41g6ciJzaUqygrmxYr07iyyk4T+tR92CGbWvLBNyNJvRpAy5bD1g==
+  version "7.1.109900000000262"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-acq-components/-/stripes-acq-components-7.1.109900000000262.tgz#e0e576ad6e12442d40749af565ad5d98b8ecf287"
+  integrity sha512-DJ60vqBBe0mF0a0JcIG+of613FaLdLTjyp7Qe/DgBsJp+WQaszFMb+49RKYMWsfHBMSqk+s/ID/sd7aR8Rj4oA==
   dependencies:
     "@folio/stripes-types" "^3.0.0"
     "@rehooks/local-storage" "^2.4.4"
@@ -5246,9 +5246,9 @@ effection@^1.0.0:
   integrity sha512-ITAAnuI7sJqKhjvYlnm66NHaW7zrXzqgsGsjVaaqFHYDWPN8WylVj46xASfkrtwq5wmklbzy6tvRYaj2C4rDHw==
 
 electron-to-chromium@^1.5.204:
-  version "1.5.205"
-  resolved "https://repository.folio.org/repository/npm-ci-all/electron-to-chromium/-/electron-to-chromium-1.5.205.tgz#02b538ce3d0e6ef2016458b49309fd1f5be2a2a7"
-  integrity sha512-gBtbT7IgOHu7CwdtIiXwbNRD1l6oG6GAyanmwMCLVqaoGy92Jfe1dSHLiSj8xUEZNxOTIVlXuaAalMMD+S4y0w==
+  version "1.5.206"
+  resolved "https://repository.folio.org/repository/npm-ci-all/electron-to-chromium/-/electron-to-chromium-1.5.206.tgz#06533a16504ab8155c6df5509d045bfb60b43c14"
+  integrity sha512-/eucXSTaI8L78l42xPurxdBzPTjAkMVCQO7unZCWk9LnZiwKcSvQUhF4c99NWQLwMQXxjlfoQy0+8m9U2yEDQQ==
 
 element-is-visible@^1.0.0:
   version "1.0.0"
