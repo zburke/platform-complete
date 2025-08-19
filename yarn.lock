@@ -2528,9 +2528,9 @@
     redux-form "^8.3.0"
 
 "@folio/stripes-inventory-components@>=1.0.0":
-  version "2.1.109000000741"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-inventory-components/-/stripes-inventory-components-2.1.109000000741.tgz#77535aa58cfec2fc2497748e97edf28f268c9a0b"
-  integrity sha512-723fssQJsROiw7cXEuWc7MVNp9zAPH1xAW+4PNsL3QQ0+dPQugV6AE9z5F+/qTwI61Xl8HKfAQTa8l+8kTtH8Q==
+  version "2.1.109000000744"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-inventory-components/-/stripes-inventory-components-2.1.109000000744.tgz#8c15e18e8c751ee5014ef51087f7b7dddbaef91e"
+  integrity sha512-uSypzcdpzp7OS7+V9CKFJpkP+mMG9JdArvls5UwBLcRkm5B+whwvLLfj5nQJyM0i7JX2rmHeSAL9F3UmjOK4qA==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     history "^4.10.0"
