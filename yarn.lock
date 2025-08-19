@@ -5246,9 +5246,9 @@ effection@^1.0.0:
   integrity sha512-ITAAnuI7sJqKhjvYlnm66NHaW7zrXzqgsGsjVaaqFHYDWPN8WylVj46xASfkrtwq5wmklbzy6tvRYaj2C4rDHw==
 
 electron-to-chromium@^1.5.204:
-  version "1.5.204"
-  resolved "https://repository.folio.org/repository/npm-ci-all/electron-to-chromium/-/electron-to-chromium-1.5.204.tgz#45ffed15ea3ca5d43e3205b52082721bc988d0ba"
-  integrity sha512-s9VbBXWxfDrl67PlO4avwh0/GU2vcwx8Fph3wlR8LJl7ySGYId59EFE17VWVcuC3sLWNPENm6Z/uGqKbkPCcXA==
+  version "1.5.205"
+  resolved "https://repository.folio.org/repository/npm-ci-all/electron-to-chromium/-/electron-to-chromium-1.5.205.tgz#02b538ce3d0e6ef2016458b49309fd1f5be2a2a7"
+  integrity sha512-gBtbT7IgOHu7CwdtIiXwbNRD1l6oG6GAyanmwMCLVqaoGy92Jfe1dSHLiSj8xUEZNxOTIVlXuaAalMMD+S4y0w==
 
 element-is-visible@^1.0.0:
   version "1.0.0"
