@@ -164,7 +164,7 @@
   "id" : "mod-password-validator-3.5.0-SNAPSHOT.99",
   "action" : "enable"
 }, {
-  "id" : "folio_stripes-smart-components-10.1.109900000000570",
+  "id" : "folio_stripes-smart-components-10.1.109900000000581",
   "action" : "enable"
 }, {
   "id" : "mod-kb-ebsco-java-6.1.0-SNAPSHOT.476",
@@ -224,7 +224,7 @@
   "id" : "folio_stripes-core-11.1.1099000000001009",
   "action" : "enable"
 }, {
-  "id" : "folio_users-13.0.109900000000700",
+  "id" : "folio_users-13.0.109900000000713",
   "action" : "enable"
 }, {
   "id" : "mod-circulation-storage-17.5.0-SNAPSHOT.475",
@@ -449,7 +449,7 @@
   "id" : "folio_orders-9.0.109900000000492",
   "action" : "enable"
 }, {
-  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.744",
+  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.745",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-query-builder-3.0.109900000000833",
