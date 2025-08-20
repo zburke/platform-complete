@@ -12,7 +12,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-record-specifications-2.1.0-SNAPSHOT.106",
+    "id": "mod-record-specifications-2.1.0-SNAPSHOT.107",
     "action": "enable"
   },
   {
@@ -292,11 +292,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-fqm-manager-4.1.0-SNAPSHOT.743",
+    "id": "mod-fqm-manager-4.1.0-SNAPSHOT.744",
     "action": "enable"
   },
   {
-    "id": "mod-bulk-operations-2.3.0-SNAPSHOT.450",
+    "id": "mod-bulk-operations-2.3.0-SNAPSHOT.451",
     "action": "enable"
   },
   {
