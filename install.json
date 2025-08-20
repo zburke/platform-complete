@@ -179,7 +179,10 @@
   "id" : "folio_serials-management-2.1.109900000000813",
   "action" : "enable"
 }, {
-  "id" : "mod-agreements-7.3.0-SNAPSHOT.801",
+  "id" : "mod-agreements-7.3.0-SNAPSHOT.802",
+  "action" : "enable"
+}, {
+  "id" : "folio_agreements-12.1.109900000000982",
   "action" : "enable"
 }, {
   "id" : "folio_erm-comparisons-8.1.109900000000135",
@@ -195,9 +198,6 @@
   "action" : "enable"
 }, {
   "id" : "mod-configuration-5.13.0-SNAPSHOT.139",
-  "action" : "enable"
-}, {
-  "id" : "folio_agreements-12.1.109900000000974",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-organization-6.0.10990000000038",
