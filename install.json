@@ -224,7 +224,7 @@
   "id" : "folio_stripes-core-11.1.1099000000001009",
   "action" : "enable"
 }, {
-  "id" : "folio_users-13.0.109900000000713",
+  "id" : "folio_users-13.0.109900000000732",
   "action" : "enable"
 }, {
   "id" : "mod-circulation-storage-17.5.0-SNAPSHOT.475",
@@ -317,7 +317,7 @@
   "id" : "mod-feesfines-19.4.0-SNAPSHOT.253",
   "action" : "enable"
 }, {
-  "id" : "folio_reading-room-3.0.109900000000103",
+  "id" : "folio_reading-room-3.0.109900000000104",
   "action" : "enable"
 }, {
   "id" : "mod-data-export-worker-3.5.0-SNAPSHOT.631",
@@ -443,7 +443,7 @@
   "id" : "folio_finance-9.0.109900000000376",
   "action" : "enable"
 }, {
-  "id" : "folio_invoice-8.0.109900000000306",
+  "id" : "folio_invoice-8.0.109900000000311",
   "action" : "enable"
 }, {
   "id" : "folio_orders-9.0.109900000000492",
@@ -461,7 +461,7 @@
   "id" : "mod-bulk-operations-2.3.0-SNAPSHOT.457",
   "action" : "enable"
 }, {
-  "id" : "folio_bulk-edit-5.0.109900000000685",
+  "id" : "folio_bulk-edit-5.0.109900000000714",
   "action" : "enable"
 }, {
   "id" : "mod-lists-3.2.0-SNAPSHOT.208",

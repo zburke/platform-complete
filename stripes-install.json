@@ -8,7 +8,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_bulk-edit-5.0.109900000000685",
+    "id": "folio_bulk-edit-5.0.109900000000714",
     "action": "enable"
   },
   {
@@ -92,7 +92,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_invoice-8.0.109900000000306",
+    "id": "folio_invoice-8.0.109900000000311",
     "action": "enable"
   },
   {
@@ -220,7 +220,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_reading-room-3.0.109900000000103",
+    "id": "folio_reading-room-3.0.109900000000104",
     "action": "enable"
   },
   {
@@ -280,7 +280,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_users-13.0.109900000000713",
+    "id": "folio_users-13.0.109900000000732",
     "action": "enable"
   },
   {
