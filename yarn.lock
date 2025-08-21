@@ -1582,9 +1582,9 @@
     react-router-prop-types "^1.0.4"
 
 "@folio/finance@>=1.1.0":
-  version "9.0.109900000000376"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/finance/-/finance-9.0.109900000000376.tgz#3f9422b18b6a277666e66fb46cdeb43475afc0e8"
-  integrity sha512-NkbjrUuecyExgcc8/b6SV+CNuowsVdiadNBLmU7mxabmk3CBl2x6rvpRI7aDSmFOG5rXxoPpGoc4xoCKBUtHCA==
+  version "9.0.109900000000379"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/finance/-/finance-9.0.109900000000379.tgz#e8249ac62ca0f51a44f877feaeb20a9262fc0bac"
+  integrity sha512-4ulgSWxUSsmKbkvbgY7u/glouBQj68MCbqYdrKsoHkTpE27mmsDPUFtlcwQtKJr4DHonYz7XPfSgbjtUpfvs5Q==
   dependencies:
     "@folio/stripes-acq-components" "~7.1.0"
     "@folio/stripes-data-transfer-components" "~7.0.0"
