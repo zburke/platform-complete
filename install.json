@@ -92,7 +92,7 @@
   "id" : "mod-settings-1.3.0-SNAPSHOT.58",
   "action" : "enable"
 }, {
-  "id" : "folio_developer-11.0.109900000000240",
+  "id" : "folio_developer-11.0.109900000000243",
   "action" : "enable"
 }, {
   "id" : "folio_myprofile-11.0.109900000000127",
@@ -131,7 +131,7 @@
   "id" : "folio_calendar-12.0.109900000000172",
   "action" : "enable"
 }, {
-  "id" : "folio_stripes-inventory-components-2.1.109000000744",
+  "id" : "folio_stripes-inventory-components-2.1.109000000749",
   "action" : "enable"
 }, {
   "id" : "mod-inventory-update-5.0.0-SNAPSHOT.142",
@@ -407,7 +407,7 @@
   "id" : "folio_plugin-find-po-line-6.0.10990000000089",
   "action" : "enable"
 }, {
-  "id" : "folio_receiving-8.0.109900000000212",
+  "id" : "folio_receiving-8.0.109900000000223",
   "action" : "enable"
 }, {
   "id" : "mod-ebsconet-2.5.0-SNAPSHOT.93",
@@ -449,10 +449,10 @@
   "id" : "folio_orders-9.0.109900000000492",
   "action" : "enable"
 }, {
-  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.746",
+  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.747",
   "action" : "enable"
 }, {
-  "id" : "folio_plugin-query-builder-3.0.109900000000833",
+  "id" : "folio_plugin-query-builder-3.0.109900000000849",
   "action" : "enable"
 }, {
   "id" : "edge-fqm-4.1.0-SNAPSHOT.52",
