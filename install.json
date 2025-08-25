@@ -359,7 +359,7 @@
   "id" : "mod-circulation-bff-1.2.0-SNAPSHOT.76",
   "action" : "enable"
 }, {
-  "id" : "mod-dcb-2.0.0-SNAPSHOT.144",
+  "id" : "mod-dcb-2.0.0-SNAPSHOT.145",
   "action" : "enable"
 }, {
   "id" : "edge-dcb-1.4.0-SNAPSHOT.43",
@@ -449,7 +449,7 @@
   "id" : "folio_orders-9.0.109900000000492",
   "action" : "enable"
 }, {
-  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.749",
+  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.750",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-query-builder-3.0.109900000000849",
