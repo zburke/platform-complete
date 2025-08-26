@@ -2487,9 +2487,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/stripes-erm-components@>=9.0.0":
-  version "10.1.109900000000250"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-erm-components/-/stripes-erm-components-10.1.109900000000250.tgz#775525fb1beb1938d6b5f43752df8c471816262c"
-  integrity sha512-Fvl87TpGpTeXUuxS57wcNkACPpi3l4EtCwpp+8HtzjU+zB1AeuYrnsALp3LDfIHD7sC4o601f1qg5VFdq1hW7Q==
+  version "10.1.109900000000275"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-erm-components/-/stripes-erm-components-10.1.109900000000275.tgz#c5c9c2c65d4c6f776f7b38959bac9e7c9a66c772"
+  integrity sha512-kuTxftPf0WSNPUN/SA92o3IdihoIennU0Fa6wRJfsWlmhXdGM3AOQVRGkDnDWPuG96LkEh4R2yUXuVYl2fmG4w==
   dependencies:
     "@k-int/stripes-kint-components" "^5.19.1"
     dayjs "^1.11.13"
