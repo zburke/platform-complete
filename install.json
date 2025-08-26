@@ -32,7 +32,7 @@
   "id" : "mod-graphql-1.13.1000378",
   "action" : "enable"
 }, {
-  "id" : "mod-record-specifications-2.1.0-SNAPSHOT.107",
+  "id" : "mod-record-specifications-2.1.0-SNAPSHOT.108",
   "action" : "enable"
 }, {
   "id" : "mod-erm-usage-5.2.0-SNAPSHOT.218",
@@ -182,7 +182,7 @@
   "id" : "mod-agreements-7.3.0-SNAPSHOT.802",
   "action" : "enable"
 }, {
-  "id" : "folio_agreements-12.1.109900000000982",
+  "id" : "folio_agreements-12.1.109900000000991",
   "action" : "enable"
 }, {
   "id" : "folio_erm-comparisons-8.1.109900000000135",
