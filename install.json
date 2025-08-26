@@ -257,7 +257,7 @@
   "id" : "mod-entities-links-4.1.0-SNAPSHOT.346",
   "action" : "enable"
 }, {
-  "id" : "mod-search-6.0.0-SNAPSHOT.725",
+  "id" : "mod-search-6.0.0-SNAPSHOT.726",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-instance-9.1.10990000000097",
@@ -449,7 +449,7 @@
   "id" : "folio_orders-9.0.109900000000492",
   "action" : "enable"
 }, {
-  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.752",
+  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.754",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-query-builder-3.0.109900000000849",
