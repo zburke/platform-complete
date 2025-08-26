@@ -20,7 +20,7 @@
         "module": "mgr-tenants"
     },
     {
-        "version": "3.1.0-SNAPSHOT.153",
+        "version": "1.8.0-SNAPSHOT.154",
         "module": "mod-consortia-keycloak"
     },
     {
