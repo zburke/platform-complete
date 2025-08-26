@@ -1,6 +1,42 @@
 [
     {
-        "version": "some-version",
-        "module": "some-module"
+        "version": "3.1.0-SNAPSHOT.247",
+        "module": "folio-module-sidecar "
+    },
+    {
+        "version": "3.1.0-SNAPSHOT.74",
+        "module": "mod-okapi-facade"
+    },
+    {
+        "version": "4.0.0-SNAPSHOT.187",
+        "module": "mgr-applications"
+    },
+    {
+        "version": "4.0.0-SNAPSHOT.212",
+        "module": "mgr-tenant-entitlements"
+    },
+    {
+        "version": "3.1.0-SNAPSHOT.149",
+        "module": "mgr-tenants"
+    },
+    {
+        "version": "3.1.0-SNAPSHOT.153",
+        "module": "mod-consortia-keycloak"
+    },
+    {
+        "version": "3.1.0-SNAPSHOT.137",
+        "module": "mod-login-keycloak"
+    },
+    {
+        "version": "3.1.0-SNAPSHOT.251",
+        "module": "mod-roles-keycloak"
+    },
+    {
+        "version": "3.1.0-SNAPSHOT.138",
+        "module": "mod-scheduler"
+    },
+    {
+        "version": "3.1.0-SNAPSHOT.177",
+        "module": "mod-users-keycloak"
     }
 ]
