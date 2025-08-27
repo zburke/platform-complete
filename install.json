@@ -131,7 +131,7 @@
   "id" : "folio_calendar-12.0.109900000000172",
   "action" : "enable"
 }, {
-  "id" : "folio_stripes-inventory-components-2.1.109000000757",
+  "id" : "folio_stripes-inventory-components-2.1.109000000760",
   "action" : "enable"
 }, {
   "id" : "mod-inventory-update-5.0.0-SNAPSHOT.142",
@@ -179,7 +179,7 @@
   "id" : "folio_serials-management-2.1.109900000000813",
   "action" : "enable"
 }, {
-  "id" : "mod-agreements-7.3.0-SNAPSHOT.802",
+  "id" : "mod-agreements-7.3.0-SNAPSHOT.803",
   "action" : "enable"
 }, {
   "id" : "folio_agreements-12.1.109900000000991",
@@ -344,7 +344,7 @@
   "id" : "folio_circulation-11.1.109900000000196",
   "action" : "enable"
 }, {
-  "id" : "folio_inventory-14.0.1099000000001082",
+  "id" : "folio_inventory-14.0.1099000000001091",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-create-inventory-records-7.0.10990000000083",
@@ -383,7 +383,7 @@
   "id" : "folio_requests-mediated-4.0.109900000000140",
   "action" : "enable"
 }, {
-  "id" : "mod-tlr-1.2.0-SNAPSHOT.92",
+  "id" : "mod-tlr-1.2.0-SNAPSHOT.93",
   "action" : "enable"
 }, {
   "id" : "mod-inn-reach-3.5.0-SNAPSHOT.419",
