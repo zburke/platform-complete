@@ -2997,14 +2997,14 @@
   integrity sha512-q7qL4Mgjs1vByCaTnDFcBnV9HS7GVPJX5vyVoCgZHNSC9rjwIlmbXG5sUuorR5ndfHAIlJ8pVStxvjXHbNvtUg==
 
 "@k-int/stripes-kint-components@^5.11.0", "@k-int/stripes-kint-components@^5.15.0", "@k-int/stripes-kint-components@^5.19.1":
-  version "5.25.0"
-  resolved "https://repository.folio.org/repository/npm-ci-all/@k-int/stripes-kint-components/-/stripes-kint-components-5.25.0.tgz#280b77cb2839d2621c7c1150d5c2c551efafadc2"
-  integrity sha512-T6sHW70xH6Gr1gQBIPWayx6QkBB/C1lLOvcz4TtiH8j1iM9OlI/oBo77uau5meUxLJ0plLQk4mf/JLrmn1Qtpw==
+  version "5.25.1"
+  resolved "https://repository.folio.org/repository/npm-ci-all/@k-int/stripes-kint-components/-/stripes-kint-components-5.25.1.tgz#e475668aed59fa740f16bdcf2987c0825462144a"
+  integrity sha512-diENfu0ZLeYKKDH9PsooEboFoojo32PHhCuEue0F8f5KVNXuUcbFKDZyAJsgXFO+JCKW77kpJ4CWPmWnRkm1/A==
   dependencies:
     "@rehooks/local-storage" "^2.4.4"
     compose-function "^3.0.3"
     react-resize-detector "^11.0.0"
-    zustand "^4.0.0"
+    zustand "^5.0.0"
 
 "@kurkle/color@^0.3.0":
   version "0.3.4"
@@ -10843,7 +10843,7 @@ zen-observable@0.8.15:
   resolved "https://repository.folio.org/repository/npm-ci-all/zen-observable/-/zen-observable-0.8.15.tgz#96415c512d8e3ffd920afd3889604e30b9eaac15"
   integrity sha512-PQ2PC7R9rslx84ndNBZB/Dkv8V8fZEpk83RLgXtYd0fwUgEjseMn1Dgajh2x6S8QbZAFa9p2qVCEuYZNgve0dQ==
 
-zustand@^4.0.0, zustand@^4.1.1, zustand@^4.5.4:
+zustand@^4.1.1, zustand@^4.5.4:
   version "4.5.7"
   resolved "https://repository.folio.org/repository/npm-ci-all/zustand/-/zustand-4.5.7.tgz#7d6bb2026a142415dd8be8891d7870e6dbe65f55"
   integrity sha512-CHOUy7mu3lbD6o6LJLfllpjkzhHXSBlX8B9+qPddUsIfeF5S/UZ5q0kmCsnRqT1UHFQZchNFDDzMbQsuesHWlw==
