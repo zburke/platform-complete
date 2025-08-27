@@ -2750,9 +2750,9 @@
     redux-form "^8.0.0"
 
 "@folio/users@>=2.17.0":
-  version "13.0.109900000000751"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.109900000000751.tgz#5a8921010b45913224a0ecd274ac59d3cb156ed6"
-  integrity sha512-wSDPrtSfDa7Qqxt/HQMuw4kZEWppHBqGmDy9kZRnV2xOdV2jGJ0CpasZOxEoRM3eo4/AvPilQCEbfjPM+ATN/w==
+  version "13.0.109900000000757"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.109900000000757.tgz#caf0e56064e13eda2c802f38a3b9992f3bd179a0"
+  integrity sha512-9BT+ref3yme7HYorXZbuwXs9MfZJkftcrdMD+LIiI1gAA2EAkgxmvX+bRb7rL8Z57ImvEMIHQKmYmACZ0lWZPA==
   dependencies:
     "@folio/stripes-util" "^7.0.0"
     compressorjs "^1.2.1"

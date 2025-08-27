@@ -230,7 +230,7 @@
   "id" : "folio_stripes-core-11.1.1099000000001009",
   "action" : "enable"
 }, {
-  "id" : "folio_users-13.0.109900000000751",
+  "id" : "folio_users-13.0.109900000000757",
   "action" : "enable"
 }, {
   "id" : "mod-patron-blocks-1.13.0-SNAPSHOT.112",
@@ -449,7 +449,7 @@
   "id" : "folio_orders-9.0.109900000000492",
   "action" : "enable"
 }, {
-  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.755",
+  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.756",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-query-builder-3.0.109900000000849",
