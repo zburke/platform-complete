@@ -386,7 +386,7 @@
   "id" : "mod-tlr-1.2.0-SNAPSHOT.93",
   "action" : "enable"
 }, {
-  "id" : "mod-inn-reach-3.5.0-SNAPSHOT.419",
+  "id" : "mod-inn-reach-3.5.0-SNAPSHOT.420",
   "action" : "enable"
 }, {
   "id" : "folio_inn-reach-6.1.109900000000108",
@@ -401,13 +401,13 @@
   "id" : "folio_claims-2.0.109900000000198",
   "action" : "enable"
 }, {
-  "id" : "folio_organizations-7.0.10990000000098",
+  "id" : "folio_organizations-7.0.109900000000131",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-po-line-6.0.10990000000089",
   "action" : "enable"
 }, {
-  "id" : "folio_receiving-8.0.109900000000223",
+  "id" : "folio_receiving-8.0.109900000000234",
   "action" : "enable"
 }, {
   "id" : "mod-ebsconet-2.5.0-SNAPSHOT.93",
