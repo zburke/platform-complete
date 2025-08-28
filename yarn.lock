@@ -1367,7 +1367,7 @@
     react-to-print "^2.3.2"
     uuid "^9.0.0"
 
-"@folio/checkout@>=1.3.0":
+"@folio/checkout@12.0.109900000000157":
   version "12.0.109900000000157"
   resolved "https://repository.folio.org/repository/npm-folioci/@folio/checkout/-/checkout-12.0.109900000000157.tgz#2f49925411943abd2cf491cce1da921eccb13dbe"
   integrity sha512-r/OY8bNfut2wKWYGICchjZdDyS+jZRdukkeO8lKyVgnM25Jp8U4wZQTFROQ7hwOwkU4F4GzPnOFUTGas6H2gBg==
@@ -1693,9 +1693,9 @@
     "@folio/plugin-find-po-line" "^6.0.0"
 
 "@folio/ldp@>=1.1.0":
-  version "3.1.209900000000180"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/ldp/-/ldp-3.1.209900000000180.tgz#8d34b3d7ee022c2e358510c6acda2d847562c710"
-  integrity sha512-C4YNYnQvb7HYxmngu67Z5Ytf14jp4E2aoJ0vQo4ynMaTmysY4MXo3wzKbOmPsR0UQ9A7oXyU8dcm7Mg4g/4m9Q==
+  version "3.1.209900000000184"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/ldp/-/ldp-3.1.209900000000184.tgz#237cd6a5b088bd4ac0c7da54772d7540bf44f9b2"
+  integrity sha512-aq6R4cMpY6jPp9b8OXVJ/VZWOVpTwvaA0rHIzQrE/9qewWbwqef2Jq1VIvAdSj2h+EnY/lByYf3pjkkIhlxPqQ==
   dependencies:
     "@e965/xlsx" "^0.20.2"
     chart.js "^2.9.3"
@@ -2750,9 +2750,9 @@
     redux-form "^8.0.0"
 
 "@folio/users@>=2.17.0":
-  version "13.0.109900000000757"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.109900000000757.tgz#caf0e56064e13eda2c802f38a3b9992f3bd179a0"
-  integrity sha512-9BT+ref3yme7HYorXZbuwXs9MfZJkftcrdMD+LIiI1gAA2EAkgxmvX+bRb7rL8Z57ImvEMIHQKmYmACZ0lWZPA==
+  version "13.0.109900000000764"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.109900000000764.tgz#507bf165e939f59e8b92fee38e9e727328cad2a1"
+  integrity sha512-FbVcW5nxm67ijU//7ohZsGUVVDMQZ/erYQphad23qx2I8eW7wiQF4noI2WI5huTWSkg8cq0DRP5PzbFRN2O4OQ==
   dependencies:
     "@folio/stripes-util" "^7.0.0"
     compressorjs "^1.2.1"
@@ -4129,12 +4129,12 @@ browser-stdout@^1.3.1:
   integrity sha512-qhAVI1+Av2X7qelOfAIYwXONood6XlZE/fXaBSmW/T5SzLAmCgzi+eiWE7fUvbHaeNBQH13UftjpXxsfLkMpgw==
 
 browserslist@^4.24.0, browserslist@^4.24.4, browserslist@^4.25.3:
-  version "4.25.3"
-  resolved "https://repository.folio.org/repository/npm-ci-all/browserslist/-/browserslist-4.25.3.tgz#9167c9cbb40473f15f75f85189290678b99b16c5"
-  integrity sha512-cDGv1kkDI4/0e5yON9yM5G/0A5u8sf5TnmdX5C9qHzI9PPu++sQ9zjm1k9NiOrf3riY4OkK0zSGqfvJyJsgCBQ==
+  version "4.25.4"
+  resolved "https://repository.folio.org/repository/npm-ci-all/browserslist/-/browserslist-4.25.4.tgz#ebdd0e1d1cf3911834bab3a6cd7b917d9babf5af"
+  integrity sha512-4jYpcjabC606xJ3kw2QwGEZKX0Aw7sgQdZCvIK9dhVSPh76BKo+C+btT1RRofH7B+8iNpEbgGNVWiLki5q93yg==
   dependencies:
-    caniuse-lite "^1.0.30001735"
-    electron-to-chromium "^1.5.204"
+    caniuse-lite "^1.0.30001737"
+    electron-to-chromium "^1.5.211"
     node-releases "^2.0.19"
     update-browserslist-db "^1.1.3"
 
@@ -4264,7 +4264,7 @@ camelcase@^7.0.1:
   resolved "https://repository.folio.org/repository/npm-ci-all/camelcase/-/camelcase-7.0.1.tgz#f02e50af9fd7782bc8b88a3558c32fd3a388f048"
   integrity sha512-xlx1yCK2Oc1APsPXDL2LdlNP6+uu8OCDdhOBSVT279M/S+y75O30C2VuD8T2ogdePBBl7PfPF4504tnLgX3zfw==
 
-caniuse-lite@^1.0.30001702, caniuse-lite@^1.0.30001735:
+caniuse-lite@^1.0.30001702, caniuse-lite@^1.0.30001737:
   version "1.0.30001737"
   resolved "https://repository.folio.org/repository/npm-ci-all/caniuse-lite/-/caniuse-lite-1.0.30001737.tgz#8292bb7591932ff09e9a765f12fdf5629a241ccc"
   integrity sha512-BiloLiXtQNrY5UyF0+1nSJLXUENuhka2pzy2Fx5pGxqavdrxSCW4U6Pn/PoG3Efspi2frRbHpBV2XsrPE6EDlw==
@@ -5240,7 +5240,7 @@ effection@^1.0.0:
   resolved "https://repository.folio.org/repository/npm-ci-all/effection/-/effection-1.0.0.tgz#7c20ee4ea6e63fddb5a51461dda8009b649b4195"
   integrity sha512-ITAAnuI7sJqKhjvYlnm66NHaW7zrXzqgsGsjVaaqFHYDWPN8WylVj46xASfkrtwq5wmklbzy6tvRYaj2C4rDHw==
 
-electron-to-chromium@^1.5.204:
+electron-to-chromium@^1.5.211:
   version "1.5.211"
   resolved "https://repository.folio.org/repository/npm-ci-all/electron-to-chromium/-/electron-to-chromium-1.5.211.tgz#749317bf9cf894c06f67980940cf8074e5eb08ca"
   integrity sha512-IGBvimJkotaLzFnwIVgW9/UD/AOJ2tByUmeOrtqBfACSbAw5b1G0XpvdaieKyc7ULmbwXVx+4e4Be8pOPBrYkw==
