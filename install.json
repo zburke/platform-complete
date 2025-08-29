@@ -35,9 +35,6 @@
   "id" : "mod-record-specifications-2.1.0-SNAPSHOT.109",
   "action" : "enable"
 }, {
-  "id" : "folio_checkout-12.0.109900000000157",
-  "action" : "uptodate"
-}, {
   "id" : "mod-erm-usage-5.2.0-SNAPSHOT.218",
   "action" : "enable"
 }, {
@@ -101,7 +98,7 @@
   "id" : "folio_myprofile-11.0.109900000000127",
   "action" : "enable"
 }, {
-  "id" : "mod-reporting-1.5.0-SNAPSHOT.125",
+  "id" : "mod-reporting-1.5.0-SNAPSHOT.129",
   "action" : "enable"
 }, {
   "id" : "folio_ldp-3.1.209900000000184",
@@ -341,7 +338,7 @@
   "id" : "folio_checkin-12.0.109900000000180",
   "action" : "enable"
 }, {
-  "id" : "folio_checkout-12.0.109900000000157",
+  "id" : "folio_checkout-13.0.109900000000165",
   "action" : "enable"
 }, {
   "id" : "folio_circulation-11.1.109900000000196",
