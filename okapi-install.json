@@ -32,7 +32,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-calendar-3.4.0-SNAPSHOT.186",
+    "id": "mod-calendar-3.4.0-SNAPSHOT.187",
     "action": "enable"
   },
   {
@@ -64,7 +64,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-reporting-1.5.0-SNAPSHOT.129",
+    "id": "mod-reporting-1.5.0-SNAPSHOT.134",
     "action": "enable"
   },
   {
@@ -72,7 +72,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-circulation-item-1.3.0-SNAPSHOT.47",
+    "id": "mod-circulation-item-1.3.0-SNAPSHOT.48",
     "action": "enable"
   },
   {
@@ -84,11 +84,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-inventory-storage-30.0.0-SNAPSHOT.1187",
+    "id": "mod-inventory-storage-30.0.0-SNAPSHOT.1188",
     "action": "enable"
   },
   {
-    "id": "mod-inventory-update-5.0.0-SNAPSHOT.142",
+    "id": "mod-inventory-update-5.0.0-SNAPSHOT.143",
     "action": "enable"
   },
   {
@@ -220,7 +220,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-feesfines-19.4.0-SNAPSHOT.253",
+    "id": "mod-feesfines-19.4.0-SNAPSHOT.254",
     "action": "enable"
   },
   {
@@ -264,7 +264,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-orders-13.1.0-SNAPSHOT.1063",
+    "id": "mod-orders-13.1.0-SNAPSHOT.1065",
     "action": "enable"
   },
   {
@@ -292,7 +292,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-fqm-manager-4.1.0-SNAPSHOT.763",
+    "id": "mod-fqm-manager-4.1.0-SNAPSHOT.766",
     "action": "enable"
   },
   {
@@ -300,7 +300,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-lists-3.2.0-SNAPSHOT.211",
+    "id": "mod-lists-3.2.0-SNAPSHOT.213",
     "action": "enable"
   },
   {
