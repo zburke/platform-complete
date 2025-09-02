@@ -224,7 +224,7 @@
   "id" : "folio_stripes-core-11.1.1099000000001034",
   "action" : "enable"
 }, {
-  "id" : "folio_users-13.0.109900000000783",
+  "id" : "folio_users-13.0.109900000000790",
   "action" : "enable"
 }, {
   "id" : "mod-circulation-storage-17.5.0-SNAPSHOT.475",
@@ -449,7 +449,7 @@
   "id" : "folio_orders-9.0.109900000000492",
   "action" : "enable"
 }, {
-  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.766",
+  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.768",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-query-builder-3.0.109900000000860",
