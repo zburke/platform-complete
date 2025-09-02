@@ -449,7 +449,7 @@
   "id" : "folio_orders-9.0.109900000000492",
   "action" : "enable"
 }, {
-  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.768",
+  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.769",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-query-builder-3.0.109900000000860",
@@ -464,10 +464,10 @@
   "id" : "folio_bulk-edit-5.0.109900000000739",
   "action" : "enable"
 }, {
-  "id" : "mod-lists-3.2.0-SNAPSHOT.213",
+  "id" : "mod-lists-3.2.0-SNAPSHOT.214",
   "action" : "enable"
 }, {
-  "id" : "folio_lists-4.0.309900000000881",
+  "id" : "folio_lists-4.0.309900000000884",
   "action" : "enable"
 }, {
   "id" : "mod-remote-storage-3.5.0-SNAPSHOT.234",
