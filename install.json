@@ -266,7 +266,7 @@
   "id" : "folio_stripes-authority-components-6.1.109900000000143",
   "action" : "enable"
 }, {
-  "id" : "mod-inventory-21.2.0-SNAPSHOT.891",
+  "id" : "mod-inventory-21.2.0-SNAPSHOT.894",
   "action" : "enable"
 }, {
   "id" : "mod-quick-marc-7.1.0-SNAPSHOT.330",
@@ -314,7 +314,7 @@
   "id" : "mod-notify-3.5.0-SNAPSHOT.139",
   "action" : "enable"
 }, {
-  "id" : "mod-feesfines-19.4.0-SNAPSHOT.254",
+  "id" : "mod-feesfines-19.4.0-SNAPSHOT.257",
   "action" : "enable"
 }, {
   "id" : "folio_reading-room-3.0.109900000000108",
