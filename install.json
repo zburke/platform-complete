@@ -257,7 +257,7 @@
   "id" : "mod-entities-links-4.1.0-SNAPSHOT.347",
   "action" : "enable"
 }, {
-  "id" : "mod-search-6.0.0-SNAPSHOT.726",
+  "id" : "mod-search-6.0.0-SNAPSHOT.728",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-instance-9.1.109900000000101",
@@ -344,7 +344,7 @@
   "id" : "folio_circulation-11.1.109900000000200",
   "action" : "enable"
 }, {
-  "id" : "folio_inventory-14.0.1099000000001125",
+  "id" : "folio_inventory-14.0.1099000000001130",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-create-inventory-records-7.0.10990000000087",
@@ -458,7 +458,7 @@
   "id" : "edge-fqm-4.1.0-SNAPSHOT.52",
   "action" : "enable"
 }, {
-  "id" : "mod-bulk-operations-2.3.0-SNAPSHOT.461",
+  "id" : "mod-bulk-operations-2.3.0-SNAPSHOT.462",
   "action" : "enable"
 }, {
   "id" : "folio_bulk-edit-5.0.109900000000739",
