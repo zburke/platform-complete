@@ -182,7 +182,7 @@
   "id" : "mod-agreements-7.3.0-SNAPSHOT.804",
   "action" : "enable"
 }, {
-  "id" : "folio_agreements-12.1.1099000000001031",
+  "id" : "folio_agreements-12.1.1099000000001053",
   "action" : "enable"
 }, {
   "id" : "folio_erm-comparisons-8.1.109900000000135",
@@ -245,7 +245,7 @@
   "id" : "mod-finance-5.2.0-SNAPSHOT.298",
   "action" : "enable"
 }, {
-  "id" : "mod-source-record-manager-3.11.0-SNAPSHOT.1038",
+  "id" : "mod-source-record-manager-3.11.0-SNAPSHOT.1039",
   "action" : "enable"
 }, {
   "id" : "mod-copycat-1.8.0",
