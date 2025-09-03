@@ -32,7 +32,7 @@
   "id" : "mod-graphql-1.13.1000378",
   "action" : "enable"
 }, {
-  "id" : "mod-record-specifications-2.1.0-SNAPSHOT.109",
+  "id" : "mod-record-specifications-2.1.0-SNAPSHOT.110",
   "action" : "enable"
 }, {
   "id" : "mod-erm-usage-5.2.0-SNAPSHOT.218",
@@ -125,7 +125,7 @@
   "id" : "mod-pubsub-2.17.0-SNAPSHOT.263",
   "action" : "enable"
 }, {
-  "id" : "mod-inventory-storage-30.0.0-SNAPSHOT.1188",
+  "id" : "mod-inventory-storage-30.0.0-SNAPSHOT.1189",
   "action" : "enable"
 }, {
   "id" : "folio_calendar-12.0.109900000000172",
