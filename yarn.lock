@@ -1733,9 +1733,9 @@
     react-router-prop-types "^1.0.4"
 
 "@folio/lists@>=1.2.0":
-  version "4.0.309900000000884"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/lists/-/lists-4.0.309900000000884.tgz#94ee8a0afad23329089937fc2c06ce6fa142b7bf"
-  integrity sha512-RZRBP0SUH/XF6Y6GS9WiVUNY2zX3c4I6z9eVDe4VNEVGcVccEoLRxkZm8HdXggIIIpCAegl3zCC8tEoEEVbB0A==
+  version "4.0.309900000000887"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/lists/-/lists-4.0.309900000000887.tgz#3c3ca5cebddae472987fee5029d485d976b70677"
+  integrity sha512-WYLrbBtuqmliLTLE6Qav2tT+0H/BiXGwLafZosqOGm6F4EyCAnk2dOBR+fiLoLUYHnqOBKZIOK4A9Yg+ZzQjHw==
   dependencies:
     "@folio/plugin-query-builder" "^2.0.0"
     "@folio/stripes-acq-components" "~7.0.0"
