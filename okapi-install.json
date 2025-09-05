@@ -164,7 +164,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-finance-5.2.0-SNAPSHOT.298",
+    "id": "mod-finance-5.2.0-SNAPSHOT.299",
     "action": "enable"
   },
   {
@@ -224,11 +224,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-data-export-worker-3.5.0-SNAPSHOT.631",
+    "id": "mod-data-export-worker-3.5.0-SNAPSHOT.632",
     "action": "enable"
   },
   {
-    "id": "mod-data-export-spring-3.6.0-SNAPSHOT.310",
+    "id": "mod-data-export-spring-3.6.0-SNAPSHOT.311",
     "action": "enable"
   },
   {
@@ -236,7 +236,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-circulation-bff-1.2.0-SNAPSHOT.78",
+    "id": "mod-circulation-bff-1.2.0-SNAPSHOT.79",
     "action": "enable"
   },
   {
@@ -248,7 +248,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-patron-6.4.0-SNAPSHOT.170",
+    "id": "mod-patron-6.4.0-SNAPSHOT.171",
     "action": "enable"
   },
   {
@@ -292,11 +292,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-fqm-manager-4.1.0-SNAPSHOT.773",
+    "id": "mod-fqm-manager-4.1.0-SNAPSHOT.774",
     "action": "enable"
   },
   {
-    "id": "mod-bulk-operations-2.3.0-SNAPSHOT.464",
+    "id": "mod-bulk-operations-2.3.0-SNAPSHOT.465",
     "action": "enable"
   },
   {
