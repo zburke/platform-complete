@@ -1,6 +1,6 @@
 [
     {
-        "version": "4.0.0-SNAPSHOT.197",
-        "module": "mgr-applications"
+        "version": "some_version",
+        "module": "some_module"
     }
 ]
