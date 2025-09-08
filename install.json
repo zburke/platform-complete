@@ -182,7 +182,7 @@
   "id" : "mod-agreements-7.3.0-SNAPSHOT.805",
   "action" : "enable"
 }, {
-  "id" : "folio_agreements-12.1.1099000000001053",
+  "id" : "folio_agreements-12.1.10990000001068",
   "action" : "enable"
 }, {
   "id" : "folio_erm-comparisons-8.1.109900000000135",
@@ -344,7 +344,7 @@
   "id" : "folio_circulation-11.1.109900000000200",
   "action" : "enable"
 }, {
-  "id" : "folio_inventory-14.0.10990000001156",
+  "id" : "folio_inventory-14.0.10990000001161",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-create-inventory-records-7.0.10990000000087",
@@ -443,7 +443,7 @@
   "id" : "folio_finance-9.0.10990000000414",
   "action" : "enable"
 }, {
-  "id" : "folio_invoice-8.0.109900000000324",
+  "id" : "folio_invoice-8.0.10990000000338",
   "action" : "enable"
 }, {
   "id" : "folio_orders-9.0.109900000000514",

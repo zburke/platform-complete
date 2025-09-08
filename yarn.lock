@@ -1101,7 +1101,7 @@
   dependencies:
     tslib "^2.0.0"
 
-"@dnd-kit/core@^6.2.0":
+"@dnd-kit/core@^6.2.0", "@dnd-kit/core@^6.3.1":
   version "6.3.1"
   resolved "https://repository.folio.org/repository/npm-ci-all/@dnd-kit/core/-/core-6.3.1.tgz#4c36406a62c7baac499726f899935f93f0e6d003"
   integrity sha512-xkGBRQQab4RLwgXxoqETICr6S5JlogafbhNsidmrkVv2YRs5MLwpjoF2qpiGjQt8S9AoxtIV603s0GIUpY5eYQ==
@@ -1114,6 +1114,14 @@
   version "9.0.0"
   resolved "https://repository.folio.org/repository/npm-ci-all/@dnd-kit/modifiers/-/modifiers-9.0.0.tgz#96a0280c77b10c716ef79d9792ce7ad04370771d"
   integrity sha512-ybiLc66qRGuZoC20wdSSG6pDXFikui/dCNGthxv4Ndy8ylErY0N3KVxY2bgo7AWwIbxDmXDg3ylAFmnrjcbVvw==
+  dependencies:
+    "@dnd-kit/utilities" "^3.2.2"
+    tslib "^2.0.0"
+
+"@dnd-kit/sortable@^10.0.0":
+  version "10.0.0"
+  resolved "https://repository.folio.org/repository/npm-ci-all/@dnd-kit/sortable/-/sortable-10.0.0.tgz#1f9382b90d835cd5c65d92824fa9dafb78c4c3e8"
+  integrity sha512-+xqhmIIzvAYMGfBYYnbKuNicfSsk4RksY2XdmJhT+HAC01nix6fHCztU68jooFiMUB01Ky3F0FyOvhG/BZrWkg==
   dependencies:
     "@dnd-kit/utilities" "^3.2.2"
     tslib "^2.0.0"
@@ -1283,9 +1291,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/agreements@>=2.0.0":
-  version "12.1.1099000000001053"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/agreements/-/agreements-12.1.1099000000001053.tgz#31de798282560e19c22007cdbd89e37bd377bd3f"
-  integrity sha512-MAwh/OLY21xRwycD7yl5zxHQQUcxoKfaD5gCJ5R0mD4Q6dz1JCk5Rl3xLEYly7ruNIAJz3whpC7oi1/nLeasig==
+  version "12.1.10990000001068"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/agreements/-/agreements-12.1.10990000001068.tgz#fc1daab75dc95297882965101b5870a4728ac898"
+  integrity sha512-ElLGFCyehrSM8KXbRu9saJGQKvz1RJrsF/zj2MD7DitMT1lNlZcU4nSS/NIoF5pTQ22hyyW/KJbeFcNyoC1wuA==
   dependencies:
     "@k-int/stripes-kint-components" "^5.15.0"
     "@rehooks/local-storage" "^2.4.4"
@@ -1634,10 +1642,14 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/inventory@>=1.4.0":
-  version "14.0.10990000001156"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/inventory/-/inventory-14.0.10990000001156.tgz#c2db23900bf5008b3ab91ba53a2149b85aa15aa4"
-  integrity sha512-k6Hr/koZo+i5xPkpp3irLpXRUPBWyznJ2iScSNdENw3+U9jpv6xrIXUNetUGWolJP6OTA41P68CNQ05oh5ADpg==
+  version "14.0.10990000001161"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/inventory/-/inventory-14.0.10990000001161.tgz#6577ffa38638fe6bd6d08de2217531cfa941a9e7"
+  integrity sha512-CI+hmhhnFH8ExDYhmPuIOHs9scvrQq0drQKMC7MvNwYGYUO4OBzIb78NLvQe4sdgOtuAjM5gYNk4kqAbOz0p3g==
   dependencies:
+    "@dnd-kit/core" "^6.3.1"
+    "@dnd-kit/modifiers" "^9.0.0"
+    "@dnd-kit/sortable" "^10.0.0"
+    "@dnd-kit/utilities" "^3.2.2"
     "@folio/stripes-acq-components" "^7.0.0"
     classnames "^2.3.2"
     file-saver "^2.0.0"
@@ -1650,7 +1662,6 @@
     moment "~2.29.4"
     prop-types "^15.5.10"
     query-string "^5.0.0"
-    react-beautiful-dnd "^13.0.0"
     react-copy-to-clipboard "^5.0.1"
     react-final-form "^6.5.6"
     react-final-form-arrays "^3.1.0"
@@ -1663,9 +1674,9 @@
     "@folio/plugin-find-instance" "^9.0.0"
 
 "@folio/invoice@>=1.0.0":
-  version "8.0.109900000000324"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/invoice/-/invoice-8.0.109900000000324.tgz#2fe321720f63ec0d47c4ead7d86819573f630c59"
-  integrity sha512-odUap59cDAFxPfhzuQDSwlBzPlOotguQT9AcKvSsqygZO7X+3Bx1DA02cV4vrjyECXB1BG/OXz3KoqcXxRyb1A==
+  version "8.0.10990000000338"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/invoice/-/invoice-8.0.10990000000338.tgz#8b03b2f5ad8472c84071c32928ac798ea4324b6a"
+  integrity sha512-FGtZi0uiCr4/d+UTKKE3TGsHsvrBqMVTB7nHWIPab03JGnjWMu4RoOXJrxCF3zFI62NCnaVUqHLWeMXIohAcaQ==
   dependencies:
     "@folio/stripes-acq-components" "~7.1.0"
     file-saver "^2.0.0"
@@ -8666,7 +8677,7 @@ react-barcode@^1.3.2, react-barcode@^1.5.3:
     jsbarcode "^3.8.0"
     prop-types "^15.6.2"
 
-react-beautiful-dnd@^13.0.0, react-beautiful-dnd@^13.1.0:
+react-beautiful-dnd@^13.1.0:
   version "13.1.1"
   resolved "https://repository.folio.org/repository/npm-ci-all/react-beautiful-dnd/-/react-beautiful-dnd-13.1.1.tgz#b0f3087a5840920abf8bb2325f1ffa46d8c4d0a2"
   integrity sha512-0Lvs4tq2VcrEjEgDXHjT98r+63drkKEgqyxdA7qD3mvKwga6a5SscbdLPO2IExotU1jW8L0Ksdl0Cj2AF67nPQ==
