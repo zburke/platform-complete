@@ -344,7 +344,7 @@
   "id" : "folio_circulation-11.1.109900000000200",
   "action" : "enable"
 }, {
-  "id" : "folio_inventory-14.0.1099000000001130",
+  "id" : "folio_inventory-14.0.10990000001156",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-create-inventory-records-7.0.10990000000087",
@@ -359,7 +359,7 @@
   "id" : "mod-circulation-bff-1.2.0-SNAPSHOT.79",
   "action" : "enable"
 }, {
-  "id" : "mod-dcb-2.0.0-SNAPSHOT.145",
+  "id" : "mod-dcb-2.0.0-SNAPSHOT.146",
   "action" : "enable"
 }, {
   "id" : "edge-dcb-1.4.0-SNAPSHOT.43",
