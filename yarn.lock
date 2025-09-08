@@ -1291,9 +1291,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/agreements@>=2.0.0":
-  version "12.1.10990000001068"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/agreements/-/agreements-12.1.10990000001068.tgz#fc1daab75dc95297882965101b5870a4728ac898"
-  integrity sha512-ElLGFCyehrSM8KXbRu9saJGQKvz1RJrsF/zj2MD7DitMT1lNlZcU4nSS/NIoF5pTQ22hyyW/KJbeFcNyoC1wuA==
+  version "12.1.10990000001073"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/agreements/-/agreements-12.1.10990000001073.tgz#0075a25d6897978268e356ae125fa36f5ba4d6d2"
+  integrity sha512-+G4yMBGehEt11kgOvcVXgvt0efRW3QABTUP5Wjb8A/9I27MTnNMzUQMERPtEHobmklai623BHOxP1SuaZMaZnA==
   dependencies:
     "@k-int/stripes-kint-components" "^5.15.0"
     "@rehooks/local-storage" "^2.4.4"
@@ -1642,9 +1642,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/inventory@>=1.4.0":
-  version "14.0.10990000001161"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/inventory/-/inventory-14.0.10990000001161.tgz#6577ffa38638fe6bd6d08de2217531cfa941a9e7"
-  integrity sha512-CI+hmhhnFH8ExDYhmPuIOHs9scvrQq0drQKMC7MvNwYGYUO4OBzIb78NLvQe4sdgOtuAjM5gYNk4kqAbOz0p3g==
+  version "14.0.10990000001164"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/inventory/-/inventory-14.0.10990000001164.tgz#f0c394c6b552a7d8feba842a8a215d901a1f8532"
+  integrity sha512-MMufW372lmoilXyVNBj0H/7JhltkINmGvjDqeZrCw77NcZR81ql4SF7JHpi3eC7kwXEN9YJ1t53cIMfbRHQObg==
   dependencies:
     "@dnd-kit/core" "^6.3.1"
     "@dnd-kit/modifiers" "^9.0.0"
