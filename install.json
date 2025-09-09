@@ -59,7 +59,7 @@
   "id" : "mod-calendar-3.4.0-SNAPSHOT.187",
   "action" : "enable"
 }, {
-  "id" : "mod-organizations-storage-5.0.0-SNAPSHOT.129",
+  "id" : "mod-organizations-storage-5.0.0-SNAPSHOT.130",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-contact-6.0.10990000000047",
@@ -392,7 +392,7 @@
   "id" : "folio_inn-reach-6.1.109900000000128",
   "action" : "enable"
 }, {
-  "id" : "mod-orders-13.1.0-SNAPSHOT.1067",
+  "id" : "mod-orders-13.1.0-SNAPSHOT.1068",
   "action" : "enable"
 }, {
   "id" : "folio_acquisition-units-6.0.10990000000054",
@@ -449,7 +449,7 @@
   "id" : "folio_orders-9.0.109900000000514",
   "action" : "enable"
 }, {
-  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.780",
+  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.781",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-query-builder-3.0.109900000000860",
