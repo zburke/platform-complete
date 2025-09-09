@@ -239,7 +239,7 @@
   "id" : "mod-email-1.20.0-SNAPSHOT.93",
   "action" : "enable"
 }, {
-  "id" : "mod-finance-storage-8.9.0-SNAPSHOT.416",
+  "id" : "mod-finance-storage-8.9.0-SNAPSHOT.417",
   "action" : "enable"
 }, {
   "id" : "mod-finance-5.2.0-SNAPSHOT.299",
@@ -365,7 +365,7 @@
   "id" : "edge-dcb-1.4.0-SNAPSHOT.43",
   "action" : "enable"
 }, {
-  "id" : "mod-ncip-1.16.0-SNAPSHOT.110",
+  "id" : "mod-ncip-1.16.0-SNAPSHOT.111",
   "action" : "enable"
 }, {
   "id" : "edge-ncip-1.11.0-SNAPSHOT.37",
@@ -392,7 +392,7 @@
   "id" : "folio_inn-reach-6.1.109900000000128",
   "action" : "enable"
 }, {
-  "id" : "mod-orders-13.1.0-SNAPSHOT.1068",
+  "id" : "mod-orders-13.1.0-SNAPSHOT.1069",
   "action" : "enable"
 }, {
   "id" : "folio_acquisition-units-6.0.10990000000054",
@@ -437,7 +437,7 @@
   "id" : "edge-rtac-2.10.0-SNAPSHOT.114",
   "action" : "enable"
 }, {
-  "id" : "mod-invoice-6.1.0-SNAPSHOT.487",
+  "id" : "mod-invoice-6.1.0-SNAPSHOT.488",
   "action" : "enable"
 }, {
   "id" : "folio_finance-9.0.10990000000414",
