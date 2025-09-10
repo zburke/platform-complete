@@ -12,7 +12,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-record-specifications-2.1.0-SNAPSHOT.110",
+    "id": "mod-record-specifications-2.1.0-SNAPSHOT.111",
     "action": "enable"
   },
   {
@@ -108,7 +108,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-notes-7.1.0-SNAPSHOT.290",
+    "id": "mod-notes-7.1.0-SNAPSHOT.291",
     "action": "enable"
   },
   {
@@ -176,11 +176,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-entities-links-4.1.0-SNAPSHOT.347",
+    "id": "mod-entities-links-4.1.0-SNAPSHOT.348",
     "action": "enable"
   },
   {
-    "id": "mod-search-6.0.0-SNAPSHOT.729",
+    "id": "mod-search-6.0.0-SNAPSHOT.730",
     "action": "enable"
   },
   {
@@ -188,7 +188,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-quick-marc-7.1.0-SNAPSHOT.330",
+    "id": "mod-quick-marc-7.1.0-SNAPSHOT.331",
     "action": "enable"
   },
   {
