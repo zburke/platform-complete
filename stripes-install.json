@@ -16,7 +16,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_checkin-12.0.10990000000208",
+    "id": "folio_checkin-12.0.1099000000000209",
     "action": "enable"
   },
   {
@@ -48,7 +48,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_data-import-9.0.10990000000165",
+    "id": "folio_data-import-9.0.1099000000000166",
     "action": "enable"
   },
   {
@@ -64,7 +64,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_erm-usage-12.0.109900000000585",
+    "id": "folio_erm-usage-12.0.1099000000000590",
     "action": "enable"
   },
   {
@@ -72,7 +72,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_finance-9.0.10990000000414",
+    "id": "folio_finance-9.0.1099000000000425",
     "action": "enable"
   },
   {
@@ -212,7 +212,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_plugin-query-builder-3.0.109900000000860",
+    "id": "folio_plugin-query-builder-3.0.1099000000000896",
     "action": "enable"
   },
   {
@@ -256,7 +256,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_stripes-core-11.1.1099000000001066",
+    "id": "folio_stripes-core-11.1.1099000000001092",
     "action": "enable"
   },
   {

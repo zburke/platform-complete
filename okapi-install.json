@@ -184,7 +184,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-inventory-21.2.0-SNAPSHOT.894",
+    "id": "mod-inventory-21.2.0-SNAPSHOT.895",
     "action": "enable"
   },
   {
@@ -224,7 +224,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-data-export-worker-3.5.0-SNAPSHOT.632",
+    "id": "mod-data-export-worker-3.5.0-SNAPSHOT.633",
     "action": "enable"
   },
   {
@@ -292,7 +292,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-fqm-manager-4.1.0-SNAPSHOT.794",
+    "id": "mod-fqm-manager-4.1.0-SNAPSHOT.796",
     "action": "enable"
   },
   {
@@ -300,7 +300,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-lists-3.2.0-SNAPSHOT.218",
+    "id": "mod-lists-3.2.0-SNAPSHOT.219",
     "action": "enable"
   },
   {
