@@ -443,10 +443,10 @@
   "id" : "folio_finance-9.0.1099000000000425",
   "action" : "enable"
 }, {
-  "id" : "folio_invoice-8.0.10990000000338",
+  "id" : "folio_invoice-8.0.1099000000000339",
   "action" : "enable"
 }, {
-  "id" : "folio_orders-9.0.109900000000514",
+  "id" : "folio_orders-9.0.1099000000000525",
   "action" : "enable"
 }, {
   "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.796",
