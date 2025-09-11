@@ -1834,9 +1834,9 @@
     react-router-prop-types "^1.0.4"
 
 "@folio/orders@>=1.1.0":
-  version "9.0.1099000000000528"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/orders/-/orders-9.0.1099000000000528.tgz#653fce411bf32aac9eb3f37e975922e8ceb49def"
-  integrity sha512-GZpVDz2nYYI0GoLLFLW2eEUnexH/r/YzF17rp/FnqH409RZMAf/ZL8Pw5rzuFKhObvAFYW0D02MyJhWkJrelVw==
+  version "9.0.1099000000000536"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/orders/-/orders-9.0.1099000000000536.tgz#aba65a5fac1f0b7664d15f6f18a4b9f7cb0b183a"
+  integrity sha512-Eu39W9wd91FbkdxZpspNtoNOXwHx/Gb33iNPZ6xthYBGuNKa7T0LdE4+aScujMlyDZh8DuSJNiN0C/C4ZZsiIg==
   dependencies:
     "@folio/plugin-find-po-line" "^6.0.0"
     "@folio/stripes-acq-components" "~7.1.0"
@@ -3978,9 +3978,9 @@ bare-events@^2.2.0, bare-events@^2.5.4:
   integrity sha512-AuTJkq9XmE6Vk0FJVNq5QxETrSA/vKHarWVBG5l/JbdCL1prJemiyJqUS0jrlXO0MftuPq4m3YVYhoNc5+aE/g==
 
 bare-fs@^4.0.1:
-  version "4.3.3"
-  resolved "https://repository.folio.org/repository/npm-ci-all/bare-fs/-/bare-fs-4.3.3.tgz#b39f301569330305f64dc749603ce2e927f6b199"
-  integrity sha512-W+ZpiQx1i0dm073So22v3jColDtvyqSTyUYEnooYwKcl+SHuqnQGKyuHdwigQffWJV5ghKtskVH7ydAkBVKQZQ==
+  version "4.4.0"
+  resolved "https://repository.folio.org/repository/npm-ci-all/bare-fs/-/bare-fs-4.4.0.tgz#61cd6cbfdc7760731da5a14a87ba23f93b87be7f"
+  integrity sha512-DfdhZD+8fPM80vB28NMIlQIW4FBdkRMNLIa8o5HPSfGlxXek1C34qd98YItQzSl86Kt2IGom9+izFCrNuR7BXw==
   dependencies:
     bare-events "^2.5.4"
     bare-path "^3.0.0"
