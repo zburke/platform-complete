@@ -44,7 +44,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-source-record-storage-5.11.0-SNAPSHOT.701",
+    "id": "mod-source-record-storage-5.11.0-SNAPSHOT.702",
     "action": "enable"
   },
   {
@@ -168,7 +168,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-source-record-manager-3.11.0-SNAPSHOT.1039",
+    "id": "mod-source-record-manager-4.0.0-SNAPSHOT.1040",
     "action": "enable"
   },
   {
@@ -184,11 +184,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-inventory-21.2.0-SNAPSHOT.895",
+    "id": "mod-inventory-21.2.0-SNAPSHOT.896",
     "action": "enable"
   },
   {
-    "id": "mod-quick-marc-7.1.0-SNAPSHOT.332",
+    "id": "mod-quick-marc-8.0.0-SNAPSHOT.334",
     "action": "enable"
   },
   {
@@ -292,7 +292,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-fqm-manager-4.1.0-SNAPSHOT.805",
+    "id": "mod-fqm-manager-4.1.0-SNAPSHOT.806",
     "action": "enable"
   },
   {
