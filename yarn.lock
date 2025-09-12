@@ -1291,9 +1291,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/agreements@>=2.0.0":
-  version "12.1.1099000000001115"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/agreements/-/agreements-12.1.1099000000001115.tgz#6e6a3c71cfa0c3822e5e03a3fdbd44d7cd39db7a"
-  integrity sha512-oB0NXI1qPOpXJ9bMB6hFcO8fQz6haIKKz6wxsYCbwqlixbaJ1p0LkmDNsto6IimtehYLnb8TlhQwYUFeiV5Zdw==
+  version "12.1.1099000000001128"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/agreements/-/agreements-12.1.1099000000001128.tgz#a8be69e4c2881d11a1586e80d86a40859b7295e2"
+  integrity sha512-Qs+9ZGeV4X1ZjKqQOyrjr+E4Siee96Gadn4E9E+VuBwTQPMD/mXz3hFrL+cbEs4FU1/jGSYL9+mTCMPFZ7DxTw==
   dependencies:
     "@k-int/stripes-kint-components" "^5.15.0"
     "@rehooks/local-storage" "^2.4.4"
@@ -2189,9 +2189,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/requests@>=1.4.1":
-  version "13.0.109900000000303"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/requests/-/requests-13.0.109900000000303.tgz#1df4f5c5f0379766faf0c177e8209f7571dbd39c"
-  integrity sha512-u4aPhV6PouWlw4sECESHidNDveItw7QllKbY5dwgyoha7obahDx5FRGFKRMr+o/B36aLvUV6gdy7Xto7OQBRnA==
+  version "13.0.1099000000000306"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/requests/-/requests-13.0.1099000000000306.tgz#69b1882108177e5a25f9c6aeb7fd004f3e5cbcda"
+  integrity sha512-FobJmb6Jkj9U+9uHwEXV6R+LwMZ/H/jiNgI6xJqvuOPjCozh/iHxY2QbW2iaJVaTx3XpyAmDFxpDklhGySFCaw==
   dependencies:
     dompurify "^3.0.9"
     final-form "^4.20.7"
@@ -3978,9 +3978,9 @@ bare-events@^2.2.0, bare-events@^2.5.4:
   integrity sha512-AuTJkq9XmE6Vk0FJVNq5QxETrSA/vKHarWVBG5l/JbdCL1prJemiyJqUS0jrlXO0MftuPq4m3YVYhoNc5+aE/g==
 
 bare-fs@^4.0.1:
-  version "4.4.3"
-  resolved "https://repository.folio.org/repository/npm-ci-all/bare-fs/-/bare-fs-4.4.3.tgz#a1fbbf5b0047846f23c2e51b318f55504ea5acec"
-  integrity sha512-mdKRIf00qVjEWQHwJ27PNWDSAuFkg0Q905HtKgV6Rs18tG7vlaGZy1H1UsfknFc/cpkNfFcRrLHE9a6crj1Mig==
+  version "4.4.4"
+  resolved "https://repository.folio.org/repository/npm-ci-all/bare-fs/-/bare-fs-4.4.4.tgz#69e7da11d4d7d4a77e1dc9454e11f7ac13a93462"
+  integrity sha512-Q8yxM1eLhJfuM7KXVP3zjhBvtMJCYRByoTT+wHXjpdMELv0xICFJX+1w4c7csa+WZEOsq4ItJ4RGwvzid6m/dw==
   dependencies:
     bare-events "^2.5.4"
     bare-path "^3.0.0"
@@ -7864,9 +7864,9 @@ node-preload@^0.2.1:
     process-on-spawn "^1.0.0"
 
 node-releases@^2.0.19:
-  version "2.0.20"
-  resolved "https://repository.folio.org/repository/npm-ci-all/node-releases/-/node-releases-2.0.20.tgz#e26bb79dbdd1e64a146df389c699014c611cbc27"
-  integrity sha512-7gK6zSXEH6neM212JgfYFXe+GmZQM+fia5SsusuBIUgnPheLFBmIPhtFoAQRj8/7wASYQnbDlHPVwY0BefoFgA==
+  version "2.0.21"
+  resolved "https://repository.folio.org/repository/npm-ci-all/node-releases/-/node-releases-2.0.21.tgz#f59b018bc0048044be2d4c4c04e4c8b18160894c"
+  integrity sha512-5b0pgg78U3hwXkCM8Z9b2FJdPZlr9Psr9V2gQPESdGHqbntyFJKFW4r5TeWGFzafGY3hzs1JC62VEQMbl1JFkw==
 
 normalize-path@^3.0.0, normalize-path@~3.0.0:
   version "3.0.0"
