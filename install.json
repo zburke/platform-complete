@@ -332,7 +332,7 @@
   "id" : "folio_plugin-bursar-export-5.0.109900000000220",
   "action" : "enable"
 }, {
-  "id" : "mod-circulation-24.5.0-SNAPSHOT.1331",
+  "id" : "mod-circulation-24.5.0-SNAPSHOT.1332",
   "action" : "enable"
 }, {
   "id" : "folio_checkin-12.0.1099000000000209",
@@ -449,7 +449,7 @@
   "id" : "folio_orders-9.0.1099000000000536",
   "action" : "enable"
 }, {
-  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.804",
+  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.805",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-query-builder-3.0.1099000000000907",
