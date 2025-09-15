@@ -1291,9 +1291,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/agreements@>=2.0.0":
-  version "12.1.1099000000001128"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/agreements/-/agreements-12.1.1099000000001128.tgz#a8be69e4c2881d11a1586e80d86a40859b7295e2"
-  integrity sha512-Qs+9ZGeV4X1ZjKqQOyrjr+E4Siee96Gadn4E9E+VuBwTQPMD/mXz3hFrL+cbEs4FU1/jGSYL9+mTCMPFZ7DxTw==
+  version "12.1.1099000000001146"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/agreements/-/agreements-12.1.1099000000001146.tgz#05595357b4b66ba70d52e72533aa55cd43a7b2ff"
+  integrity sha512-i/B26X+oOwwFFcJtSPAOwiHmVGNpnKDDjWPzqEc0mAUPWVDT9b25lnHY6pj+BQAqnk/ht/dhPiEIili/JLrq2g==
   dependencies:
     "@k-int/stripes-kint-components" "^5.15.0"
     "@rehooks/local-storage" "^2.4.4"
@@ -1303,6 +1303,7 @@
     final-form-set-field-data "^1.0.2"
     handlebars "^4.7.8"
     jsonpath-plus "^10.3.0"
+    ky "^0.23.0"
     lodash "^4.17.11"
     prop-types "^15.6.0"
     query-string "^7.1.1"
@@ -2490,9 +2491,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/stripes-erm-components@>=9.0.0":
-  version "10.1.1099000000000292"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-erm-components/-/stripes-erm-components-10.1.1099000000000292.tgz#a61b02c64bafe0895f5cccea39a83863745d6401"
-  integrity sha512-OdsUBIeBIYgOBcdlmVTQPtsvsc3d6bWxcf7taicljC8Fw8z3WJS26Gjaaf4zp2C+Iebh2eszxWwSugwiwAFrIA==
+  version "10.1.1099000000000296"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-erm-components/-/stripes-erm-components-10.1.1099000000000296.tgz#10076e3357aea702e837ae4096c5c65ebbcb68d2"
+  integrity sha512-t8ME4oj9lIHPLLTdlccfdG77FEOebwfbH5D3fsZHo+X3KUV+O5DSRLnQNFLoK0K6pV2mySrbgt3Km+t1Gn8Xuw==
   dependencies:
     "@k-int/stripes-kint-components" "^5.19.1"
     dayjs "^1.11.13"

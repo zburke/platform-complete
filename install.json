@@ -110,7 +110,7 @@
   "id" : "edge-inn-reach-3.6.0-SNAPSHOT.67",
   "action" : "enable"
 }, {
-  "id" : "mod-erm-usage-harvester-5.2.0-SNAPSHOT.202",
+  "id" : "mod-erm-usage-harvester-5.2.0-SNAPSHOT.203",
   "action" : "enable"
 }, {
   "id" : "folio_erm-usage-12.0.1099000000000590",
@@ -182,7 +182,7 @@
   "id" : "mod-agreements-7.3.0-SNAPSHOT.806",
   "action" : "enable"
 }, {
-  "id" : "folio_agreements-12.1.1099000000001128",
+  "id" : "folio_agreements-12.1.1099000000001146",
   "action" : "enable"
 }, {
   "id" : "folio_erm-comparisons-8.1.109900000000135",
@@ -353,7 +353,7 @@
   "id" : "folio_requests-13.0.1099000000000306",
   "action" : "enable"
 }, {
-  "id" : "edge-sip2-3.5.0-SNAPSHOT.201",
+  "id" : "edge-sip2-3.5.0-SNAPSHOT.202",
   "action" : "enable"
 }, {
   "id" : "mod-circulation-bff-1.2.0-SNAPSHOT.79",
