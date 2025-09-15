@@ -1549,9 +1549,9 @@
     react-final-form-arrays "^3.1.1"
 
 "@folio/erm-usage@>=1.0.3":
-  version "12.0.1099000000000590"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/erm-usage/-/erm-usage-12.0.1099000000000590.tgz#73608e3a79d7436415de92ae2fd359196384f6f6"
-  integrity sha512-V7K4qYnLIFEWslpLdw0fz85q43abGjSi3dyFBUUDbLut+8FjWZHm5hB+aPKzHEDaw4Fb+Ukd/htggVX/cNXnoA==
+  version "12.0.1099000000000598"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/erm-usage/-/erm-usage-12.0.1099000000000598.tgz#aa9cc16239165df8b2fd8495127923df802bd513"
+  integrity sha512-uCHMbTIukvkxmEeMHhqckSb2JYjRJtUfXLU5Y9KiiCEAHwUGqIcSaPGnXixV6MWcbSlbvCZ8h3zzOLlur7u/gQ==
   dependencies:
     compose-function "^3.0.3"
     file-saver "^2.0.0"
@@ -2571,9 +2571,9 @@
     prop-types "^15.7.2"
 
 "@folio/stripes-smart-components@^10.0.0":
-  version "10.1.109900000000581"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-smart-components/-/stripes-smart-components-10.1.109900000000581.tgz#4170ecb7850f27674103ef72863f4f13f41124e9"
-  integrity sha512-BYdwSrucBDmKjbHVQDwVa3x4QMtA1uFZa/Om5DmCmnxWWK2Fv0la4EN7uPal3fvMTEfdDA1/NAtpuue3AK2zIw==
+  version "10.1.1099000000000588"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-smart-components/-/stripes-smart-components-10.1.1099000000000588.tgz#b48165d1b6e1f931c6832c1047f4054878b620e5"
+  integrity sha512-twVwaEtFFC39y+DMhEqw54WGahTeGpS9iKSxbhNWy9s81XZbUWe+XbEhU9LrcVutsnfTltZEVHRTqRs+wP25ow==
   dependencies:
     "@rehooks/local-storage" "2.4.4"
     classnames "^2.2.6"
@@ -5370,9 +5370,9 @@ entities@^6.0.0:
   integrity sha512-aN97NXWF6AWBTahfVOIrB/NShkzi5H7F9r1s9mD3cDj4Ko5f2qhhVoYMibXF7GlLveb/D2ioWay8lxI97Ven3g==
 
 error-ex@^1.3.1:
-  version "1.3.3"
-  resolved "https://repository.folio.org/repository/npm-ci-all/error-ex/-/error-ex-1.3.3.tgz#e9f9235f0fd79f5a7d099276ec6a9f8c5f0ddce9"
-  integrity sha512-qp/sQFEMyluBQXosPGtY4ItAvSvrZf5SnAebwj+hjvYpZPWfciAZ+GB5JW4l/eunX675/rUmCfsEzoMch39ypA==
+  version "1.3.4"
+  resolved "https://repository.folio.org/repository/npm-ci-all/error-ex/-/error-ex-1.3.4.tgz#b3a8d8bb6f92eecc1629e3e27d3c8607a8a32414"
+  integrity sha512-sqQamAnR14VgCr1A618A3sGrygcpK+HEbenA/HiEAkkUwcZIIB/tgWqHFxWgOyDh4nB4JCRimh79dR5Ywc9MDQ==
   dependencies:
     is-arrayish "^0.2.1"
 
