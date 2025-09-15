@@ -1583,9 +1583,9 @@
     react-router-prop-types "^1.0.4"
 
 "@folio/finance@>=1.1.0":
-  version "9.0.1099000000000425"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/finance/-/finance-9.0.1099000000000425.tgz#d24bc991502360a77c2c368dd34ff43149d3cf0a"
-  integrity sha512-ZdXcXuUTHV15t7LMkZN8PNLdiq2fC2LkhP1nsauspTjd3oNxb4axf5u/WgiEf9SrpoPWNfTz1V1ORDXXnEkV5A==
+  version "9.0.1099000000000428"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/finance/-/finance-9.0.1099000000000428.tgz#abb8b2e11fc5dad293e0601e74d46e3706a438da"
+  integrity sha512-MxURW+klxp55/NfsXWBcg1WoMDx+5wPoJl8Z/3zTc79e7oPQs4Oan13QPVVSEC4mv/TqDz0gmVXO9b8EPP2d1g==
   dependencies:
     "@folio/stripes-acq-components" "~7.1.0"
     "@folio/stripes-data-transfer-components" "~7.0.0"
@@ -2413,9 +2413,9 @@
     tai-password-strength "^1.1.1"
 
 "@folio/stripes-connect@^10.0.0":
-  version "10.0.10990000000032"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-connect/-/stripes-connect-10.0.10990000000032.tgz#cfd69a11b4c068ef21785f965c0c979e4e4b732d"
-  integrity sha512-YKEbJIU+YdJp6lIa/t2sqnyFZDd8oqXdD93ZFGgX6k3xX4XF3qx8aEN8E6WpkhLjBhhTnszIrumJiR6wuDp6Sw==
+  version "10.0.1099000000000051"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-connect/-/stripes-connect-10.0.1099000000000051.tgz#5a77b80f1ee1ccc108745599ee84479d770b0d8e"
+  integrity sha512-CIMRGXSPt6Zb+4JkKWIIDRO/QDCqYLR012Oa1bLjwAiMNDRGh2AgXZhvdDf5CZVI2+rFUL2RyKuusbJg1rruHg==
   dependencies:
     lodash "^4.17.11"
     prop-types "^15.5.10"
