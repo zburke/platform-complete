@@ -11,7 +11,7 @@
   "id" : "folio_plugin-find-package-title-7.0.10990000000063",
   "action" : "enable"
 }, {
-  "id" : "folio_plugin-find-user-8.0.10990000000086",
+  "id" : "folio_plugin-find-user-8.0.1099000000000090",
   "action" : "enable"
 }, {
   "id" : "folio_servicepoints-8.0.10990000000041",
@@ -224,7 +224,7 @@
   "id" : "folio_stripes-core-11.1.1099000000001096",
   "action" : "enable"
 }, {
-  "id" : "folio_users-13.0.1099000000000827",
+  "id" : "folio_users-13.0.1099000000000830",
   "action" : "enable"
 }, {
   "id" : "mod-circulation-storage-17.5.0-SNAPSHOT.475",
