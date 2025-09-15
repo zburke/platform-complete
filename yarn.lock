@@ -1291,9 +1291,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/agreements@>=2.0.0":
-  version "12.1.1099000000001146"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/agreements/-/agreements-12.1.1099000000001146.tgz#05595357b4b66ba70d52e72533aa55cd43a7b2ff"
-  integrity sha512-i/B26X+oOwwFFcJtSPAOwiHmVGNpnKDDjWPzqEc0mAUPWVDT9b25lnHY6pj+BQAqnk/ht/dhPiEIili/JLrq2g==
+  version "12.1.1099000000001153"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/agreements/-/agreements-12.1.1099000000001153.tgz#ef48819dca2c6307026aa67ab8af549750c10fec"
+  integrity sha512-8oLqP1l3xQtx/t7VXOh3Jy01mM1C85SyM6+GBBisxJVcRdsVJ5gcgo/YaZqQlsnUr9tw4CxLEBOmkMzv719qQg==
   dependencies:
     "@k-int/stripes-kint-components" "^5.15.0"
     "@rehooks/local-storage" "^2.4.4"
@@ -1643,9 +1643,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/inventory@>=1.4.0":
-  version "14.0.1099000000001172"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/inventory/-/inventory-14.0.1099000000001172.tgz#76527e5dc0f77956811a470120584a89c881c6a2"
-  integrity sha512-g0hDQq9rNEKg7/9grWWVZ3Ss5i7SbrnzMlHJ7kEG7hJJzx1hSHl7hysRwMHVyO4+W4Y0Fg7YeFuwqUPH6LyfiA==
+  version "14.0.1099000000001177"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/inventory/-/inventory-14.0.1099000000001177.tgz#e7f3f9d80a061b2713e5d45bc371333d34fce1df"
+  integrity sha512-FTBRrBi8+FTMYoueR8M/EGmrpAhEVi8Ohj6a7NXjx9Ay3uHfAOz8+znDNDU+mUkaciNJ+1D/NPgZ7cD0EfPpzw==
   dependencies:
     "@dnd-kit/core" "^6.3.1"
     "@dnd-kit/modifiers" "^9.0.0"
@@ -8775,9 +8775,9 @@ react-dropzone@^11.3.4:
     prop-types "^15.8.1"
 
 react-easy-crop@^5.0.5:
-  version "5.5.0"
-  resolved "https://repository.folio.org/repository/npm-ci-all/react-easy-crop/-/react-easy-crop-5.5.0.tgz#91782bbba72c9f8f65fa6110323d2c5dff8a6480"
-  integrity sha512-OZzU+yXMhe69vLkDex+5QxcfT94FdcgVCyW2dBUw35ZoC3Is42TUxUy04w8nH1mfMKaizVdC3rh/wUfNW1mK4w==
+  version "5.5.1"
+  resolved "https://repository.folio.org/repository/npm-ci-all/react-easy-crop/-/react-easy-crop-5.5.1.tgz#f45e5421194c1c7ab8ddd0cfd83facf0e4b4175f"
+  integrity sha512-8m6lCmfr6cSE9/447iHu+OniJuy7sdFbTqbsYyAXKygXJplvGCLpodujodWQeBGse11nDIgCbMUKbgucIxQWSQ==
   dependencies:
     normalize-wheel "^1.0.1"
     tslib "^2.0.1"
