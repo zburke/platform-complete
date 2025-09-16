@@ -32,7 +32,7 @@
   "id" : "mod-graphql-1.13.1000378",
   "action" : "enable"
 }, {
-  "id" : "mod-record-specifications-2.1.0-SNAPSHOT.111",
+  "id" : "mod-record-specifications-2.1.0-SNAPSHOT.112",
   "action" : "enable"
 }, {
   "id" : "mod-erm-usage-5.2.0-SNAPSHOT.218",
@@ -113,7 +113,7 @@
   "id" : "mod-erm-usage-harvester-5.2.0-SNAPSHOT.203",
   "action" : "enable"
 }, {
-  "id" : "folio_erm-usage-12.0.1099000000000598",
+  "id" : "folio_erm-usage-12.0.1099000000000601",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-erm-usage-data-provider-7.0.109900000000128",
@@ -155,7 +155,7 @@
   "id" : "edge-courses-1.7.0-SNAPSHOT.27",
   "action" : "enable"
 }, {
-  "id" : "mod-notes-7.1.0-SNAPSHOT.291",
+  "id" : "mod-notes-7.1.0-SNAPSHOT.292",
   "action" : "enable"
 }, {
   "id" : "folio_notes-12.0.109900000000126",
@@ -167,7 +167,7 @@
   "id" : "folio_stripes-smart-components-10.1.1099000000000588",
   "action" : "enable"
 }, {
-  "id" : "mod-kb-ebsco-java-6.1.0-SNAPSHOT.476",
+  "id" : "mod-kb-ebsco-java-6.1.0-SNAPSHOT.477",
   "action" : "enable"
 }, {
   "id" : "folio_eholdings-11.1.109900000000263",
