@@ -48,6 +48,10 @@
     "action": "enable"
   },
   {
+    "id": "mod-copycat-1.8.1-SNAPSHOT.108",
+    "action": "enable"
+  },
+  {
     "id": "mod-users-19.6.0-SNAPSHOT.361",
     "action": "enable"
   },
@@ -169,10 +173,6 @@
   },
   {
     "id": "mod-source-record-manager-4.0.0-SNAPSHOT.1040",
-    "action": "enable"
-  },
-  {
-    "id": "mod-copycat-1.8.1-SNAPSHOT.107",
     "action": "enable"
   },
   {
