@@ -2754,9 +2754,9 @@
     redux-form "^8.0.0"
 
 "@folio/users@>=2.17.0":
-  version "13.0.1099000000000839"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.1099000000000839.tgz#28f5425115571206efd7eb76b180b972baabdd43"
-  integrity sha512-+WV/rukMzCS+bPm1Y+LPPUM+m9gxAVxVDX/A9EbVQe0ZR5vFnvX00hFoQEBUDfc5MeanjYWRcWUpScTWYhnPig==
+  version "13.0.1099000000000848"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.1099000000000848.tgz#af50f9585d738caf9b585c3fa9fcdd27ba0b85f3"
+  integrity sha512-emu2C3esmZWewzEKDxfpiV55omEFfhJkIRaZaPO6yV+9IC/XqCmAue6GGBJyGCUhpCb8fAYiA73vZkN0KXbq4Q==
   dependencies:
     "@folio/stripes-util" "^7.0.0"
     compressorjs "^1.2.1"
@@ -4031,9 +4031,9 @@ base64id@2.0.0, base64id@~2.0.0:
   integrity sha512-lGe34o6EHj9y3Kts9R4ZYs/Gr+6N7MCaMlIFA3F1R2O5/m7K06AxfSeO5530PEERE6/WyEg3lsuyw4GHlPZHog==
 
 baseline-browser-mapping@^2.8.3:
-  version "2.8.4"
-  resolved "https://repository.folio.org/repository/npm-ci-all/baseline-browser-mapping/-/baseline-browser-mapping-2.8.4.tgz#e553e12272c4965682743705efd8b4b4cf0d709b"
-  integrity sha512-L+YvJwGAgwJBV1p6ffpSTa2KRc69EeeYGYjRVWKs0GKrK+LON0GC0gV+rKSNtALEDvMDqkvCFq9r1r94/Gjwxw==
+  version "2.8.5"
+  resolved "https://repository.folio.org/repository/npm-ci-all/baseline-browser-mapping/-/baseline-browser-mapping-2.8.5.tgz#3147fe6b01a0c49ce1952daebcfc2057fc43fedb"
+  integrity sha512-TiU4qUT9jdCuh4aVOG7H1QozyeI2sZRqoRPdqBIaslfNt4WUSanRBueAwl2x5jt4rXBMim3lIN2x6yT8PDi24Q==
 
 basic-auth@~2.0.1:
   version "2.0.1"
