@@ -2754,9 +2754,9 @@
     redux-form "^8.0.0"
 
 "@folio/users@>=2.17.0":
-  version "13.0.1099000000000830"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.1099000000000830.tgz#8ffa17c18ccad7fd81b5faf5a789eef2f8c94d2e"
-  integrity sha512-qDdJ35mbxhZ6eC7q6mlKZ/K9PvcW1J16rLgQ5fXavEyXwgx1AwLHF7woIFSxr5+ecRavMZu8CHKKc70hE7/uAw==
+  version "13.0.1099000000000839"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.1099000000000839.tgz#28f5425115571206efd7eb76b180b972baabdd43"
+  integrity sha512-+WV/rukMzCS+bPm1Y+LPPUM+m9gxAVxVDX/A9EbVQe0ZR5vFnvX00hFoQEBUDfc5MeanjYWRcWUpScTWYhnPig==
   dependencies:
     "@folio/stripes-util" "^7.0.0"
     compressorjs "^1.2.1"
@@ -3974,9 +3974,9 @@ balanced-match@^1.0.0:
   integrity sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw==
 
 bare-events@^2.2.0, bare-events@^2.5.4:
-  version "2.6.1"
-  resolved "https://repository.folio.org/repository/npm-ci-all/bare-events/-/bare-events-2.6.1.tgz#f793b28bdc3dcf147d7cf01f882a6f0b12ccc4a2"
-  integrity sha512-AuTJkq9XmE6Vk0FJVNq5QxETrSA/vKHarWVBG5l/JbdCL1prJemiyJqUS0jrlXO0MftuPq4m3YVYhoNc5+aE/g==
+  version "2.7.0"
+  resolved "https://repository.folio.org/repository/npm-ci-all/bare-events/-/bare-events-2.7.0.tgz#46596dae9c819c5891eb2dcc8186326ed5a6da54"
+  integrity sha512-b3N5eTW1g7vXkw+0CXh/HazGTcO5KYuu/RCNaJbDMPI6LHDi+7qe8EmxKUVe1sUbY2KZOVZFyj62x0OEz9qyAA==
 
 bare-fs@^4.0.1:
   version "4.4.4"
@@ -8532,9 +8532,9 @@ punycode@^2.1.1, punycode@^2.3.1:
   integrity sha512-vYt7UD1U9Wg6138shLtLOvdAu+8DsC/ilFtEVHcH+wydcSpNE20AfSOduf6MkRFahL5FY7X1oU7nKVZFtfq8Fg==
 
 pupa@^3.1.0:
-  version "3.2.1"
-  resolved "https://repository.folio.org/repository/npm-ci-all/pupa/-/pupa-3.2.1.tgz#e28278e4b6e4f5ece1c04404a507ce0d5ecfb4d6"
-  integrity sha512-6koJt2wLdmDICU5Yht9X4mYjQUFcah7cAu9PEgGP+JGbLQpUQFfaCauHLeutygSkt50oMEX7oAQNmUHxGh5GHQ==
+  version "3.3.0"
+  resolved "https://repository.folio.org/repository/npm-ci-all/pupa/-/pupa-3.3.0.tgz#bc4036f9e8920c08ad472bc18fb600067cb83810"
+  integrity sha512-LjgDO2zPtoXP2wJpDjZrGdojii1uqO0cnwKoIoUzkfS98HDmbeiGmYiXo3lXeFlq2xvne1QFQhwYXSUCLKtEuA==
   dependencies:
     escape-goat "^4.0.0"
 
