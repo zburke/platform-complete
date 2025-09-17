@@ -2003,9 +2003,9 @@
     redux-form "^8.3.7"
 
 "@folio/plugin-find-instance@>=1.1.0", "@folio/plugin-find-instance@^9.0.0":
-  version "9.1.1099000000000108"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-find-instance/-/plugin-find-instance-9.1.1099000000000108.tgz#90f3b8c0473b5f7fe345c219c3022eafdb7af943"
-  integrity sha512-7aUxmGzbGk0fKNtawvHeUIIXx5n2d5IhqcoEpkl3Uow+WYbBAmZHagbCnmJ68JuPQQbobeEOhAN/ckfDY12giw==
+  version "9.1.1099000000000113"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-find-instance/-/plugin-find-instance-9.1.1099000000000113.tgz#8df51083a6b0816bb98b699c59ea65338e5f5c7f"
+  integrity sha512-XqCx3+w13SAq3RdJ32iyTu7c2jnXXAE9yOGM4adsEL951x4p83F9zkTJM6wO6vzxNwdV49eiFRCTSO8sNIvqTA==
   dependencies:
     classnames "^2.2.6"
     history "^4.10.0"
@@ -2532,9 +2532,9 @@
     redux-form "^8.3.0"
 
 "@folio/stripes-inventory-components@>=1.0.0":
-  version "2.1.1090000000775"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-inventory-components/-/stripes-inventory-components-2.1.1090000000775.tgz#2f878a15732e2dc8a5d429c5bba798f198f6abca"
-  integrity sha512-29VuzLtZv4YBpLOJqfshp7ruylDRWhpIaamvbKBCSHWaXZGI4qJxcktviDJg8/YbibkBzSwghMR9+7eZLueMUA==
+  version "2.1.1090000000780"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-inventory-components/-/stripes-inventory-components-2.1.1090000000780.tgz#c5deb2219bd45d391536dd03b80e70f5f1451e67"
+  integrity sha512-1vqh/fDl7Rr6VRvyLPAYFkv/VjvK65UZYFan1mllztq/KnQxrbrb1X15XzSt41HrAe2qj23V8pEJmoNDvLy3NA==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     history "^4.10.0"
