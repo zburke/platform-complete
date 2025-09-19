@@ -8,7 +8,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-graphql-1.14.1000382",
+    "id": "mod-graphql-1.15.1000383",
     "action": "enable"
   },
   {
@@ -180,7 +180,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-search-6.0.0-SNAPSHOT.733",
+    "id": "mod-search-6.0.0-SNAPSHOT.734",
     "action": "enable"
   },
   {
@@ -288,7 +288,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-invoice-6.1.0-SNAPSHOT.488",
+    "id": "mod-invoice-6.1.0-SNAPSHOT.489",
     "action": "enable"
   },
   {

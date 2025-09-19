@@ -29,7 +29,7 @@
   "id" : "mod-batch-print-1.3.1-SNAPSHOT.16",
   "action" : "enable"
 }, {
-  "id" : "mod-graphql-1.14.1000382",
+  "id" : "mod-graphql-1.15.1000383",
   "action" : "enable"
 }, {
   "id" : "mod-record-specifications-2.1.0-SNAPSHOT.112",
@@ -257,7 +257,7 @@
   "id" : "mod-entities-links-4.1.0-SNAPSHOT.351",
   "action" : "enable"
 }, {
-  "id" : "mod-search-6.0.0-SNAPSHOT.733",
+  "id" : "mod-search-6.0.0-SNAPSHOT.734",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-instance-9.1.1099000000000113",
@@ -437,7 +437,7 @@
   "id" : "edge-rtac-2.10.0-SNAPSHOT.114",
   "action" : "enable"
 }, {
-  "id" : "mod-invoice-6.1.0-SNAPSHOT.488",
+  "id" : "mod-invoice-6.1.0-SNAPSHOT.489",
   "action" : "enable"
 }, {
   "id" : "folio_finance-9.0.1099000000000428",
