@@ -257,7 +257,7 @@
   "id" : "mod-entities-links-4.1.0-SNAPSHOT.351",
   "action" : "enable"
 }, {
-  "id" : "mod-search-6.0.0-SNAPSHOT.731",
+  "id" : "mod-search-6.0.0-SNAPSHOT.733",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-instance-9.1.1099000000000113",
@@ -425,7 +425,7 @@
   "id" : "folio_gobi-settings-4.0.10990000000086",
   "action" : "enable"
 }, {
-  "id" : "mod-mosaic-1.0.0-SNAPSHOT.35",
+  "id" : "mod-mosaic-1.0.0-SNAPSHOT.36",
   "action" : "enable"
 }, {
   "id" : "folio_mosaic-settings-1.0.10990000000046",
