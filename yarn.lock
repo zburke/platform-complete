@@ -1066,22 +1066,22 @@
   resolved "https://repository.folio.org/repository/npm-ci-all/@csstools/postcss-global-data/-/postcss-global-data-3.1.0.tgz#06b33f28b7cac6ad112deeef12b9f05c0a085497"
   integrity sha512-qfS0bUxBukuyxEyxTTZG+px2xwAQPf7Qk6B7lFdjWnovb/O6h0t3sxrVY81nJLh7z0KvEMhjxTURNtEmOrADpQ==
 
-"@csstools/postcss-progressive-custom-properties@^4.2.0":
-  version "4.2.0"
-  resolved "https://repository.folio.org/repository/npm-ci-all/@csstools/postcss-progressive-custom-properties/-/postcss-progressive-custom-properties-4.2.0.tgz#7f15349c2cd108478d28e1503c660d4037925030"
-  integrity sha512-fWCXRasX17N1NCPTCuwC3FJDV+Wc031f16cFuuMEfIsYJ1q5ABCa59W0C6VeMGqjNv6ldf37vvwXXAeaZjD9PA==
+"@csstools/postcss-progressive-custom-properties@^4.2.1":
+  version "4.2.1"
+  resolved "https://repository.folio.org/repository/npm-ci-all/@csstools/postcss-progressive-custom-properties/-/postcss-progressive-custom-properties-4.2.1.tgz#c39780b9ff0d554efb842b6bd75276aa6f1705db"
+  integrity sha512-uPiiXf7IEKtUQXsxu6uWtOlRMXd2QWWy5fhxHDnPdXKCQckPP3E34ZgDoZ62r2iT+UOgWsSbM4NvHE5m3mAEdw==
   dependencies:
     postcss-value-parser "^4.2.0"
 
 "@csstools/postcss-relative-color-syntax@^3.0.7":
-  version "3.0.11"
-  resolved "https://repository.folio.org/repository/npm-ci-all/@csstools/postcss-relative-color-syntax/-/postcss-relative-color-syntax-3.0.11.tgz#d81d59ff123fa5f3e4a0493b1e2b0585353bb541"
-  integrity sha512-oQ5fZvkcBrWR+k6arHXk0F8FlkmD4IxM+rcGDLWrF2f31tWyEM3lSraeWAV0f7BGH6LIrqmyU3+Qo/1acfoJng==
+  version "3.0.12"
+  resolved "https://repository.folio.org/repository/npm-ci-all/@csstools/postcss-relative-color-syntax/-/postcss-relative-color-syntax-3.0.12.tgz#ced792450102441f7c160e1d106f33e4b44181f8"
+  integrity sha512-0RLIeONxu/mtxRtf3o41Lq2ghLimw0w9ByLWnnEVuy89exmEEq8bynveBxNW3nyHqLAFEeNtVEmC1QK9MZ8Huw==
   dependencies:
     "@csstools/css-color-parser" "^3.1.0"
     "@csstools/css-parser-algorithms" "^3.0.5"
     "@csstools/css-tokenizer" "^3.0.4"
-    "@csstools/postcss-progressive-custom-properties" "^4.2.0"
+    "@csstools/postcss-progressive-custom-properties" "^4.2.1"
     "@csstools/utilities" "^2.0.0"
 
 "@csstools/utilities@^2.0.0":
@@ -2247,9 +2247,9 @@
     prop-types "^15.6.0"
 
 "@folio/stripes-acq-components@^7.0.0", "@folio/stripes-acq-components@~7.1.0":
-  version "7.1.1099000000000289"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-acq-components/-/stripes-acq-components-7.1.1099000000000289.tgz#db28a68ff56fc422d79215be8b5a559e76845329"
-  integrity sha512-4Dq9U+hh13Uqp3qTJYNkh3JeCf256T/lLPk94c9WKwAIQ6dRpN2opCYEaqzHX4BxnWG9dKpYAL8oJ4lEj++2ig==
+  version "7.1.1099000000000297"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-acq-components/-/stripes-acq-components-7.1.1099000000000297.tgz#515206f4ae0c322483cbb79b603f62458c5348eb"
+  integrity sha512-ENpf+JW1X1IUEknICeIS6qOvh2lKWjQhobKIKw7p1og6pwrq5fXR5OV6KLH/1AyZd4or5YqksnzLWC5a7zDcnQ==
   dependencies:
     "@folio/stripes-types" "^3.0.0"
     "@rehooks/local-storage" "^2.4.4"
@@ -2491,9 +2491,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/stripes-erm-components@>=9.0.0":
-  version "10.1.1099000000000296"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-erm-components/-/stripes-erm-components-10.1.1099000000000296.tgz#10076e3357aea702e837ae4096c5c65ebbcb68d2"
-  integrity sha512-t8ME4oj9lIHPLLTdlccfdG77FEOebwfbH5D3fsZHo+X3KUV+O5DSRLnQNFLoK0K6pV2mySrbgt3Km+t1Gn8Xuw==
+  version "10.1.1099000000000304"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-erm-components/-/stripes-erm-components-10.1.1099000000000304.tgz#ba2f3b8b96ea39a5472d2cb963bfcec82f6b95c0"
+  integrity sha512-P7MQckK0vQQSLkWoGAj+79MmCf5VgTBUs9GnwSIUleXIJXmjtEFlVZXUQCy7XEKW/Yx+8bhqKABvQxo/swRAgw==
   dependencies:
     "@k-int/stripes-kint-components" "^5.19.1"
     dayjs "^1.11.13"
@@ -2532,9 +2532,9 @@
     redux-form "^8.3.0"
 
 "@folio/stripes-inventory-components@>=1.0.0":
-  version "2.1.1090000000780"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-inventory-components/-/stripes-inventory-components-2.1.1090000000780.tgz#c5deb2219bd45d391536dd03b80e70f5f1451e67"
-  integrity sha512-1vqh/fDl7Rr6VRvyLPAYFkv/VjvK65UZYFan1mllztq/KnQxrbrb1X15XzSt41HrAe2qj23V8pEJmoNDvLy3NA==
+  version "2.1.1090000000784"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-inventory-components/-/stripes-inventory-components-2.1.1090000000784.tgz#003db5932f3b58967cf4cb62b75fb321a2d5cae9"
+  integrity sha512-4Mk7sItNy7sUTqqCu/u3wqdVFBYVpdBZxqU9eURLCtOfDKv1YqMlLYECFkiDEnyuiqCkLay/SwQ5J4GK9+6qiA==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     history "^4.10.0"
