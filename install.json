@@ -83,7 +83,7 @@
   "id" : "mod-copycat-1.8.1-SNAPSHOT.108",
   "action" : "enable"
 }, {
-  "id" : "mod-users-19.6.0-SNAPSHOT.361",
+  "id" : "mod-users-19.6.0-SNAPSHOT.362",
   "action" : "enable"
 }, {
   "id" : "mod-authtoken-2.18.0-SNAPSHOT.166",
@@ -353,7 +353,7 @@
   "id" : "folio_requests-13.0.1099000000000310",
   "action" : "enable"
 }, {
-  "id" : "edge-sip2-3.5.0-SNAPSHOT.202",
+  "id" : "edge-sip2-3.5.0-SNAPSHOT.203",
   "action" : "enable"
 }, {
   "id" : "mod-circulation-bff-1.2.0-SNAPSHOT.79",
