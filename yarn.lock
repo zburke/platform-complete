@@ -2741,9 +2741,9 @@
     redux-form "^8.3.7"
 
 "@folio/tenant-settings@>=2.5.1":
-  version "11.0.109900000000113"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/tenant-settings/-/tenant-settings-11.0.109900000000113.tgz#cebee6fb3b93f8b0bae0258463e32334f27c99c9"
-  integrity sha512-k+R1ac50tIX3/Ifa26QovCbJ4uYPtzv2wTRwJB7SG81Xi6lECCNrMNgCZ7sp41y6+xlMcm1B1Nr/HxPXnaj6uQ==
+  version "11.0.1099000000000119"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/tenant-settings/-/tenant-settings-11.0.1099000000000119.tgz#8675ccc408e7fdd0bd36f518c65a5d07e3fff7fa"
+  integrity sha512-PCQu7BkkZXGyrsIDyiZFRpm+KmNewL6V9EmfgGI0JdXNPj1jlGHhS4QHG/cF7OCfp1FZRoMc2yI6+th+UGp3EA==
   dependencies:
     final-form "^4.18.2"
     lodash "^4.17.4"
