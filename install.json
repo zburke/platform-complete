@@ -32,7 +32,7 @@
   "id" : "mod-graphql-1.15.1000383",
   "action" : "enable"
 }, {
-  "id" : "mod-record-specifications-2.1.0-SNAPSHOT.112",
+  "id" : "mod-record-specifications-2.1.0-SNAPSHOT.113",
   "action" : "enable"
 }, {
   "id" : "mod-erm-usage-5.2.0-SNAPSHOT.218",
@@ -161,7 +161,7 @@
   "id" : "edge-courses-1.7.0-SNAPSHOT.27",
   "action" : "enable"
 }, {
-  "id" : "mod-notes-7.1.0-SNAPSHOT.292",
+  "id" : "mod-notes-7.1.0-SNAPSHOT.293",
   "action" : "enable"
 }, {
   "id" : "folio_notes-12.0.109900000000126",
@@ -173,7 +173,7 @@
   "id" : "folio_stripes-smart-components-10.1.1099000000000593",
   "action" : "enable"
 }, {
-  "id" : "mod-kb-ebsco-java-6.1.0-SNAPSHOT.477",
+  "id" : "mod-kb-ebsco-java-6.1.0-SNAPSHOT.478",
   "action" : "enable"
 }, {
   "id" : "folio_eholdings-11.1.1099000000000267",
@@ -254,10 +254,10 @@
   "id" : "mod-source-record-manager-4.0.0-SNAPSHOT.1040",
   "action" : "enable"
 }, {
-  "id" : "mod-entities-links-4.1.0-SNAPSHOT.351",
+  "id" : "mod-entities-links-4.1.0-SNAPSHOT.352",
   "action" : "enable"
 }, {
-  "id" : "mod-search-6.0.0-SNAPSHOT.734",
+  "id" : "mod-search-6.0.0-SNAPSHOT.735",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-instance-9.1.1099000000000117",
@@ -344,7 +344,7 @@
   "id" : "folio_circulation-11.1.1099000000000205",
   "action" : "enable"
 }, {
-  "id" : "folio_inventory-14.0.1099000000001212",
+  "id" : "folio_inventory-14.0.1099000000001224",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-create-inventory-records-7.0.1099000000000091",
