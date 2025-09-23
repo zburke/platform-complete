@@ -377,7 +377,7 @@
   "id" : "edge-patron-5.4.0-SNAPSHOT.145",
   "action" : "enable"
 }, {
-  "id" : "mod-requests-mediated-1.3.0-SNAPSHOT.79",
+  "id" : "mod-requests-mediated-1.3.0-SNAPSHOT.80",
   "action" : "enable"
 }, {
   "id" : "folio_requests-mediated-4.0.1099000000000152",
@@ -458,7 +458,7 @@
   "id" : "edge-fqm-4.1.0-SNAPSHOT.52",
   "action" : "enable"
 }, {
-  "id" : "mod-bulk-operations-2.3.0-SNAPSHOT.476",
+  "id" : "mod-bulk-operations-2.3.0-SNAPSHOT.477",
   "action" : "enable"
 }, {
   "id" : "folio_bulk-edit-5.0.1099000000000802",
