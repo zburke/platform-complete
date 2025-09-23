@@ -449,10 +449,10 @@
   "id" : "folio_orders-9.0.1099000000000585",
   "action" : "enable"
 }, {
-  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.817",
+  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.818",
   "action" : "enable"
 }, {
-  "id" : "folio_plugin-query-builder-3.0.1099000000000922",
+  "id" : "folio_plugin-query-builder-3.0.1099000000000949",
   "action" : "enable"
 }, {
   "id" : "edge-fqm-4.1.0-SNAPSHOT.52",
