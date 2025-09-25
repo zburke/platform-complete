@@ -2085,11 +2085,12 @@
     prop-types "^15.6.0"
 
 "@folio/plugin-query-builder@>=1.0.0":
-  version "3.0.1099000000000949"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-query-builder/-/plugin-query-builder-3.0.1099000000000949.tgz#f6d4f9e62c9280412004e3910430a13324dd3974"
-  integrity sha512-/Zyc9KXnEOR6+GXzh+gqxmX0UA8T/gOfCZnJBPOsdMrFIR7JuCZUJiBEhfGb6mGispfoDfo/8712v8ShhiKeJQ==
+  version "3.0.1099000000000960"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-query-builder/-/plugin-query-builder-3.0.1099000000000960.tgz#bbb3518d54a3d3c7f78937a0f7cd536deab90920"
+  integrity sha512-MsobmmoB1SxrMpjz9ZCaWHuCjpazGWVX1vnloVmd3QybHgrFPqIOgAQ0Ioqk+DtzphUDnJwDuVSTpllptOfpEA==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
+    classnames "^2.5.1"
     ky "^0.33.2"
     lodash "^4.17.5"
     prop-types "^15.5.10"
