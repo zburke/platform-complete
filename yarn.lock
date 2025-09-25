@@ -8777,9 +8777,9 @@ react-dropzone@^11.3.4:
     prop-types "^15.8.1"
 
 react-easy-crop@^5.0.5:
-  version "5.5.1"
-  resolved "https://repository.folio.org/repository/npm-ci-all/react-easy-crop/-/react-easy-crop-5.5.1.tgz#f45e5421194c1c7ab8ddd0cfd83facf0e4b4175f"
-  integrity sha512-8m6lCmfr6cSE9/447iHu+OniJuy7sdFbTqbsYyAXKygXJplvGCLpodujodWQeBGse11nDIgCbMUKbgucIxQWSQ==
+  version "5.5.2"
+  resolved "https://repository.folio.org/repository/npm-ci-all/react-easy-crop/-/react-easy-crop-5.5.2.tgz#cb73422732ce4368776c5d6b3c564adef8a392f5"
+  integrity sha512-8sxx7x7QBMF8fi+zd9QTf9MXovPzQUASNCRrXy/ZUQe9r25U0yDweyM38CaoNTAfX9+k/v52ywLRXiwDN3TBtQ==
   dependencies:
     normalize-wheel "^1.0.1"
     tslib "^2.0.1"
