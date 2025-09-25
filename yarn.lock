@@ -1443,9 +1443,9 @@
     "@folio/plugin-create-inventory-records" "^4.0.0||^5.0.0||^6.0.0"
 
 "@folio/dashboard@>=1.0.0":
-  version "7.1.109900000000191"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/dashboard/-/dashboard-7.1.109900000000191.tgz#e5b4ba73c37ba39a0cab9cc86fbaf1099469d2de"
-  integrity sha512-3nMXlDbbx46T7q5eSXF1TExsaNpKjLsmVLVqn4wGHzzCZF72GYNrHEVeKYIzrzgCbjFKOv/w6Xv+TwSRa4asPg==
+  version "7.1.1099000000000196"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/dashboard/-/dashboard-7.1.1099000000000196.tgz#d683db331c6592bb01b6a8037961d03dc8af57c5"
+  integrity sha512-BeYC4RtvI0lJWh3RP7BHrYHSxw6p+H5fy2HTYcbNkz3GdSs+/K5fvVaMHNecZggp86AwpE9whXi+Zj00oMZA0Q==
   dependencies:
     "@hello-pangea/dnd" "^16.6.0"
     "@k-int/stripes-kint-components" "^5.15.0"
@@ -1460,6 +1460,7 @@
     react-grid-layout "^1.3.4"
     react-table "^7.6.3"
     validator "^13.9.0"
+    zustand "^5.0.0"
 
 "@folio/data-export@>=1.0.0":
   version "7.0.1099000000000089"
