@@ -2387,9 +2387,9 @@
     yargs "^17.3.1"
 
 "@folio/stripes-components@^13.0.0":
-  version "13.1.1099000000001083"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-components/-/stripes-components-13.1.1099000000001083.tgz#ae8ebc187ffdd59f1c4cc1ff9e8c979262ba5727"
-  integrity sha512-iLLUWnzIyglFmHEUHyL1gEoEyH9los3ZTXW7fv9oasNkkh7hAyAPkceN1GzN9aJYQT0ybms13E9+msuqcfMXcQ==
+  version "13.1.1099000000001115"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-components/-/stripes-components-13.1.1099000000001115.tgz#8c92038df3103b813532a15478dfbbff3d211fef"
+  integrity sha512-udaSgTKVoUnpbOwa+PHaEFII4vu+LjIT15A/cBwX2IBt2hGqd+pS3XoYy14Bl9oKAQQNpzqztpSa5b58/zhaJw==
   dependencies:
     "@folio/stripes-react-hotkeys" "^3.2.1"
     classnames "^2.2.5"
@@ -2412,6 +2412,7 @@
     react-quill "^2.0.0"
     react-transition-group "^4.4.5"
     react-virtualized-auto-sizer "^1.0.2"
+    rehooks-ts "^2.5.0"
     tai-password-strength "^1.1.1"
 
 "@folio/stripes-connect@^10.0.0":
@@ -9030,7 +9031,7 @@ react-window@^1.8.5:
     "@babel/runtime" "^7.0.0"
     memoize-one ">=3.1.1 <6"
 
-react@^18.2.0:
+react@^18.2.0, react@^18.3.1:
   version "18.3.1"
   resolved "https://repository.folio.org/repository/npm-ci-all/react/-/react-18.3.1.tgz#49ab892009c53933625bd16b2533fc754cab2891"
   integrity sha512-wS+hAgJShR0KhEvPJArfuPVN1+Hz1t0Y6n5jLrGQbkb4urgPE/0Rve+1kMB1v/oWgHgm4WIcV+i7F2pTVj+2iQ==
@@ -9185,6 +9186,13 @@ rehackt@^0.1.0:
   version "0.1.0"
   resolved "https://repository.folio.org/repository/npm-ci-all/rehackt/-/rehackt-0.1.0.tgz#a7c5e289c87345f70da8728a7eb878e5d03c696b"
   integrity sha512-7kRDOuLHB87D/JESKxQoRwv4DzbIdwkAGQ7p6QKGdVlY1IZheUnVhlk/4UZlNUVxdAXpyxikE3URsG067ybVzw==
+
+rehooks-ts@^2.5.0:
+  version "2.5.0"
+  resolved "https://repository.folio.org/repository/npm-ci-all/rehooks-ts/-/rehooks-ts-2.5.0.tgz#2582293d605d3d68102b000c0d6f626c1b954025"
+  integrity sha512-ircmAvW2XNAvLlFEURZAIk3wH3JrvTk+lDY3TJo9Tjw56YOdVSu5URd4WBXDtGok3+TS2/PWIa4t9y3GYfEKcQ==
+  dependencies:
+    react "^18.3.1"
 
 relateurl@^0.2.7:
   version "0.2.7"
