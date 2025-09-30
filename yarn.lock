@@ -1836,9 +1836,9 @@
     react-router-prop-types "^1.0.4"
 
 "@folio/orders@>=1.1.0":
-  version "9.0.1099000000000588"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/orders/-/orders-9.0.1099000000000588.tgz#6323cc9abc377ba161f06d866e850bf3e01315ec"
-  integrity sha512-PqEy/PxXxrkEDa85SVXjQEVmoR3K0SufunQdP6KV0bAzMW6ntqybV1glqmBkXomHIy/MVvUMzsyxcGZ4eKWaAQ==
+  version "9.0.1099000000000595"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/orders/-/orders-9.0.1099000000000595.tgz#5e8c0bb666c89d51d8ac2a8f209d9c0d88f5e4e9"
+  integrity sha512-Fes2vy5Nm4M0gZe5KUJKDCFfSF4erMWwcsCA5ubw/i3sobPC/jMYFhudQLRLacWpr2q42roD2fwXZS29n8/Qgw==
   dependencies:
     "@folio/plugin-find-po-line" "^6.0.0"
     "@folio/stripes-acq-components" "~7.1.0"
