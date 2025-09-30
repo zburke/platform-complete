@@ -185,7 +185,7 @@
   "id" : "folio_serials-management-2.1.109900000000813",
   "action" : "enable"
 }, {
-  "id" : "mod-agreements-7.3.0-SNAPSHOT.806",
+  "id" : "mod-agreements-7.3.0-SNAPSHOT.807",
   "action" : "enable"
 }, {
   "id" : "folio_agreements-12.1.1099000000001153",
@@ -458,7 +458,7 @@
   "id" : "edge-fqm-4.1.0-SNAPSHOT.52",
   "action" : "enable"
 }, {
-  "id" : "mod-bulk-operations-2.3.0-SNAPSHOT.481",
+  "id" : "mod-bulk-operations-2.3.0-SNAPSHOT.482",
   "action" : "enable"
 }, {
   "id" : "folio_bulk-edit-5.0.1099000000000819",
