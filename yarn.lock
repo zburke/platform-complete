@@ -2143,11 +2143,11 @@
     uuid "^9.0.0"
 
 "@folio/receiving@>=1.0.0":
-  version "8.0.1099000000000281"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/receiving/-/receiving-8.0.1099000000000281.tgz#e27e0016d95146a14e675c4731ba4a7b1103118e"
-  integrity sha512-uLdIgME1nc9Qk2XaEalm/XtOB+0T4fE0nLnPxnyIPRt7Qbq3ERiSyjDsUPvUMlz3QprQnVxC2xQhi2Y1Z6OaXQ==
+  version "8.0.1099000000000286"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/receiving/-/receiving-8.0.1099000000000286.tgz#547a127463726aabb7dd66c02fe3c533f1d829e6"
+  integrity sha512-iZx9v55Cj8T4hlH52bcL6vK8IIoy9mraQkUEWZNV9nHG4zcJS2JlFYK2pcjjU+VynbYQ8wHPN7Z8edpkC1YOeA==
   dependencies:
-    "@folio/stripes-acq-components" "~7.0.0"
+    "@folio/stripes-acq-components" "~7.1.0"
     final-form "^4.18.2"
     lodash "^4.17.5"
     prop-types "^15.5.10"
