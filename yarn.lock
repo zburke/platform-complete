@@ -1645,9 +1645,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/inventory@>=1.4.0":
-  version "14.0.1099000000001244"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/inventory/-/inventory-14.0.1099000000001244.tgz#98580428f965162f86d94281d04d73ef78557100"
-  integrity sha512-Kp7/g7lOIdGX3MIOrcIhvWNy6V8FtYerlrLSsZOxjMkqmCmPdidG+nR/Q0DAz5rqQy+mxonkdQTNdF7e2RFhww==
+  version "14.0.1099000000001264"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/inventory/-/inventory-14.0.1099000000001264.tgz#8014c3a74129394c50ddbd6d65e3d0f0070afc79"
+  integrity sha512-pBRwb+Ppyuor1dt+JtEX9nZNVaXafOw4QoZGptf+IG7Ho6oKzKPq7UlMwaTEawfZKWtie2eVcwrD00VvvcWaug==
   dependencies:
     "@dnd-kit/core" "^6.3.1"
     "@dnd-kit/modifiers" "^9.0.0"
@@ -1837,9 +1837,9 @@
     react-router-prop-types "^1.0.4"
 
 "@folio/orders@>=1.1.0":
-  version "9.0.1099000000000595"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/orders/-/orders-9.0.1099000000000595.tgz#5e8c0bb666c89d51d8ac2a8f209d9c0d88f5e4e9"
-  integrity sha512-Fes2vy5Nm4M0gZe5KUJKDCFfSF4erMWwcsCA5ubw/i3sobPC/jMYFhudQLRLacWpr2q42roD2fwXZS29n8/Qgw==
+  version "9.0.1099000000000598"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/orders/-/orders-9.0.1099000000000598.tgz#805a611e85b23e139e73bbd0b926ed1eb0e6765b"
+  integrity sha512-CU7I7EiUMTkAUB/hClcMam01Vc+g1nn9Nvca7co8daEgHbtrh0RpXnC+gST0a9hz13sD5QTssAXaS6y0gxPUJA==
   dependencies:
     "@folio/plugin-find-po-line" "^6.0.0"
     "@folio/stripes-acq-components" "~7.1.0"
