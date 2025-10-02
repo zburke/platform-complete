@@ -146,7 +146,7 @@
   "id" : "mod-reading-room-1.3.0-SNAPSHOT.28",
   "action" : "enable"
 }, {
-  "id" : "mod-orders-storage-14.0.0-SNAPSHOT.456",
+  "id" : "mod-orders-storage-14.0.0-SNAPSHOT.457",
   "action" : "enable"
 }, {
   "id" : "mod-organizations-2.2.0-SNAPSHOT.74",
@@ -221,7 +221,7 @@
   "id" : "folio_oai-pmh-6.0.10990000000065",
   "action" : "enable"
 }, {
-  "id" : "edge-oai-pmh-2.12.0-SNAPSHOT.121",
+  "id" : "edge-oai-pmh-2.12.0-SNAPSHOT.122",
   "action" : "enable"
 }, {
   "id" : "mod-circulation-storage-17.5.0-SNAPSHOT.475",
