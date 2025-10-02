@@ -1313,10 +1313,11 @@
     zustand "^5.0.0"
 
 "@folio/bulk-edit@>=1.0.0":
-  version "5.0.1099000000000819"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/bulk-edit/-/bulk-edit-5.0.1099000000000819.tgz#d8b96ffba5a868976c2dff2b0399f2c89d3ab2bc"
-  integrity sha512-MHA2d47/Clu9MxfBc/Q0hMnpkMd9npP/pIQw2YevO/S+ABsASdWSl915zN3AFZIE5OKTVt/fTM9Orse3KdNvTw==
+  version "5.0.1099000000000838"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/bulk-edit/-/bulk-edit-5.0.1099000000000838.tgz#4fbfcd439dfa62462e89ff015b6cd038568824ba"
+  integrity sha512-xDwM1iB0QG2hkM+og4eDbOzzRHCIYgZx6PCRyUD1mFqIRFB8+IcPQ1eNe2nfvT3tuoP3+fL7lDN/eE8AnbajHg==
   dependencies:
+    "@folio/plugin-query-builder" "^3.0.0"
     "@folio/stripes-acq-components" "^7.0.0"
     "@folio/stripes-data-transfer-components" "^7.0.0"
     "@testing-library/react-hooks" "^8.0.1"
@@ -2085,7 +2086,7 @@
     lodash "^4.17.4"
     prop-types "^15.6.0"
 
-"@folio/plugin-query-builder@>=1.0.0":
+"@folio/plugin-query-builder@>=1.0.0", "@folio/plugin-query-builder@^3.0.0":
   version "3.0.1099000000000999"
   resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-query-builder/-/plugin-query-builder-3.0.1099000000000999.tgz#cb6158e467fd145a2848e9f2f81ab67f752012fc"
   integrity sha512-v+y5serPjnD7/g1hLK3NE/PYJ2ctOxFlkMg4BrY4flFM/lWleWzGNvJxH09wvy/9nCKu58UwunkUcawGSYIIGg==
@@ -2495,9 +2496,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/stripes-erm-components@>=9.0.0":
-  version "10.1.1099000000000304"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-erm-components/-/stripes-erm-components-10.1.1099000000000304.tgz#ba2f3b8b96ea39a5472d2cb963bfcec82f6b95c0"
-  integrity sha512-P7MQckK0vQQSLkWoGAj+79MmCf5VgTBUs9GnwSIUleXIJXmjtEFlVZXUQCy7XEKW/Yx+8bhqKABvQxo/swRAgw==
+  version "10.1.1099000000000319"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-erm-components/-/stripes-erm-components-10.1.1099000000000319.tgz#0d2000cdbc00ba16cde5b33561c0c704159dd5a8"
+  integrity sha512-71BmLGskY+LcCS1vlu/4z0vJiRF84/XaFLpAlph6ZGUWaWLQsJlLL4n55Xmvhbp6L1+D4RjayPFF2q89/JdNzg==
   dependencies:
     "@k-int/stripes-kint-components" "^5.19.1"
     dayjs "^1.11.13"
