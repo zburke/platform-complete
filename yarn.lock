@@ -1313,9 +1313,9 @@
     zustand "^5.0.0"
 
 "@folio/bulk-edit@>=1.0.0":
-  version "5.0.1099000000000846"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/bulk-edit/-/bulk-edit-5.0.1099000000000846.tgz#dd8633b9d4933ac9a6c85e572b7d6fd8121441d8"
-  integrity sha512-J3VGVOFhNtZn2jQW/KWSryDYg+tgBDLR79+yhulx2dDDA2CZrV1RAv4SHFDrgzFla19ziKgXNa6UBNCGJfq+aQ==
+  version "5.0.1099000000000849"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/bulk-edit/-/bulk-edit-5.0.1099000000000849.tgz#309ddee89d596f967b55914a9b5597dbef89132d"
+  integrity sha512-cca4hvsH9Z0BWmCvlZk/qLlDUL00nXVU1+WRqsk6ekYRzPvQkClXHlA4c8oxabd0M44tif89FPjzVdp7q/7qFA==
   dependencies:
     "@folio/plugin-query-builder" "^3.0.0"
     "@folio/stripes-acq-components" "^7.0.0"
@@ -2087,9 +2087,9 @@
     prop-types "^15.6.0"
 
 "@folio/plugin-query-builder@>=1.0.0", "@folio/plugin-query-builder@^3.0.0":
-  version "3.0.1099000000000999"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-query-builder/-/plugin-query-builder-3.0.1099000000000999.tgz#cb6158e467fd145a2848e9f2f81ab67f752012fc"
-  integrity sha512-v+y5serPjnD7/g1hLK3NE/PYJ2ctOxFlkMg4BrY4flFM/lWleWzGNvJxH09wvy/9nCKu58UwunkUcawGSYIIGg==
+  version "3.0.1099000000001002"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-query-builder/-/plugin-query-builder-3.0.1099000000001002.tgz#1229120177415da1b18e00b54d5274f3d016894e"
+  integrity sha512-45PNEmsP/JonkCCjPztswAdJVQlEaj8/4OI+WPF3RIIuqWXcDj+9jHcP6NtWPIeTiqWlx3YT0hPgMRN1jZymnA==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     classnames "^2.5.1"
