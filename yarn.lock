@@ -1645,9 +1645,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/inventory@>=1.4.0":
-  version "14.0.1099000000001264"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/inventory/-/inventory-14.0.1099000000001264.tgz#8014c3a74129394c50ddbd6d65e3d0f0070afc79"
-  integrity sha512-pBRwb+Ppyuor1dt+JtEX9nZNVaXafOw4QoZGptf+IG7Ho6oKzKPq7UlMwaTEawfZKWtie2eVcwrD00VvvcWaug==
+  version "14.0.1099000000001267"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/inventory/-/inventory-14.0.1099000000001267.tgz#c31150f5eb89e1eb719933f3312986ee5651f13f"
+  integrity sha512-ANCrFWRa6+xPF6qepFSRVLzWMnratqx+sia1xA2blBVIpWsjTBMOM8oHpjdOdq24peiu+MHlCxbeefbUVGf62w==
   dependencies:
     "@dnd-kit/core" "^6.3.1"
     "@dnd-kit/modifiers" "^9.0.0"
@@ -1767,9 +1767,9 @@
     react-final-form-arrays "^3.1.1"
 
 "@folio/marc-authorities@>=1.0.0":
-  version "8.0.1099000000001046"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/marc-authorities/-/marc-authorities-8.0.1099000000001046.tgz#50df9f91a5eee5fc8ad0e902059fb608676a66d5"
-  integrity sha512-nnKPKSF5DFIaI90m8PHDg0rvqB4CDHo4mxMgP/lmlUzTFmcdDPTAOjN5+MEF6Dxa9ksjdy+esknbUfwTH3Hm7A==
+  version "8.0.1099000000001072"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/marc-authorities/-/marc-authorities-8.0.1099000000001072.tgz#b32a50dd1cbee8922fb387118794898e5e18e6b6"
+  integrity sha512-xqh12Apn/UfkSL1qzLphc+6Qd+BBPtK5qL0dJSqWwN/LU6+18TZLHa+k41wyVkglHtoEIx6O6j++CVxfEnJFEA==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     "@rehooks/local-storage" "^2.4.4"

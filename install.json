@@ -290,7 +290,7 @@
   "id" : "folio_circulation-log-6.0.109900000000103",
   "action" : "enable"
 }, {
-  "id" : "folio_marc-authorities-8.0.1099000000001046",
+  "id" : "folio_marc-authorities-8.0.1099000000001072",
   "action" : "enable"
 }, {
   "id" : "folio_stripes-marc-components-2.0.109900000000173",
@@ -344,7 +344,7 @@
   "id" : "folio_circulation-11.1.1099000000000224",
   "action" : "enable"
 }, {
-  "id" : "folio_inventory-14.0.1099000000001264",
+  "id" : "folio_inventory-14.0.1099000000001267",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-create-inventory-records-7.0.1099000000000091",
