@@ -170,7 +170,7 @@
   "id" : "mod-password-validator-3.5.0-SNAPSHOT.99",
   "action" : "enable"
 }, {
-  "id" : "folio_stripes-smart-components-10.1.1099000000000593",
+  "id" : "folio_stripes-smart-components-10.1.1099000000000597",
   "action" : "enable"
 }, {
   "id" : "mod-kb-ebsco-java-6.1.0-SNAPSHOT.479",
@@ -224,19 +224,19 @@
   "id" : "edge-oai-pmh-2.12.0-SNAPSHOT.122",
   "action" : "enable"
 }, {
+  "id" : "mod-users-bl-7.11.0-SNAPSHOT.185",
+  "action" : "enable"
+}, {
+  "id" : "folio_stripes-core-11.1.1099000000001173",
+  "action" : "enable"
+}, {
+  "id" : "folio_users-13.0.1099000000000868",
+  "action" : "enable"
+}, {
   "id" : "mod-circulation-storage-17.5.0-SNAPSHOT.475",
   "action" : "enable"
 }, {
   "id" : "mod-user-import-3.11.0-SNAPSHOT.113",
-  "action" : "enable"
-}, {
-  "id" : "mod-users-bl-7.11.0-SNAPSHOT.185",
-  "action" : "enable"
-}, {
-  "id" : "folio_stripes-core-11.1.1099000000001125",
-  "action" : "enable"
-}, {
-  "id" : "folio_users-13.0.1099000000000868",
   "action" : "enable"
 }, {
   "id" : "mod-patron-blocks-1.13.0-SNAPSHOT.112",
@@ -449,13 +449,13 @@
   "id" : "folio_orders-9.0.1099000000000598",
   "action" : "enable"
 }, {
-  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.831",
+  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.832",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-query-builder-3.0.1099000000001002",
   "action" : "enable"
 }, {
-  "id" : "edge-fqm-4.1.0-SNAPSHOT.53",
+  "id" : "edge-fqm-4.1.0-SNAPSHOT.54",
   "action" : "enable"
 }, {
   "id" : "mod-bulk-operations-2.3.0-SNAPSHOT.482",
