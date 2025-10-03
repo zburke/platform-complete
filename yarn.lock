@@ -1645,9 +1645,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/inventory@>=1.4.0":
-  version "14.0.1099000000001267"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/inventory/-/inventory-14.0.1099000000001267.tgz#c31150f5eb89e1eb719933f3312986ee5651f13f"
-  integrity sha512-ANCrFWRa6+xPF6qepFSRVLzWMnratqx+sia1xA2blBVIpWsjTBMOM8oHpjdOdq24peiu+MHlCxbeefbUVGf62w==
+  version "14.0.1099000000001270"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/inventory/-/inventory-14.0.1099000000001270.tgz#9c842f9b38a82238e429fc5e9aabc27802686d4b"
+  integrity sha512-5s5OPINzU25ZuswDx3Qocj33JKXN1rylJVsh8hYo12tp7XqHEW1SD1sPF9YdyXf4etesh1N7a1+SYVg4hy54Wg==
   dependencies:
     "@dnd-kit/core" "^6.3.1"
     "@dnd-kit/modifiers" "^9.0.0"
@@ -4036,9 +4036,9 @@ base64id@2.0.0, base64id@~2.0.0:
   integrity sha512-lGe34o6EHj9y3Kts9R4ZYs/Gr+6N7MCaMlIFA3F1R2O5/m7K06AxfSeO5530PEERE6/WyEg3lsuyw4GHlPZHog==
 
 baseline-browser-mapping@^2.8.9:
-  version "2.8.10"
-  resolved "https://repository.folio.org/repository/npm-ci-all/baseline-browser-mapping/-/baseline-browser-mapping-2.8.10.tgz#32eb5e253d633fa3fa3ffb1685fabf41680d9e8a"
-  integrity sha512-uLfgBi+7IBNay8ECBO2mVMGZAc1VgZWEChxm4lv+TobGdG82LnXMjuNGo/BSSZZL4UmkWhxEHP2f5ziLNwGWMA==
+  version "2.8.11"
+  resolved "https://repository.folio.org/repository/npm-ci-all/baseline-browser-mapping/-/baseline-browser-mapping-2.8.11.tgz#70f8d63a5dbcfd82f055be51e2ebe2d477908704"
+  integrity sha512-i+sRXGhz4+QW8aACZ3+r1GAKMt0wlFpeA8M5rOQd0HEYw9zhDrlx9Wc8uQ0IdXakjJRthzglEwfB/yqIjO6iDg==
 
 basic-auth@~2.0.1:
   version "2.0.1"
