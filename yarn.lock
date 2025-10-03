@@ -1370,9 +1370,9 @@
     uuid "^9.0.0"
 
 "@folio/checkout@>=1.3.0":
-  version "13.0.1099000000000173"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/checkout/-/checkout-13.0.1099000000000173.tgz#cdea4e4afed8ed3dd01cd23ab409f169e2e18442"
-  integrity sha512-WpFT/EFEjsB7ZOxNkI0din2ARIzuhzxNbaHSPbKW/I2gWhH/4+XNnbe9SvNE2uIfgPFuF6NPzhVYJcu4z2QUrw==
+  version "13.0.1099000000000176"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/checkout/-/checkout-13.0.1099000000000176.tgz#3e8ee38a73c32d3eb3c1901f0a15f1bb97cb1be6"
+  integrity sha512-0C8BnDB4T5bgmd1SGvH7xQdmZBYhS8xadlVBZlrbdJ0gBVO9JgWTc32YE7zfYx0KwbQj8G2CfAhjFNv/nOITng==
   dependencies:
     final-form "^4.19.1"
     inactivity-timer "^1.0.0"
@@ -2114,9 +2114,9 @@
     "@folio/plugin-find-organization" "^6.0.0"
 
 "@folio/quick-marc@>=1.0.0", "@folio/quick-marc@^10.0.0":
-  version "10.1.1099000000000397"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/quick-marc/-/quick-marc-10.1.1099000000000397.tgz#911a39a1d643d83656ad3d854ad6a0673ebf7b65"
-  integrity sha512-1RxYiCnuHokzRyjKIYc5t0iOVK+JIJ2Ho1h5tcUdtzX4kpOzmwWS4HbPrB7x4Cm5rt9MXjRuc8Ai2yU9VyCbRw==
+  version "10.1.1099000000000401"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/quick-marc/-/quick-marc-10.1.1099000000000401.tgz#f69eee023da0de6c63f96282134b182e45f0101d"
+  integrity sha512-471zxsx0+1jmNSBDO4Hl+kMXHpeQElU39YfNr2GXgCOOOu2/G5JbkAK6bK4n0jzL4DcrE8f4j3K8vyXFzETK+Q==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     classnames "^2.5.1"
