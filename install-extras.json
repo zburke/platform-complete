@@ -202,5 +202,9 @@
   {
     "id": "mod-pubsub",
     "action": "enable"
+  },
+  {
+    "id" : "mod-linked-data-2.0.0-SNAPSHOT.334",
+    "action" : "enable"
   }
 ]
