@@ -184,6 +184,10 @@
     "action": "enable"
   },
   {
+    "id": "mod-linked-data-2.0.0-SNAPSHOT.334",
+    "action": "enable"
+  },
+  {
     "id": "mod-inventory-21.2.0-SNAPSHOT.901",
     "action": "enable"
   },
@@ -205,10 +209,6 @@
   },
   {
     "id": "mod-data-import-3.4.0-SNAPSHOT.336",
-    "action": "enable"
-  },
-  {
-    "id": "mod-linked-data-2.0.0-SNAPSHOT.334",
     "action": "enable"
   },
   {
@@ -296,7 +296,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-fqm-manager-4.1.0-SNAPSHOT.833",
+    "id": "mod-fqm-manager-4.1.0-SNAPSHOT.834",
     "action": "enable"
   },
   {

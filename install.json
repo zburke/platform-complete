@@ -266,6 +266,9 @@
   "id" : "folio_stripes-authority-components-6.1.1099000000000146",
   "action" : "enable"
 }, {
+  "id" : "mod-linked-data-2.0.0-SNAPSHOT.334",
+  "action" : "enable"
+}, {
   "id" : "mod-inventory-21.2.0-SNAPSHOT.901",
   "action" : "enable"
 }, {
@@ -303,9 +306,6 @@
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-import-profile-9.0.10990000000053",
-  "action" : "enable"
-}, {
-  "id" : "mod-linked-data-2.0.0-SNAPSHOT.334",
   "action" : "enable"
 }, {
   "id" : "mod-event-config-2.10.0-SNAPSHOT.72",
@@ -452,7 +452,7 @@
   "id" : "folio_orders-9.0.1099000000000598",
   "action" : "enable"
 }, {
-  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.833",
+  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.834",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-query-builder-3.0.1099000000001002",
