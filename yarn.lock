@@ -5465,12 +5465,12 @@ es6-weak-map@^2.0.3:
     es6-symbol "^3.1.1"
 
 esbuild-loader@^4.3.0:
-  version "4.3.0"
-  resolved "https://repository.folio.org/repository/npm-ci-all/esbuild-loader/-/esbuild-loader-4.3.0.tgz#70a19717290cf59c6ac55b26782dbcf84378ccb4"
-  integrity sha512-D7HeJNdkDKKMarPQO/3dlJT6RwN2YJO7ENU6RPlpOz5YxSHnUNi2yvW41Bckvi1EVwctIaLzlb0ni5ag2GINYA==
+  version "4.4.0"
+  resolved "https://repository.folio.org/repository/npm-ci-all/esbuild-loader/-/esbuild-loader-4.4.0.tgz#121a28e599f12379e1e4d61fbaa890f0abb07666"
+  integrity sha512-4J+hXTpTtEdzUNLoY8ReqDNJx2NoldfiljRCiKbeYUuZmVaiJeDqFgyAzz8uOopaekwRoCcqBFyEroGQLFVZ1g==
   dependencies:
     esbuild "^0.25.0"
-    get-tsconfig "^4.7.0"
+    get-tsconfig "^4.10.1"
     loader-utils "^2.0.4"
     webpack-sources "^1.4.3"
 
@@ -6120,7 +6120,7 @@ get-stream@^6.0.1:
   resolved "https://repository.folio.org/repository/npm-ci-all/get-stream/-/get-stream-6.0.1.tgz#a262d8eef67aced57c2852ad6167526a43cbf7b7"
   integrity sha512-ts6Wi+2j3jQjqi70w5AlN8DFnkSwC+MqmxEzdEALB2qXZYV3X/b1CTfgPLGJNMeAWxdPfU8FO1ms3NUfaHCPYg==
 
-get-tsconfig@^4.7.0:
+get-tsconfig@^4.10.1:
   version "4.10.1"
   resolved "https://repository.folio.org/repository/npm-ci-all/get-tsconfig/-/get-tsconfig-4.10.1.tgz#d34c1c01f47d65a606c37aa7a177bc3e56ab4b2e"
   integrity sha512-auHyJ4AgMz7vgS8Hp3N6HXSmlMdUyhSUrfBF16w153rxtLIEOE+HGqaBppczZvnHLqQJfiHotCYpNhl0lUROFQ==
