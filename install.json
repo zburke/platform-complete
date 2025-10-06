@@ -146,7 +146,7 @@
   "id" : "mod-reading-room-1.3.0-SNAPSHOT.28",
   "action" : "enable"
 }, {
-  "id" : "mod-orders-storage-14.0.0-SNAPSHOT.461",
+  "id" : "mod-orders-storage-14.0.0-SNAPSHOT.462",
   "action" : "enable"
 }, {
   "id" : "mod-organizations-2.2.0-SNAPSHOT.74",
@@ -188,7 +188,7 @@
   "id" : "mod-agreements-7.3.0-SNAPSHOT.808",
   "action" : "enable"
 }, {
-  "id" : "folio_agreements-12.1.1099000000001264",
+  "id" : "folio_agreements-12.1.1099000000001289",
   "action" : "enable"
 }, {
   "id" : "folio_erm-comparisons-8.1.109900000000135",
@@ -230,7 +230,7 @@
   "id" : "folio_stripes-core-11.1.1099000000001188",
   "action" : "enable"
 }, {
-  "id" : "folio_users-13.0.1099000000000879",
+  "id" : "folio_users-13.0.1099000000000882",
   "action" : "enable"
 }, {
   "id" : "mod-circulation-storage-17.5.0-SNAPSHOT.475",
