@@ -188,7 +188,7 @@
   "id" : "mod-agreements-7.3.0-SNAPSHOT.807",
   "action" : "enable"
 }, {
-  "id" : "folio_agreements-12.1.1099000000001246",
+  "id" : "folio_agreements-12.1.1099000000001257",
   "action" : "enable"
 }, {
   "id" : "folio_erm-comparisons-8.1.109900000000135",
@@ -275,7 +275,7 @@
   "id" : "mod-quick-marc-8.0.0-SNAPSHOT.341",
   "action" : "enable"
 }, {
-  "id" : "folio_quick-marc-10.1.1099000000000405",
+  "id" : "folio_quick-marc-10.1.1099000000000408",
   "action" : "enable"
 }, {
   "id" : "mod-data-export-5.3.0-SNAPSHOT.480",
