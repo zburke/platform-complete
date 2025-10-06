@@ -446,7 +446,7 @@
   "id" : "folio_finance-9.0.1099000000000440",
   "action" : "enable"
 }, {
-  "id" : "folio_invoice-8.0.1099000000000352",
+  "id" : "folio_invoice-8.0.1099000000000355",
   "action" : "enable"
 }, {
   "id" : "folio_orders-9.0.1099000000000602",
