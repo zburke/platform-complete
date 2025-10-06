@@ -8854,9 +8854,9 @@ react-inspector@^6.0.0:
   integrity sha512-x+b7LxhmHXjHoU/VrFAzw5iutsILRoYyDq97EDYdFpPLcvqtEzk4ZSZSQjnFPbr5T57tLXnHcqFYoN1pI6u8uQ==
 
 react-intl@^7.1.10:
-  version "7.1.12"
-  resolved "https://repository.folio.org/repository/npm-ci-all/react-intl/-/react-intl-7.1.12.tgz#09ee79b5aba1daec4a34f24180b82a18c16b5d26"
-  integrity sha512-XF3T5skOqIGD5wfjtD0oQiXNLiiPZc4r4eGv8bU4RvzTyh/6jtyBLb8ld36ZJLr7grmPQqVxBd3+i0us+2VaGQ==
+  version "7.1.13"
+  resolved "https://repository.folio.org/repository/npm-ci-all/react-intl/-/react-intl-7.1.13.tgz#449610b1c63ff816f1e2908dcabb99238c4ac1d4"
+  integrity sha512-wiRmYyWfaDDxv4QxRKXCscbSV2ZzrNnm1t7iC5qZKNDGtM2YrQO+C86QzXq7wz/ahVjJrgeSahY5h2rYlOGcyg==
   dependencies:
     "@formatjs/ecma402-abstract" "2.3.5"
     "@formatjs/icu-messageformat-parser" "2.11.3"
