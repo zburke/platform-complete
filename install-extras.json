@@ -204,11 +204,7 @@
     "action": "enable"
   },
   {
-    "id" : "mod-linked-data-2.0.0-SNAPSHOT.334",
-    "action" : "enable"
-  },
-  {
-    "id" : "mod-organizations-storage-5.0.0-SNAPSHOT.131",
-    "action" : "enable"
+    "id": "mod-users-19.6.0-SNAPSHOT.363",
+    "action": "enable"
   }
 ]
