@@ -185,7 +185,7 @@
   "id" : "folio_serials-management-2.1.109900000000813",
   "action" : "enable"
 }, {
-  "id" : "mod-agreements-7.3.0-SNAPSHOT.808",
+  "id" : "mod-agreements-7.3.0-SNAPSHOT.809",
   "action" : "enable"
 }, {
   "id" : "folio_agreements-12.1.1099000000001310",
@@ -449,7 +449,7 @@
   "id" : "folio_orders-9.0.1099000000000609",
   "action" : "enable"
 }, {
-  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.838",
+  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.839",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-query-builder-3.0.1099000000001013",
