@@ -59,7 +59,7 @@
   "id" : "mod-calendar-3.4.0-SNAPSHOT.188",
   "action" : "enable"
 }, {
-  "id" : "mod-organizations-storage-5.0.0-SNAPSHOT.130",
+  "id" : "mod-organizations-storage-5.0.0-SNAPSHOT.131",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-contact-6.0.10990000000047",
@@ -149,7 +149,7 @@
   "id" : "mod-orders-storage-14.0.0-SNAPSHOT.462",
   "action" : "enable"
 }, {
-  "id" : "mod-organizations-2.2.0-SNAPSHOT.74",
+  "id" : "mod-organizations-2.2.0-SNAPSHOT.75",
   "action" : "enable"
 }, {
   "id" : "mod-courses-1.5.0-SNAPSHOT.170",
@@ -347,7 +347,7 @@
   "id" : "folio_circulation-11.1.1099000000000228",
   "action" : "enable"
 }, {
-  "id" : "folio_inventory-14.0.1099000000001284",
+  "id" : "folio_inventory-14.0.1099000000001287",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-create-inventory-records-7.0.1099000000000095",
@@ -413,7 +413,7 @@
   "id" : "folio_receiving-8.0.1099000000000290",
   "action" : "enable"
 }, {
-  "id" : "mod-ebsconet-2.5.0-SNAPSHOT.93",
+  "id" : "mod-ebsconet-2.5.0-SNAPSHOT.94",
   "action" : "enable"
 }, {
   "id" : "mod-eusage-reports-3.1.0-SNAPSHOT.192",
@@ -422,13 +422,13 @@
   "id" : "folio_plugin-eusage-reports-4.0.1099000000000141",
   "action" : "enable"
 }, {
-  "id" : "mod-gobi-3.1.0-SNAPSHOT.263",
+  "id" : "mod-gobi-3.1.0-SNAPSHOT.264",
   "action" : "enable"
 }, {
   "id" : "folio_gobi-settings-4.0.1099000000000094",
   "action" : "enable"
 }, {
-  "id" : "mod-mosaic-1.1.0-SNAPSHOT.37",
+  "id" : "mod-mosaic-1.1.0-SNAPSHOT.38",
   "action" : "enable"
 }, {
   "id" : "folio_mosaic-settings-1.0.1099000000000091",

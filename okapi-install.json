@@ -36,7 +36,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-organizations-storage-5.0.0-SNAPSHOT.130",
+    "id": "mod-organizations-storage-5.0.0-SNAPSHOT.131",
     "action": "enable"
   },
   {
@@ -104,7 +104,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-organizations-2.2.0-SNAPSHOT.74",
+    "id": "mod-organizations-2.2.0-SNAPSHOT.75",
     "action": "enable"
   },
   {
@@ -272,7 +272,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-ebsconet-2.5.0-SNAPSHOT.93",
+    "id": "mod-ebsconet-2.5.0-SNAPSHOT.94",
     "action": "enable"
   },
   {
@@ -280,11 +280,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-gobi-3.1.0-SNAPSHOT.263",
+    "id": "mod-gobi-3.1.0-SNAPSHOT.264",
     "action": "enable"
   },
   {
-    "id": "mod-mosaic-1.1.0-SNAPSHOT.37",
+    "id": "mod-mosaic-1.1.0-SNAPSHOT.38",
     "action": "enable"
   },
   {
