@@ -4,7 +4,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_agreements-12.1.1099000000001289",
+    "id": "folio_agreements-12.1.1099000000001310",
     "action": "enable"
   },
   {
@@ -88,7 +88,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_inventory-14.0.1099000000001287",
+    "id": "folio_inventory-14.0.1099000000001299",
     "action": "enable"
   },
   {
@@ -136,7 +136,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_orders-9.0.1099000000000602",
+    "id": "folio_orders-9.0.1099000000000609",
     "action": "enable"
   },
   {
@@ -288,15 +288,15 @@
     "action": "enable"
   },
   {
-    "id": "edge-connexion-1.4.2-SNAPSHOT.41",
-    "action": "enable"
-  },
-  {
     "id": "edge-inn-reach-3.6.0-SNAPSHOT.67",
     "action": "enable"
   },
   {
     "id": "edge-courses-1.7.0-SNAPSHOT.27",
+    "action": "enable"
+  },
+  {
+    "id": "edge-connexion-1.4.2-SNAPSHOT.41",
     "action": "enable"
   },
   {
