@@ -236,7 +236,7 @@
   "id" : "folio_users-13.0.1099000000000882",
   "action" : "enable"
 }, {
-  "id" : "mod-circulation-storage-17.5.0-SNAPSHOT.475",
+  "id" : "mod-circulation-storage-17.5.0-SNAPSHOT.476",
   "action" : "enable"
 }, {
   "id" : "mod-user-import-3.11.0-SNAPSHOT.113",
@@ -449,7 +449,7 @@
   "id" : "folio_orders-9.0.1099000000000609",
   "action" : "enable"
 }, {
-  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.839",
+  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.840",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-query-builder-3.0.1099000000001013",
