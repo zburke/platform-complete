@@ -179,6 +179,9 @@
   "id" : "folio_eholdings-11.1.1099000000000271",
   "action" : "enable"
 }, {
+  "id" : "mod-template-engine-1.23.0-SNAPSHOT.105",
+  "action" : "enable"
+}, {
   "id" : "mod-serials-management-2.1.0-SNAPSHOT.166",
   "action" : "enable"
 }, {
@@ -188,7 +191,7 @@
   "id" : "mod-agreements-7.3.0-SNAPSHOT.810",
   "action" : "enable"
 }, {
-  "id" : "folio_agreements-12.1.1099000000001310",
+  "id" : "folio_agreements-12.1.1099000000001345",
   "action" : "enable"
 }, {
   "id" : "folio_erm-comparisons-8.1.109900000000135",
@@ -227,7 +230,7 @@
   "id" : "mod-users-bl-7.11.0-SNAPSHOT.185",
   "action" : "enable"
 }, {
-  "id" : "folio_stripes-core-11.1.1099000000001188",
+  "id" : "folio_stripes-core-11.1.1099000000001205",
   "action" : "enable"
 }, {
   "id" : "folio_users-13.0.1099000000000882",
@@ -269,7 +272,19 @@
   "id" : "mod-inventory-21.2.0-SNAPSHOT.904",
   "action" : "enable"
 }, {
+  "id" : "mod-audit-3.0.0-SNAPSHOT.225",
+  "action" : "enable"
+}, {
+  "id" : "folio_circulation-log-6.0.1099000000000109",
+  "action" : "enable"
+}, {
+  "id" : "folio_stripes-marc-components-2.0.109900000000173",
+  "action" : "enable"
+}, {
   "id" : "mod-quick-marc-8.0.0-SNAPSHOT.342",
+  "action" : "enable"
+}, {
+  "id" : "folio_marc-authorities-8.0.1099000000001092",
   "action" : "enable"
 }, {
   "id" : "folio_quick-marc-10.1.1099000000000408",
@@ -279,21 +294,6 @@
   "action" : "enable"
 }, {
   "id" : "folio_data-export-7.0.1099000000000089",
-  "action" : "enable"
-}, {
-  "id" : "mod-template-engine-1.23.0-SNAPSHOT.104",
-  "action" : "enable"
-}, {
-  "id" : "mod-audit-3.0.0-SNAPSHOT.225",
-  "action" : "enable"
-}, {
-  "id" : "folio_circulation-log-6.0.1099000000000109",
-  "action" : "enable"
-}, {
-  "id" : "folio_marc-authorities-8.0.1099000000001092",
-  "action" : "enable"
-}, {
-  "id" : "folio_stripes-marc-components-2.0.109900000000173",
   "action" : "enable"
 }, {
   "id" : "mod-data-import-3.4.0-SNAPSHOT.336",
