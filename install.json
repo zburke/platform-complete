@@ -320,7 +320,7 @@
   "id" : "folio_reading-room-3.0.1099000000000113",
   "action" : "enable"
 }, {
-  "id" : "mod-data-export-worker-3.5.0-SNAPSHOT.633",
+  "id" : "mod-data-export-worker-3.5.0-SNAPSHOT.634",
   "action" : "enable"
 }, {
   "id" : "mod-data-export-spring-3.6.0-SNAPSHOT.311",
