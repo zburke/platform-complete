@@ -35,7 +35,55 @@
   "id" : "mod-record-specifications-2.1.0-SNAPSHOT.114",
   "action" : "enable"
 }, {
-  "id" : "mod-users-19.6.0-SNAPSHOT.362",
+  "id" : "mod-erm-usage-5.2.0-SNAPSHOT.218",
+  "action" : "enable"
+}, {
+  "id" : "mod-tags-2.5.0-SNAPSHOT.116",
+  "action" : "enable"
+}, {
+  "id" : "folio_tags-9.0.10990000000051",
+  "action" : "enable"
+}, {
+  "id" : "mod-invoice-storage-6.1.0-SNAPSHOT.180",
+  "action" : "enable"
+}, {
+  "id" : "mod-service-interaction-4.3.0-SNAPSHOT.144",
+  "action" : "enable"
+}, {
+  "id" : "folio_dashboard-7.1.1099000000000196",
+  "action" : "enable"
+}, {
+  "id" : "folio_service-interaction-4.1.109900000000243",
+  "action" : "enable"
+}, {
+  "id" : "mod-calendar-3.4.0-SNAPSHOT.188",
+  "action" : "enable"
+}, {
+  "id" : "mod-organizations-storage-5.0.0-SNAPSHOT.132",
+  "action" : "enable"
+}, {
+  "id" : "folio_plugin-find-contact-6.0.10990000000047",
+  "action" : "enable"
+}, {
+  "id" : "folio_plugin-find-interface-6.0.10990000000053",
+  "action" : "enable"
+}, {
+  "id" : "mod-licenses-6.3.0-SNAPSHOT.288",
+  "action" : "enable"
+}, {
+  "id" : "folio_licenses-12.1.109900000000197",
+  "action" : "enable"
+}, {
+  "id" : "folio_plugin-find-license-12.1.109900000000104",
+  "action" : "enable"
+}, {
+  "id" : "mod-source-record-storage-5.11.0-SNAPSHOT.705",
+  "action" : "enable"
+}, {
+  "id" : "mod-copycat-1.8.1-SNAPSHOT.109",
+  "action" : "enable"
+}, {
+  "id" : "mod-users-19.6.0-SNAPSHOT.365",
   "action" : "enable"
 }, {
   "id" : "mod-authtoken-2.18.0-SNAPSHOT.166",
@@ -62,13 +110,28 @@
   "id" : "mod-login-7.14.0-SNAPSHOT.165",
   "action" : "enable"
 }, {
+  "id" : "edge-connexion-1.4.2-SNAPSHOT.41",
+  "action" : "enable"
+}, {
   "id" : "edge-inn-reach-3.6.0-SNAPSHOT.67",
+  "action" : "enable"
+}, {
+  "id" : "mod-erm-usage-harvester-5.2.0-SNAPSHOT.203",
+  "action" : "enable"
+}, {
+  "id" : "folio_erm-usage-12.0.1099000000000612",
+  "action" : "enable"
+}, {
+  "id" : "folio_plugin-find-erm-usage-data-provider-7.0.109900000000128",
   "action" : "enable"
 }, {
   "id" : "mod-pubsub-2.17.0-SNAPSHOT.263",
   "action" : "enable"
 }, {
   "id" : "mod-inventory-storage-30.0.0-SNAPSHOT.1192",
+  "action" : "enable"
+}, {
+  "id" : "folio_calendar-12.0.1099000000000178",
   "action" : "enable"
 }, {
   "id" : "folio_stripes-inventory-components-2.1.1090000000791",
@@ -86,13 +149,7 @@
   "id" : "mod-orders-storage-14.0.0-SNAPSHOT.462",
   "action" : "enable"
 }, {
-  "id" : "mod-erm-usage-5.2.0-SNAPSHOT.218",
-  "action" : "enable"
-}, {
-  "id" : "mod-erm-usage-harvester-5.2.0-SNAPSHOT.203",
-  "action" : "enable"
-}, {
-  "id" : "folio_plugin-find-erm-usage-data-provider-7.0.109900000000128",
+  "id" : "mod-organizations-2.2.0-SNAPSHOT.75",
   "action" : "enable"
 }, {
   "id" : "mod-courses-1.5.0-SNAPSHOT.170",
@@ -104,67 +161,10 @@
   "id" : "edge-courses-1.7.0-SNAPSHOT.28",
   "action" : "enable"
 }, {
-  "id" : "mod-tags-2.5.0-SNAPSHOT.116",
-  "action" : "enable"
-}, {
-  "id" : "folio_erm-usage-12.0.1099000000000612",
-  "action" : "enable"
-}, {
-  "id" : "folio_tags-9.0.10990000000051",
-  "action" : "enable"
-}, {
-  "id" : "mod-invoice-storage-6.1.0-SNAPSHOT.180",
-  "action" : "enable"
-}, {
-  "id" : "mod-service-interaction-4.3.0-SNAPSHOT.144",
-  "action" : "enable"
-}, {
-  "id" : "folio_dashboard-7.1.1099000000000196",
-  "action" : "enable"
-}, {
-  "id" : "folio_service-interaction-4.1.109900000000243",
-  "action" : "enable"
-}, {
-  "id" : "mod-calendar-3.4.0-SNAPSHOT.188",
-  "action" : "enable"
-}, {
-  "id" : "folio_calendar-12.0.1099000000000178",
-  "action" : "enable"
-}, {
-  "id" : "mod-organizations-storage-5.0.0-SNAPSHOT.132",
-  "action" : "enable"
-}, {
-  "id" : "folio_plugin-find-contact-6.0.10990000000047",
-  "action" : "enable"
-}, {
-  "id" : "folio_plugin-find-interface-6.0.10990000000053",
-  "action" : "enable"
-}, {
-  "id" : "mod-organizations-2.2.0-SNAPSHOT.75",
-  "action" : "enable"
-}, {
-  "id" : "mod-licenses-6.3.0-SNAPSHOT.288",
-  "action" : "enable"
-}, {
-  "id" : "folio_licenses-12.1.109900000000197",
-  "action" : "enable"
-}, {
-  "id" : "folio_plugin-find-license-12.1.109900000000104",
-  "action" : "enable"
-}, {
   "id" : "mod-notes-7.1.0-SNAPSHOT.295",
   "action" : "enable"
 }, {
   "id" : "folio_notes-12.0.109900000000126",
-  "action" : "enable"
-}, {
-  "id" : "mod-source-record-storage-5.11.0-SNAPSHOT.705",
-  "action" : "enable"
-}, {
-  "id" : "mod-copycat-1.8.1-SNAPSHOT.109",
-  "action" : "enable"
-}, {
-  "id" : "edge-connexion-1.4.2-SNAPSHOT.41",
   "action" : "enable"
 }, {
   "id" : "mod-password-validator-3.5.0-SNAPSHOT.99",

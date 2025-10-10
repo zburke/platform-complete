@@ -288,15 +288,15 @@
     "action": "enable"
   },
   {
+    "id": "edge-connexion-1.4.2-SNAPSHOT.41",
+    "action": "enable"
+  },
+  {
     "id": "edge-inn-reach-3.6.0-SNAPSHOT.67",
     "action": "enable"
   },
   {
     "id": "edge-courses-1.7.0-SNAPSHOT.28",
-    "action": "enable"
-  },
-  {
-    "id": "edge-connexion-1.4.2-SNAPSHOT.41",
     "action": "enable"
   },
   {
