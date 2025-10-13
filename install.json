@@ -254,7 +254,7 @@
   "id" : "mod-finance-5.2.0-SNAPSHOT.303",
   "action" : "enable"
 }, {
-  "id" : "mod-source-record-manager-4.0.0-SNAPSHOT.1044",
+  "id" : "mod-source-record-manager-4.0.0-SNAPSHOT.1045",
   "action" : "enable"
 }, {
   "id" : "mod-entities-links-4.1.0-SNAPSHOT.356",
@@ -446,7 +446,7 @@
   "id" : "folio_invoice-8.0.1099000000000355",
   "action" : "enable"
 }, {
-  "id" : "folio_orders-9.0.1099000000000630",
+  "id" : "folio_orders-9.0.1099000000000633",
   "action" : "enable"
 }, {
   "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.842",
