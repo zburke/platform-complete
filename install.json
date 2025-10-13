@@ -260,7 +260,7 @@
   "id" : "mod-entities-links-4.1.0-SNAPSHOT.356",
   "action" : "enable"
 }, {
-  "id" : "mod-search-6.0.0-SNAPSHOT.741",
+  "id" : "mod-search-6.0.0-SNAPSHOT.743",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-instance-9.1.1099000000000121",
@@ -281,7 +281,7 @@
   "id" : "folio_stripes-marc-components-2.0.109900000000173",
   "action" : "enable"
 }, {
-  "id" : "mod-quick-marc-8.0.0-SNAPSHOT.343",
+  "id" : "mod-quick-marc-8.0.0-SNAPSHOT.344",
   "action" : "enable"
 }, {
   "id" : "folio_marc-authorities-8.0.1099000000001092",
@@ -449,7 +449,7 @@
   "id" : "folio_orders-9.0.1099000000000627",
   "action" : "enable"
 }, {
-  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.841",
+  "id" : "mod-fqm-manager-4.1.0-SNAPSHOT.842",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-query-builder-3.0.1099000000001046",
