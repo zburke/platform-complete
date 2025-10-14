@@ -116,7 +116,23 @@
     "action": "enable"
   },
   {
+    "id": "mod-source-record-manager-4.0.0-SNAPSHOT.1048",
+    "action": "enable"
+  },
+  {
+    "id": "mod-entities-links-4.1.0-SNAPSHOT.357",
+    "action": "enable"
+  },
+  {
+    "id": "mod-search-6.0.0-SNAPSHOT.747",
+    "action": "enable"
+  },
+  {
     "id": "mod-password-validator-3.5.0-SNAPSHOT.99",
+    "action": "enable"
+  },
+  {
+    "id": "mod-quick-marc-8.0.0-SNAPSHOT.344",
     "action": "enable"
   },
   {
@@ -133,6 +149,10 @@
   },
   {
     "id": "mod-agreements-7.3.0-SNAPSHOT.810",
+    "action": "enable"
+  },
+  {
+    "id": "mod-data-import-3.4.0-SNAPSHOT.336",
     "action": "enable"
   },
   {
@@ -176,18 +196,6 @@
     "action": "enable"
   },
   {
-    "id": "mod-source-record-manager-4.0.0-SNAPSHOT.1045",
-    "action": "enable"
-  },
-  {
-    "id": "mod-entities-links-4.1.0-SNAPSHOT.357",
-    "action": "enable"
-  },
-  {
-    "id": "mod-search-6.0.0-SNAPSHOT.747",
-    "action": "enable"
-  },
-  {
     "id": "mod-inventory-21.2.0-SNAPSHOT.906",
     "action": "enable"
   },
@@ -196,15 +204,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-quick-marc-8.0.0-SNAPSHOT.344",
-    "action": "enable"
-  },
-  {
     "id": "mod-data-export-5.3.0-SNAPSHOT.480",
-    "action": "enable"
-  },
-  {
-    "id": "mod-data-import-3.4.0-SNAPSHOT.336",
     "action": "enable"
   },
   {
@@ -292,7 +292,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-fqm-manager-4.1.0-SNAPSHOT.844",
+    "id": "mod-fqm-manager-4.1.0-SNAPSHOT.845",
     "action": "enable"
   },
   {
