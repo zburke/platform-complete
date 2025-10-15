@@ -392,7 +392,7 @@
   "id" : "folio_inn-reach-6.1.1099000000000139",
   "action" : "enable"
 }, {
-  "id" : "mod-orders-13.1.0-SNAPSHOT.1079",
+  "id" : "mod-orders-13.1.0-SNAPSHOT.1080",
   "action" : "enable"
 }, {
   "id" : "folio_acquisition-units-6.0.10990000000054",
@@ -443,7 +443,7 @@
   "id" : "folio_finance-9.0.1099000000000440",
   "action" : "enable"
 }, {
-  "id" : "folio_invoice-8.0.1099000000000355",
+  "id" : "folio_invoice-8.0.1099000000000360",
   "action" : "enable"
 }, {
   "id" : "folio_orders-9.0.1099000000000633",
