@@ -1645,9 +1645,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/inventory@>=1.4.0":
-  version "14.0.1099000000001337"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/inventory/-/inventory-14.0.1099000000001337.tgz#284724ab15152b91fce9726358f7757199db5be3"
-  integrity sha512-FxvNfHnm8oUppVM6m9c09CaY/0k1MP/Uj2iNsaLCp/m/12mUV92suWgfw6HFBiFqMh6Fu/g4OWA+Ov+M6ebpuQ==
+  version "14.0.1099000000001341"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/inventory/-/inventory-14.0.1099000000001341.tgz#7d87bb633957cfda29a17caec0633e99b65f2de7"
+  integrity sha512-GNPXA7+KHyQxHNalLTilHoEXosOL0gJBuTA5JPS12eq8gOVmkXH4w1a1Ns1/hlvsRtJ2TT2aHLKMdZ5FFlO9OQ==
   dependencies:
     "@dnd-kit/core" "^6.3.1"
     "@dnd-kit/modifiers" "^9.0.0"
