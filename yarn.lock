@@ -1353,9 +1353,9 @@
     utility-types "^3.10.0"
 
 "@folio/checkin@>=1.3.0":
-  version "12.0.1099000000000227"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/checkin/-/checkin-12.0.1099000000000227.tgz#c4686276c656eaab3495ffcc1204738713570164"
-  integrity sha512-wRkYn6JaWaj4cyYb95eLQuiEM1oEKXkBJHnmaE09qWvyasQ3MzOEKItWronK5bp86qN5hi9gvQFOQ2yr3V5X8w==
+  version "12.0.1099000000000231"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/checkin/-/checkin-12.0.1099000000000231.tgz#aa6ab05482be8c3f3d0dd7357727ff2631009c73"
+  integrity sha512-afhsFqcirHX4G8h4Sk5SmXEzracv35dLF6Rbqmz1Rz1TqMwVR8gETqqeRH8JHmHDYJql9wNWhrK0iSf5+WAC9w==
   dependencies:
     dateformat "^2.0.0"
     dompurify "^3.0.9"
@@ -1370,9 +1370,9 @@
     uuid "^9.0.0"
 
 "@folio/checkout@>=1.3.0":
-  version "13.0.1099000000000185"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/checkout/-/checkout-13.0.1099000000000185.tgz#5588902a03203dc0032503cb084adc6ea3099f61"
-  integrity sha512-C0Mo4hQEaCJIn895EKRvQvORTDIX+HKB3LMjqdQxyxe5kbcEN5JDnuKEFaSOfLczeiHZfFzH3XxxYdnWKF5Ytw==
+  version "13.0.1099000000000188"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/checkout/-/checkout-13.0.1099000000000188.tgz#5cb01f603ca99c69af1f6af7cd0ae1dc9742a5f5"
+  integrity sha512-bwx96uCOaqEfLO9WkLIdtZg8leHY+jsTiqiHqUzvrezbaz3YIOIs9RqsOF+kYCciTVvBoFEbjDjnAwAXaClitQ==
   dependencies:
     final-form "^4.19.1"
     inactivity-timer "^1.0.0"
@@ -2193,9 +2193,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/requests@>=1.4.1":
-  version "13.0.1099000000000316"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/requests/-/requests-13.0.1099000000000316.tgz#cb7c0d6e551904e4ecd56a525997688d4e86a0c4"
-  integrity sha512-av87LqQfYHB7h7vXlc0Ry0K+aS66DG+srBfa9MRnFzSCMcK+LrhtQVYPi77vh70b5k5hgyDa6UKP0hkx8bcDNw==
+  version "13.0.1099000000000324"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/requests/-/requests-13.0.1099000000000324.tgz#4646c766faeaae5b7c04883aa746d21b440ff6d3"
+  integrity sha512-RJo1N505RCtNeRIgATIBhvlSq+W/2MIrhTxDz5YIFIHYUjRBI++hYvsxfak1MF+J2Yq/csVFztTl1qpxZD4fLw==
   dependencies:
     dompurify "^3.0.9"
     final-form "^4.20.7"
@@ -2759,9 +2759,9 @@
     redux-form "^8.0.0"
 
 "@folio/users@>=2.17.0":
-  version "13.0.1099000000000894"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.1099000000000894.tgz#910069a5748f18629eb7eeef54040f35baf82352"
-  integrity sha512-355lu55eCl26RTWcaeeVxVAS+1sFeTxq0SOqBFcyQveScvIXhu8FJ43IBI2DMxDgvs4ml7iLdB2ojNR4xPrYLg==
+  version "13.0.1099000000000899"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/users/-/users-13.0.1099000000000899.tgz#7e6eecdb284fa67c9293fcfb14e8da5e34c325e2"
+  integrity sha512-CoiGl7JTMl1YJxG4qxCc741Gt0Lgty65UwrSyu7gQoIwi46Whbh0ynu8kR0PZr3ddxCYYZFG4fgARE72rmPbnA==
   dependencies:
     "@folio/stripes-util" "^7.0.0"
     compressorjs "^1.2.1"
