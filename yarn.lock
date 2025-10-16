@@ -2294,9 +2294,9 @@
     redux-form "^8.3.0"
 
 "@folio/stripes-authority-components@>=2.0.0":
-  version "6.1.1099000000000156"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-authority-components/-/stripes-authority-components-6.1.1099000000000156.tgz#a9383879fddee2391b1e7b29c6779668f0de2a26"
-  integrity sha512-yIWNEhADfn2BLC2fubvhtOR9M/+zLnqEejLBRf14Ssjn3fY0F5AVSCxw+pfkXBqKh5hjA9UbihsYPmEd9AZLuw==
+  version "6.1.1099000000000162"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-authority-components/-/stripes-authority-components-6.1.1099000000000162.tgz#b7e5498c48c867140188f1e0c56454f8958a646f"
+  integrity sha512-3svWflLmm7JeQqnBXfm1hnD50Iqc5rXEKAD1vKkSzlZrwFDiFe3YvNx0pbVdfZufm6d/09YPYJgY4SsFhnIwdQ==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     "@rehooks/local-storage" "^2.4.4"
