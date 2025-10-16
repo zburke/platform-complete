@@ -1291,11 +1291,11 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/agreements@>=2.0.0":
-  version "12.1.1099000000001434"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/agreements/-/agreements-12.1.1099000000001434.tgz#25462d6c4184734036cdc83df07ef4a3e22779f2"
-  integrity sha512-8t0wKiWQhyhZ4kdLXixiyY3MkjPTNw1mpm0oF4MEY2M9U7i6xIQe22krOeOUgU0xtcK7VKU/4lqDDnPlzoeaVA==
+  version "12.1.1099000000001437"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/agreements/-/agreements-12.1.1099000000001437.tgz#6fcf8254c27d67a49390fb3fb97605112f27af7f"
+  integrity sha512-XkuJXl7UYjGfTGQOY8TQdjcfc28O1S4Mpm9qFf8C88PcfBG8DwlrP/VOMAolc2U4mZUqB0nNqm4rJfCN6nQt1A==
   dependencies:
-    "@k-int/stripes-kint-components" "^5.15.0"
+    "@k-int/stripes-kint-components" "^5.26.0"
     "@rehooks/local-storage" "^2.4.4"
     compose-function "^3.0.3"
     final-form "^4.18.4"
@@ -1313,9 +1313,9 @@
     zustand "^5.0.0"
 
 "@folio/bulk-edit@>=1.0.0":
-  version "5.0.1099000000000896"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/bulk-edit/-/bulk-edit-5.0.1099000000000896.tgz#5f79f231339a5d143770e300e0e665965a1c67ac"
-  integrity sha512-t19ZtoWoa/Y+ef1FzfdCjbIlu5qyrK/WV6GvbeSyiWhsBKNStRmADg56h1Yl9yzeiPo8zvn37mD/Cb/XHl7O3A==
+  version "5.0.1099000000000899"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/bulk-edit/-/bulk-edit-5.0.1099000000000899.tgz#22c39aa5777bc6efc867f982265c8b0ec9700999"
+  integrity sha512-oB65nGBNM4omuOqpIJxntawMq/bKuGhuqo0YlEs40SClzB7LgRBDB4gIySJtWt3MQAV3N2n3EJP4WJo/Tl/NvA==
   dependencies:
     "@folio/plugin-query-builder" "^3.0.0"
     "@folio/stripes-acq-components" "^7.0.0"
@@ -2576,9 +2576,9 @@
     prop-types "^15.7.2"
 
 "@folio/stripes-smart-components@^10.0.0":
-  version "10.1.1099000000000603"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-smart-components/-/stripes-smart-components-10.1.1099000000000603.tgz#f13e0e3a00ab02e402b199f32c5805925c1c435c"
-  integrity sha512-CsORDit9a2aTm5f2GgzaqHoaGpLRvC2yZyaKK+i1NxpmJSXFlx4KLCh06seIRusnC3IJqZThJEuPpoWq3TMQwQ==
+  version "10.1.1099000000000609"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-smart-components/-/stripes-smart-components-10.1.1099000000000609.tgz#7a5653d36b8ff64eb4d95f977640f61631af0537"
+  integrity sha512-YqGJGZc62x4y3V+X8rPiLrMSanmnUYZxrw8zj8Bh7cYiwfgtLzI/vyb708SPS27JgTxD+Fhgu7HRCmdvUwQLeg==
   dependencies:
     "@rehooks/local-storage" "2.4.4"
     classnames "^2.2.6"
@@ -3013,7 +3013,7 @@
   resolved "https://repository.folio.org/repository/npm-ci-all/@jsep-plugin/regex/-/regex-1.0.4.tgz#cb2fc423220fa71c609323b9ba7f7d344a755fcc"
   integrity sha512-q7qL4Mgjs1vByCaTnDFcBnV9HS7GVPJX5vyVoCgZHNSC9rjwIlmbXG5sUuorR5ndfHAIlJ8pVStxvjXHbNvtUg==
 
-"@k-int/stripes-kint-components@^5.11.0", "@k-int/stripes-kint-components@^5.15.0", "@k-int/stripes-kint-components@^5.19.1":
+"@k-int/stripes-kint-components@^5.11.0", "@k-int/stripes-kint-components@^5.15.0", "@k-int/stripes-kint-components@^5.19.1", "@k-int/stripes-kint-components@^5.26.0":
   version "5.26.0"
   resolved "https://repository.folio.org/repository/npm-ci-all/@k-int/stripes-kint-components/-/stripes-kint-components-5.26.0.tgz#236c31bfd518fc8c821e0a588d287f69daeba68e"
   integrity sha512-7LtKKr+UPDSzz4XOBl2NZugnb4M1KCy6ETBQTd2gXwySSevdAdjzD4oFkwESX7NxrVXTsOmwOG9VOEMv1XyIZQ==
