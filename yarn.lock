@@ -2087,9 +2087,9 @@
     prop-types "^15.6.0"
 
 "@folio/plugin-query-builder@>=1.0.0", "@folio/plugin-query-builder@^3.0.0":
-  version "3.0.1099000000001053"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-query-builder/-/plugin-query-builder-3.0.1099000000001053.tgz#3a51b12f73c1c7fe930c44d24e958486d3ee9d29"
-  integrity sha512-FoW9wyZEOc1MjCapshjkr3IH5PvWCCX0ZGPJMLmM4Doq+kvJXpGu3A/KdEWSErtCYZb+gIsKOecx961EoHjlLw==
+  version "3.0.1099000000001058"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/plugin-query-builder/-/plugin-query-builder-3.0.1099000000001058.tgz#b4c0de6ccd00ac6b5dd94e7da62c75dd0a9e9f35"
+  integrity sha512-OaKo9UFxKjfNZ2KCmC7w4BrhSwFqeggsF7O2UzAadTveYf5iqH4TiqgZuc4IC8XsuRDDWvV2+6CHlSu+q89oQA==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     classnames "^2.5.1"
