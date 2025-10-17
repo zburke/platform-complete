@@ -101,7 +101,7 @@
   "id" : "folio_myprofile-11.0.109900000000131",
   "action" : "enable"
 }, {
-  "id" : "mod-reporting-1.5.0-SNAPSHOT.140",
+  "id" : "mod-reporting-1.5.0-SNAPSHOT.144",
   "action" : "enable"
 }, {
   "id" : "folio_ldp-3.1.2099000000000197",
@@ -206,7 +206,7 @@
   "id" : "folio_serials-management-2.1.109900000000813",
   "action" : "enable"
 }, {
-  "id" : "mod-agreements-7.3.0-SNAPSHOT.810",
+  "id" : "mod-agreements-7.3.0-SNAPSHOT.811",
   "action" : "enable"
 }, {
   "id" : "folio_agreements-12.1.1099000000001460",
@@ -383,7 +383,7 @@
   "id" : "folio_requests-mediated-4.0.1099000000000156",
   "action" : "enable"
 }, {
-  "id" : "mod-tlr-1.2.0-SNAPSHOT.95",
+  "id" : "mod-tlr-1.2.0-SNAPSHOT.96",
   "action" : "enable"
 }, {
   "id" : "mod-inn-reach-3.5.0-SNAPSHOT.424",
