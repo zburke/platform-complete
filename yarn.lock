@@ -1313,9 +1313,9 @@
     zustand "^5.0.0"
 
 "@folio/bulk-edit@>=1.0.0":
-  version "5.0.1099000000000899"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/bulk-edit/-/bulk-edit-5.0.1099000000000899.tgz#22c39aa5777bc6efc867f982265c8b0ec9700999"
-  integrity sha512-oB65nGBNM4omuOqpIJxntawMq/bKuGhuqo0YlEs40SClzB7LgRBDB4gIySJtWt3MQAV3N2n3EJP4WJo/Tl/NvA==
+  version "5.0.1099000000000904"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/bulk-edit/-/bulk-edit-5.0.1099000000000904.tgz#49ae64c7e16eb866d19914e4e26c2ad165b4ef81"
+  integrity sha512-e1Bw12gpUy3p9T8Bk5H4wcyXfr8wCo6hsvLlEPXhrX6zDjV2A+dsV12zqAXfIJGL/KKMoSxJqwJDOZtNdAV04w==
   dependencies:
     "@folio/plugin-query-builder" "^3.0.0"
     "@folio/stripes-acq-components" "^7.0.0"
