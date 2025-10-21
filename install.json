@@ -206,7 +206,7 @@
   "id" : "folio_serials-management-2.1.109900000000813",
   "action" : "enable"
 }, {
-  "id" : "mod-agreements-7.3.0-SNAPSHOT.812",
+  "id" : "mod-agreements-7.3.0-SNAPSHOT.813",
   "action" : "enable"
 }, {
   "id" : "folio_agreements-12.1.1099000000001476",
@@ -389,10 +389,10 @@
   "id" : "mod-inn-reach-3.5.0-SNAPSHOT.424",
   "action" : "enable"
 }, {
-  "id" : "folio_inn-reach-6.1.1099000000000139",
+  "id" : "folio_inn-reach-6.1.1099000000000150",
   "action" : "enable"
 }, {
-  "id" : "mod-orders-13.1.0-SNAPSHOT.1082",
+  "id" : "mod-orders-13.1.0-SNAPSHOT.1083",
   "action" : "enable"
 }, {
   "id" : "folio_acquisition-units-6.0.10990000000054",
