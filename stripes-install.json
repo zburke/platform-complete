@@ -4,7 +4,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_agreements-12.1.1099000000001460",
+    "id": "folio_agreements-12.1.1099000000001476",
     "action": "enable"
   },
   {
@@ -88,7 +88,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_inventory-14.0.1099000000001345",
+    "id": "folio_inventory-14.0.1099000000001348",
     "action": "enable"
   },
   {
@@ -212,11 +212,11 @@
     "action": "enable"
   },
   {
-    "id": "folio_plugin-query-builder-3.0.1099000000001058",
+    "id": "folio_plugin-query-builder-3.0.1099000000001067",
     "action": "enable"
   },
   {
-    "id": "folio_quick-marc-10.1.1099000000000420",
+    "id": "folio_quick-marc-10.1.1099000000000425",
     "action": "enable"
   },
   {
@@ -280,7 +280,7 @@
     "action": "enable"
   },
   {
-    "id": "folio_users-13.0.1099000000000899",
+    "id": "folio_users-13.0.1099000000000909",
     "action": "enable"
   },
   {
