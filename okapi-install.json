@@ -12,7 +12,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-record-specifications-2.1.0-SNAPSHOT.117",
+    "id": "mod-record-specifications-2.1.0-SNAPSHOT.118",
     "action": "enable"
   },
   {
@@ -44,7 +44,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-source-record-storage-5.11.0-SNAPSHOT.706",
+    "id": "mod-source-record-storage-5.11.0-SNAPSHOT.707",
     "action": "enable"
   },
   {
@@ -112,7 +112,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-notes-7.1.0-SNAPSHOT.296",
+    "id": "mod-notes-7.1.0-SNAPSHOT.297",
     "action": "enable"
   },
   {
@@ -120,11 +120,11 @@
     "action": "enable"
   },
   {
-    "id": "mod-entities-links-4.1.0-SNAPSHOT.357",
+    "id": "mod-entities-links-4.1.0-SNAPSHOT.358",
     "action": "enable"
   },
   {
-    "id": "mod-search-6.0.0-SNAPSHOT.747",
+    "id": "mod-search-6.0.0-SNAPSHOT.749",
     "action": "enable"
   },
   {
@@ -136,7 +136,7 @@
     "action": "enable"
   },
   {
-    "id": "mod-kb-ebsco-java-6.1.0-SNAPSHOT.479",
+    "id": "mod-kb-ebsco-java-6.1.0-SNAPSHOT.480",
     "action": "enable"
   },
   {
