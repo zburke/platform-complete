@@ -2496,9 +2496,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/stripes-erm-components@>=9.0.0":
-  version "10.1.1099000000000339"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-erm-components/-/stripes-erm-components-10.1.1099000000000339.tgz#da9ac13b0abaf03610c6df45acde376221005ae6"
-  integrity sha512-ttCHHIYJtl4/8o8RTdUu17Jbm1RGoarmVGwfrYnb9NyMOvRBw9H1pF2nfYf8jXq8YIKkYDA0GQUrYQNixSt3Og==
+  version "10.1.1099000000000358"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-erm-components/-/stripes-erm-components-10.1.1099000000000358.tgz#cc0ef2ebacd24e6a73021787def1ab227ffc979b"
+  integrity sha512-ZmvJjSnWG/j6LOeJOgBr8kzaNh3Ij4gdvZOkZOvU/yDjDrBN6MX8Yo03+Ze8xUHGvNy8mA3qhXnIuMaNVvZL6A==
   dependencies:
     "@k-int/stripes-kint-components" "^5.19.1"
     dayjs "^1.11.13"
@@ -3979,9 +3979,9 @@ balanced-match@^1.0.0:
   integrity sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw==
 
 bare-events@^2.5.4, bare-events@^2.7.0:
-  version "2.8.0"
-  resolved "https://repository.folio.org/repository/npm-ci-all/bare-events/-/bare-events-2.8.0.tgz#ec962fa9e2bfafd4edd444942df1ed0c7aba8e4a"
-  integrity sha512-AOhh6Bg5QmFIXdViHbMc2tLDsBIRxdkIaIddPslJF9Z5De3APBScuqGP2uThXnIpqFrgoxMNC6km7uXNIMLHXA==
+  version "2.8.1"
+  resolved "https://repository.folio.org/repository/npm-ci-all/bare-events/-/bare-events-2.8.1.tgz#121afaeee9e9a8eb92e71d125bc85753d39913d0"
+  integrity sha512-oxSAxTS1hRfnyit2CL5QpAOS5ixfBjj6ex3yTNvXyY/kE719jQ/IjuESJBK2w5v4wwQRAHGseVJXx9QBYOtFGQ==
 
 bare-fs@^4.0.1:
   version "4.4.11"
