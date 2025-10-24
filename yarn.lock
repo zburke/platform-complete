@@ -3014,9 +3014,9 @@
   integrity sha512-q7qL4Mgjs1vByCaTnDFcBnV9HS7GVPJX5vyVoCgZHNSC9rjwIlmbXG5sUuorR5ndfHAIlJ8pVStxvjXHbNvtUg==
 
 "@k-int/stripes-kint-components@^5.11.0", "@k-int/stripes-kint-components@^5.15.0", "@k-int/stripes-kint-components@^5.19.1", "@k-int/stripes-kint-components@^5.27.0":
-  version "5.27.0"
-  resolved "https://repository.folio.org/repository/npm-ci-all/@k-int/stripes-kint-components/-/stripes-kint-components-5.27.0.tgz#04f69728ae25f87d2debb8ade16031c3ed9086e0"
-  integrity sha512-HnYABmM7TVklHZcnZxO/SDDSpP20LrRr87WwWQyX6a9tXshorjEGrMDGyBzHbjqvJLEYiDo7SIeG4JxywIUKUg==
+  version "5.28.0"
+  resolved "https://repository.folio.org/repository/npm-ci-all/@k-int/stripes-kint-components/-/stripes-kint-components-5.28.0.tgz#efd621e72ee3c5ae1a940574cef72c2d172e3173"
+  integrity sha512-97kU3vF43mERFDR/bOPIv9VCTChu1qndggnvOtzdUYKiMu9DREQG9UC2wKvGvrJYpgU9eEG4T/1eXW8LPqyw8w==
   dependencies:
     "@rehooks/local-storage" "^2.4.4"
     compose-function "^3.0.3"
