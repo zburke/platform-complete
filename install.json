@@ -83,7 +83,7 @@
   "id" : "mod-copycat-1.8.1-SNAPSHOT.109",
   "action" : "enable"
 }, {
-  "id" : "mod-users-19.6.0-SNAPSHOT.367",
+  "id" : "mod-users-19.6.0-SNAPSHOT.368",
   "action" : "enable"
 }, {
   "id" : "mod-authtoken-2.18.0-SNAPSHOT.166",
@@ -227,7 +227,7 @@
   "id" : "mod-data-import-3.4.0-SNAPSHOT.336",
   "action" : "enable"
 }, {
-  "id" : "folio_data-import-9.0.1099000000000180",
+  "id" : "folio_data-import-9.0.1099000000000184",
   "action" : "enable"
 }, {
   "id" : "folio_plugin-find-import-profile-9.0.10990000000053",

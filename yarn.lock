@@ -1479,9 +1479,9 @@
     react-window "^1.8.5"
 
 "@folio/data-import@>=0.0.0", "@folio/data-import@^9.0.0":
-  version "9.0.1099000000000180"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/data-import/-/data-import-9.0.1099000000000180.tgz#ef58a6d290a04c7225d2996c7f1a7cab1498f77e"
-  integrity sha512-RP+eMCnFMGO63XuzbgYPQWJ8yi2VzMgPTf7h2GNuSLtT5E2t0xwlHP/9FjgpysHVr9pxHhhsCN7G4Pj6UIPBRg==
+  version "9.0.1099000000000184"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/data-import/-/data-import-9.0.1099000000000184.tgz#b27448a0ebd39e61c4645c29e78bae90f67ed77a"
+  integrity sha512-r0kbDPND7qj/0BjBA4SLQlbXYeutpJ6NVOl/QXCbsizDxgLlpfAiOMfAh1rzaYIzMz3AAcqMoxP566CMDas4RQ==
   dependencies:
     "@folio/stripes-acq-components" "^7.0.0"
     "@folio/stripes-data-transfer-components" "^7.0.0"
