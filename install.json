@@ -209,7 +209,7 @@
   "id" : "mod-agreements-7.3.0-SNAPSHOT.814",
   "action" : "enable"
 }, {
-  "id" : "folio_agreements-12.1.1099000000001508",
+  "id" : "folio_agreements-12.1.1099000000001511",
   "action" : "enable"
 }, {
   "id" : "folio_erm-comparisons-8.1.109900000000135",
@@ -431,7 +431,7 @@
   "id" : "folio_mosaic-settings-1.0.1099000000000091",
   "action" : "enable"
 }, {
-  "id" : "mod-rtac-3.9.0-SNAPSHOT.116",
+  "id" : "mod-rtac-3.9.0-SNAPSHOT.117",
   "action" : "enable"
 }, {
   "id" : "edge-rtac-2.10.0-SNAPSHOT.114",
