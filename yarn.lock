@@ -1645,9 +1645,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/inventory@>=1.4.0":
-  version "14.0.1099000000001372"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/inventory/-/inventory-14.0.1099000000001372.tgz#758dbb55ac6fb24ce3b60d977673313c9dd8bfaa"
-  integrity sha512-MkgvtVuD+grdUkkdgDKbas71As9aAmsqxXtGhijzmVazstascpcSAYFcjDKdG0jRHCYq7xG1zyKA8Dstiq9GWA==
+  version "14.0.1099000000001375"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/inventory/-/inventory-14.0.1099000000001375.tgz#a4e00c8fb8b587d71d52f6212e224834b3033cd5"
+  integrity sha512-CSIRVbt2HfNUG8VHwvDWhrXIRtV5k6KPX/X/mAQ7z2v06dDEBt3Psc8r1+3s1Y6VWG87xDbTLtAVu6yP2SCQbw==
   dependencies:
     "@dnd-kit/core" "^6.3.1"
     "@dnd-kit/modifiers" "^9.0.0"
@@ -2496,9 +2496,9 @@
     "@folio/plugin-find-user" "^8.0.0"
 
 "@folio/stripes-erm-components@>=9.0.0":
-  version "10.1.1099000000000358"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-erm-components/-/stripes-erm-components-10.1.1099000000000358.tgz#cc0ef2ebacd24e6a73021787def1ab227ffc979b"
-  integrity sha512-ZmvJjSnWG/j6LOeJOgBr8kzaNh3Ij4gdvZOkZOvU/yDjDrBN6MX8Yo03+Ze8xUHGvNy8mA3qhXnIuMaNVvZL6A==
+  version "10.1.1099000000000361"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-erm-components/-/stripes-erm-components-10.1.1099000000000361.tgz#3242c4827e304ee38e9d876e9d78e7719e8e1bcf"
+  integrity sha512-EbB7mm2fWgpbxMPHXGjJRaMzzntAUUmZlmK7xo4XdHJ+OvxzQdxtZzGn7nzamQJ/zKSW1Gnzp/O28WJzUmdIuQ==
   dependencies:
     "@k-int/stripes-kint-components" "^5.19.1"
     dayjs "^1.11.13"
@@ -2656,9 +2656,9 @@
     query-string "^7.1.2"
 
 "@folio/stripes-webpack@^6.0.0", "@folio/stripes-webpack@^6.0.1":
-  version "6.1.109900000000100"
-  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-webpack/-/stripes-webpack-6.1.109900000000100.tgz#54246a6fad4766ae49f5f53cbd425b677261ad5b"
-  integrity sha512-m9WIShw0N+CdNhGkPU0YC16is3sipG3b1mwSiiW8n/uXMP+sgvW8NJpGrUTtkEJsYrDMo5NBibX2e2TNABDvBA==
+  version "6.1.1099000000000108"
+  resolved "https://repository.folio.org/repository/npm-folioci/@folio/stripes-webpack/-/stripes-webpack-6.1.1099000000000108.tgz#adde4b7abd30db156b96c291351b61c2e3d4478c"
+  integrity sha512-/k8roR3RGAQjF5kP/MsQvreZTaArHfD+xW1hV/UDirsMGTc37Q7iUv7ZcNKgpJJl7lANsmPKh+1McZsx8xzlOA==
   dependencies:
     "@babel/core" "^7.9.0"
     "@babel/plugin-proposal-decorators" "^7.0.0"
@@ -2715,6 +2715,7 @@
     ts-loader "^9.4.1"
     typescript "^5.3.3"
     util-ex "^0.3.15"
+    validate-npm-package-name "^6.0.2"
     webpack-dev-middleware "^5.2.1"
     webpack-hot-middleware "^2.25.1"
     webpack-remove-empty-scripts "^1.0.1"
@@ -10480,6 +10481,11 @@ uuid@^9.0.0:
   version "9.0.1"
   resolved "https://repository.folio.org/repository/npm-ci-all/uuid/-/uuid-9.0.1.tgz#e188d4c8853cc722220392c424cd637f32293f30"
   integrity sha512-b+1eJOlsR9K8HJpow9Ok3fiWOWSIcIzXodvv0rQjVoOVNpWMpxf1wZNpt4y9h10odCNrqnYp1OBzRktckBe3sA==
+
+validate-npm-package-name@^6.0.2:
+  version "6.0.2"
+  resolved "https://repository.folio.org/repository/npm-ci-all/validate-npm-package-name/-/validate-npm-package-name-6.0.2.tgz#4e8d2c4d939975a73dd1b7a65e8f08d44c85df96"
+  integrity sha512-IUoow1YUtvoBBC06dXs8bR8B9vuA3aJfmQNKMoaPG/OFsPmoQvw8xh+6Ye25Gx9DQhoEom3Pcu9MKHerm/NpUQ==
 
 validator@^13.11.0, validator@^13.9.0:
   version "13.15.20"
