@@ -5955,11 +5955,11 @@ flexboxgrid2@^7.2.0:
     normalize.css "^7.0.0"
 
 focus-trap@^7.5.4:
-  version "7.6.5"
-  resolved "https://repository.folio.org/repository/npm-ci-all/focus-trap/-/focus-trap-7.6.5.tgz#56f0814286d43c1a2688e9bc4f31f17ae047fb76"
-  integrity sha512-7Ke1jyybbbPZyZXFxEftUtxFGLMpE2n6A+z//m4CRDlj0hW+o3iYSmh8nFlYMurOiJVDmJRilUQtJr08KfIxlg==
+  version "7.6.6"
+  resolved "https://repository.folio.org/repository/npm-ci-all/focus-trap/-/focus-trap-7.6.6.tgz#a255c1088ddc8cd4363b3023bf28b224fd38aff2"
+  integrity sha512-v/Z8bvMCajtx4mEXmOo7QEsIzlIOqRXTIwgUfsFOF9gEsespdbD0AkPIka1bSXZ8Y8oZ+2IVDQZePkTfEHZl7Q==
   dependencies:
-    tabbable "^6.2.0"
+    tabbable "^6.3.0"
 
 follow-redirects@^1.0.0:
   version "1.15.11"
@@ -9963,7 +9963,7 @@ symbol-observable@^4.0.0:
   resolved "https://repository.folio.org/repository/npm-ci-all/symbol-observable/-/symbol-observable-4.0.0.tgz#5b425f192279e87f2f9b937ac8540d1984b39205"
   integrity sha512-b19dMThMV4HVFynSAM1++gBHAbk2Tc/osgLIBZMKsyqh34jb2e8Os7T6ZW/Bt3pJFdBTd2JwAnAAEQV7rSNvcQ==
 
-tabbable@^6.2.0:
+tabbable@^6.3.0:
   version "6.3.0"
   resolved "https://repository.folio.org/repository/npm-ci-all/tabbable/-/tabbable-6.3.0.tgz#2e0e6163935387cdeacd44e9334616ca0115a8d3"
   integrity sha512-EIHvdY5bPLuWForiR/AN2Bxngzpuwn1is4asboytXtpTgsArc+WmSJKVLlhdh71u7jFcryDqB2A8lQvj78MkyQ==
