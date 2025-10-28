@@ -56,7 +56,7 @@
   "id" : "folio_service-interaction-4.1.109900000000243",
   "action" : "enable"
 }, {
-  "id" : "mod-calendar-3.4.0-SNAPSHOT.188",
+  "id" : "mod-calendar-3.4.0-SNAPSHOT.189",
   "action" : "enable"
 }, {
   "id" : "mod-organizations-storage-5.0.0-SNAPSHOT.132",
@@ -188,7 +188,7 @@
   "id" : "folio_stripes-smart-components-10.1.1099000000000612",
   "action" : "enable"
 }, {
-  "id" : "mod-quick-marc-8.0.0-SNAPSHOT.345",
+  "id" : "mod-quick-marc-8.0.0-SNAPSHOT.346",
   "action" : "enable"
 }, {
   "id" : "mod-kb-ebsco-java-6.1.0-SNAPSHOT.480",
@@ -350,7 +350,7 @@
   "id" : "folio_plugin-create-inventory-records-7.0.1099000000000095",
   "action" : "enable"
 }, {
-  "id" : "folio_requests-13.0.1099000000000324",
+  "id" : "folio_requests-13.0.1099000000000331",
   "action" : "enable"
 }, {
   "id" : "edge-sip2-3.5.0-SNAPSHOT.204",
